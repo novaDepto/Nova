@@ -6,3 +6,11 @@ Aquí podras encontrar la documentación correspondiente a procesos, políticas,
 
 [PugSeal](https://github.com/novaDepto/PugSeal)
 ***
+## Información General
+Nova
+Mision
+Vision
+Valores
+## Roles
+## Políticas
+## Procesos
