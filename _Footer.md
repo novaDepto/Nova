@@ -1,1 +1,0 @@
-![](https://raw.githubusercontent.com/novaDepto/Nova/master/NOVA_footer.jpg)
