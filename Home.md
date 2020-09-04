@@ -23,6 +23,8 @@ Valores
 
 ***
 
+## Guías
 ## Políticas
-## Roles
 ## Procesos
+## Comité de ética
+## Roles
