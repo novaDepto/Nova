@@ -95,5 +95,6 @@ Como miembro me comprometo a:
 **7.1.** Mantenerme informado de cualquier cambio o mejora al código de ética. Así como participar activamente en el mejoramiento del mismo, a través de propuestas de mejora en cada una de las secciones.
 
 **Referencias**
+
 ACM (2020) Código de Ética y Conducta Profesional de ACM. Recuperado el 22 de agosto de 2020 de: https://www.acm.org/about-acm/code-of-ethics-in-spanish
 
