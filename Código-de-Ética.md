@@ -4,39 +4,39 @@ El presente documento tiene el objetivo de establecer las normas éticas, de con
 
 ## Sección 1  - Sana convivencia entre personas
 
-Como miembro me comprometo a:
+1. Como miembro me comprometo a:
 
-**1.1.** Ser honesto y comunicativo para fomentar la confianza entre los miembros del departamento, socios formadores e involucrados. De esta manera externamos nuestras limitaciones, opiniones, ideas, sentimientos y preocupaciones, además de tener escucha activa,  con el fin de promover la mejora continua de los proyectos y procesos del departamento.
+    1.1. Ser honesto y comunicativo para fomentar la confianza entre los miembros del departamento, socios formadores e involucrados. De esta manera externamos nuestras limitaciones, opiniones, ideas, sentimientos y preocupaciones, además de tener escucha activa,  con el fin de promover la mejora continua de los proyectos y procesos del departamento.
 
-**1.2.** Ser justo en la toma de decisiones para evitar desacuerdos entre miembros y no caer en la discriminación de cualquier tipo. Esto incluye respetar las ideas de los demás y promover la tolerancia.  
+    1.2. Ser justo en la toma de decisiones para evitar desacuerdos entre miembros y no caer en la discriminación de cualquier tipo. Esto incluye respetar las ideas de los demás y promover la tolerancia.  
 
-**1.3.** Evitar el daño físico y moral de los integrantes por medio de acciones, palabras o cualquier otro medio.
+    1.3. Evitar el daño físico y moral de los integrantes por medio de acciones, palabras o cualquier otro medio.
 
-**1.4.** Respetar los tiempos establecidos y acordados para las reuniones departamentales, de cada proyecto, con integrantes y socios formadores.  
+    1.4. Respetar los tiempos establecidos y acordados para las reuniones departamentales, de cada proyecto, con integrantes y socios formadores.  
 
-**1.5.** Participar activamente en las juntas departamentales, con socios formadores y sesiones con asesores, siempre tomando en cuenta la agenda establecida e instrucciones de los moderadores o presentadores.
+    1.5. Participar activamente en las juntas departamentales, con socios formadores y sesiones con asesores, siempre tomando en cuenta la agenda establecida e instrucciones de los moderadores o presentadores.
 
-**1.6.** Ser consciente de los momentos en los cuales debo de escuchar y los momentos en los que tengo la oportunidad de participar. Es decir, no interrumpir a otros mientras están externando sus ideas.
+    1.6. Ser consciente de los momentos en los cuales debo de escuchar y los momentos en los que tengo la oportunidad de participar. Es decir, no interrumpir a otros mientras están externando sus ideas.
  
 ## Sección 2 - Cuidado de la Información
 
-Como miembro me comprometo a:
+2. Como miembro me comprometo a:
 
-**2.1.** Respetar y cuidar de la privacidad de la información personal, del departamento o socios formadores proporcionada por cualquier miembro y que esté presente en cualquiera de los medios de comunicación utilizados entre los integrantes. 
+    2.1. Respetar y cuidar de la privacidad de la información personal, del departamento o socios formadores proporcionada por cualquier miembro y que esté presente en cualquiera de los medios de comunicación utilizados entre los integrantes. 
 
-**2.2.** Respetar, cuidar y no proporcionar a externos la información confidencial proporcionada por los integrantes, el Tecnológico de Monterrey, socios formadores y usuarios de los proyectos que estén siendo o hayan sido realizados por el departamento.
+    2.2. Respetar, cuidar y no proporcionar a externos la información confidencial proporcionada por los integrantes, el Tecnológico de Monterrey, socios formadores y usuarios de los proyectos que estén siendo o hayan sido realizados por el departamento.
 
-**2.3.** No falsificar ningún tipo de dato o información que sea manejada por los integrantes del departamento , socios formadores y en los proyectos que estén siendo o hayan sido realizados por el departamento.
+    2.3. No falsificar ningún tipo de dato o información que sea manejada por los integrantes del departamento , socios formadores y en los proyectos que estén siendo o hayan sido realizados por el departamento.
 
-**2.4.** Respetar la confidencialidad de las juntas personales, uno a uno entre Team Members y Team Leaders, o que se tengan entre miembros del departamento Nova. No difundir por ningún medio lo hablado a menos que los involucrados estén de acuerdo con esto.
+    2.4. Respetar la confidencialidad de las juntas personales, uno a uno entre Team Members y Team Leaders, o que se tengan entre miembros del departamento Nova. No difundir por ningún medio lo hablado a menos que los involucrados estén de acuerdo con esto.
 
 ## Sección 3 - Compromisos profesionales
 
-Como miembro me comprometo a:
+3. Como miembro me comprometo a:
 
-**3.1.** Desarrollar con un alto grado de calidad los procesos y productos del departamento, así como mantenerme consciente de las consecuencias perjudiciales resultantes de no cumplir con este punto.
+    3.1. Desarrollar con un alto grado de calidad los procesos y productos del departamento, así como mantenerme consciente de las consecuencias perjudiciales resultantes de no cumplir con este punto.
 
-**3.2.** Dar la importancia necesaria a revisar el código y documentación producidos por mí y por otros miembros del departamento, para identificar errores, comunicarlos y dar paso a su debida corrección. 
+    3.2. Dar la importancia necesaria a revisar el código y documentación producidos por mí y por otros miembros del departamento, para identificar errores, comunicarlos y dar paso a su debida corrección. 
 
 **3.3.** Medir y evaluar exhaustivamente el correcto funcionamiento e impacto de las soluciones implementadas; incluyendo un análisis de los posibles riesgos.
 
