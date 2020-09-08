@@ -68,7 +68,7 @@ El presente documento tiene el objetivo de establecer las normas éticas, de con
 
     6.1. En caso de que el Comité de Ética reciba un caso de violación al código de ética, los miembros del mismo iniciarán un proceso interno de seguimiento al caso para dictaminar las posibles medidas y consecuencias que serán preescritas a los involucrados.
 	
-    6.1.1. Para enviar una denuncia:
+        6.1.1. Para enviar una denuncia:
 
 **a)** Se debe de instalar la aplicación AnonymityBot en Slack.
 
@@ -80,13 +80,13 @@ _Ejemplo_: /anon #nova-denuncias Mi compañero hace plagio
 
 _Nota: no saldrá la opción del canal, pero sí recibiremos tu denuncia._
 
-    6.1.2. El reporte de caso de violación al código de ética deberá de seguir el formato establecido en la [Guía de Denuncias](https://docs.google.com/document/d/1LhKs8SJBPKI114EX9VXu4flTEqm_Foxudgbyoli9xcA/edit)
+        6.1.2. El reporte de caso de violación al código de ética deberá de seguir el formato establecido en la [Guía de Denuncias](https://docs.google.com/document/d/1LhKs8SJBPKI114EX9VXu4flTEqm_Foxudgbyoli9xcA/edit)
 
-    6.1.3. Al enviar un reporte anónimo recibiremos tu denuncia pero no recibirás ningún seguimiento o confirmación. En caso de incluir tu nombre en el reporte de denuncia te confirmaremos de recibido.
+        6.1.3. Al enviar un reporte anónimo recibiremos tu denuncia pero no recibirás ningún seguimiento o confirmación. En caso de incluir tu nombre en el reporte de denuncia te confirmaremos de recibido.
 
-    6.1.4. Los reportes deberán de ser escritos con un lenguaje respetuoso e incluir evidencias que no dañen o perjudiquen la integridad y reputación de la o las personas involucradas.
+        6.1.4. Los reportes deberán de ser escritos con un lenguaje respetuoso e incluir evidencias que no dañen o perjudiquen la integridad y reputación de la o las personas involucradas.
 
-    6.1.5. En caso de que la denuncia involucre a un miembro del comité, notificar a la asesora: Carolina Rodríguez o enviar un mensaje a otro miembro del comité para darle seguimiento a este caso en específico.
+        6.1.5. En caso de que la denuncia involucre a un miembro del comité, notificar a la asesora: Carolina Rodríguez o enviar un mensaje a otro miembro del comité para darle seguimiento a este caso en específico.
 
 ## Sección 7 - Actualización y Mejoramiento del Código
 
