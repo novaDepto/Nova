@@ -38,37 +38,37 @@ El presente documento tiene el objetivo de establecer las normas éticas, de con
 
     3.2. Dar la importancia necesaria a revisar el código y documentación producidos por mí y por otros miembros del departamento, para identificar errores, comunicarlos y dar paso a su debida corrección. 
 
-**3.3.** Medir y evaluar exhaustivamente el correcto funcionamiento e impacto de las soluciones implementadas; incluyendo un análisis de los posibles riesgos.
+  3.3. Medir y evaluar exhaustivamente el correcto funcionamiento e impacto de las soluciones implementadas; incluyendo un análisis de los posibles riesgos.
 
-**3.4.** Cumplir con las tareas y deberes de mi rol a desempeñar
+  3.4. Cumplir con las tareas y deberes de mi rol a desempeñar
 
 ## Sección 4 - Compromisos sociales
 
-Como miembro me comprometo a:
+4. Como miembro me comprometo a:
 
-**4.1.** Anteponer el bien común sobre cualquier interés individual o personal de tal forma que se alinee con la misión y visión del departamento, así como la ley.
+  4.1. Anteponer el bien común sobre cualquier interés individual o personal de tal forma que se alinee con la misión y visión del departamento, así como la ley.
 
-**4.2.** Mantener en mejora continua mis habilidades profesionales disciplinares, transversales y emocionales.
+  4.2. Mantener en mejora continua mis habilidades profesionales disciplinares, transversales y emocionales.
 
-**4.3.** Ser consciente y respetar los marcos de conducta educativa, éticos y legales a nivel local, federal e internacional.
+  4.3. Ser consciente y respetar los marcos de conducta educativa, éticos y legales a nivel local, federal e internacional.
 
 ## Sección 5 - Cumplimiento del Código
 
-Como miembro me comprometo a: 
+5. Como miembro me comprometo a: 
 
-**5.1.** Haré míos e integraré a mi vida diaria los principios establecidos en este código de ética durante mi participación en el departamento.
+  5.1. Haré míos e integraré a mi vida diaria los principios establecidos en este código de ética durante mi participación en el departamento.
 
-**5.2.** Ser consciente de que al apegarme a este código de ética, podré ser sometido a las medidas y consecuencias resultantes de no respetar los principios establecidos en este código.
+  5.2. Ser consciente de que al apegarme a este código de ética, podré ser sometido a las medidas y consecuencias resultantes de no respetar los principios establecidos en este código.
 
-**5.3.** Velaré por el cumplimiento de este código y en caso de enterarme de una violación al mismo, comunicaré el caso a cualquier miembro del Comité de ética electo por los integrantes del departamento y tendré derecho a que mi denuncia sea anónima.
+  5.3. Velaré por el cumplimiento de este código y en caso de enterarme de una violación al mismo, comunicaré el caso a cualquier miembro del Comité de ética electo por los integrantes del departamento y tendré derecho a que mi denuncia sea anónima.
 
 ## Sección 6 - Medidas y Consecuencias
 
-Como miembro me comprometo a: 
+6. Como miembro me comprometo a: 
 
-**6.1.** En caso de que el Comité de Ética reciba un caso de violación al código de ética, los miembros del mismo iniciarán un proceso interno de seguimiento al caso para dictaminar las posibles medidas y consecuencias que serán preescritas a los involucrados.
+  6.1. En caso de que el Comité de Ética reciba un caso de violación al código de ética, los miembros del mismo iniciarán un proceso interno de seguimiento al caso para dictaminar las posibles medidas y consecuencias que serán preescritas a los involucrados.
 	
-**6.1.1.** Para enviar una denuncia:
+  6.1.1. Para enviar una denuncia:
 
 **a)** Se debe de instalar la aplicación AnonymityBot en Slack.
 
@@ -80,19 +80,19 @@ _Ejemplo_: /anon #nova-denuncias Mi compañero hace plagio
 
 _Nota: no saldrá la opción del canal, pero sí recibiremos tu denuncia._
 
-**6.1.2.** El reporte de caso de violación al código de ética deberá de seguir el formato establecido en la [Guía de Denuncias](https://docs.google.com/document/d/1LhKs8SJBPKI114EX9VXu4flTEqm_Foxudgbyoli9xcA/edit)
+    6.1.2. El reporte de caso de violación al código de ética deberá de seguir el formato establecido en la [Guía de Denuncias](https://docs.google.com/document/d/1LhKs8SJBPKI114EX9VXu4flTEqm_Foxudgbyoli9xcA/edit)
 
-**6.1.3.** Al enviar un reporte anónimo recibiremos tu denuncia pero no recibirás ningún seguimiento o confirmación. En caso de incluir tu nombre en el reporte de denuncia te confirmaremos de recibido.
+    6.1.3. Al enviar un reporte anónimo recibiremos tu denuncia pero no recibirás ningún seguimiento o confirmación. En caso de incluir tu nombre en el reporte de denuncia te confirmaremos de recibido.
 
-**6.1.4.** Los reportes deberán de ser escritos con un lenguaje respetuoso e incluir evidencias que no dañen o perjudiquen la integridad y reputación de la o las personas involucradas.
+    6.1.4. Los reportes deberán de ser escritos con un lenguaje respetuoso e incluir evidencias que no dañen o perjudiquen la integridad y reputación de la o las personas involucradas.
 
-**6.1.5.** En caso de que la denuncia involucre a un miembro del comité, notificar a la asesora: Carolina Rodríguez o enviar un mensaje a otro miembro del comité para darle seguimiento a este caso en específico.
+    6.1.5. En caso de que la denuncia involucre a un miembro del comité, notificar a la asesora: Carolina Rodríguez o enviar un mensaje a otro miembro del comité para darle seguimiento a este caso en específico.
 
 ## Sección 7 - Actualización y Mejoramiento del Código
 
-Como miembro me comprometo a: 
+7. Como miembro me comprometo a: 
 
-**7.1.** Mantenerme informado de cualquier cambio o mejora al código de ética. Así como participar activamente en el mejoramiento del mismo, a través de propuestas de mejora en cada una de las secciones.
+  7.1. Mantenerme informado de cualquier cambio o mejora al código de ética. Así como participar activamente en el mejoramiento del mismo, a través de propuestas de mejora en cada una de las secciones.
 
 **Referencias**
 
