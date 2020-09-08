@@ -27,7 +27,7 @@ Valores
 Con el fin de **simplificar** continious delivery evitamos GitFlow y GitLabFlow. A su vez descartamos flujos arriesgados (aunque contemporáneos) como OneFlow o CactusFlow. Github flow es sencillo y permite desarrollo ágil y constante. Para más info visita la [documentación](https://guides.github.com/introduction/flow/).
 Production se refiere a la rama de producción del sofware en general y master es la que usan los skateholders en términos de github.
 1. Crea una rama a partir de master (lo que esta aquí es siempre desplegable), recuerda usar un **nombre descriptivo** del feature a desarrollar.
-2. Cualquier cambio en la rama debe reportarse con un commit. Los commit serán en inglés siguiendo <verbo en infinitivo> + <lo que se hizo>.
+2. Cualquier cambio en la rama debe reportarse con un commit. Los commit serán en inglés siguiendo <verbo en infinitivo> <lo que se hizo>.
 3. Abres un pull request que permitira que los demás sepan y revisen que cambió. Se pueden abrir muchos issues para dar feedback a quien hizo el pull request.
 4. Se realiza el proceso de retroalimentación y mejora continua en el pull request, se revisa el código hasta que cumpla con las normas de calidad estipuladas.
 5. Despliegas a producción para hacer las últimas pruebas antes de mergear a master. Si tu rama causa problemas puedes hacer roll back desplegando la rama de master a producción.
