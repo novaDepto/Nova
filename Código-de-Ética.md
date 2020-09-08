@@ -36,39 +36,39 @@ El presente documento tiene el objetivo de establecer las normas éticas, de con
 
     3.1. Desarrollar con un alto grado de calidad los procesos y productos del departamento, así como mantenerme consciente de las consecuencias perjudiciales resultantes de no cumplir con este punto.
 
-    3.2. Dar la importancia necesaria a revisar el código y documentación producidos por mí y por otros miembros del departamento, para identificar errores, comunicarlos y dar paso a su debida corrección. 
+    3.2. Dar la importancia necesaria a revisar el código y documentación producidos por mí y por otros miembros del departamento, para identificar errores, comunicarlos y dar paso a su debida corrección.
 
-  3.3. Medir y evaluar exhaustivamente el correcto funcionamiento e impacto de las soluciones implementadas; incluyendo un análisis de los posibles riesgos.
+    3.3. Medir y evaluar exhaustivamente el correcto funcionamiento e impacto de las soluciones implementadas; incluyendo un análisis de los posibles riesgos.
 
-  3.4. Cumplir con las tareas y deberes de mi rol a desempeñar
+    3.4. Cumplir con las tareas y deberes de mi rol a desempeñar
 
 ## Sección 4 - Compromisos sociales
 
 4. Como miembro me comprometo a:
 
-  4.1. Anteponer el bien común sobre cualquier interés individual o personal de tal forma que se alinee con la misión y visión del departamento, así como la ley.
+    4.1. Anteponer el bien común sobre cualquier interés individual o personal de tal forma que se alinee con la misión y visión del departamento, así como la ley.
 
-  4.2. Mantener en mejora continua mis habilidades profesionales disciplinares, transversales y emocionales.
+    4.2. Mantener en mejora continua mis habilidades profesionales disciplinares, transversales y emocionales.
 
-  4.3. Ser consciente y respetar los marcos de conducta educativa, éticos y legales a nivel local, federal e internacional.
+    4.3. Ser consciente y respetar los marcos de conducta educativa, éticos y legales a nivel local, federal e internacional.
 
 ## Sección 5 - Cumplimiento del Código
 
 5. Como miembro me comprometo a: 
 
-  5.1. Haré míos e integraré a mi vida diaria los principios establecidos en este código de ética durante mi participación en el departamento.
+    5.1. Haré míos e integraré a mi vida diaria los principios establecidos en este código de ética durante mi participación en el departamento.
 
-  5.2. Ser consciente de que al apegarme a este código de ética, podré ser sometido a las medidas y consecuencias resultantes de no respetar los principios establecidos en este código.
+    5.2. Ser consciente de que al apegarme a este código de ética, podré ser sometido a las medidas y consecuencias resultantes de no respetar los principios establecidos en este código.
 
-  5.3. Velaré por el cumplimiento de este código y en caso de enterarme de una violación al mismo, comunicaré el caso a cualquier miembro del Comité de ética electo por los integrantes del departamento y tendré derecho a que mi denuncia sea anónima.
+    5.3. Velaré por el cumplimiento de este código y en caso de enterarme de una violación al mismo, comunicaré el caso a cualquier miembro del Comité de ética electo por los integrantes del departamento y tendré derecho a que mi denuncia sea anónima.
 
 ## Sección 6 - Medidas y Consecuencias
 
 6. Como miembro me comprometo a: 
 
-  6.1. En caso de que el Comité de Ética reciba un caso de violación al código de ética, los miembros del mismo iniciarán un proceso interno de seguimiento al caso para dictaminar las posibles medidas y consecuencias que serán preescritas a los involucrados.
+    6.1. En caso de que el Comité de Ética reciba un caso de violación al código de ética, los miembros del mismo iniciarán un proceso interno de seguimiento al caso para dictaminar las posibles medidas y consecuencias que serán preescritas a los involucrados.
 	
-  6.1.1. Para enviar una denuncia:
+    6.1.1. Para enviar una denuncia:
 
 **a)** Se debe de instalar la aplicación AnonymityBot en Slack.
 
@@ -92,7 +92,7 @@ _Nota: no saldrá la opción del canal, pero sí recibiremos tu denuncia._
 
 7. Como miembro me comprometo a: 
 
-  7.1. Mantenerme informado de cualquier cambio o mejora al código de ética. Así como participar activamente en el mejoramiento del mismo, a través de propuestas de mejora en cada una de las secciones.
+    7.1. Mantenerme informado de cualquier cambio o mejora al código de ética. Así como participar activamente en el mejoramiento del mismo, a través de propuestas de mejora en cada una de las secciones.
 
 **Referencias**
 
