@@ -32,15 +32,15 @@ _Nota: no saldrá la opción del canal, pero sí recibiremos tu denuncia._
  
    6.1. El Comité de Ética tendrá una reunión en donde se discutirá el grado de la falta cometida:
 
-        6.1.1. los grados de la falta son: Menor, Importante, Crítica
+       6.1.1. los grados de la falta son: Menor, Importante, Crítica
 
-        **Menor**:  El comité proporcionará asesoramiento al denunciado para que el conflicto se solucione. 
+       **Menor**:  El comité proporcionará asesoramiento al denunciado para que el conflicto se solucione. 
 
-        **Importante**: El comité y asesores proporcionarán asesoramiento al denunciado.
+       **Importante**: El comité y asesores proporcionarán asesoramiento al denunciado.
 
-        **Crítica**: El comité, asesores y un representante del Tecnológico de Monterrey proporcionarán asesoramiento al denunciado.
+       **Crítica**: El comité, asesores y un representante del Tecnológico de Monterrey proporcionarán asesoramiento al denunciado.
 
-        Nota: También consideraremos si la falta entra en el criterio “Sith” de la malla de evaluación de competencias o qué tanto la falta fragiliza la misión y valores del departamento NOVA
+       Nota: También consideraremos si la falta entra en el criterio “Sith” de la malla de evaluación de competencias o qué tanto la falta fragiliza la misión y valores del departamento NOVA
 
     6.2 Los dos miembros más apropiados dentro del Comité primeramente tendrán una reunión con el denunciado para conocer su punto de vista y asesorar.
 
