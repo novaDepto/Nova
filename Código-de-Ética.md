@@ -70,15 +70,15 @@ El presente documento tiene el objetivo de establecer las normas éticas, de con
 	
         6.1.1. Para enviar una denuncia:
 
-**a)** Se debe de instalar la aplicación AnonymityBot en Slack.
+        **a)** Se debe de instalar la aplicación AnonymityBot en Slack.
 
-**b)** En tu propio chat o en la pestaña de mensajes de esta aplicación se debe de escribir el comando:   
+        **b)** En tu propio chat o en la pestaña de mensajes de esta aplicación se debe de escribir el comando:   
  
-`/anon #nova-denuncias [mensaje]`
+        `/anon #nova-denuncias [mensaje]`
 
-_Ejemplo_: /anon #nova-denuncias Mi compañero hace plagio
+        _Ejemplo_: /anon #nova-denuncias Mi compañero hace plagio
 
-_Nota: no saldrá la opción del canal, pero sí recibiremos tu denuncia._
+        _Nota: no saldrá la opción del canal, pero sí recibiremos tu denuncia._
 
         6.1.2. El reporte de caso de violación al código de ética deberá de seguir el formato establecido en la [Guía de Denuncias](https://docs.google.com/document/d/1LhKs8SJBPKI114EX9VXu4flTEqm_Foxudgbyoli9xcA/edit)
 
