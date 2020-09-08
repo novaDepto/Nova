@@ -1,7 +1,3 @@
-# Código de Ética
-
-***
-
 ## Introducción
 El presente documento tiene el objetivo de establecer las normas éticas, de convivencia, acciones y comportamiento de los miembros del departamento de tecnologías de la información “NOVA”. Esto con el motivo de cumplir con el objetivo de contar con un ambiente de trabajo donde haya confianza, integración, escucha activa, comprensión, flexibilidad, humildad y perseverancia. Buscamos que esto a su vez motive a los miembros del equipo  a concretar metas y trabajar efectiva y eficazmente.
 Sección 1  - Sana convivencia entre personas
