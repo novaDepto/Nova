@@ -1,3 +1,9 @@
+### Procesos
+
+***
+
+* [Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
+
 ### Comité de Ética
 
 ***
