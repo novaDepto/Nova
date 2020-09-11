@@ -1,6 +1,3 @@
-Proceso para definir un Proceso
-==============================
-
 ## Responsables
 
 Nombre     | Rol
