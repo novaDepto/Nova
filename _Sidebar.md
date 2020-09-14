@@ -4,6 +4,16 @@
 
 * [Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
 
+### Guías
+
+***
+
+* [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
+
+### Políticas
+
+***
+
 ### Comité de Ética
 
 ***
