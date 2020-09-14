@@ -98,3 +98,5 @@ El presente documento tiene el objetivo de establecer las normas éticas, de con
 
 ACM (2020) Código de Ética y Conducta Profesional de ACM. Recuperado el 22 de agosto de 2020 de: https://www.acm.org/about-acm/code-of-ethics-in-spanish
 
+![Firmas comité ética](https://raw.githubusercontent.com/novaDepto/Nova/master/Desarrollo%20de%20departamento/Comit%C3%A9%20de%20%C3%89tica/firmascodigoetica.PNG)
+
