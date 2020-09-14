@@ -9,6 +9,7 @@
 ***
 
 * [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
+* [Guía de Github flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-GitHub-flow)
 
 ### Políticas
 
