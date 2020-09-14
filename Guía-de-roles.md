@@ -45,14 +45,29 @@
 <tr>
 <td>2</td> <td>Gestión de proyectos</td> <td>PP</td> <td>Planificación del Proyecto</td> <td>Estimar los parámetros de planificación de gestión del proyecto</td>
 </tr>			
-
-
-
-
-
-
-			
-
-
+<tr>
+<td>2</td> <td>Soporte</td> <td>PPQA</td> <td>Aseguramiento de la Calidad del Proceso y Producto</td> <td>Evaluar adherencia de procesos a las descripciones para resolver inconformidades</td>
+</tr>
+<tr>
+<td>4</td> <td>Gestión de proyectos</td> <td>QPM</td> <td>Gestión Cuantitativa del Proyecto</td> <td>Establecer objetivos de calidad y rendimiento mediante estadísitica cuantitativa</td>
+</tr>
+<tr>
+<td>3</td> <td>Ingeniería</td> <td>RD</td> <td>Desarrollo de Requisitos</td> <td>Formular los requisitos-componentes del producto</td>
+</tr>
+<tr>
+<td>2</td> <td>Gestión de proyectos</td> <td>REQM</td> <td>Gestión de Requisitos</td> <td>Gestionar las inconsistencias entre los requisitos</td>
+</tr>
+<tr>
+<td>2</td> <td>Gestión de proyectos</td> <td>SAM</td> <td>Gestión de Acuerdos con Proveedores</td> <td>Establecer, satisfacer y mantener acuerdos con proveedor</td>
+</tr>						
+<tr>
+<td>3</td> <td>Ingeniería</td> <td>TS</td> <td>Solución Técnica</td> <td>Implementar los diseños de la solución del proyecto en el ciclo iterativo</td>
+</tr>	
+<tr>
+<td>3</td> <td>Ingeniería</td> <td>VAL</td> <td>Validación</td> <td>Seleccionar los métodos de validación para el producto</td>
+</tr>					
+<tr>
+<td>3</td> <td>Ingeniería</td> <td>VER</td> <td>Verificación</td> <td>Establecer los métodos de verificación del producto</td>
+</tr>				
 </tbody>
 </table>
