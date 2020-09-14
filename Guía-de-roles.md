@@ -58,6 +58,9 @@
 <td>2</td> <td>Gestión de proyectos</td> <td>REQM</td> <td>Gestión de Requisitos</td> <td>Gestionar las inconsistencias entre los requisitos</td>
 </tr>
 <tr>
+<td>3</td> <td>Gestión de proyectos</td> <td>RSKM</td> <td>Gestión de Riesgos</td> <td>Identificar, gestionar, analizar, mitigar riesgos</td>
+</tr>
+<tr>
 <td>2</td> <td>Gestión de proyectos</td> <td>SAM</td> <td>Gestión de Acuerdos con Proveedores</td> <td>Establecer, satisfacer y mantener acuerdos con proveedor</td>
 </tr>						
 <tr>
