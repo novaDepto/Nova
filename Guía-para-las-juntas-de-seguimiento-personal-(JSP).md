@@ -1,10 +1,10 @@
 Autor: Raymundo Romero Arenas
 
-## Objetivos: 
+## Objetivos
 1. Orientar la conversación de las Juntas de Seguimiento Personal 
 2. Generar un espacio en el que los integrantes del equipo puedan hablar libremente y se les ayude a mejorar como personas a fin de asegurar la confianza y efectividad del equipo
 
-## Recomendaciones generales:
+## Recomendaciones generales
 1. El orden, énfasis y cantidad de preguntas a tratar varía por persona.
 2. Sé empático con la situación del otro y escucha activamente antes de proponer soluciones
 3. Establece un ambiente cordial y amigable. Evita escalar un tema de manera hostil
