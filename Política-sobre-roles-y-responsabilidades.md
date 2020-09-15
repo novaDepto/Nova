@@ -1,4 +1,4 @@
-## Program Manager Encargado de: 
+## Program Manager encargado de: 
 * Manejar el portafolio de proyectos. 
 * Monitorear los objetivos. 
 * Asegurarse de que la forma de trabajo se siga. 
@@ -18,7 +18,7 @@
 * Comunicarse con terceros que trabajen dentro del desarrollo interno de proyectos para conocer la distribución de recursos de dichos equipos también. 
 * Organizar juntas con Process Manager y Team Leaders para conocer los estados de los proyectos. 
 
-## Process Manager Encargado de: 
+## Process Manager encargado de: 
 * Programar auditorias para procesos y áreas. 
 * Llevar a cabo GAP análisis. 
 * Monitorear la toma de métricas. 
@@ -27,7 +27,7 @@
 * Asegurarse de que la forma de trabajo de los externos se alineen con las necesidades del departamento (poder conocer el estado del proyecto en cualquier momento, etc). 
 * Coordinar los SEPG del departamento. 
 
-## Architecture Owner General Encargado de: 
+## Architecture Owner General encargado de: 
 * Guiar las reuniones de los líderes técnicos del departamento. 
 * Resolver los conflictos técnicos entre equipos de desarrollo. 
 * Asegurar la documentación y comunicación de las herramientas desarrolladas y utilizadas en el departamento para su uso en futuros proyectos. 
@@ -37,7 +37,7 @@
 * Tener el inventario de las herramientas/tecnologías empleadas y su coste. 
 * Alinear las diferentes soluciones, tanto internas como externas, bajo una arquitectura que pueda asegurar la interoperabilidad de los desarrollos anteriores del departamento. 
 
-## Product Owner Encargado de: 
+## Product Owner encargado de: 
 * Asistir a las juntas de los stakeholders. 
 * Organizar juntas para la comunicación del estado actual del equipo y de la solución propuesta. 
 * Organizar Demos con los stakeholders para demostrar la buena implementación de los requisitos y que estén orientados a la solución. 
@@ -50,7 +50,7 @@
 * En caso de que no pueda resolver una duda con respecto a la solución es el responsable de orientar donde se puede encontrar la respuestas. 
 * Comunicar a planeación estratégica el estado de la solución. 
 
-## Team member Encargado de: 
+## Team Member encargado de: 
 * Producir una solución que deleite a los stakeholders. 
 * Optimizar el uso de los recursos. 
 * Entrenar a los demás, especialmente en las tareas en las que se es mejor. 
@@ -58,7 +58,7 @@
 * Evitar aceptar tareas fuera de la iteración, sin aprobación previa del equipo. 
 * http://disciplinedagiledelivery.com/team-member-rights/ 
 
-## Team Leader Encargado de: 
+## Team Leader encargado de: 
 * Facilitar / guiar al equipo en la realización de actividades de gestión técnica en lugar de asumir estas responsabilidades él/ella mismo. 
 * Ayuda a mantener al equipo concentrado en entregar work items y completar las metas de la iteración y los compromisos que se hicieron con el product owner. 
 * Responsable de la efectividad y la mejora continua de los procesos seguidos por el equipo. 
@@ -75,7 +75,7 @@
 * Asegura que los miembros del equipo utilicen artefactos como time logs, burn downs, defect trend charts, task boards, etc. 
 * Asegura/agenda las juntas (coordination meeting, iteration planning meeting, demos, modeling sessions y retrospectives). El que desempeñe el rol de Team Leader no debe desempeñar el rol de Product Owner. 
 
-## Architecture Owner Encargado de: 
+## Architecture Owner encargado de: 
 * Guiar la creación y evolución de la arquitectura de la solución. 
 * Llevar las discusiones técnicas. 
 * Consultoría y mentoría a los miembros del equipo en prácticas de arquitectura. 
