@@ -20,9 +20,6 @@
 </tr>
 <tr>
 <td>3</td> <td>Gestión de procesos</td> <td>OPD</td> <td>Definición de Procesos de la Organización</td> <td>Poner a disposición los activos, reglas y guías de la organización</td>
-</tr>
-<tr>
-<td>3</td> <td>Gestión de procesos</td> <td>OPD</td> <td>Definición de Procesos de la Organización</td> <td>Poner a disposición los activos, reglas y guías de la organización</td>
 </tr>	
 <tr>
 <td>3</td> <td>Gestión de procesos</td> <td>OPF</td> <td>Enfoque de Procesos de la Organización</td> <td>Planificar, implementar y desplegar las mejoras de procesos</td>
