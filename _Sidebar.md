@@ -11,6 +11,7 @@
 * [Guía de Github flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-GitHub-flow)
 * [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
 * [Guía para las juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-desempe%C3%B1o)
+* [Guía para las juntas de seguimiento personal ](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-seguimiento-personal-(JSP))
 
 ### Políticas
 
