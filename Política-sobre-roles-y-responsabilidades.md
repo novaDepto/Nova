@@ -36,7 +36,8 @@
 * Comunicar los estándares y tecnologías utilizadas, así como el porqué se decidió utilizar estas. 
 * Tener el inventario de las herramientas/tecnologías empleadas y su coste. 
 * Alinear las diferentes soluciones, tanto internas como externas, bajo una arquitectura que pueda asegurar la interoperabilidad de los desarrollos anteriores del departamento. 
-Product Owner Encargado de: 
+
+## Product Owner Encargado de: 
 * Asistir a las juntas de los stakeholders. 
 * Organizar juntas para la comunicación del estado actual del equipo y de la solución propuesta. 
 * Organizar Demos con los stakeholders para demostrar la buena implementación de los requisitos y que estén orientados a la solución. 
@@ -48,7 +49,8 @@ Product Owner Encargado de:
 * Tener una idea general de todo el proyecto y la solución propuesta. 
 * En caso de que no pueda resolver una duda con respecto a la solución es el responsable de orientar donde se puede encontrar la respuestas. 
 * Comunicar a planeación estratégica el estado de la solución. 
-Team member Encargado de: 
+
+## Team member Encargado de: 
 * Producir una solución que deleite a los stakeholders. 
 * Optimizar el uso de los recursos. 
 * Entrenar a los demás, especialmente en las tareas en las que se es mejor. 
