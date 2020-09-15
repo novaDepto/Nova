@@ -3,7 +3,7 @@ Autor: Raymundo Romero Arenas
 ## Objetivo
 Asegurar un proceso de retroalimentación y mejora continua en cada integrante del equipo de forma sincera y transparente.
 
-## Reglamento:
+## Reglamento
 1. Las Juntas de Desempeño son obligatorias para todos los integrantes del equipo
 2. Las Juntas de Desempeño deben realizarse al final de una iteración
 
@@ -24,7 +24,7 @@ Asegurar un proceso de retroalimentación y mejora continua en cada integrante d
     4.1 Si alguien incumple con esta regla, entonces se deberá reportar al Comité de Ética
 5. Queda prohibido usar el contenido de las juntas para coaccionar las acciones de los otros integrantes del equipo.  En caso de que esto suceda, se deberá reportar al Comité de Ética.
 
-## Bitácora de cambios:
+## Bitácora de cambios
 <table>
 <thead>
 <tr>
