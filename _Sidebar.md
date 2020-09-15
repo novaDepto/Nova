@@ -8,12 +8,14 @@
 
 ***
 
-* [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
 * [Guía de Github flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-GitHub-flow)
+* [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
+* [Guía para las juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-desempe%C3%B1o)
 
 ### Políticas
 
 ***
+
 * [Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 
 ### Comité de Ética
