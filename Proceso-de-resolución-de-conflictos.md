@@ -5,6 +5,7 @@ Guiar y establecer un proceso de resolución de conflictos del departamento para
 Conflicto, involucrados
 
 ## Proceso
+![Niveles problema](https://raw.githubusercontent.com/novaDepto/Nova/master/Desarrollo%20de%20departamento/Comit%C3%A9%20de%20%C3%89tica/problemlevels.PNG)
 1. Cada involucrado identifica en la Fig 1.1 el nivel en el que se encuentra el conflicto
 2. Reunirse con la persona del conflicto. Describir la situación y el sentimiento que genera. No enumerar cosas o acciones malas, más bien dar ejemplos de acciones y cómo te hacen sentir.
 3. Pedir la acción concreta que se desea de la otra persona
