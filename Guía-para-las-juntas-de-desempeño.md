@@ -1,5 +1,5 @@
 Autor: Raymundo Romero Arenas
-## Objetivo:
+## Objetivo
 1. Asegurar un proceso de retroalimentación y mejora continua en cada integrante del equipo de forma sincera y transparente.
 2. Generar un espacio para que el equipo pueda evaluar de forma constructiva el desempeño de cada uno de sus integrantes
 
