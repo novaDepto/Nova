@@ -14,6 +14,7 @@
 ### Políticas
 
 ***
+* [Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 
 ### Comité de Ética
 
