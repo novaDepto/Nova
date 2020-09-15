@@ -4,7 +4,7 @@ El presente documento tiene el objetivo de informar y orientar a los miembros de
 
 De igual manera, orienta a los miembros que cometan una falta o violación a alguna de las secciones del Código de Ética de NOVA sobre las acciones que el Comité de Ética llevará a cabo para la resolución del incidente.
 
-## Para enviar una denuncia al Comité de Ética:
+## Para enviar una denuncia al Comité de Ética
 
 1. Se debe de instalar la aplicación AnonymityBot en Slack.
 
@@ -50,7 +50,7 @@ _Nota: no saldrá la opción del canal, pero sí recibiremos tu denuncia._
 
 7. En caso de que la denuncia involucre a un miembro del comité, notificar a la asesora: Carolina Rodríguez o enviar un mensaje a otro miembro del comité para darle seguimiento a este caso en específico.
 
-## Sobre los pasos a seguir para aquellos que sean denunciados ante el Comité de Ética:
+## Sobre los pasos a seguir para aquellos que sean denunciados ante el Comité de Ética
 
 1. Se les hará llegar un mensaje directo por parte de uno de los miembros del Comité de Ética a través de la plataforma Slack donde el involucrado y el miembro del Comité acordarán una hora y día para que el involucrado tenga una junta con el Comité de Ética.
 
