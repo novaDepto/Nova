@@ -27,11 +27,11 @@ Ofrecer soluciones eficaces y escalables a nuestros clientes, entregando product
 **Comprensión**  
 Reconocemos los factores que influyen en los sentimientos o en el comportamiento de las personas, profundizamos el significado de cada factor, su interrelación y adecuamos nuestro actuar a esa realidad.
 
-**Flexibilidad**
+**Flexibilidad**  
 Adaptamos nuestro comportamiento con agilidad a las circunstancias de cada persona o situación, sin abandonar los criterios de actuación personal y departamental.
 
-**Humildad**
+**Humildad**  
 Reconocemos nuestras cualidades, capacidades y áreas de oportunidad. Las aprovechamos para obrar el bien sin llamar la atención o requerir el aplauso ajeno.
 
-**Perseverancia**
+**Perseverancia**  
 Una vez tomada una decisión, llevamos a cabo las actividades necesarias para alcanzar lo decidido, aunque surjan dificultades internas o externas.
