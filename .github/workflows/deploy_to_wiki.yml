@@ -25,4 +25,4 @@ jobs:
         run: git remote add wiki-origin https://github.com/novaDepto/Nova.wiki.git;
       
       - name: Push contents to Wiki
-        run: push --force wiki-origin master
+        run: git push --force wiki-origin master
