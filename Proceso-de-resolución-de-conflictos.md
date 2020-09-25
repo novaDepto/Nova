@@ -2,7 +2,7 @@
 Guiar y establecer un proceso de resolución de conflictos del departamento para mantener un ambiente colaborativo de trabajo, donde los conflictos entre miembros, asesores, socios formadores, usuarios, representantes del Tecnológico de Monterrey y otros stakeholders puedan llegar a una resolución mediante el diálogo y así mantener firmes nuestros valores: comprensión, humildad, perseverancia y flexibilidad.
 
 ## Entradas
-Conflicto, involucrados
+Conflicto, miembros involucrados
 
 ## Proceso
 ![Niveles problema](https://raw.githubusercontent.com/novaDepto/Nova/master/Desarrollo%20de%20departamento/Comit%C3%A9%20de%20%C3%89tica/problemlevels.PNG)
