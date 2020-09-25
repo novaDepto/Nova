@@ -21,8 +21,11 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
+      - name: Get unshallow copy
+        run: git fetch --unshallow origin;
+        
       - name: Add Wiki as remote origin
         run: git remote add wiki-origin https://github.com/novaDepto/Nova.wiki.git;
       
       - name: Push contents to Wiki
-        run: git push --force wiki-origin master
+        run: git push --force wiki-origin master;
