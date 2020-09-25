@@ -21,5 +21,8 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo $GITHUB_WORKSPACE; pwd;
+      - name: Add Wiki as remote origin
+        run: git remote add wiki-origin https://github.com/novaDepto/Nova.wiki.git;
+      
+      - name: Push contents to Wiki
+        run: push --force wiki-origin master
