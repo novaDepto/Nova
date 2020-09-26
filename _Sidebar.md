@@ -3,6 +3,7 @@
 ***
 
 * [Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
+* [Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
 
 ### Guías
 
