@@ -8,6 +8,7 @@
 
 ***
 
+* [Guía para institucionalizar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-institucionalizar-procesos-guías-políticas)
 * [Guía de Github flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-GitHub-flow)
 * [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
 * [Guía para las juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-desempe%C3%B1o)
