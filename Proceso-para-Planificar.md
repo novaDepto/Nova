@@ -49,7 +49,7 @@ Los resultados finales son:
 1. Un **plan** que permite guiar y controlar las actividades del proyecto, generando así compromiso por parte de los involucrados. Al plan además se le pueden aplicar métricas e indicadores útiles como:
 2. **Matriz RACI** 
 Responsable, Auditor, Consultado, Informado
-- [ ] jopc
+
     
 ## Métricas
 1. **SPI** (schedule performance index): 
