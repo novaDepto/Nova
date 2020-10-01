@@ -1,4 +1,4 @@
-Guía para institucionalizar procesos, guías, y políticas
+Guía de publicación y cambios para la institucionalización de procesos, guías y políticas
 =======================================================
 ## Objetivo
 El objetivo de esta guía es **orientar** y **facilitar** la participación en el
