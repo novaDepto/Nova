@@ -10,9 +10,10 @@ Javier Mendez| Autor
 Lisieux Serrano| Autor
 
 ## Objetivo
-Definir el proceso para planear, agendar y ejecutar una auditoría, así como e informar a los involucrados sobre los resultados de esta evaluación objetiva y las no conformidades que hay. Esto con el fin de: 
+Definir el proceso para planear, agendar y ejecutar una auditoría, así como informar a los involucrados sobre los resultados de esta evaluación objetiva y las no conformidades que hay. Esto con el fin de: 
 1. Brindar un mecanismo para evaluar objetivamente procesos y productos de trabajo.
 2. Encontrar y comunicar las no conformidades encontradas en los procesos y productos de trabajo realizados.
+3. Asegurar la calidad de los procesos y productos de trabajos del departamento.
 
 ## Prerequisitos
 1. Tener a disposición la plantilla de auditorías.
@@ -20,8 +21,8 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como e 
 3. Tener identificadas a las personas involucradas en la realización de los procesos y productos de trabajo a ser auditados.
 
 ## Entradas
-1. Procesos y/o productos de trabajo a ser auditados
-2. Lista de los nombres de las personas involucradas en la realización de los procesos y productos de trabajo a ser auditados.
+1. Identificar el proyecto o equipo a ser auditado
+2. Identifcar los procesos y productos del proyecto o equipo que serán auditados
 
 ## Proceso
 
