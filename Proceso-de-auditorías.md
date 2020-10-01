@@ -118,7 +118,7 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
     </tr>
     <tr>
       <td>13.</td>
-      <td>Agendar una sesión de seguimiento en caso de que el equipo de PPQA haya encontrado no conformidades para llegar a su resolución</td>
+      <td>Agendar una sesión de seguimiento en caso de que el equipo de PPQA haya encontrado no conformidades, para así llegar a su resolución</td>
       <td>Equipo PPQA</td>
       <td>PPQA</td>
     </tr>
@@ -138,7 +138,7 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
       <td>PPQA</td>
     </tr>
     <tr>
-      <td>Validación</td>
+      <td>Verificación</td>
       <td>16.</td>
       <td>El equipo de PPQA revisará el documento generado asegurándose que:
       <ul>
@@ -159,13 +159,13 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
     <tr>
       <td rowspan="2">Seguimiento</td>
       <td>18.</td>
-      <td>El equipo de PPQA tendrá una sesión de seguimiento en caso de que se hayan encontrado no conformidades, para asegurar que se hayan resuelto. De ser así, se establecerá el estado de la no conformidad como resuelto</td>
+      <td>El equipo de PPQA tendrá una sesión de seguimiento en caso de que se hayan encontrado no conformidades, para asegurar que estas han sido resueltas. De ser así, se establecerá el estado de la no conformidad como resuelto</td>
       <td>Equipo de PPQA</td>
       <td>PPQA</td>
     </tr>
     <tr>
       <td>19. </td>
-      <td>En caso de que alguna no conformidad no haya sido resuelta, se abrirá paso a escalar la misma para que pueda ser resuelta. Hacer referencia a la guía de escalamiento de no conformidades.</td>
+      <td>En caso de que alguna no conformidad no haya sido resuelta, se abrirá paso a escalar la misma para que pueda ser resuelta. Hacer referencia a la guía de escalamiento de no conformidades. En este caso se repetirá el paso 18 y 19 hasta que la no conformidad sea resuelta</td>
       <td>Equipo de PPQA</td>
       <td>PPQA</td>
     </tr>
