@@ -13,7 +13,7 @@ Lisieux Serrano| Autor
 Definir el proceso para planear, agendar y ejecutar una auditoría, así como informar a los involucrados sobre los resultados de esta evaluación objetiva, las no conformidades y la resolución de las mismas. Esto con el fin de: 
 1. Brindar un mecanismo para evaluar objetivamente procesos y productos de trabajo.
 2. Encontrar y comunicar las no conformidades encontradas en los procesos y productos de trabajo realizados.
-3. Asesgurar la resolución de las no conformidades encontradas en la auditoría.
+3. Asegurar la resolución de las no conformidades encontradas en la auditoría.
 4. Asegurar la calidad de los procesos y productos de trabajo del departamento.
 
 ## Prerequisitos
