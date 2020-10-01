@@ -36,13 +36,13 @@ La planificación incluye la estimación de los atributos de los productos de tr
 1. Realizar un WBS
 2. Planear la disposición del equipo
 3. Seleccionar un ítem de trabajo
-    3.1. Obtener detalles del ítem de trabajo
-    3.2. Modelar una solución potencial
-    3.3. Descomponer el ítem de trabajo en tareas
-    3.4. Enrolarse en las tareas
-4. Actualizar la estimación, en caso de poder hacer otro ítem repetir el paso 2, de lo contrario pasar al paso 4.
-5. Revisar la sensatez del plan
-6. Asegurar el compromiso de los integrantes por medio de una matriz RACI.
+4. Obtener detalles del ítem de trabajo
+5. Modelar una solución potencial
+6. Descomponer el ítem de trabajo en tareas
+7. Enrolarse en las tareas
+8. Actualizar la estimación, en caso de poder hacer otro ítem repetir el paso 2, de lo contrario pasar al paso 9.
+9. Revisar la sensatez del plan
+10. Asegurar el compromiso de los integrantes por medio de una matriz RACI.
 
 ## Salida
 Los resultados finales son:
