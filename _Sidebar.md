@@ -2,6 +2,8 @@
 
 ***
 
+* [Proceso para Planificar](https://github.com/novaDepto/Nova/wiki/Proceso-para-Planificar)
+* [Proceso de auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditor%C3%ADas)
 * [Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
 * [Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
 
@@ -9,8 +11,9 @@
 
 ***
 
+* [Guía para crear eventos en el calendario](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
 * [Guía para institucionalizar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-institucionalizar-procesos-guías-políticas)
-* [Guía de Github flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-GitHub-flow)
+* [Guía de Nova Flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
 * [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
 * [Guía para las juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-desempe%C3%B1o)
 * [Guía para las juntas de seguimiento personal ](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-seguimiento-personal-(JSP))
