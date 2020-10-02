@@ -83,15 +83,8 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
       <td>PPQA</td>
     </tr>
     <tr>
-      <td rowspan="1">Diseño de entrevista</td>
-      <td>8.</td>
-      <td>Definir las preguntas a realizar a las personas auditadas</td>
-      <td>Equipo PPQA</td>
-      <td>PPQA</td>
-    </tr>
-    <tr>
       <td rowspan="1">Calendarización de la auditoría</td>
-      <td>9.</td>
+      <td>8.</td>
       <td>Comunicarse con las personas que serán auditadas y establecer una fecha y hora para que el equipo de PPQA lleve a cabo la auditoría. Seguir la <a href="https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-para-agendar-eventos.md">guía para agendar eventos</a></td>
       <td>Equipo PPQA</td>
       <td>PPQA</td>
@@ -99,38 +92,38 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
     <tr>
     <tr>
       <td rowspan="5">Realización de la Auditoría</td>
-      <td>10.</td>
+      <td>9.</td>
       <td> El equipo PPQA realizará las preguntas necesarias para corrobar el apego a los procesos definidos y que los productos generados sigan los criterios de calidad que han sido establecidos por el departamento.</td>
       <td>Equipo de PPQA</td>
       <td>PPQA</td>
     </tr>
     <tr>
-      <td>11.</td>
+      <td>10.</td>
       <td>El equipo de PPQA deberá de ir tomando notas o puntos esenciales de las respuestas dadas por las personas auditadas, así como inspeccionar los procesos o productos auditados.</td>
       <td>Equipo PPQA</td>
       <td>PPQA</td>
     </tr>
     <tr>
-      <td>12.</td>
+      <td>11.</td>
       <td>El equipo de PPQA deberá de ir registrando las no conformidades que se vayan encontrando</td>
       <td>Equipo PPQA</td>
       <td>PPQA</td>
     </tr>
     <tr>
-      <td>13.</td>
+      <td>12.</td>
       <td>Agendar una sesión de seguimiento en caso de que el equipo de PPQA haya encontrado no conformidades, para así llegar a su resolución</td>
       <td>Equipo PPQA</td>
       <td>PPQA</td>
     </tr>
     <tr>
-      <td>14.</td>
+      <td>13.</td>
       <td>Cuando ya no haya más preguntas a realizar por el equipo de PPQA, se procedera a agradecer a los auditados por su asistencia y se dará fin a la sesión con ellos</td>
       <td>Equipo PPQA</td>
       <td>PPQA</td>
     </tr>
     <tr>
       <td>Revisión</td>
-      <td>15.</td>
+      <td>14.</td>
       <td>
         El equipo de PPQA escribirá las recomendaciones que se le darán a las personas auditadas.
       </td>
@@ -139,7 +132,7 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
     </tr>
     <tr>
       <td>Verificación</td>
-      <td>16.</td>
+      <td>15.</td>
       <td>El equipo de PPQA revisará el documento generado asegurándose que:
       <ul>
         <li>El documento de auditoría tenga todas sus secciones llenadas</li>
@@ -151,20 +144,20 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
     </tr>
     <tr>
       <td>Comunicación de resultados de la auditoría</td>
-      <td>17.</td>
+      <td>16.</td>
       <td>El equipo de PPQA enviará por Slack a los auditados el documento de la auditoría generado para que los mismos adopten las recomendaciones y den paso a la resolución de las no conformidades</td>
       <td>Equipo de PPQA</td>
       <td>PPQA</td>
     </tr>
     <tr>
       <td rowspan="2">Seguimiento</td>
-      <td>18.</td>
+      <td>17.</td>
       <td>El equipo de PPQA tendrá una sesión de seguimiento en caso de que se hayan encontrado no conformidades, para asegurar que estas han sido resueltas. De ser así, se establecerá el estado de la no conformidad como resuelto</td>
       <td>Equipo de PPQA</td>
       <td>PPQA</td>
     </tr>
     <tr>
-      <td>19. </td>
+      <td>18. </td>
       <td>En caso de que alguna no conformidad no haya sido resuelta, se abrirá paso a escalar la misma para que pueda ser resuelta. Hacer referencia a la guía de escalamiento de no conformidades. En este caso se repetirá el paso 18 y 19 hasta que la no conformidad sea resuelta</td>
       <td>Equipo de PPQA</td>
       <td>PPQA</td>
