@@ -6,6 +6,7 @@
 * [Proceso de auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditor%C3%ADas)
 * [Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
 * [Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
+* [Proceso para auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditorías)
 
 ### Guías
 
