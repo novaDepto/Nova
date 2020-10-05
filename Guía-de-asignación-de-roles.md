@@ -1,5 +1,3 @@
-# Guía de Asignación de Roles
-
 ## Responsables
 
 Nombre     | Rol

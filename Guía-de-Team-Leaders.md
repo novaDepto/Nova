@@ -1,5 +1,3 @@
-# Guía de Team Leaders
-
 El Team Leader facilita y guía al equipo en la ejecución de sus actividades en vez de tomar esas responsabilidades él mismo. Es un coach ágil que ayuda al equipo a entregar sus ítems de trabajo y completar sus objetivos personales y profesionales. Actúa como líder al facilitar la comunicación, empoderar al equipo con los recursos necesarios para realizar su trabajo y remover impedimentos.
 
 Responsabilidades del Team Leader:
@@ -18,7 +16,7 @@ Responsabilidades del Team Leader:
 + Tener un canal de comunicación con los profesores y consultores
 
 ## 3. Tareas específicas:
-+ Llevar un registro diario de la motivación del equipo
++ Llevar un registro de la motivación del equipo
 + Generar un plan de acción para mantener la salud del equipo y cada integrante
 + Buscar formas efectivas de evaluar el desempeño del equipo
 

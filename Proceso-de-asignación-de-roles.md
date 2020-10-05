@@ -1,5 +1,3 @@
-# Proceso para Asignación de Roles 
-
 ## Responsables
 
 Nombre     | Rol
@@ -17,7 +15,7 @@ Raymundo   | Autor
 1. Cambio de rol programado
 
 ## Políticas-Estándares
-1. Cumplir con lo establecido en la Guía de Asignación de Roles
+Ninguno
 
 ## Proceso
 <table>
@@ -34,15 +32,15 @@ Raymundo   | Autor
     <tr>
       <td>Presentación</td>
       <td>1.</td>
-      <td>Se convoca a una junta para realizar la nueva asignación de roles.       </td>
+      <td>Convoca a una junta para realizar la nueva asignación de roles.</td>
       <td>PM</td>
       <td>DAR</td>
     </tr>
     <tr>
       <td>Identificación</td>
       <td>2.</td>
-      <td>Los integrantes del departamento se postulan para el rol que             deseen.      
-      Si varias personas se postulan para el mismo rol, entonces                   se ponen de acuerdo para ver quién se queda con el rol.
+      <td>Los integrantes del departamento se postulan para el rol que deseen.      
+      Si varias personas se postulan para el mismo rol, entonces se ponen de acuerdo para ver quién se queda con el rol.
        </td>
       <td>PM</td>
       <td>DAR</td>
@@ -50,9 +48,9 @@ Raymundo   | Autor
     <tr>
       <td>Transición</td>
       <td>3.</td>
-      <td>La nueva persona en el rol debe ponerse al día con las tareas             del mismo con la ayuda y capacitación de la persona anterior al rol.
+      <td>La nueva persona en el rol debe ponerse al día con las tareas del mismo con la ayuda de la persona anterior.
       <p><strong><em>
-      (Véase la <a href="">Guía de Asignación de Roles</a> para más                 información)
+      (Véase la <a href="">Guía de Asignación de Roles</a> para más información)
       </em></strong></p>
       </td>
       <td>PM</td>
@@ -72,3 +70,4 @@ Raymundo   | Autor
 ## Métricas
 1. Motivación del departamento
 2. Tiempo de trabajo diario
+3. Tiempo de selección de miembros

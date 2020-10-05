@@ -13,14 +13,13 @@ Raymundo   | Dueño del proceso
 
 
 ## Prerequisitos
-1. El riesgo debe de impactar al equipo/departamento
+1. El riesgo debe de impactar al desempeño de un equipo o del departamento.
 
 ## Entradas
 1. Riesgo no gestionado
 
 ## Políticas-Estándares
-1. Cumplir con lo establecido en la Guía de Identificación de riesgos
-2. Cumplir con la simbología establecida de la Matriz de Riesgos
+1. Cumplir con la simbología establecida de la Matriz de Riesgos.
 
 ## Proceso
 
@@ -53,7 +52,7 @@ Raymundo   | Dueño del proceso
     </tr>
     <tr>
       <td>4.</td>
-      <td>Definir las salidas del proceso.</td>
+      <td>Escribe la categoría del riesgo</td>
     </tr>
     <tr>
       <td rowspan="4">Análisis</td>
@@ -116,6 +115,8 @@ Raymundo   | Dueño del proceso
 
 ## Salidas
 1. Riesgo documentado en la Matriz de Riesgos
+2. Plan de mitigación para atender el riesgo
+3. Plan de contingenicia para evitar el riesgo
 
 ## Postrequisitos
 1. La matriz de riesgos actualizada debe validarse con el líder de RSKM

@@ -1,10 +1,8 @@
-# Proceso para Seguimiento de Riesgos (RSKM)
-
 ## Responsables
 
 Nombre     | Rol
 -----------|------------------
-Raymundo   | Dueño del proceso
+Raymundo   | Autor
 
 
 ## Objetivo (SMARTish)
@@ -12,7 +10,7 @@ Raymundo   | Dueño del proceso
 2. Determinar si se deben activar los planes de mitigación o contingencia
 
 ## Prerequisitos
-1. N/A
+1. El Proceso de Identificación de Riesgos debió hacerse al menos una vez previamente
 
 ## Entradas
 1. Junta de seguimiento de riesgos
@@ -53,33 +51,33 @@ Raymundo   | Dueño del proceso
     </tr>
     <tr>
       <td>4.</td>
-      <td>Determina si la probabilidad, impacto y magnitud de los riesgos           deben cambiar.</td>
+      <td>Determina si la probabilidad, impacto y magnitud de los riesgos deben cambiar.</td>
     </tr>
     <tr>
       <td>5.</td>
-      <td>Determina si la prioridad y estatus de los riesgos deben cambiar.|       </td>
+      <td>Determina si la prioridad y estatus de los riesgos deben cambiar. </td>
     </tr>
     <tr>
       <td>6.</td>
-      <td>Determina si los planes de mitigación o contingencia se deben             actualizar conforme a los cambios anteriores. </td>
+      <td>Determina si los planes de mitigación o contingencia se deben actualizar conforme a los cambios anteriores. </td>
     </tr>
     <tr>
       <td>Estrategia</td>
       <td>7.</td>
-      <td>Si se determina que un riesgo debe atenderse a la brevedad,               entonces se activa el plan de mitigación o contingencia (conforme se         vea adecuado). </td>
+      <td>Si se determina que un riesgo debe atenderse a la brevedad, entonces se activa el plan de mitigación o contingencia (conforme se vea adecuado). </td>
       <td>Todo el equipo</td>
       <td>RSKM, PMC, DAR</td>
     </tr>
     <tr>
       <td rowspan="2">Seguimiento</td>
       <td>8.</td>
-      <td>Registra los cambios realizados el riesgo en el Historial de             Cambios. </td>
+      <td>Registra los cambios realizados el riesgo en el Historial de Cambios. </td>
       <td rowspan="2">Responable del riesgo</td>
       <td rowspan="2">RSKM, PMC, VAL, MA</td>
     </tr>
     <tr>
       <td>9.</td>
-      <td>Comunica los cambios de la Matriz de Riesgos a los supervisores y         al equipo. </td>
+      <td>Comunica los cambios de la Matriz de Riesgos a los supervisores y al equipo. </td>
     </tr>
   </tbody>
 </table>
