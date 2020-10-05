@@ -25,6 +25,7 @@
 * [Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 * [Política de juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-desempe%C3%B1o)
 * [Política de juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
+* [Política para manejo de datos](https://github.com/novaDepto/Nova/wiki/Politica-para-Manejo-de-Datos)
 
 ### Comité de Ética
 

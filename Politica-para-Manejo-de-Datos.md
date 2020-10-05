@@ -1,5 +1,3 @@
-# Política de manejo de datos
-
 ## Objetivo
 Establecer lineamientos para garantizar la confidencialidad de los datos utilizados para el desarrollo de la solucion
 ## I. Datos Sensibles
