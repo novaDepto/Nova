@@ -1,5 +1,3 @@
-# Proceso de Auditorías
-
 ## Responsables
 
 Nombre     | Rol
