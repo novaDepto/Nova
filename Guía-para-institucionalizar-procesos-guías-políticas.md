@@ -1,5 +1,3 @@
-Guía para institucionalizar procesos, guías, y políticas
-=======================================================
 ## Objetivo
 El objetivo de esta guía es **orientar** y **facilitar** la participación en el
 [proceso] definido para institucionalizar procesos, guías y políticas.
@@ -8,13 +6,17 @@ El objetivo de esta guía es **orientar** y **facilitar** la participación en e
 1. No tiene que estar perfecto, puede ser un borrador. El objetivo de este
 proceso es apoyarnos mutuamente para mejorar la calidad del departamento.
 
-2. Recuerda agregar un _link_ en el archivo **__Sidebar_**. Así cuando se 
+0. **Recuerda agregar un _link_ en el archivo __Sidebar_**. Así cuando se 
 apruebe el documento y se suba en automático a la wiki, se pueda acceder con 
 rapidez a este.
 
-3. Es muy importante que en los documentos se defina un **objetivo** que aporte
-al departamento. No realices documentos por ocio porque también involucra tiempo
-de tus compañeros.
+0. **Github automáticamente despliega el nombre del archivo cómo el _título del
+documento_. Por lo que no hay que poner un título en el archivo para evitar que
+se repita este**.
+
+0. Es muy importante que en los documentos se defina un **_objetivo_** que 
+aporte al departamento. **No realices documentos por ocio porque también 
+involucra tiempo de tus compañeros.**
 
 
 ## ¿Cómo publico mis documentos para revisión?
