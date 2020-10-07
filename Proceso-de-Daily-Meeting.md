@@ -1,6 +1,3 @@
-
-# Proceso de Daily Meeting
-
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
@@ -18,27 +15,67 @@ Guíar el proceso en las juntas de coordinación para comunicar efectivamente el
 1. Necesidad de coordinar items de trabajo.
 
 
-# Proceso
-
- 1. Visualización del taskboard con items de trabajo 
- 2.  Cada miembro debe contestar las siguientes preguntas: 
-> **¿Qué hice ayer?** 
-Cuestionar cualquier cosa que se hizo que no fue planeada para la iteración. 
->**¿Qué voy a hacer hoy?** 
-Asegurarse de hacer adecuaciones al plan para cubrir los pendientes.
->**¿Tengo algún impedimento/bloqueo/aspecto?**
-Asegurarse de generar una estrategía para resolverlos. 
-3. Actualizar el **Burndown Chart** de la iteración, el cual permite ver diariamente si la iteración va de acuerdo a lo planeado.
+## Proceso
+<table>
+  <thead>
+    <tr>
+      <th>Fase</th>
+      <th>Paso</th>
+      <th>Actividades</th>
+      <th>Encargado</th>
+      <th>Áreas del CMMI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Análisis</td>
+      <td>1.</td>
+      <td>Visualizar del taskboard</td>
+      <td>Autor del proceso</td>
+      <td>PP</td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>
+          Cada miembro debe contestar las siguientes preguntas: 
+          </br>
+              <b>¿Qué hice ayer?</b>
+          </br>
+              Cuestionar cualquier cosa que se hizo que no fue planeada para la iteración. 
+        </br>
+            <b>¿Qué voy a hacer hoy? </b>
+        </br>
+            Asegurarse de hacer adecuaciones al plan para cubrir los pendientes.
+        </br>
+            <b>¿Tengo algún impedimento/bloqueo/aspecto?</b>
+        </br>
+            Asegurarse de generar una estrategía para resolverlos.        </td>
+      <td>Autor del proceso</td>
+      <td>PP</td>
+    </tr>
+    <tr>
+        <td>Medición</td>
+        <td>3.</td>
+        <td> Actualizar métricas de desempeño del trabajo diario, permitiendo ver diariamente si la iteración va de acuerdo a lo planeado.</td>
+          <td>Autor del proceso</td>
+          <td>MA</td>
+    </tr>
+    <tr>
+        <td>Mantennimiento del plan</td>
+        <td>4.</td>
+        <td>Hacer una revisión y ajustes al taskboard</td>
+        <td>Autor del proceso</td>
+        <td>PP</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Salida
-1. Revisión y Adecuación del plan de la Iteración.
-2. BurnDown Chart.
+1. Actualización al taskboard.
 
 
 ## Métricas
-1. El eje horizontal del BurnDown Chart muestra los dias que abarca el plan de la iteración.
-
-2. El eje vertical del BurnDown Chart muestra la cantidad de tareas a realizar cada día.
+1. La duración debe permanecer menor o igual a 15 minutos. Priorizando el tiempo al mantenimiento del plan,
 
 ## Área
 PP
