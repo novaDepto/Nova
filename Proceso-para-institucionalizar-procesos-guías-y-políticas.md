@@ -1,6 +1,3 @@
-Proceso para institucionalizar un proceso, guía o política
-==============
-
 ## Responsables
 | Nombre  | Rol   |
 |---------|-------|
