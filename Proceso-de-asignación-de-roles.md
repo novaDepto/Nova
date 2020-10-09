@@ -4,18 +4,14 @@ Nombre     | Rol
 -----------|------------------
 Raymundo   | Autor
 
-
 ## Objetivo (SMARTish)
 1. Gestionar el cambio en los roles de liderazgo dentro del departamento.
-
-## Prerequisitos
-1. Leer la guía del rol a tomar
 
 ## Entradas
 1. Cambio de rol programado
 
 ## Políticas-Estándares
-Ninguno
+1. Cumplir con lo establecido en la Guía de Asignación de Roles
 
 ## Proceso
 <table>
@@ -30,25 +26,25 @@ Ninguno
   </thead>
   <tbody>
     <tr>
-      <td>Presentación</td>
       <td>1.</td>
-      <td>Convoca a una junta para realizar la nueva asignación de roles.</td>
+      <td>Presentación</td>
+      <td>Se convoca a una junta para realizar la nueva asignación de roles.</td>
       <td>PM</td>
       <td>DAR</td>
     </tr>
     <tr>
-      <td>Identificación</td>
       <td>2.</td>
+      <td>Identificación</td>
       <td>Los integrantes del departamento se postulan para el rol que deseen.      
       Si varias personas se postulan para el mismo rol, entonces se ponen de acuerdo para ver quién se queda con el rol.
-       </td>
+      </td>
       <td>PM</td>
       <td>DAR</td>
     </tr>
     <tr>
-      <td>Transición</td>
       <td>3.</td>
-      <td>La nueva persona en el rol debe ponerse al día con las tareas del mismo con la ayuda de la persona anterior.
+      <td>Transición</td>
+      <td>La nueva persona en el rol debe ponerse al día con las tareas del mismo con la ayuda y capacitación de la persona anterior al rol.
       <p><strong><em>
       (Véase la <a href="">Guía de Asignación de Roles</a> para más información)
       </em></strong></p>
@@ -69,5 +65,3 @@ Ninguno
 
 ## Métricas
 1. Motivación del departamento
-2. Tiempo de trabajo diario
-3. Tiempo de selección de miembros
