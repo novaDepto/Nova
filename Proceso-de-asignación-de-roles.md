@@ -11,7 +11,7 @@ Raymundo   | Autor
 1. Cambio de rol programado
 
 ## Políticas-Estándares
-1. Cumplir con lo establecido en la Guía de Asignación de Roles
+Ninguno
 
 ## Proceso
 <table>
@@ -46,7 +46,7 @@ Raymundo   | Autor
       <td>Transición</td>
       <td>La nueva persona en el rol debe ponerse al día con las tareas del mismo con la ayuda y capacitación de la persona anterior al rol.
       <p><strong><em>
-      (Véase la <a href="">Guía de Asignación de Roles</a> para más información)
+      (Véase la <a href="https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-asignaci%C3%B3n-de-roles.md">Guía de Asignación de Roles</a> para más información)
       </em></strong></p>
       </td>
       <td>PM</td>
