@@ -26,7 +26,7 @@ Guíar el proceso en las juntas de coordinación para comunicar efectivamente el
     <tr>
       <td rowspan="2">Análisis</td>
       <td>
-          Visualizar del plan de trabajo</td>
+          Visualizar el plan de trabajo</td>
       <td>Autor del proceso</td>
       <td>PP</td>
     </tr>
@@ -34,16 +34,19 @@ Guíar el proceso en las juntas de coordinación para comunicar efectivamente el
       <td>
           Cada miembro debe contestar las siguientes preguntas: 
           </br>
-              <b>¿Qué hice ayer?</b>
-          </br>
+              <li>
+                <b>¿Qué hice ayer?</b>
+              </li>
               Cuestionar cualquier cosa que se hizo que no fue planeada para la iteración. 
         </br>
+          <li>
             <b>¿Qué voy a hacer hoy? </b>
-        </br>
+          </li>
             Asegurarse de hacer adecuaciones al plan para cubrir los pendientes.
         </br>
+          <li>
             <b>¿Tengo algún impedimento/bloqueo/aspecto?</b>
-        </br>
+          </li>
             Asegurarse de generar una estrategía para resolverlos.        </td>
       <td>Autor del proceso</td>
       <td>PP</td>
@@ -55,7 +58,7 @@ Guíar el proceso en las juntas de coordinación para comunicar efectivamente el
           <td>MA</td>
     </tr>
     <tr>
-        <td>Mantennimiento del plan</td>
+        <td>Mantenimiento del plan</td>
         <td>Hacer una revisión y ajustes al plan de trabajo</td>
         <td>Autor del proceso</td>
         <td>PP</td>
@@ -68,4 +71,4 @@ Guíar el proceso en las juntas de coordinación para comunicar efectivamente el
 
 
 ## Métricas
-1. La duración debe permanecer menor o igual a 15 minutos. Priorizando el tiempo al mantenimiento del plan,
+1. La duración debe ser menor o igual a 15 minutos, priorizando el tiempo al mantenimiento del plan.
