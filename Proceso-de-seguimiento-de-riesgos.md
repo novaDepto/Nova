@@ -8,11 +8,9 @@ Raymundo   | Autor
 1. Monitorizar la evolución de los riesgos
 2. Determinar si se deben activar los planes de mitigación o contingencia
 
-## Precondiciones
-1. El Proceso de Identificación de Riesgos debió hacerse al menos una vez previamente
-
 ## Entradas
-1. Junta de seguimiento de riesgos
+1. El Proceso de Identificación de Riesgos debió hacerse al menos una vez previamente
+2. Junta de seguimiento de riesgos
 
 ## Políticas-Estándares
 1. Cumplir con lo establecido en la Guía de Identificación de riesgos
