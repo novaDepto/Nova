@@ -9,9 +9,6 @@ Raymundo   | Autor
 1. Asegurar la recogida, análisis y comunicación de las métricas
 2. Disponibilizar las métricas para el departamento
 
-## Prerequisitos
-N/A
-
 ## Entradas
 1. Datos nuevos del departamento o los equipos
 
