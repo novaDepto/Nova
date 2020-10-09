@@ -21,8 +21,8 @@ Ninguno
 <table>
   <thead>
     <tr>
-      <th>Fase</th>
       <th>Paso</th>
+      <th>Fase</th>
       <th>Actividades</th>
       <th>Encargado</th>
       <th>Áreas del CMMI</th>
