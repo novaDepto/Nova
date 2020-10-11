@@ -12,7 +12,7 @@ Raymundo   | Autor
 
 ## Políticas-Estándares
 1. Cumplir con lo establecido en la Política de Gestión de Métricas
-2. Cumplir con lo establecido en la Plantilla del Reporte de Métricas Semanal
+2. Cumplir con lo establecido en la Plantilla del Reporte de Métricas Quincenal
 
 ## Proceso
 <table>
@@ -65,10 +65,8 @@ Raymundo   | Autor
 </table>
 
 ## Salidas
-1. Métricas actualizadas, analizadas y comunicadas al departamento
-
-## Postrequisitos
-1. Los datos antiguos deben guardarse como histórico.
+1. Métricas actualizadas, analizadas y comunicadas al departamento.
+2. Datos antiguos en el Backlog de Métricas.
 
 ## Métricas
 1. Backlog de Métricas
