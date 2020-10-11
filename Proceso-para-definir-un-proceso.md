@@ -11,9 +11,6 @@ Definir __procesos de ingeniería de software__ que __cualquier miembro del
 equipo__  es capaz de consultar y seguir, con el objetivo de que se cumplan con
 las metas de diferentes __áreas del CMMI__ en __menos de un día__.
 
-## Prerequisitos
-1. Investigar si la necesidad ya la cubre un proceso (qué se hace), guía (cómo se puede hacer) o política (las reglas a seguir).
-
 ## Entradas
 1. Una necesidad por resolver.
 
@@ -101,7 +98,7 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
 </table>
 
 ## Salidas
-1. Proceso
+1. Documento del proceso.
 
 ## Métricas
 1. Tiempo de ejecución del proceso
