@@ -11,9 +11,6 @@
 ## Objetivo
 __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ de los miembros pertinentes, en el menor tiempo posible.
 
-## Prerequisitos
-1. Tener un borrador completo del documento a subir.
-
 ## Entradas
 1. Borrador del documento
 
