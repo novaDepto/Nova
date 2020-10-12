@@ -17,6 +17,7 @@
 * [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
 * [Guía para las juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-desempe%C3%B1o)
 * [Guía para las juntas de seguimiento personal ](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-seguimiento-personal-(JSP))
+* [Guía para definir un WBS] (https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
 
 ### Políticas
 
