@@ -16,7 +16,7 @@ departamento.
 
 ### Dos números y una letra
 Las versiones están definidas por dos números separados por puntos y una letra
-de sufijo: __x.z?__
+de sufijo: __x.y?__
 
 * __x__: Este número representa la liberación o línea base a la que pertenece
     el ítem en cuestión. Esto quiere decir que todos los ítems de la primera
