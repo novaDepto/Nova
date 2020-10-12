@@ -22,6 +22,7 @@
 * [Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
 * [Guía para las juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-desempe%C3%B1o)
 * [Guía para las juntas de seguimiento personal ](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-las-juntas-de-seguimiento-personal-(JSP))
+* [\[GUI11\] Guía de versionado](https://github.com/novaDepto/Nova/wiki/%5BGUI11%5D-Gu%C3%ADa-de-versionado)
 
 ### Políticas
 
