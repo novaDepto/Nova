@@ -1,10 +1,9 @@
 ## Responsables
 
-Nombre     | Rol
------------|------------------
-           | Dueño del proceso
-           | Autor
-           | Autor
+| Nombre  | Rol   |
+|---------|-------|
+|         | Dueño del proceso |
+|         | Autor |
 
 ## Objetivo (SMARTish)
 Definir __procesos de ingeniería de software__ que __cualquier miembro del
