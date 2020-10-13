@@ -27,7 +27,12 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">Análisis</td>
+      <td rowspan="5">Análisis</td>
+      <td>Definir un identificador para el proceso (véase <a href="https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n">GUI10</a>)</td>
+      <td>Autor del proceso</td>
+      <td>PPQA, CM</td>
+    </tr>
+    <tr>
       <td>Definir un objetivo <a href="#">SMARTish</a> del proceso.</td>
       <td>Autor del proceso</td>
       <td>PPQA, MA</td>

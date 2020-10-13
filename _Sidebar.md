@@ -4,7 +4,7 @@
 
 * [Proceso para Planificar](https://github.com/novaDepto/Nova/wiki/Proceso-para-Planificar)
 * [Proceso de auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditor%C3%ADas)
-* [Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
+* [Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/%5BPRO01%5D-Proceso-para-definir-un-proceso)
 * [Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
 * [Proceso para auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditorías)
 * [Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
