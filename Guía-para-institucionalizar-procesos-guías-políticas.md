@@ -47,18 +47,24 @@ que ser la rama _master_**. La segunda es la rama que publicaste en el paso 1.
 0. Finalmente confirma la creación presionando `Create pull request`.
 
 ### Solicitar revisión a un encargado de área
-Al crear un proceso, política o guía que sea relacionada con una área del
+1. Al crear un proceso, política o guía que sea relacionada con una área del
 departamento recomendamos que se solicite la aprobación de un encargado de esta.
 Para pedir una revisión en un _pull request_, selecciona el símbolo de ajustes
 de la sección de `Reviewers`. En caso de que no aparezca el usuario de la 
 persona, solicita que un librarian lo agregue como **colaborador**.
 
+2. Además, agrega a tu pull request la etiqueta de **Review Required**.
+Para agregar labels solo da click al checkbox de tu pull request, y selecciona el label en el dropdown de labels
+que aparece a la izquierda de tu pantalla.
+
 ![reviewers][reviewers]
 
 ### Realizar correcciones o cambios
-Después de una revisión, puede que te soliciten cambios. Realiza los cambios
+1. Después de una revisión, puede que te soliciten cambios. Realiza los cambios
 necesarios en la **rama en la que publicaste tu borrador del documento**. Al
 volver a publicar esta rama, el _pull request_ se actualizará.
+
+2. Además, agrega a tu pull request la etiqueta de **Requested Changes Fixed**.
 
 ## ¿Cómo hacer revisiones a propuestas de mis compañeros?
 ### Revisar cambios
@@ -86,25 +92,30 @@ escribir tu comentario.
 ![comentario][comentario]
 
 ### Solicitar cambios
-Para solicitar cambios: realiza los pasos 1 y 2 de **Comentar líneas en
+1. Para solicitar cambios: realiza los pasos 1 y 2 de **Comentar líneas en
 específico**. Ahora empezarás un _review_ con el botón de `Start a review`. Con
 este _review_ podrás agregar varios comentarios en diferentes partes del
 documento. Para **finalizar** el _review_ presiona el botón de `Finish your
 review` en la parte superior derecha, selecciona el _checkbox_ de `Request
 changes`, y finalmente `Submit review`.
 
+2. Además, agrega al pull request la etiqueta de **Changes Requested**.
+
 ![cambios]
 
-Cuando se hagan los cambios que pediste te llegará una notificación a tu correo,
+3. Cuando se hagan los cambios que pediste te llegará una notificación a tu correo,
 y en la conversación del _pull request_ desplegará un mensaje sobre un nuevo
 _commit_.
 
 ### Aprobar el documento
-Para aprobar un documento: En la sección de `Files changed`, en la parte
+1. Para aprobar un documento: En la sección de `Files changed`, en la parte
 superior derecha, presiona `Review changes`. Recomendamos que dejes un 
 comentario que felicite al autor del documento para subir la moral :). 
 Finalmente selecciona el _checkbox_ de `Approve` y sube la validación con el
 botón de `Submit review`.
+
+2. Además, se recomienda que cuando el documento ya esté aprobado se añada la etiqueta **Approved** y/o 
+**Communication Required** al pull request.
 
 ![aprobar][aprobar]
 
