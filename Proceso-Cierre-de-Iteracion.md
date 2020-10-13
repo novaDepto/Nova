@@ -6,7 +6,7 @@
 
 
 ## Objetivo
-Identificar como mejorar la forma de trabajo del equipo detectanto lo que funcionó, lo que no y la razón de ello.
+Identificar como mejorar la forma de trabajo del equipo detectando lo que funcionó, lo que no y la razón de ello.
 
 
 ## Entrada 
