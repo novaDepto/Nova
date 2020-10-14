@@ -49,3 +49,8 @@
 * [Código de ética](https://github.com/novaDepto/Nova/wiki/C%C3%B3digo-de-%C3%A9tica)
 * [\[GUI99\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-denuncias)
 * [\[PRO99\] Proceso de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Proceso-de-resoluci%C3%B3n-de-conflictos)
+
+### Directorios de archivos
+***
+
+* [CMMI](https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI)
