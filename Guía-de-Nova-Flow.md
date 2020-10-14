@@ -1,4 +1,3 @@
-# Guía para NovaFlow™
 
 ## Responsables
 | Nombre         | Rol           |
@@ -41,9 +40,11 @@ las ramas temporales. La idea de esta rama es poder correr _pruebas unitarias
 automatizadas_ para **verificar que no se rompió alguna funcionalidad** cuando 
 se integra el código.
 
-Cuando se haga _push_ de la versión local de _staging_ a la versión remota, 
-se van a correr pruebas y es responsabilidad de quien haga ese _push_ avisar del
- defecto y de liderear el esfuerzo para repararlo.
+Cuando se crea un _Pull Request_ hacia _staging_, se van a correr pruebas y **es
+responsabilidad de quien haga ese _Pull Request_** avisar del defecto y de 
+liderear el esfuerzo para repararlo. **No es necesario la aprobación de otro
+integrante del equipo** para completar el _Pull Request_, el mismo developer 
+tiene la autorización para completarlo él mismo.
 
 De esta rama es que van a surgir los _Pull Requests_ hacia `master`. 
 Estos _Pull Requests_ tienen que pasar la **validación de stakeholder** antes de 
