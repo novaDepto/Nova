@@ -19,14 +19,6 @@ Un objetivo que resuelva una necesidad del departamento
 4. Regla 4
 5. Regla 5
 
-          
-## Bitácora de cambios
-
-
-| Versión |  Cambio                | Fecha       | Autor    | Evaluador |
-| --------|  --------------------- | ----------- | -------- | --------- |
-| 1.0     |                        |             |          |           |
-
 
 
 
