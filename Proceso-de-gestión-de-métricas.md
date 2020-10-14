@@ -11,9 +11,6 @@ Raymundo   | Autor
 ## Entradas
 1. Datos nuevos del departamento o los equipos
 
-## Políticas
-1. Cumplir con lo establecido en la Política de Gestión de Métricas.
-
 ## Proceso
 <table>
   <thead>
@@ -46,16 +43,12 @@ Raymundo   | Autor
     </tr>
     <tr>
       <td rowspan="3">Comunicación</td>
-      <td>Documenta las métricas obtenidas, junto con su análisis razonado, en el Reporte de Métricas (Consulta la <a href="https://docs.google.com/document/d/14DiOFEQ5r5SDuT0vyqemkiO4_keDRYlbRpuyluY4iWY/edit"><strong>Plantilla del Reporte de Métricas<strong></a>). </td>
+      <td>Documenta las métricas obtenidas, junto con su análisis razonado, en el Reporte de Estado (Consulta la <a href="https://drive.google.com/drive/u/1/folders/1XZxtdq3RoWhYY6TDnYhSzn36lIpbwFja"><strong>Plantilla del Reporte de Estado<strong></a>). </td>
       <td rowspan="3">MA</td>
       <td rowspan="3">PP, MA</td>
     </tr>
-     <tr>
-      <td>Envía el Reporte de Métricas a los encargados de PPQA y PMC. 
-      </td>
-    </tr>
     <tr>
-      <td>Presenta el Reporte de Métricas durante los reportes de estado o las juntas departamentales.</td>
+      <td>Presenta las métricas en los Reportes de Estado.</td>
     </tr>
   </tbody>
 </table>
@@ -66,4 +59,3 @@ Raymundo   | Autor
 
 ## Métricas
 1. Backlog de Métricas
-2. Reporte de Métricas
