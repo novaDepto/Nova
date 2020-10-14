@@ -51,7 +51,7 @@ Raymundo   | Autor
       <td rowspan="3">PP, MA</td>
     </tr>
      <tr>
-      <td>Envía el Reporte de Métricas a los encargados de PPQA. 
+      <td>Envía el Reporte de Métricas a los encargados de PPQA y PMC. 
       </td>
     </tr>
     <tr>
