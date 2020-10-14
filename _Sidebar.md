@@ -8,6 +8,7 @@
 * [Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
 * [Proceso para auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditorías)
 * [Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
+* [Proceso para planificar iteración](https://github.com/novaDepto/Nova/wiki/Proceso-para-planificar-iteracion)
 
 ### Guías
 
