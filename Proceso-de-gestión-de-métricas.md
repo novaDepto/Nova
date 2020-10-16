@@ -3,7 +3,7 @@ Nombre     | Rol
 -----------|------------------
 Raymundo   | Autor
 
-## Objetivo
+## Objetivos
 1. Asegurar la recolección, análisis, comunicación y seguimiento de las métricas.
 2. Generar un plan de acción basado en los datos de las métricas.
 3. Poner a disposición las métricas para el departamento.
