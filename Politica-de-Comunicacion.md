@@ -30,9 +30,9 @@ Garantizar la comunicación efectiva entre los miembros del departamento.
         <li>Cuando nuestro proceso/guía/política llega al stack de <i>Pull-Requests</i> agregamos de <i>reviewers</i>  a las personas encargadas del área que requerimos revisión.
         </li> 
         <li>También notificamos a cada persona del área abriendo un hilo al mensaje del bot de <i>Pull-Requests</i> en <b><i>nova-foro</i></b> mediante un "@Nombre". 
-            </li>       
-            <li>Todos los miembros notificados deberán responder en las siguientes 24 horas con un comentario en GitHub, ya sea dando retroalimentación o informando que lo han leído.
-            </li>
+        </li>       
+        <li>Todos los miembros notificados deberán responder en las siguientes 24 horas con un comentario en GitHub, ya sea dando retroalimentación o informando que lo han leído.
+        </li>
       </ul>
 
 ## Glosario
