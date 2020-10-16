@@ -24,6 +24,7 @@
 * [\[GUI09\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
 * [\[GUI10\] Guía de manejo de configuración](https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n)
 * [\[GUI11\] Guía de versionado](https://github.com/novaDepto/Nova/wiki/%5BGUI11%5D-Gu%C3%ADa-de-versionado)
+* [\[GUI12\] Guía para institucionalizar procesos guías políticas](https://github.com/novaDepto/Nova/wiki/Guia-para-analisis-y-diseno-de-historias-de-usuario)
 
 ### Políticas
 
