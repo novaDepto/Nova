@@ -35,6 +35,7 @@
 * [\[POL03\] Política de juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
 * [\[POL04\] Política-de-Juntas](https://github.com/novaDepto/Nova/wiki/Politica-de-Juntas)
 
+* [\[POL06\] Política de Comunicación](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
 ### Plantillas
 
 ***
