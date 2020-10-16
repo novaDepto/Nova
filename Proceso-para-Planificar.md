@@ -43,7 +43,7 @@ La planificación incluye la estimación de los atributos de los productos de tr
     <tr>
       <td>De las herramientas necesarias para realizar la tarea </td>
       <td>Autor del plan</td>
-      <td>Áreas PP</td>
+      <td>PP</td>
     </tr>
     <tr>
       <td>Del tiempo estimado para su realización en horas</td>
