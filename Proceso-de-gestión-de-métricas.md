@@ -3,10 +3,10 @@ Nombre     | Rol
 -----------|------------------
 Raymundo   | Autor
 
-## Objetivo (SMARTish)
+## Objetivo
 1. Asegurar la recolección, análisis, comunicación y seguimiento de las métricas.
 2. Generar un plan de acción basado en los datos de las métricas.
-3. Disponibilizar las métricas para el departamento.
+3. Poner a disposición las métricas para el departamento.
 
 ## Entradas
 1. Datos nuevos del departamento o los equipos
