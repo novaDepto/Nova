@@ -7,7 +7,7 @@ Aquí podras encontrar la documentación correspondiente a procesos, políticas,
 
 [Andrómeda](https://gitlab.com/nova_tec/obcapital)
 
-[Canis Majoris](https://github.com/novaDepto/PugSeal)
+[Cannis Majoris](https://github.com/novaDepto/PugSeal)
 
 ***
 
