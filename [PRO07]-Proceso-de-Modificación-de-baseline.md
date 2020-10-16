@@ -67,6 +67,11 @@ día
       <td>Autor del cambio o team member</td>
       <td>CM, REQM, VAL, VER</td>
     </tr>
+    <tr>
+      <td>Comunica el cambio al equipo involucrado
+      <td>Autor del cambio</td>
+      <td>CM, REQM, PP</td>
+    </tr>
   </tbody>
 </table>
 
@@ -76,3 +81,5 @@ día
 
 ## Métricas
 1. Tiempo de revisión de cambios.
+2. Breakdown por categoría de cambios, i.e. si fueron _fixes_, adiciones,
+eliminaciones, etc.
