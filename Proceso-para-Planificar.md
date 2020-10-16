@@ -1,6 +1,3 @@
-# Proceso para Planificar
-
-
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
