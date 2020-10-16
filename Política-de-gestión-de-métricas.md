@@ -17,5 +17,4 @@ Raymundo   | Autor
 ## Respecto a las métricas:
 1. Hay 3 Backlog de Métricas: Uno por equipo y el del departamento.
 2. Los equipos y el departamento pueden tener métricas comunes y únicas.
-3. Los Backlog de Métricas se encuentran en: 
-Departamento > Desarrollo del Departamento > CMMI > MA > Backlog de Métricas.
+3. Los Backlog de Métricas se encuentran en: <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI#MA">Directorio de MA</a>
