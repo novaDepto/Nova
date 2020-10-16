@@ -5,7 +5,7 @@
 | Dan       | Responsable    |
 
 ## Objetivos
-Establecer la forma de tabajo que todos los miembros de Nova siguen.
+Establecer la forma de trabajo de todos los miembros de Nova.
 
 ## Reglamento
 1. Hora del departamento
