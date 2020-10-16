@@ -33,6 +33,7 @@
 * [\[POL02\] Política de juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-desempe%C3%B1o)
 * [\[POL03\] Política de juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
 * [\[POL04\] Política-de-Juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
+* [\[POL05\] Política de Nova WoW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
 
 ### Plantillas
 
