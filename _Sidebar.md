@@ -6,8 +6,7 @@
 * [\[PRO02\] Proceso de auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditor%C3%ADas)
 * [\[PRO03\] Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/%5BPRO01%5D-Proceso-para-definir-un-proceso)
 * [\[PRO04\] Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
-* [\[PRO05\] Proceso para auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditorías)
-* [\[PRO06\] Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
+* [\[PRO05\] Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
 
 ### Guías
 
@@ -33,7 +32,7 @@
 * [\[POL01\] Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 * [\[POL02\] Política de juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-desempe%C3%B1o)
 * [\[POL03\] Política de juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
-* [\[POL04\] Política-de-Juntas](https://github.com/novaDepto/Nova/wiki/Politica-de-Juntas)
+* [\[POL04\] Política-de-Juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
 
 ### Plantillas
 
