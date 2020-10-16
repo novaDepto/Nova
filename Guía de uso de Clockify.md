@@ -1,15 +1,6 @@
-# Guía de uso de Clockify
-
-## Introducción
-Clockify es una herramienta que permite la medición del tiempo de actividades específicas. Nos permite tener una medición más precisa de las tareas, tener un seguimiento de las tareas en las que trabaja el equipo y por lo tanto mejora la rentabilidad del proyecto.
-
-
----
 ## Objetivo
 
-Mejorar el monitoreo de tiempo de las actividades a través de:
-* Identificar el tiempo que toma realizar una actividad.
-* Mejorar las planeaciones al comprobar que las estimaciones de los tiempos concuerdan con el tiempo real. 
+Hacer uso correcto de la herramienta *Clockify* y mejorar el monitoreo de tiempo de las actividades.
 
 ---
 ## Medición del tiempo
@@ -20,7 +11,7 @@ Los pasos para la medición del tiempo:
 ![](https://i.imgur.com/TAR386M.png)
 <br>
 
-**2. Escribir el nombre de la tarea que vas a realizar**
+**2. Escribir el nombre exacto que aparece en el plan de la tarea que se va a realizar**
 
 ![](https://i.imgur.com/1XgmuI2.png)
 <br>
@@ -29,17 +20,25 @@ Los pasos para la medición del tiempo:
 
 ![](https://i.imgur.com/iELnbpg.png)
 <br>
+**4. Seleccionar el *tag* de dicha tarea, es decir, a qué pertenece esa actividad (CMMI, Clase, Guía) o seleccionar el número de *Agile points* en caso de ser una US.**
+![](https://i.imgur.com/SxRItB4.jpg)
+<br>
 
-**4. Iniciar clockify al empezar una tarea con el botón *START***
+**5. Seleccionar si la tarea es *Billable ($)*, las tareas *Billable* son aquellas que están consideradas en el plan y tienen el proposito de cumplir con los requerimientos que pide el stakeholder, las que no están consideradas en el plan y no le brindan valor al stakeholder (horas dedicadas a aprender una tecnología, daily meetings, etc.) no son *billable***.
+
+![](https://i.imgur.com/wuFEphe.png)
+<br>
+
+**6. Iniciar clockify al empezar una tarea con el botón *START***
 
 ![](https://i.imgur.com/gv9yBC5.png)
 <br>
 
-**5. Una vez que hayas finalizado con la tarea detienes el Clockify con el botón *STOP*.**
+**7. Una vez que hayas finalizado con la tarea detienes el Clockify con el botón *STOP*.**
 ![](https://i.imgur.com/34wH6Ms.png)
 <br>
 
-**6. De igual manera si aún no terminas la tarea pero necesitas pausar el Clockify, seleccionas *STOP* y cuando retomes la tarea puedes volver a tomar el tiempo de la tarea que estabas realizando.**
+**8. De igual manera si aún no terminas la tarea pero necesitas pausar el Clockify, seleccionas *STOP* y cuando retomes la tarea puedes volver a tomar el tiempo de la tarea que estabas realizando.**
 <br>
 
-**7. Registra el tiempo en los documentos correspondientes (planes, Backlogs,etc.).**
+**9. Registra el tiempo en los documentos correspondientes (planes, Backlogs,etc.).**
