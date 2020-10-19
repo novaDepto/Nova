@@ -32,10 +32,11 @@
 * [\[POL01\] Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 * [\[POL02\] Política de juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-desempe%C3%B1o)
 * [\[POL03\] Política de juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
-* [\[POL04\] Política-de-Juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
+* [\[POL04\] Política-de-juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
 * [\[POL05\] Política de Nova WoW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
+* [\[POL06\] Política de comunicación](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
+* [\[POL07\] Política de elementos de la configuración](https://github.com/novaDepto/Nova/wiki/Politica-de-elementos-de-la-configuracion)
 
-* [\[POL06\] Política de Comunicación](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
 ### Plantillas
 
 ***
