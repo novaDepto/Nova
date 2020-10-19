@@ -1,5 +1,3 @@
-# Guía de Identificación de Métricas (MA)
-
 ## Responsables
 Nombre     | Rol
 -----------|------------------
