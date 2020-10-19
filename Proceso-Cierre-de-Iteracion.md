@@ -6,7 +6,7 @@
 
 
 ## Objetivo
-Identificar como mejorar la forma de trabajo del equipo detectando lo que funcionó, lo que no y la razón de ello.
+Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funcionó, lo que no y la razón de ello.
 
 
 ## Entrada 
@@ -31,12 +31,7 @@ Identificar como mejorar la forma de trabajo del equipo detectando lo que funcio
       <td>Demostración de la solución</td>
       <td>
       <ul>
-          <li>Adoptar una agenda de demostraciones con stakeholders:</li> 
-          <ul>
-              <li>Demostración de la Iteración</li>
-              <li>Demostración bajo demanda</li>
-              <li>All hands demostration</li>
-          </ul>
+          <li>Asegurarse de mostrar al stakeholder los avances de la Iteración.</li> 
          <li>Actualización de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Log de incosistencias</a></li>
          <li>Actualización de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Bitácora de cambios</a></li>
       </ul>
@@ -48,11 +43,11 @@ Identificar como mejorar la forma de trabajo del equipo detectando lo que funcio
       <td>Análisis</td>
       <td>
           <ul>
-              <li>Sesión de <a href="https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6">retrospectiva</a>
+              <li>Sesión de <a href="https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6">retrospectiva</a>(¿Qué hicimos bien, que si no discutimos podemos olvidar?, ¿Qué aprendimos?, ¿En qué podemos mejorar?, ¿Qué tenemos que hacer diferente la siguiente vez?, ¿Qué aspectos aún nos causan ruido?)
               </li>
               <li>Actualización de <a href="https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit?usp=sharing">Matriz riesgos del proyecto</a>
               </li>
-              <li>Adoptar estrategias y métricas de mejora.
+              <li>Generar <a href="">acciones correctivas</a>
               </li>
           </ul>
       </td>
@@ -63,9 +58,10 @@ Identificar como mejorar la forma de trabajo del equipo detectando lo que funcio
 </table>
 
 ## Salida
-1. [Documento de Retrospectiva](https://docs.google.com/document/d/1QbyGxG1dChlKiK-U5r6-2meh6HvqfM4SVKSE6riIg5g/edit?usp=sharing)
-2. [Actualización a Mátriz de Riesgos](https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit?usp=sharing). 
+1. [Presentación  de Retrospectiva](https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6)
+3. [Actualización a Mátriz de Riesgos](https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit?usp=sharing). 
 
 
 ## Métricas
 1. Sesión de retrospectiva, la cual tiene una duración entre 30 a 60 minutos.
+
