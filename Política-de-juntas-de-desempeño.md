@@ -23,17 +23,3 @@ Asegurar un proceso de retroalimentación y mejora continua en cada integrante d
 
     4.1 Si alguien incumple con esta regla, entonces se deberá reportar al Comité de Ética
 5. Queda prohibido usar el contenido de las juntas para coaccionar las acciones de los otros integrantes del equipo.  En caso de que esto suceda, se deberá reportar al Comité de Ética.
-
-## Bitácora de cambios
-<table>
-<thead>
-<tr>
-<th>Versión</th> <th>Cambio</th> <th>Fecha</th> <th>Autor</th> <th>Evaluador</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1.0</td> <td>Creación de la Política</td> <td>02/09/2020</td> <td>Raymundo</td> <td>Carlos Miguel<br>Alonso</td>
-</tr>
-</tbody>
-</table>

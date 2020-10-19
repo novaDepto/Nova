@@ -1,6 +1,3 @@
-Guía para crear eventos en el calendario
-=======================================
-
 ## Responsables
 Nombre        | Rol                 |
 --------------|---------------------|
