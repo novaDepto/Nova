@@ -19,7 +19,6 @@ Los elementos sometidos a la Gestión de la Configuración en Nova son:
           <li>Mapa de procesos</li>
      </ul>
      <br>
-     
 2. **Productos de trabajo entregados al cliente**:
     *Productos de trabajo sobre el proyecto de software que son entregados a los clientes.*
      <ul>
@@ -44,7 +43,7 @@ Los elementos sometidos a la Gestión de la Configuración en Nova son:
           <li>Hojas de planificación y monitoreo de la iteración</li>
            <li>Gráficas de datos</li>
      </ul>
-      
+     <br>
 4. **Productos de trabajo entregados al departamento por algún stakeholder del proyecto**:
     *Productos de trabajo que son dados al departamento con el fin de cumplir con el proyecto de software.*
      <ul>
@@ -55,7 +54,7 @@ Los elementos sometidos a la Gestión de la Configuración en Nova son:
           <li>Contraseñas de acceso</li>
           <li>Hojas de cálculo</li>
      </ul>
-     
+     <br>
 Los elementos que no son sometidos a la Gestión de la Configuración en Nova son:
 
 1. **Productos de trabajo que NO ayuden a planificar, monitorear, controlar y dar solución a los proyectos de software y el desarrollo del departamento** 
