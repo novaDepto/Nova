@@ -3,12 +3,13 @@ Nombre     | Rol
 -----------|------------------
 Raymundo   | Autor
 
-## Objetivo (SMARTish)
+## Objetivos
 1. Asegurar la identificación, análisis, priorización y documentación de los posibles riesgos durante el desarrollo del proyecto.
 2. Generar un plan de mitigación y contingencia ante los riesgos identificados.
 
 ## Entradas
 1. Riesgo no gestionado que afecta al desempeño del equipo o departamento.
+2. Matriz de riesgos del área al que corresponde.
 
 ## Proceso
 <table>
