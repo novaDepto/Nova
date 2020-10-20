@@ -82,6 +82,12 @@ Raymundo   | Autor
       <td>Historial del Cuestionario de Salud</td>
     </tr>
     <tr>
+      <td>Encuesta semanal de satisfacción</td>
+      <td>¿Cuál es el estatus actual del departamento?</td>
+      <td>Promedio de resultados (Uno por pregunta de la encuesta)</td>
+      <td>Historial de Encuesta de satisfacción</td>
+    </tr>
+    <tr>
       <td colspan="4"><h3>Futuras métricas del departamento</h3></td>
     </tr>
     <tr>
