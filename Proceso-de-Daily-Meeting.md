@@ -66,12 +66,13 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
     </tr>
 <tr>
         <td>Compromiso</td>
-        <td>Actualizar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gestion-de-metricas">matriz de compromisos</a>, con actividades a realizar y responsables. </td>
+        <td>Actualizar <a href="https://docs.google.com/spreadsheets/d/1yLyZG1rzwxDMdS-tFSKhnuRWFt-bHZXBtndVOY_9UOI/edit">matriz de compromisos</a>, con actividades a realizar y responsables. </td>
         <td>Autor del proceso</td>
         <td>PMC</td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## Salida
