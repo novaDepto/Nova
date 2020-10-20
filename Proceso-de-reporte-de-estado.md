@@ -38,7 +38,23 @@ Definir las actividades a realizar para generar y preparar una presentación de 
       <td>PMC</td>
     </tr>
      <tr>
-      <td> Realizar cambios a las secciones de la plantilla de reporte de estado para definir qué información se debe de presentar en el reporte </td>
+      <td> Realizar cambios a las secciones de la plantilla de reporte de estado para definir qué información se debe de presentar en el reporte. Específicamente el reporte de estado siempre debe responder a las preguntas: 
+      <ul>
+          <li>¿Dónde estamos?</li>
+          <li>¿Dónde deberíamos estar?</li>
+          <li>¿Cuánto nos ha costado? (en términos de esfuerzo)</li>
+      </ul> 
+      Se recomienda incluir elementos sugeridos por Disciplined Agile Delivery como:
+       <ul>
+          <li>Nombre del proyecto, visión y objetivo</li>
+          <li>Logros del equipo</li>
+          <li>Estado de los riesgos y plan de mitigación/contingencia</li>
+          <li>Impedimentos actuales y su plan de resolución</li>
+          <li>Issues resueltos y pendientes con los miembros del equipo</li>
+          <li>Solicitudes de apoyo al staff de soporte</li>
+          <li>Milestones y actividades siguientes</li>
+      </ul> 
+      </td>
       <td>PM o encargado de PMC</td>
       <td>PMC</td>
     </tr>
