@@ -26,6 +26,7 @@
 </tr>	
 <tr>
 <td>5</td> <td>Gestión de procesos</td> <td>OPM</td> <td>Gestión del Rendimiento de la Organización</td> <td>Analizar el rendimiento del negocio de la organización para identificar mejoras</td>
+  
 </tr>				
 <tr>
 <td>4</td> <td>Gestión de procesos</td> <td>OPP</td> <td>Rendimiento de Procesos de la Organización</td> <td>Estandarizar las bases de rendimiento de la organización</td>
