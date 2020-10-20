@@ -36,7 +36,7 @@
 * [\[POL05\] Política de Nova WoW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
 * [\[POL06\] Política de Comunicación](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
 
-* [\[POL09\] Política de Manejo de Datos](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
+* [\[POL09\] Política de Manejo de Datos](https://github.com/novaDepto/Nova/wiki/Politica-de-Manejo-de-Datos)
 ### Plantillas
 
 ***
