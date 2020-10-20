@@ -24,14 +24,12 @@ Definir las líneas base del departamento con el propósito de:
       <br>
 2. Los elementos de la configuración en línea base corresponden a la última versión que está siendo usada por el departamento o los stakeholders
 <br>
-3. En el departamento existen 4 líneas base:
+3. En el departamento existen 3 líneas base:
       <ul>
           <li> 
           <a href="https://github.com/novaDepto/Nova/wiki"> Línea base de la Wiki del departamento 
           </a> 
           </li>
-          <li> 
-          <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-del-departamento"> Línea base del Google Drive del departamento </a> </li>
           <li> <a href="https://github.com/AlonsoOropeza/PugSeal"> Línea base del proyecto Cannis Majoris </a> </li>
           <li> <a href="https://gitlab.com/nova_tec/obcapital">  Línea base del proyecto Andrómeda </a> </li>
       </ul>
