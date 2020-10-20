@@ -1,6 +1,6 @@
 ## Responsables
-| Nombre    | Rol               | 
-| --------- | ----------------- | 
+| Nombre    | Rol               |
+| --------- | ----------------- |
 | Carlos    | Dueño del Proceso |
 | Marla     | Autor             |
 
@@ -14,7 +14,8 @@ Planear las actividades y user stories de la iteración
 2. User Stories priorizadas.
 3. [Esfuerzo del equipo]("https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=753031204")(tiempo a dedicar).
 4. Estimación de tiempo por cada ítem de trabajo.
-6. [Plantilla planeación y monitoreo de la iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit?usp=sharing)
+6. [Plantilla planeación y monitoreo de la iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1457739545)
+6. [Matriz de compromisos](https://docs.google.com/spreadsheets/d/1yLyZG1rzwxDMdS-tFSKhnuRWFt-bHZXBtndVOY_9UOI/edit#gid=157465099)
 
 
 
@@ -103,15 +104,20 @@ Planear las actividades y user stories de la iteración
       <td>
       <li>Preguntar a cada miembro si se encuentra totalmente comprometido con el plan, sino hacer los ajustes necesarios al plan.</li>
       <li>Establecer los compromisos internos del equipo para satisfacer la iteración</li>
+       <li>Actualizar la matriz de <a href="https://docs.google.com/spreadsheets/d/1yLyZG1rzwxDMdS-tFSKhnuRWFt-bHZXBtndVOY_9UOI/edit#gid=157465099">compromisos</a></li>
       </td>
       <td>TL</td>
-      <td>PP</td>
+      <td>PP, PMC</td>
     </tr>
   </tbody>
 </table>
 
+
 ## Salida
 1. [Plantilla planeación y monitoreo de la iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit?usp=sharing)
+2. [Matriz de compromisos](https://docs.google.com/spreadsheets/d/1yLyZG1rzwxDMdS-tFSKhnuRWFt-bHZXBtndVOY_9UOI/edit?usp=sharing)
+
+
 
 
 
