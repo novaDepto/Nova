@@ -8,6 +8,7 @@
 * [\[PRO04\] Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
 * [\[PRO05\] Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
 * [\[PRO08\] Proceso de mejora de procesos (PIP)](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-de-procesos)
+* [\[PRO09\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
 
 ### Guías
 
