@@ -1,12 +1,15 @@
 ## Responsables
 | Nombre  | Rol   |
 |---------|-------|
-| Peter   | Autor |
+| Peter   | Dueño del proceso |
+| Lisieux   | Autor |
+| Daniel E.  | Autor |
 | Alexis   | Autor |
 | Yaf   | Autor |
 | Juan   | Autor |
 | Alonso   | Autor |
 | Charlie   | Autor |
+
 
 ## Objetivo
 __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ de los miembros pertinentes, en el menor tiempo posible.
@@ -26,19 +29,35 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Pull Request</td>
-      <td>Crear <b><em>Pull Request<em> a la rama <em>master</em></b> para incluir el documento en la wiki.</td>
+      <td rowspan="2">Planteamiento</td>
+      <td>Tener a la mano, y hasta el final, la <a href="https://docs.google.com/document/d/1KsHp4WnXDkejTbftg5n5KR3B6psNcvt8K9W1mDZjkps/edit?usp=sharing">rúbrica para procesos</a> <b><em></em></b></td>
+      <td>Autor del documento</td>
+      <td>CM</td>
+    </tr
+    <tr>
+      <td>Validar que el proceso a realizar cumpla con los puntos de <b>viabilidad </b>y <b>valor organizacional </b> </td>
+      <td>Autor del documento</td>
+      <td>CM, PPQA</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Creación</td>
+      <td>Seguir el <a href="https://github.com/novaDepto/Nova/blob/master/%5BPRO01%5D-Proceso-para-definir-un-proceso.md">proceso para definir procesos</a> <b><em></em></b></td>
+      <td>Autor del documento</td>
+      <td>CM</td>
+    </tr
+    <tr>
+      <td>Validar que el proceso cumpla con los puntos de <b>definición</b> y <b>estándarización  </b> </td>
+      <td>Autor del documento</td>
+      <td>CM, PPQA</td>
+    </tr>
+    <tr>
+      <td rowspan="6">Publicación</td>
+      <td>Tomar en consideración la <a href="https://github.com/novaDepto/Nova/blob/master/Guía-para-institucionalizar-procesos-guías-políticas.md">guía de institucionalización</a></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr>
     <tr>
-      <td>Incluir el <b>objetivo del documento en la descripción del <em>Pull Request</em></b></td>
-      <td>Autor del documento</td>
-      <td>CM</td>
-    </tr>
-    <tr>
-      <td rowspan="4">Revisión y Mejora</td>
-      <td>Solicitar el <em>approval</em> de <b>al menos un librarian o SEPG</b></td>
+      <td>Solicitar el <em>approval</em> de <b> al menos un librarian o SEPG<b/></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr>
@@ -53,12 +72,17 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
       <td>PPQA, PMC, DAR, OPD, OPF</td>
     </tr>
     <tr>
-      <td>Realizar cualquier <b>arreglo o corrección</b> sugerido, ó aclarar cualquier duda presentada en la conversación del <em>Pull Request</em></td>
+      <td>Realizar cualquier <b>arreglo y corrección</b> sugerido, ó aclarar cualquier duda presentada en la conversación del <em>Pull Request</em></td>
       <td>Autor del documento</td>
       <td>PPQA, OPD, OPF</td>
     </tr>
     <tr>
-      <td rowspan="2">Publicación</td>
+      <td>Validar que el proceso cumpla con los puntos de <b>institucionalización </b> </td>
+      <td>Autor del documento</td>
+      <td>PPQA, OPD, OPF</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Divulgación</td>
       <td><b>Completar el <em>Pull Request</em></b> para que se agregue el documento en la wiki.</td>
       <td>Autor del documento</td>
       <td>CM</td>
@@ -67,6 +91,27 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
       <td><b>Comunicar al departamento</b> sobre la publicación del nuevo documento para la implementación en la <em>Forma de trabajo</em></td>
       <td>Autor del documento</td>
       <td>PMC, PPQA, OT, OPD, OPF</td>
+    </tr>
+    <tr>
+      <td>Validar que el proceso cumpla con los puntos de <b>difusión </b> </td>
+      <td>Autor del documento</td>
+      <td>CM, PPQA</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Mantenimiento</td>
+      <td>Solicitar auditoría para el proceso institucionalizado</td>
+      <td>Autor del documento</td>
+      <td>PPQA</td>
+    </tr>
+    <tr>
+    <td>Comunicar el <b>desempeño obtenido</b> tras la puesta en práctica del proceso. Y las <b>propuestas de mejora</b></td>
+      <td>Miembros del departamento</td>
+      <td>PMC, MA</td>
+    </tr>
+    <tr>
+      <td>Responder por las <b>no conformidades </b>y darles seguimiento a través del <a href="https://docs.google.com/spreadsheets/d/1XoZIS9bOkvG00JPGWq24f4WuB-bdESkBypvnKAiDHEM/edit#gid=1693231540">control de auditorías </a> </td>
+      <td>Autor del documento</td>
+      <td>PMC, CM, PPQA</td>
     </tr>
   </tbody>
 </table>
@@ -82,4 +127,3 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
 | Tiempo de aprobación de un PR | horas |
 | Alcance | **reacciones** al _anuncio de slack_|
 | Utilidad | Cantidad de _Pull Requests_|
-
