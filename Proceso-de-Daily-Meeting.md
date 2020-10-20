@@ -1,15 +1,16 @@
 ## Responsables
-| Nombre    | Rol               | 
-| --------- | ----------------- | 
-| Marla     | Dueño del Proceso | 
-| Alonso    | Responsables      | 
-| Carlos    | Responsables      | 
+| Nombre    | Rol               |
+| --------- | ----------------- |
+| Marla     | Dueño del Proceso |
+| Alonso    | Responsables      |
+| Carlos    | Responsables      |
 
 ## Objetivo
-Guíar el proceso en las juntas de coordinación para comunicar efectivamente el estado de los items de trabajo, informacion y resolución impedimentos y la coordinación las tareas del día.
+Guiar el proceso en las juntas de coordinación para comunicar efectivamente el estado de los ítems de trabajo, información y resolución impedimentos y la coordinación las tareas del día.
 
 ## Entrada 
 1. Plan de trabajo
+2. Matriz de compromisos
 
 
 ## Proceso
@@ -26,7 +27,7 @@ Guíar el proceso en las juntas de coordinación para comunicar efectivamente el
     <tr>
       <td rowspan="2">Análisis</td>
       <td>
-          Visualizar el plan de trabajo</td>
+          Visualizar el plan de trabajo y matriz de compromisos</td>
       <td>Autor del proceso</td>
       <td>PP</td>
     </tr>
@@ -63,11 +64,19 @@ Guíar el proceso en las juntas de coordinación para comunicar efectivamente el
         <td>Autor del proceso</td>
         <td>PP</td>
     </tr>
+<tr>
+        <td>Compromiso</td>
+        <td>Actualizar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gestion-de-metricas">matriz de compromisos</a>, con actividades a realizar y responsables. </td>
+        <td>Autor del proceso</td>
+        <td>PMC</td>
+    </tr>
   </tbody>
 </table>
 
+
 ## Salida
 1. Actualización al plan de trabajo.
+2. Actualización matriz de compromisos.
 
 
 ## Métricas
