@@ -22,9 +22,9 @@ Definir las líneas base del departamento con el propósito de:
           <li>  <strong> Controlados:</strong> Para ser modificados deben de pasar por el </li> <a href="https://github.com/novaDepto/Nova/wiki/%5BPRO07%5D-Proceso-de-Modificaci%C3%B3n-de-baseline"> Proceso de modificación de baseline </a>
       </ul>
       <br>
-3. Los elementos de la configuración en línea base corresponden a la última versión que está siendo usada por el departamento o los stakeholders
+2. Los elementos de la configuración en línea base corresponden a la última versión que está siendo usada por el departamento o los stakeholders
 <br>
-5. En el departamento existen 4 líneas base:
+3. En el departamento existen 4 líneas base:
       <ul>
           <li> 
           <a href="https://github.com/novaDepto/Nova/wiki"> Línea base de la Wiki del departamento 
