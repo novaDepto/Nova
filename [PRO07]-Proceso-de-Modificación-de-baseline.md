@@ -7,7 +7,8 @@
 
 ## Objetivo (SMARTish)
 Mantener una gestión y control de los cambios que sufre la línea base día con
-día
+día para conocer mejor nuestra tendencias, aprender de nuestros errores, y
+recuperar datos históricos de ser necesario
 
 ## Entradas
 1. Línea base actual, i.e. última versión estable de documentos y código
@@ -18,6 +19,7 @@ día
 <table>
   <thead>
     <tr>
+      <th>Fase</th>
       <th>Actividades</th>
       <th>Encargado</th>
       <th>Áreas del CMMI</th>
@@ -25,6 +27,7 @@ día
   </thead>
   <tbody>
     <tr>
+      <td>Análisis</td>
       <td> Identifica los archivos que van a sufrir un cambio para incluirlos
       en la solicitud y utilizando la <a
       href="https://github.com/novaDepto/Nova/wiki/%5BGUI11%5D-Gu%C3%ADa-de-versionado">[GUI11]
@@ -34,6 +37,7 @@ día
       <td>CM, REQM</td>
     </tr>
     <tr>
+      <td> Implementación </td>
       <td> Crea un <strong>Pull Request</strong> hacia el repositorio de los
       archivos afectados. En caso de ser un repositorio de código sigue la <a
       href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow">[GUI05]
@@ -45,6 +49,7 @@ día
       <td>CM, REQM, RM</td>
     </tr>
     <tr>
+      <td rowspan="2"> Verificación y validación </td>
       <td>En el <strong>Pull Request</strong> describe la justificación para
       realizar el cambio.</td>
       <td>Autor del Cambio</td>
@@ -57,12 +62,14 @@ día
       <td>CM, REQM, VAL, VER </td>
     </tr>
     <tr>
+      <td> Corrección y Mejora </td>
       <td>Realiza las modificaciones necesarias a partir de los
       <em>reviews</em> de tus compañeros.</td>
       <td>Autor del cambio</td>
       <td>CM, REQM, VAL, VER</td>
     </tr>
     <tr>
+      <td rowspan="2"> Publicación </td>
       <td>Haz <em>merge</em> de los cambios.</td>
       <td>Autor del cambio o team member</td>
       <td>CM, REQM, VAL, VER</td>
