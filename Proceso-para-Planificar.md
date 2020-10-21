@@ -9,16 +9,12 @@
 ## Objetivo
 Desarrollar un plan de proyecto que  proporcione la base para realizar y controlar las actividades del proyecto que aborden y generen compromiso con los involucrados.
 
-## Importancia
-La planificación incluye la estimación de los atributos de los productos de trabajo y de las tareas, la determinación de los recursos necesarios, la negociación de los compromisos, la elaboración de un calendario, y la identificación y el análisis de los riesgos del proyecto.
-a
-## Guía
-Para complementar, te invitamos a revisar esta [guía.](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS) 
 
 ## Entrada 
 1. Lista de las tareas a realizar, ordenadas de mayor a menor riesgo, y por relevancia, de mayor a menor valor.
 2. Tiempo estimado para la realización de las tareas
 3. Fecha límite a la realización de las tareas
+4. Revisar esta [guía para relizar un WBS.](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS) 
 
 ## Proceso
 
