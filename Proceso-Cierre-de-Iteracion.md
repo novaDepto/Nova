@@ -1,5 +1,3 @@
-# Proceso Cierre de Iteración
-
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
@@ -34,7 +32,7 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
       <td>
       <ul>
           <li>Asegurarse de mostrar al stakeholder los avances de la Iteración.</li> 
-         <li>Al presentar un cambio en funcionalidades, actualizar de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Log de incosistencias</a></li>
+         <li>Al presentar un cambio en funcionalidades, actualizar de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Log incosistencias</a></li>
          <li>Actualización de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Bitácora de cambios</a></li>
       </ul>
       </td>
