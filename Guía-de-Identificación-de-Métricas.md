@@ -88,6 +88,12 @@ Raymundo   | Autor
       <td>Historial de Encuesta de satisfacción</td>
     </tr>
     <tr>
+      <td>Progreso de malla</td>
+      <td>¿Cuál es el progreso de cada integrante del departamento con su malla?</td>
+      <td>Número de competencias por nivel</td>
+      <td>Backlog de Malla</td>
+    </tr>
+    <tr>
       <td colspan="4"><h3>Futuras métricas del departamento</h3></td>
     </tr>
     <tr>
