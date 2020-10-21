@@ -51,21 +51,17 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
       <td>CM, PPQA</td>
     </tr>
     <tr>
-      <td rowspan="6">Publicación</td>
+      <td rowspan="5">Publicación</td>
       <td>Tomar en consideración la <a href="https://github.com/novaDepto/Nova/blob/master/Guía-para-institucionalizar-procesos-guías-políticas.md">guía de institucionalización</a></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr>
     <tr>
-      <td>Solicitar el <em>approval</em> de <b> al menos un librarian o SEPG<b/></td>
+      <td>Solicitar el <em>approval</em> de al menos<b> un integrante del Configuration Control Board<b/></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr>
-    <tr>
-      <td>Solicitar el <em>approval</em> de algún <b>encargado de área</b></td>
-      <td>Autor del documento</td>
-      <td>CM</td>
-    </tr>
+    ¡
     <tr>
       <td><b>Revisar el documento</b> para aprovarlo o pedir cambios para mejorarlo.</td>
       <td>SEPG, Encargado del área relacionada con el documento</td>
@@ -101,7 +97,7 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
       <td rowspan="3">Mantenimiento</td>
       <td>Solicitar auditoría para el proceso institucionalizado</td>
       <td>Autor del documento</td>
-      <td>PPQA</td>
+      <td>CM, PPQA</td>
     </tr>
     <tr>
     <td>Comunicar el <b>desempeño obtenido</b> tras la puesta en práctica del proceso. Y las <b>propuestas de mejora</b></td>
@@ -119,11 +115,3 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
 ## Salidas
 1. _Pull Request_ para la validación del documento.
 2. _Anuncio en slack_ usado para notificar al departamento.
-
-## Métricas
-
-| Métrica    | Unidad    |
-|------------|-----------|
-| Tiempo de aprobación de un PR | horas |
-| Alcance | **reacciones** al _anuncio de slack_|
-| Utilidad | Cantidad de _Pull Requests_|
