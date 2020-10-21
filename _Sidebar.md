@@ -37,6 +37,7 @@
 
 * [\[POL06\] Política de Comunicación](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
 * [\[POL10\] Política de Configuration Control Board](https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board)
+* [\[POL18\] Política de gestión de habilidades y conocimientos](https://github.com/novaDepto/Nova/wiki/Politica-de-gestion-habilidades-y-conocimientos)
 
 ### Plantillas
 
