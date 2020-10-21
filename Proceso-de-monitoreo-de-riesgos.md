@@ -9,11 +9,7 @@
 Llevar un control y monitoreo de los riesgos identificados durante el ciclo de vida del proyecto
 
 ## Entradas
-<<<<<<< HEAD
 1. Matriz de riesgos del área al que corresponde la cuál se puede encontrar en el <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI">Directorio</a> de archivos del departamento
-=======
-1. Matriz de riesgos
->>>>>>> 601618ec2abdaf3395271b6ab0d9863b709e0b13
 2. Junta de seguimiento de riesgos
 
 ## Proceso
