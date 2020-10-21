@@ -75,7 +75,7 @@ Definir las actividades a realizar para generar y preparar una presentación de 
       <td>MA</td>
     </tr>
     <tr>
-      <td> Tener un <strong> checklist del reporte de estado </strong> que se encuentra en el documento de <strong> Monitoreo y control Nova de la semana en curso </strong> y monitorear que las secciones del reporte de estado estén listas 8 horas antes de la presentación </td>
+      <td> Tener un <strong> checklist del reporte de estado </strong> que se encuentra en el documento de <strong> <a href="https://drive.google.com/drive/u/0/folders/0ANskmMU8C5dxUk9PVA"> Monitoreo y control Nova de la semana en curso </a> </strong> y monitorear que las secciones del reporte de estado estén listas 8 horas antes de la presentación </td>
       <td> PM o encargado de PMC </td>
       <td> PMC </td>
     </tr>
