@@ -1,7 +1,10 @@
 ## Responsables
-Nombre     | Rol
------------|------------------
-Raymundo   | Autor
+| Nombre  | Rol   |
+|---------|-------|
+|    Raymundo     | Dueño del proceso |
+|    Erwin     | Autor |
+|    Yafté     | Autor |
+|    Alexis     | Autor |
 
 ## Objetivos
 1. Asegurar la identificación, análisis, priorización y documentación de los posibles riesgos durante el desarrollo del proyecto.
@@ -9,7 +12,7 @@ Raymundo   | Autor
 
 ## Entradas
 1. Riesgo no gestionado que afecta al desempeño del equipo o departamento.
-2. Matriz de riesgos del área al que corresponde.
+2. Matriz de riesgos del área al que corresponde la cuál se puede encontrar en el <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI">Directorio</a> de archivos del departamento.
 
 ## Proceso
 <table>
