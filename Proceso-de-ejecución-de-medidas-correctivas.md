@@ -1,14 +1,13 @@
 ## Responsables
-Nombre     | Rol
------------|------------------
-Erwin      | Autor
------------|------------------
-Alexis     | Autor
------------|------------------
-Yafté      | Autor
+
+| Nombre  | Rol   |
+|---------|-------|
+|    Erwin     | Dueño del proceso |
+|    Alexis     | Autor |
+|    Yafté     | Autor |
 
 ## Objetivo
-Ejecutar medidas correctivas para que alcanzar el avance esperado de acuerdo al plan definido
+Ejecutar medidas correctivas para alcanzar el avance esperado de acuerdo al plan definido
 
 ## Entradas
 1. Plan que incluya el estado actual y el estado esperado.
@@ -35,7 +34,7 @@ Ejecutar medidas correctivas para que alcanzar el avance esperado de acuerdo al 
     </tr>
     <tr>
       <td rowspan="4">Estrategia</td>
-      <td>Llenar el formato de gestión de medidas correctivas. </td>
+      <td>Llenar el formato de <strong><a href="https://docs.google.com/spreadsheets/d/1xGBumgWR0n8JYpx8wtaYD-Z-5w88GS-5x7oSkErcMhY/edit#gid=0">Gestión de medidas correctivas</a></strong>. </td>
       <td rowspan="4">Todo el equipo</td>
       <td rowspan="4">PMC, PP</td>
     </tr>
