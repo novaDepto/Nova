@@ -14,6 +14,7 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
 2. Plan de liberaciones
 3. Calendario del proyecto
 4. Log de inconsistencias
+5. Log de defectos
 
 ## Proceso
 <table>
@@ -27,32 +28,37 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
   </thead>
   <tbody>
     <tr>
-      <td>Demostración de la solución</td>
-      <td>
-      <ul>
-          <li>Asegurarse de mostrar al stakeholder los avances de la Iteración.</li> 
-         <li>Al presentar un cambio en funcionalidades, actualizar de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Log inconsistencias</a></li>
-         <li>Actualización de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Bitácora de cambios</a></li>
-      </ul>
-      </td>
-      <td>PO</td>
-      <td>PP,CM</td>
+      <td rowspan="3">Demostración de la solución</td>
+        <td>Mostrar al stakeholder los avances de la Iteración.</td>
+        <td>PO</td>
+        <td>PP</td>
     </tr>
     <tr>
-      <td>Análisis</td>
-      <td>
-          <ul>
-              <li>Sesión de <a href="https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6">retrospectiva</a>(¿Qué hicimos bien, que si no discutimos podemos olvidar?, ¿Qué aprendimos?, ¿En qué podemos mejorar?, ¿Qué tenemos que hacer diferente la siguiente vez?, ¿Qué aspectos aún nos causan ruido?)
-              </li>
-              <li>
-                  <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-monitoreo-de-riesgos">Evaluación de riesgos actuales</a> 
-              </li> 
-              <li>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-medidas-correctivas">acciones correctivas</a>
-              </li>
-          </ul>
-      </td>
-      <td>PO,TL</td>
-      <td>PP,RSKM,PMC</td>
+        <td>Si se presenta un cambio en funcionalidades, actualizar de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Log de incosistencias</a></td>
+        <td>PO</td>
+        <td>PP</td>
+     </tr>
+     <tr>
+        <td>Actualización de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Bitácora de cambios</a></td>
+        <td>PO</td>
+        <td>PP</td>
+     </tr>
+     <tr>
+         <td rowspan="3">Análisis</td>
+         <td>
+             Sesión de <a href="https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6">retrospectiva</a></td>
+         <td>TL</td>
+      <td>PP,PMC</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-monitoreo-de-riesgos">Evaluación de riesgos actuales</a></td>
+         <td>TL</td>
+      <td>PMC, RSKM</td>
+    </tr>
+    <tr>
+        <td>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-medidas-correctivas">acciones correctivas</a></td>
+         <td>TL</td>
+      <td>PP,PMC</td>
     </tr>
   </tbody>
 </table>
