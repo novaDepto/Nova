@@ -76,9 +76,9 @@ Raymundo   | Autor
     <tr>
       <td>Seguimiento</td>
       <td>Registra el riesgo en el Historial de Riesgos
-          <li>Si el riesgo es nuevo, sólo se debe anotar la fecha en que fue detectado. </li>
+      <li>Si el riesgo es nuevo, sólo se debe anotar la fecha en que fue detectado.</li>
       <p><strong>
-      (Véase el <a href="">Proceso de Seguimiento de Riesgos</a> para ver cómo actualizar los riesgos)
+      (Consulta el <a href="">Proceso de Monitoreo de Riesgos</a> para ver cómo darle seguimiento a los riesgos).
       </strong></p>
       </td>
       <td>Todo el equipo</td>
@@ -90,7 +90,7 @@ Raymundo   | Autor
 ## Salidas
 1. Riesgo documentado en la Matriz de Riesgos
 2. Plan de mitigación para atender el riesgo
-3. Plan de contingenicia para evitar el riesgo
+3. Plan de contingencia para evitar el riesgo
 
 ## Métricas
 1. Magnitud acumulada de riesgos 
