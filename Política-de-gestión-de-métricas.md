@@ -1,7 +1,9 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
-Raymundo   | Autor
+Raymundo   | Dueño de la política
+Peter      | Autor
+Daniel     | Autor
 
 ## Objetivos
 1. Asegurar la efectividad y transparencia en el manejo de las métricas del departamento
