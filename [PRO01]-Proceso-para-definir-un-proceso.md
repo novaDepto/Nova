@@ -88,17 +88,7 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
       <td>SEPG</td>
       <td>PPQA</td>
     </tr>
-    <tr>
-      <td rowspan="2">Divulgación</td>
-      <td>Publicar el proceso en la wiki.</td>
-      <td>Autor del proceso</td>
-      <td>OPF</td>
-    </tr>
-    <tr>
-      <td>Integrar el proceso en la forma de trabajo del departamento</td>
-      <td>Autor del proceso</td>
-      <td>OPF</td>
-    </tr>
+    
   </tbody>
 </table>
 
