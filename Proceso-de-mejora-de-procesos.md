@@ -62,7 +62,7 @@ Daniel Elias  | Autor
     </tr>
     <tr>
       <td rowspan="1">Revisión</td>
-      <td>Si el cambio es aprobado por OPF, entonces se deberá de enviar al <strong> Configuration Control Board </strong> para su revisión en manera de Pull Request utilizando el <strong><a href="">Proceso para Institucionalizar Procesos, Guías y Políticas.</a></strong> </td>
+      <td>Si el cambio es aprobado por OPF, entonces se deberá de enviar al <strong> Configuration Control Board </strong> para su revisión en manera de Pull Request utilizando el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas">Proceso para Institucionalizar Procesos, Guías y Políticas.</a></strong> </td>
       <td rowspan="1">Configuration Control Board</td>
       <td rowspan="1">CM, PPQA</td>
     </tr>
