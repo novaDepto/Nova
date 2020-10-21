@@ -1,3 +1,5 @@
+# Proceso Cierre de Iteración
+
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
@@ -32,7 +34,7 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
       <td>
       <ul>
           <li>Asegurarse de mostrar al stakeholder los avances de la Iteración.</li> 
-         <li>Actualización de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Log de incosistencias</a></li>
+         <li>Al presentar un cambio en funcionalidades, actualizar de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Log de incosistencias</a></li>
          <li>Actualización de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Bitácora de cambios</a></li>
       </ul>
       </td>
@@ -45,9 +47,10 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
           <ul>
               <li>Sesión de <a href="https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6">retrospectiva</a>(¿Qué hicimos bien, que si no discutimos podemos olvidar?, ¿Qué aprendimos?, ¿En qué podemos mejorar?, ¿Qué tenemos que hacer diferente la siguiente vez?, ¿Qué aspectos aún nos causan ruido?)
               </li>
-              <li>Actualización de <a href="https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit?usp=sharing">Matriz riesgos del proyecto</a>
-              </li>
-              <li>Generar <a href="">acciones correctivas</a>
+              <li>
+                  <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-monitoreo-de-riesgos">Evaluación de riesgos actuales</a> 
+              </li> 
+              <li>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-medidas-correctivas">acciones correctivas</a>
               </li>
           </ul>
       </td>
