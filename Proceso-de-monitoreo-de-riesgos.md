@@ -9,7 +9,7 @@
 Llevar un control y monitoreo de los riesgos identificados durante el ciclo de vida del proyecto
 
 ## Entradas
-1. Matriz de riesgos del área correspondiente
+1. Matriz de riesgos
 2. Junta de seguimiento de riesgos
 
 ## Proceso
@@ -70,8 +70,9 @@ Llevar un control y monitoreo de los riesgos identificados durante el ciclo de v
 
 ## Salidas
 1. Matriz de Riesgos actualizada
-2. Matriz de riesgos actualizada, monitoreo de riesgos actualizado, planes de mitigación y contingencia actualizados
+2. Historial de Riesgos actualizada
+3. Planes de mitigación y contingencia actualizados
 
 ## Métricas
 1. Magnitud acumulada de riesgos 
-2. No. de riesgos presentados por semana vs No. de riesgos presentados que se mitigaron por semana.
+2. Burndown de riesgos
