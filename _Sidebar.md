@@ -9,7 +9,7 @@
 * [\[PRO05\] Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
 
 
-* [\[PRO07\]  Proceso de Cierre de Iteración](https://github.com/novaDepto/Nova/wiki/Proceso-Cierre-de-Iteracion)
+
 ### Guías
 
 ***
