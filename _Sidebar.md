@@ -7,11 +7,9 @@
 * [\[PRO03\] Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
 * [\[PRO04\] Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
 * [\[PRO05\] Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
-* [PRO06]
 * [\[PRO07\] Proceso de cierre de iteración](https://github.com/novaDepto/Nova/wiki/Proceso-Cierre-de-Iteracion)
 * [\[PRO08\] Proceso de modificación de línea base](https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base)
 * [\[PRO09\] Proceso de gestión de historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-historias-de-usuario)
-* [PRO10]
 * [\[PRO11\] Proceso de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-métricas)
 * [\[PRO12\] Proceso de mejora de procesos (PIP) ](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-de-procesos)
 * [\[PRO13\] Proceso de identificación de riesgos](https://github.com/novaDepto/Nova/wiki/Proceso-de-identificación-de-riesgos)
@@ -20,27 +18,33 @@
 * [\[PRO16\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
 * [\[PRO17\] Proceso de asignación de roles](https://github.com/novaDepto/Nova/wiki/Proceso-de-asignación-de-roles)
 * [\[PRO18\] Proceso de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Proceso-de-resolución-de-conflictos)
-* [PRO19]
 * [\[PRO20\] Proceso para plan de involucramiento de stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 * [\[PRO21\] Proceso para junta con el cliente](https://github.com/novaDepto/Nova/wiki/Proceso-para-junta-con-el-cliente)
+* [\[PRO22\] Proceso de verificación de productos](https://github.com/novaDepto/Nova/wiki/Proceso-de-verificación-de-productos)
 
 ### Guías
 
 ***
 * [\[GUI01\] Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
-* [\[GUI02\] Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuración)
-* [\[GUI03\] Guía de versionado](https://github.com/novaDepto/Nova/wiki/%5BGUI11%5D-Gu%C3%ADa-de-versionado)
+* [\[GUI02\] Guía de manejo de configuración](https://github.com/novaDepto/Nova/wiki/Guía-de-manejo-de-configuración)
+* [\[GUI03\] Guía de versionado](https://github.com/novaDepto/Nova/wiki/Guía-de-versionado)
 * [\[GUI04\] Guía para institucionalizar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-institucionalizar-procesos-gu%C3%ADas-pol%C3%ADticas)
-* [\[GUI05\] Guía para agendar eventos en el calendario](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
+* [\[GUI05\] Guía para agendar eventos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
 * [\[GUI06\] Guía de Nova Flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
 * [\[GUI07\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
-* [\[GUI07\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
+* [\[GUI09\] Guía del ciclo de vida del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-de-ciclo-de-vida-del-proyecto)
 * [\[GUI11\] Guía de identificación de métricas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Identificación-de-Métricas)
+* [\[GUI12\] Guía de uso de Clockify](https://github.com/novaDepto/Nova/wiki/Guía-de-uso-de-Clockify)
+* [\[GUI13\] Guía de entorno de verificación](https://github.com/novaDepto/Nova/wiki/Guía-de-entorno-de-verificación)
+* [\[GUI14\] Guía de determinación de evaluación de decisiones](https://github.com/novaDepto/Nova/wiki/Guía-de-determinación-de-evaluación-de-decisiones)
 * [\[GUI17\] Guía de asignación de roles](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-asignación-de-roles)
 * [\[GUI18\] Guía de Program Manager](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-del-PM)
 * [\[GUI19\] Guía de Team Leaders](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Team-Leaders)
 * [\[GUI20\] Guía para juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-desempeño)
 * [\[GUI21\] Guía para juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
+* [\[GUI22\] Guía de Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-product-owner)
+* [\[GUI22\] Guía de cuestionario de salud](https://github.com/novaDepto/Nova/wiki/Cuestionario-de-Salud-Discord-Cheatsheet)
+* [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-denuncias)
 
 ### Políticas
 
