@@ -86,6 +86,7 @@
 
 ## Salida
 1. Plantilla de Planeación-Monitoreo de la iteración rellenada
+2. Proceso de Involucramiento de Stakeholders 
 
 ## Glosario
 1. Tipo de demostración: ¿Cómo el socio va a probar y usar el proyecto?
