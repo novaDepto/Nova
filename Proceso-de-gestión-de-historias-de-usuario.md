@@ -26,8 +26,8 @@ Definir un proceso de ingeniería de software que permita generar entendimiento,
   <tbody>
     <tr>
       <td rowspan="3">Identificación</td>
-      <td>Escribe la historia de usuario en la plantilla de planeación y monitoreo usando el modelo Quién, Qué, Para Qué.</td>
-      <td rowspan="3">PO, AO</td>
+      <td>Escribe la historia de usuario en el Backlog de Requisitos.</td>
+      <td rowspan="3">PO</td>
       <td rowspan="3">REQM</td>
     </tr>
     <tr>
@@ -38,44 +38,49 @@ Definir un proceso de ingeniería de software que permita generar entendimiento,
     </tr>
     <tr>
       <td rowspan="2">Compromiso</td>
-      <td>Asignar un encargado para definir historia de usuario.</td>
+      <td>Pregunta al equipo si se compromete a realizar la historia de usuario.</td>
       <td>PO, TL</td>
       <td>REQM,</td>
     </tr>
       <tr>
-      <td>Registrar compromiso en la plantilla de planeación y monitoreo.</td>
+      <td>Registra el casilla de verificación del compromiso de la historia de usuario.</td>
       <td>PO, TL</td>
       <td>REQM</td>
     </tr>  
-      <tr>
-      <td rowspan="2">Definición</td>
-          <td>Completar el <strong><a href="https://docs.google.com/document/d/1hIhG6vDUVDlpSAJbr8yP5y_Rc_p2uAuJ8ZWE_pY_Gk4/edit?usp=sharing" target="_blank">documento de análisis</a></strong> vease <a href="" target="_blank">[guía de análisis y diseño.]</a></td>
-      <td>TM</td>
-      <td>REQM</td>
+    <tr>
+      <td rowspan="5">Análisis</td>
+      <td>Si la historia de usuario se va a realizar en la iteración actual, enotnces regístrala en la <strong><a href="">Plantilla de Planeación-Monitoreo de la Iteración</a></strong> siguiendo el <strong><a href="">Proceso de Planeación de la Iteración</a>.</strong></td>
+      <td rowspan="5">PO, TL, AO</td>
+      <td rowspan="5">REQM</td>
     </tr>
-      <tr>
-      <td>Completar el <strong><a href="https://docs.google.com/document/d/1aRjtaWbZoFS0cd3KMA5ftyrGyp3gEv3GkEZJ0JzoibU/edit?usp=sharing" target="_blank">documento de diseño</a></strong> vease <a href="" target="_blank">[guía de análisis y diseño.]</a></td>
-      <td>TM</td>
-      <td>REQM</td>
-    </tr>
-      <tr>
-      <td>Verificación</td>
-      <td>Verificar que la documentación este completa y libre de errores con el Architecture Owner.</td>
-      <td>TM</td>
-      <td>REQM</td>
-    </tr>
-      <tr>
-      <td>Validación</td>
-      <td>Validar que la documentación se apegue a lo que espera el stakeholder con el Product Owner.</td>
-      <td>TM</td>
+    <tr>
+      <td>Define la prioridad de la historia de usuario.</td>
+    </tr> 
+    <tr>
+      <td>Realiza un Planning Poker para definir los Agile Points de la historia de usuario.</td>
+    </tr> 
+    <tr>
+    <td>Estima el nivel de dependencia de la historia de usuario.</td>
+    </tr> 
+    <tr>
+      <td>Define qué Work Items se realizarán para la historia de usuario.</td>
+    </tr> 
+    <tr>
+      <td>Definición</td>
+      <td>Siguiendo la lista de Work Items, completa la <strong><a href="https://docs.google.com/document/d/1kWa49M5i2LyEFAsawZfrYRFMQnMOAeqNbDrwHtjj7tE/edit" target="_blank">Plantilla de Especficiación de Requisitos.</a></strong>
+      <p><strong>(Consulte <a href="">la Guía de Especificación de Historias de Usuario</a> para más información).</strong></p>
+      </td>
+      <td>Todo el equipo</td>
       <td>REQM</td>
     </tr>
   </tbody>
 </table>
 
-
 ## Salidas
-Historia de usuario completamente definida.
+1. Historia de usuario definida.
 
 ## Métricas
-N/A
+1. Valor Ganado de la Plantilla de Planeación-Monitoreo de la Iteración.
+
+## Glosario
+1. Nivel de dependencia: ¿Una historia de usuario depende la realización de otras?
