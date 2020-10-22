@@ -1,3 +1,4 @@
+# Proceso de institucionalización de Procesos
 ## Responsables
 | Nombre  | Rol   |
 |---------|-------|
@@ -51,19 +52,13 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
       <td>CM, PPQA</td>
     </tr>
     <tr>
-      <td rowspan="5">Publicación</td>
+      <td rowspan="4">Publicación</td>
       <td>Tomar en consideración la <a href="https://github.com/novaDepto/Nova/blob/master/Guía-para-institucionalizar-procesos-guías-políticas.md">guía de institucionalización</a></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr>
     <tr>
-      <td>Solicitar el <em>approval</em> de al menos<b> un integrante del Configuration Control Board<b/></td>
-      <td>Autor del documento</td>
-      <td>CM</td>
-    </tr>
-    ¡
-    <tr>
-      <td><b>Revisar el documento</b> para aprovarlo o pedir cambios para mejorarlo.</td>
+      <td>Solicitar el <em>Approval</em> o esperar la <em>petición de cambios</em>  de<b> al menos un integrante<b/> del <a href="https://github.com/novaDepto/Nova/blob/master/Politica-de-Configuration-Control-Board.md">Configuration Control Board (CBB)</a></td>
       <td>SEPG, Encargado del área relacionada con el documento</td>
       <td>PPQA, PMC, DAR, OPD, OPF</td>
     </tr>
@@ -79,7 +74,7 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
     </tr>
     <tr>
       <td rowspan="3">Divulgación</td>
-      <td><b>Completar el <em>Pull Request</em></b> para que se agregue el documento en la wiki.</td>
+      <td>Seguir los lineamientos de la<a href="https://github.com/novaDepto/Nova/blob/master/Politica-de-Comunicacion.md">Política de comunicación</a></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr>
@@ -115,3 +110,11 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
 ## Salidas
 1. _Pull Request_ para la validación del documento.
 2. _Anuncio en slack_ usado para notificar al departamento.
+
+## Métricas
+
+| Métrica    | Unidad    |
+|------------|-----------|
+| Tiempo de aprobación de un PR | horas |
+| Alcance | **reacciones** al _anuncio de slack_|
+| Utilidad | Cantidad de _Pull Requests_|
