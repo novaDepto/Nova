@@ -2,19 +2,18 @@
 
 ***
 
-* [\[PRO01\] Proceso para Planificar](https://github.com/novaDepto/Nova/wiki/Proceso-para-Planificar)
+* [\[PRO01\] Proceso para planificar](https://github.com/novaDepto/Nova/wiki/Proceso-para-Planificar)
 * [\[PRO02\] Proceso de auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditor%C3%ADas)
 * [\[PRO03\] Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/%5BPRO01%5D-Proceso-para-definir-un-proceso)
 * [\[PRO04\] Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
 * [\[PRO05\] Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
 
-* [\[PRO09\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
 
 ### Guías
 
 ***
 * [\[GUI01\] Guía del Rol de Program Manager
-](https://github.com/novaDepto/Nova/blob/guia/guia-pms/Gu%C3%ADa-del-PM.md)
+](https://github.com/novaDepto/Nova/wiki/Guía-del-PM)
 * [\[GUI02\] Guía del Rol de Team Leader
 ](https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-Team-Leaders.md)
 * [\[GUI03\] Guía para crear eventos en el calendario](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
@@ -34,10 +33,10 @@
 * [\[POL01\] Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 * [\[POL02\] Política de juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-desempe%C3%B1o)
 * [\[POL03\] Política de juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
-* [\[POL04\] Política-de-Juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
+* [\[POL04\] Política-de-juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
 * [\[POL05\] Política de Nova WoW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
 
-* [\[POL06\] Política de Comunicación](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
+
 ### Plantillas
 
 ***

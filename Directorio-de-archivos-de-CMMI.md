@@ -100,7 +100,9 @@ relacionados con nuestra área de CMMI**.
 ### <div id="RSKM"></div>[RSKM] Gestión de Riesgos
 | Nombre del documento             | Descripción                              |
 | -------------------------------- | ---------------------------------------- |
-| [ejemplo]()                      | Un ejemplo |
+| [Matriz de riesgos de Nova](https://docs.google.com/spreadsheets/d/19Umay5R1ppMqvmMJDkB0I-o50qEaBm5IJ_T8XMtruJ8/edit#gid=1120081718)| Excel con la matriz de riesgos del departamento **Nova**|
+| [Matriz de riesgos de Cannis Majoris](https://docs.google.com/spreadsheets/d/1YlxSq79svB7qGB_36UmxUcZdcWmzoUkUntntaO30q-g/edit#gid=1120081718)| Excel con la matriz de riesgos del equipo **Cannis Majoris**|
+| [Matriz de riesgos de Andrómeda](https://docs.google.com/spreadsheets/d/1JHLEvLsdJaZ-GCcDPPPTXcUuQcegYHzlpqYmngEDmLU/edit#gid=1120081718)| Excel con la matriz de riesgos del equipo **Andrómeda**|
 
 ### <div id="TS"></div>[TS] Solución Técnica
 | Nombre del documento             | Descripción                              |

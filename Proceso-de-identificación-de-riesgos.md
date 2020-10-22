@@ -1,14 +1,18 @@
 ## Responsables
-Nombre     | Rol
------------|------------------
-Raymundo   | Autor
+| Nombre  | Rol   |
+|---------|-------|
+|    Raymundo     | Dueño del proceso |
+|    Erwin     | Autor |
+|    Yafté     | Autor |
+|    Alexis     | Autor |
 
-## Objetivo (SMARTish)
+## Objetivos
 1. Asegurar la identificación, análisis, priorización y documentación de los posibles riesgos durante el desarrollo del proyecto.
 2. Generar un plan de mitigación y contingencia ante los riesgos identificados.
 
 ## Entradas
 1. Riesgo no gestionado que afecta al desempeño del equipo o departamento.
+2. Matriz de riesgos del área al que corresponde la cuál se puede encontrar en el <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI">Directorio</a> de archivos del departamento.
 
 ## Proceso
 <table>
@@ -75,9 +79,9 @@ Raymundo   | Autor
     <tr>
       <td>Seguimiento</td>
       <td>Registra el riesgo en el Historial de Riesgos
-          <li>Si el riesgo es nuevo, sólo se debe anotar la fecha en que fue detectado. </li>
+      <li>Si el riesgo es nuevo, sólo se debe anotar la fecha en que fue detectado.</li>
       <p><strong>
-      (Véase el <a href="">Proceso de Seguimiento de Riesgos</a> para ver cómo actualizar los riesgos)
+      (Consulta el <a href="">Proceso de Monitoreo de Riesgos</a> para ver cómo darle seguimiento a los riesgos).
       </strong></p>
       </td>
       <td>Todo el equipo</td>
@@ -89,7 +93,7 @@ Raymundo   | Autor
 ## Salidas
 1. Riesgo documentado en la Matriz de Riesgos
 2. Plan de mitigación para atender el riesgo
-3. Plan de contingenicia para evitar el riesgo
+3. Plan de contingencia para evitar el riesgo
 
 ## Métricas
 1. Magnitud acumulada de riesgos 
