@@ -1,4 +1,4 @@
-# Proceso de institucionalización de Procesos
+# Proceso de Institucionalización de Procesos
 ## Responsables
 | Nombre  | Rol   |
 |---------|-------|
