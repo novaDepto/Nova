@@ -14,7 +14,7 @@ Definir y conseguir el involucramiento deseado de cada uno de los stakeholders p
 ## Entradas
 1. Acta de proyecto
 2. Plan para la dirección del proyecto
-3. Docuementos del proyecto
+3. Documentos del proyecto
 4. Acuerdos
 5. Factores ambientales
 6. Activos del proyecto
