@@ -1,7 +1,9 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
-Raymundo   | Autor
+Raymundo   | Dueño del proceso
+Peter      | Autor
+Daniel     | Autor
 
 ## Objetivos
 1. Asegurar la recolección, análisis, comunicación y seguimiento de las métricas.

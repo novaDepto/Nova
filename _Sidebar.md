@@ -8,11 +8,12 @@
 * [\[PRO04\] Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
 * [\[PRO05\] Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
 
+* [\[PRO07\]  Proceso de Cierre de Iteración](https://github.com/novaDepto/Nova/wiki/Proceso-Cierre-de-Iteracion)
 ### Guías
 
 ***
 * [\[GUI01\] Guía del Rol de Program Manager
-](https://github.com/novaDepto/Nova/blob/guia/guia-pms/Gu%C3%ADa-del-PM.md)
+](https://github.com/novaDepto/Nova/wiki/Guía-del-PM)
 * [\[GUI02\] Guía del Rol de Team Leader
 ](https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-Team-Leaders.md)
 * [\[GUI03\] Guía para crear eventos en el calendario](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
@@ -36,7 +37,7 @@
 * [\[POL05\] Política de Nova WoW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
 * [\[POL06\] Política de Comunicación](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
 
-* [\[POL09\] Política de Manejo de Datos](https://github.com/novaDepto/Nova/wiki/Politica-de-Manejo-de-Datos)
+
 ### Plantillas
 
 ***
