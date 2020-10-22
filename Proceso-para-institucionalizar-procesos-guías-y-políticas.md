@@ -1,4 +1,3 @@
-# Proceso de Institucionalización de Procesos
 ## Responsables
 | Nombre  | Rol   |
 |---------|-------|
@@ -42,7 +41,7 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
     </tr>
     <tr>
       <td rowspan="2">Creación</td>
-      <td>Seguir el <a href="https://github.com/novaDepto/Nova/blob/master/%5BPRO01%5D-Proceso-para-definir-un-proceso.md">proceso para definir procesos</a> <b><em></em></b></td>
+      <td>Seguir el <a href="https://github.com/novaDepto/Nova/wiki/%5BPRO01%5D-Proceso-para-definir-un-proceso">proceso para definir procesos</a> <b><em></em></b></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr
@@ -53,12 +52,12 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
     </tr>
     <tr>
       <td rowspan="4">Publicación</td>
-      <td>Tomar en consideración la <a href="https://github.com/novaDepto/Nova/blob/master/Guía-para-institucionalizar-procesos-guías-políticas.md">guía de institucionalización</a></td>
+      <td>Tomar en consideración la <a href="https://github.com/novaDepto/Nova/wiki/Guía-para-institucionalizar-procesos-guías-políticas">guía de institucionalización</a></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr>
     <tr>
-      <td>Solicitar el <em>Approval</em> o esperar la <em>petición de cambios</em>  de<b> al menos un integrante<b/> del <a href="https://github.com/novaDepto/Nova/blob/master/Politica-de-Configuration-Control-Board.md">Configuration Control Board (CBB)</a></td>
+      <td>Solicitar el <em>Approval</em> o esperar la <em>petición de cambios</em>  de<b> al menos un integrante<b/> del <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a></td>
       <td>SEPG, Encargado del área relacionada con el documento</td>
       <td>PPQA, PMC, DAR, OPD, OPF</td>
     </tr>
@@ -74,7 +73,7 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
     </tr>
     <tr>
       <td rowspan="3">Divulgación</td>
-      <td>Seguir los lineamientos de la<a href="https://github.com/novaDepto/Nova/blob/master/Politica-de-Comunicacion.md">Política de comunicación</a></td>
+      <td>Seguir los lineamientos de la<a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion">Política de comunicación</a></td>
       <td>Autor del documento</td>
       <td>CM</td>
     </tr>
