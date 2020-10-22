@@ -4,14 +4,11 @@ Nombre     | Rol
 -----------|------------------
 Raymundo   | Autor
 
-## Objetivo (SMARTish)
+## Objetivos
 1. Gestionar el cambio en los roles de liderazgo dentro del departamento.
 
 ## Entradas
 1. Cambio de rol programado
-
-## Políticas-Estándares
-Ninguno
 
 ## Proceso
 <table>
@@ -59,9 +56,8 @@ Ninguno
 1. Nueva persona en cada rol
 
 ## Postrequisitos
-1. El cambio debe ser validado por el Project Manager
-2. El cambio debe ser informado a los consultores y socios
-3. El cambio debe actualizarse en la tabla de roles en la wiki
+1. El cambio debe ser informado a los consultores y socios
+2. El cambio debe actualizarse en la tabla de roles en la wiki
 
 ## Métricas
 1. Motivación del departamento
