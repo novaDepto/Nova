@@ -27,15 +27,20 @@
 ### Guías
 
 ***
-* [\[GUI01\] Guía del Rol de Program Manager
-](https://github.com/novaDepto/Nova/wiki/Guía-del-PM)
-* [\[GUI02\] Guía del Rol de Team Leader
-](https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-Team-Leaders.md)
-* [\[GUI03\] Guía para crear eventos en el calendario](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
-* [\[GUI04\] Guía para institucionalizar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-institucionalizar-procesos-guías-políticas)
-* [\[GUI05\] Guía de Nova Flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
-* [\[GUI06\] Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
-* [\[GUI09\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/
+* [\[GUI01\] Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
+* [\[GUI02\] Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuración)
+* [\[GUI03\] Guía de versionado](https://github.com/novaDepto/Nova/wiki/%5BGUI11%5D-Gu%C3%ADa-de-versionado)
+* [\[GUI04\] Guía para institucionalizar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-institucionalizar-procesos-gu%C3%ADas-pol%C3%ADticas)
+* [\[GUI05\] Guía para agendar eventos en el calendario](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
+* [\[GUI06\] Guía de Nova Flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
+* [\[GUI07\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
+* [\[GUI07\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
+* [\[GUI11\] Guía de identificación de métricas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Identificación-de-Métricas)
+* [\[GUI17\] Guía de asignación de roles](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-asignación-de-roles)
+* [\[GUI18\] Guía de Program Manager](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-del-PM)
+* [\[GUI19\] Guía de Team Leaders](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Team-Leaders)
+* [\[GUI20\] Guía para juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-desempeño)
+* [\[GUI21\] Guía para juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
 
 ### Políticas
 
@@ -50,7 +55,7 @@
 * [\[POL07\] Política de Configuration Control Board](https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board)
 * [\[POL09\] Política de manejo de datos](https://github.com/novaDepto/Nova/wiki/Politica-de-Manejo-de-Datos)
 * [\[POL11\] Política de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-gestión-de-métricas)
-* [\[POL18\] Política de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Politica-de-gestion-habilidades-y-conocimientos)
+* [\[POL18\] Política de gestión de habilidades y conocimientos](https://github.com/novaDepto/Nova/wiki/Politica-de-gestion-habilidades-y-conocimientos)
 * [\[POL19\] Política de juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-desempeño)
 * [\[POL20\] Política de juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
 
@@ -67,8 +72,6 @@
 ***
 
 * [Código de ética](https://github.com/novaDepto/Nova/wiki/C%C3%B3digo-de-%C3%A9tica)
-* [\[GUI99\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-denuncias)
-* [\[PRO99\] Proceso de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Proceso-de-resoluci%C3%B3n-de-conflictos)
 
 ### Directorios de archivos
 ***
