@@ -1,5 +1,3 @@
-# Proceso para Plan de Involucramiento de Stakeholders
-
 ## Responsables
 
 | Nombre  | Rol               |
