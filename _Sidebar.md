@@ -32,7 +32,7 @@
 * [\[GUI05\] Guía para agendar eventos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
 * [\[GUI06\] Guía de Nova Flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
 * [\[GUI07\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
-* [\[GUI08\] Guía de especificación de requisitos](https://github.com/novaDepto/Nova/wiki/Guia-de%20-especificacion-requisitos.md)
+* [\[GUI08\] Guía de especificación de requisitos](https://github.com/novaDepto/Nova/wiki/Guia-de%20-especificacion-requisitos)
 * [\[GUI09\] Guía del ciclo de vida del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-de-ciclo-de-vida-del-proyecto)
 * [\[GUI11\] Guía de identificación de métricas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Identificación-de-Métricas)
 * [\[GUI12\] Guía de uso de Clockify](https://github.com/novaDepto/Nova/wiki/Guía-de-uso-de-Clockify)
