@@ -88,6 +88,9 @@
 1. Plantilla de Planeación-Monitoreo de la iteración rellenada
 2. Proceso de Involucramiento de Stakeholders 
 
+## Metricas
+1. Tiempo de ejecución del proceso
+
 ## Glosario
 1. Tipo de demostración: ¿Cómo el socio va a probar y usar el proyecto?
 a) Demostración de la iteración: Se agenda una prueba con el socio.
