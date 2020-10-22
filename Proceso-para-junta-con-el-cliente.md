@@ -73,7 +73,7 @@ Definir actividades a realizar en una junta con cliente para generar un ambiente
       <td>REQM, VAL</td>
     </tr>
     <tr>
-      <td>Aplicar la <a href="https://forms.gle/qk8K3Cgn8JJsB9dW6">encuesta de satisfacción del cliente</a></td>
+      <td>Aplicar la<a href="https://forms.gle/qk8K3Cgn8JJsB9dW6"> encuesta de satisfacción del cliente</a></td>
       <td>PO</td>
       <td>PP, PMC</td>
     </tr>
