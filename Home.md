@@ -5,9 +5,9 @@ Aquí podras encontrar la documentación correspondiente a procesos, políticas,
 
 ## Repos de los equipos
 
-[OB_Capital](https://github.com/novaDepto/OB_Capital)
+[Andrómeda](https://gitlab.com/nova_tec/obcapital)
 
-[PugSeal](https://github.com/novaDepto/PugSeal)
+[Cannis Majoris](https://github.com/novaDepto/PugSeal)
 
 ***
 
