@@ -2,8 +2,8 @@
 Nombre     | Rol
 -----------|------------------
 Daniel     | Dueño del proceso
-Raymundo   | Autor
 Peter      | Autor
+Raymundo   | Autor
 
 ## Objetivos
 1. Asegurar la recolección, análisis, comunicación y seguimiento de las métricas.

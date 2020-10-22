@@ -1,13 +1,15 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
-Raymundo   | Autor
+Raymundo   | Dueño de la política
+Peter      | Autor
+Daniel     | Autor
 
-## Objetivo (SMARTish)
+## Objetivos
 1. Asegurar la efectividad y transparencia en el manejo de las métricas del departamento
 
 ## Reglamento:
-1. Las métricas se miden, recogen, analizan y comunican por quincena.
+1. Las métricas se miden, recogen, analizan y comunican por semana.
 2. Si otras áreas del CMMI generan métricas para cubrir sus objetivos, entonces los encargados deberán notificar a MA para conectarlas con el Backlog de Métricas del Departamento.
 3. Si los equipos agregan nuevas métricas a analizar, entonces deberán notificar a MA para conectarlas con su Backlog de Métricas.
 4. Queda prohibido truncar los datos de las tablas que alimentan a las métricas.
