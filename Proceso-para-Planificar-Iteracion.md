@@ -4,19 +4,12 @@
 | Carlos    | Dueño del Proceso |
 | Marla     | Autor             |
 
-
-
 ## Objetivo
-Planear las actividades y user stories de la iteración
+1. Planear las actividades de una iteración
 
 ## Entrada 
-1. Definición de un [WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS) de items de trabajo.
-2. User Stories priorizadas.
-3. [Esfuerzo del equipo]("https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=753031204")(tiempo a dedicar).
-4. Estimación de tiempo por cada ítem de trabajo.
-6. [Plantilla planeación y monitoreo de la iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1457739545)
-6. [Matriz de compromisos](https://docs.google.com/spreadsheets/d/1yLyZG1rzwxDMdS-tFSKhnuRWFt-bHZXBtndVOY_9UOI/edit#gid=157465099)
-
+1. Iteración nueva
+2. [**Plantilla de Planeación-Monitoreo de la iteración**](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1457739545)
 
 
 ## Proceso 
@@ -31,93 +24,74 @@ Planear las actividades y user stories de la iteración
   </thead>
   <tbody>
     <tr>
-      <td >Análisis</td>
-      <td>
-          <ul>
-              <li>Definir los objetivos, plan de acción y supervisor de la iteración. [Véase la hoja <a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=2146247168">Objetivos</a> como referencia]
-              </li>
-                  <li>Adoptar una Agenda de demostración con stakeholders. (Demostración de la Iteración, Demostración bajo demanda, All hands demostration</li>
-             <li>Actualizar los compromisos con stakeholders</li>
-             <li>Definir a que milestones se llegará en la iteración.
-             (Acuerdo sobre la visión del proyecto, Arquitectura probada, Viabilidad del proyecto, Funcionalidad suficiente, Listo para producción, Deleitar a los stakeholders.)
-             </li>
-              <li><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-identificación-de-riesgos">Identificar los riesgos de la iteración<a/>
-              </li>
-              <li>Definir el porcentaje del tiempo que se dedicará a cada actividad del departamento.(Considerar un 15% de tiempo no efectivo, 15% de errores de registro y 30% de tiempo Overhead)<a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=753031204">[Vease la hoja Capacidad del equipo como referencia]</a>
-              </li>
-          </ul>
-     </td>
-      <td>TL, PO</td>
-      <td>RM, PP, MA</td>
+      <td rowspan="3">Información previa</td>
+      <td>En la hoja "Capacidad del equipo", escribe cuántas horas vas a invertir para trabajar en la iteración.</td>
+      <td rowspan="3">Todo el equipo</td>
+      <td rowspan="3">PP, REQM</td>
     </tr>
     <tr>
-      <td>Selección de User Stories</td>
-      <td>
-          <ul>
-              <li>Priorizar User Stories acorde a los acuerdos con el stakeholder</li>
-              <li>Colocar en la <a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1312167461">hoja de US</a> las user stories que entren en las horas de trabajo
-              </li>
-              <li>Actualizar las actividades de criterios de aceptación en la hoja <a href= "https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=0">WBS</a> y <a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460"> Estimación</a></li>
-          </ul>
-      </td>
-      <td>TL, PO, AO</td>
-      <td>PP, RM</td>
+      <td>En la hoja "WBS", escribe cuántos minutos tardas en realizar una tarea de historia de usuario en función de sus Agile Points.</td>
     </tr>
     <tr>
-      <td>Estimación</td>
-      <td>
-          <ul>
-              <li>Realizar una actividad de planning poker para estimar el tamaño de los ítems de trabajo y ponerlos en <a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1312167461">la hoja de las User Sories</a>.</li>
-              <li>Cada integrante debe registrar sus estimaciones de tiempo para cada actividad de criterio de aceptación del <a href= "https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=0">WBS</a> dependiendo de los Agile Points de cada User Storie</li>
-              <li>En la hoja de <a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460">estimación</a> seleccionar las actividades que apliquen a la user story
-              </li>
-          </ul>
-      </td>
-      <td>TL, AO</td>
-      <td>PMC</td>
+    <td>En la hoja "Compromisos externos", escribe los compromisos con los stakeholders siguiendo la agenda de demostraciones de la iteración.<strong>*</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="5">Análisis</td>
+      <td>En la hoja "Objetivos-Milestones", escribe los objetivos y milestones de DAD de la iteración. </td>
+      <td rowspan="5">Todo el equipo</td>
+      <td rowspan="5">PP, REQM, MA, RSKM</td>
+    </tr>
+    <tr>
+    <td>En la hoja "Historias de Usuario", realiza la selección y análisis de las historias de usuario a realizar en la iteración siguiendo el <strong><a href="">Proceso de Gestión de Historias de Usuario.</a></strong></td>
+    </tr>
+    <tr>
+    <td>Asigna un responsable a cada historia de usuario.</td>
+    </tr>
+    <tr>
+    <td>Identifica los riesgos de la iteración siguendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-identificación-de-riesgos">Proceso de Identificación de Riesgos.</a></strong></td>
+    </tr>
+    <tr>
+    <td>En la hoja "Capacidad del equipo", define el porcentaje del tiempo que se dedicará a cada actividad del departamento. 
+    <p>Considera los siguientes tiempos de referencia:</p>
+    <ul>
+        <li>15% = No efectivo</li>
+        <li>15% = Errores de registro</li>
+        <li>30% = Overhead</li>
+    </ul>
     </tr>
     <tr>
       <td>Métricas</td>
-      <td>
-        <ul>
-        <li>Actualizar las user stories en la hoja de <a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=947423143">Monitoreo de la Iteración</a></li>
-          <li>Definir una fecha esperada, costo y valor planeado.</li>
-        </ul>
-      </td>
-      <td>TL, AO</td>
-      <td>PMC</td>
+      <td>En la hoja "Métricas", actualiza la tabla de métricas con el número de historias de usuario seleccionadas.
+      <td>TL, MA</td>
+      <td>PMC, MA</td>
     </tr>
     <tr>
-      <td>Validación</td>
+      <td rowspan="2">Compromiso</td>
       <td>
-          <ul>
-              <li>Definir responsables para cada ítem de trabajo</li>
-              <li>Revisar que la planeación vaya acorde al plan de liberaciones</li>
-              <li>Revisar las métricas y ver que vaya acorde a lo planeado.</li>
-          </ul>
-      </td>
-      <td>TL</td>
-      <td>PP, PPQA, PMC</td>
+      Pregunta a cada integrante si se encuentra totalmente comprometido con el plan. En caso contrario, realiza los ajustes necesarios a este.</td>
+      <td rowspan="2">TL</td>
+      <td rowspan="2">PP, PMC</td>
     </tr>
     <tr>
-      <td >Compromiso</td>
       <td>
-      <li>Preguntar a cada miembro si se encuentra totalmente comprometido con el plan, sino hacer los ajustes necesarios al plan.</li>
-      <li>Establecer los compromisos internos del equipo para satisfacer la iteración</li>
-       <li>Actualizar la matriz de <a href="https://docs.google.com/spreadsheets/d/1yLyZG1rzwxDMdS-tFSKhnuRWFt-bHZXBtndVOY_9UOI/edit#gid=157465099">compromisos</a></li>
-      </td>
-      <td>TL</td>
-      <td>PP, PMC</td>
+      En la hoja "Compromisos Internos", escribe los compromisos del equipo para satisfacer los objetivos de la iteración.</td>
     </tr>
   </tbody>
 </table>
 
+## Notas:
+* Uno de los compromisos externos debe ser la agenda de demostración de la iteración 
+* La agenda de demostración debe incluir fecha y **tipo de demostración**.
+
 
 ## Salida
-1. [Plantilla planeación y monitoreo de la iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit?usp=sharing)
-2. [Matriz de compromisos](https://docs.google.com/spreadsheets/d/1yLyZG1rzwxDMdS-tFSKhnuRWFt-bHZXBtndVOY_9UOI/edit?usp=sharing)
+1. Plantilla de Planeación-Monitoreo de la iteración rellenada
 
-
+## Glosario
+1. Tipo de demostración: ¿Cómo el socio va a probar y usar el proyecto?
+a) Demostración de la iteración: Se agenda una prueba con el socio.
+b) Demostración bajo demanda: El socio solicita probar el sistema.
+c) Demostración all-hands: El socio puede usar libremente el sistema.
 
 
 
