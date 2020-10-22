@@ -33,13 +33,13 @@ Desarrollar los conocimientos, confianza y habilidades entre los miembros del de
     </ul>
 </ul>
 
-### 5. Desarrollo de habilidades de Negociación e Influencia
+### 5. Desarrollo de habilidades de negociación e influencia
 - Los miembros del departamento son conscientes de que la negociación es un factor clave para llegar a un consenso, para lograrlo implementan: 
 <ul>
     <ul>
         <li> Articulación clara de puntos y posiciones.</li>
         <li>Escucha activa y eficaz</li>
-        <li>ERecopilación de información relevante para abordar problemas, logrando acuerdos que fomenten la confianza en el equipo.</li>
+        <li>Recopilación de información relevante para abordar problemas, logrando acuerdos que fomenten la confianza en el equipo.</li>
     </ul>
 </ul>
 
