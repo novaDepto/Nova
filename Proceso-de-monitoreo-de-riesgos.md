@@ -1,14 +1,16 @@
 ## Responsables
-Nombre     | Rol
------------|------------------
-Raymundo   | Autor
+| Nombre  | Rol   |
+|---------|-------|
+|    Por definir     | Dueño del proceso |
+|    Raymundo     | Autor |
+|    Erwin     | Autor |
 
-## Objetivo (SMARTish)
-1. Monitorizar la evolución de los riesgos
-2. Determinar si se deben activar los planes de mitigación o contingencia
+## Objetivo
+Llevar un control y monitoreo de los riesgos identificados durante el ciclo de vida del proyecto
 
 ## Entradas
-1. Junta de seguimiento de riesgos
+1. Matriz de riesgos del área al que corresponde la cuál se puede encontrar en el <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI">Directorio</a> de archivos del departamento
+2. Junta de seguimiento de riesgos
 
 ## Proceso
 <table>
@@ -22,13 +24,16 @@ Raymundo   | Autor
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Identificación</td>
-      <td>Comunícate con los responsables del riesgo. </td>
-      <td rowspan="2">Todo el equipo</td>
-      <td rowspan="2">RSKM, MA</td>
+      <td rowspan="3">Identificación</td>
+      <td>Cada semana tener una junta de seguimiento de riesgos donde se revisa la matriz de riesgos. </td>
+      <td rowspan="3">Todo el equipo</td>
+      <td rowspan="3">RSKM, MA</td>
     </tr>
     <tr>
-      <td>Recupera las mediciones del riesgo a analizar. </td>
+      <td>Comunícate con los responsables del riesgo. </td>
+    </tr>
+    <tr>
+      <td>Recupera las mediciones de los riesgos a analizar. </td>
     </tr>
     <tr>
       <td rowspan="4">Análisis</td>
@@ -40,7 +45,7 @@ Raymundo   | Autor
       <td>Determina si la probabilidad, impacto y magnitud de los riesgos deben cambiar.</td>
     </tr>
     <tr>
-      <td>Determina si la prioridad y estatus de los riesgos deben cambiar. </td>
+      <td>Determina si la prioridad y estatus de los riesgos deben cambiar.</td>
     </tr>
     <tr>
       <td>Determina si los planes de mitigación o contingencia se deben actualizar conforme a los cambios anteriores. </td>
@@ -65,6 +70,9 @@ Raymundo   | Autor
 
 ## Salidas
 1. Matriz de Riesgos actualizada
+2. Historial de Riesgos actualizada
+3. Planes de mitigación y contingencia actualizados
 
 ## Métricas
 1. Magnitud acumulada de riesgos 
+2. Burndown de riesgos

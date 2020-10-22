@@ -1,5 +1,3 @@
-# Guía del Rol de Program Manager
-
 ## Responsables 
 
 | Nombre | Rol |

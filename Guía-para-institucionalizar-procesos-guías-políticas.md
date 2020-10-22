@@ -8,7 +8,11 @@ proceso es apoyarnos mutuamente para mejorar la calidad del departamento.
 
 0. **Recuerda agregar un _link_ en el archivo __Sidebar_**. Así cuando se 
 apruebe el documento y se suba en automático a la wiki, se pueda acceder con 
-rapidez a este.
+rapidez a este. 
+
+0. **Recuerda poner el Identificador único del documento** siguiendo la
+[Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n) y guiándote en la numeración del
+documento de [Listado de numeración](https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit?usp=sharing)
 
 0. **Github automáticamente despliega el nombre del archivo cómo el _título del
 documento_. Por lo que no hay que poner un título en el archivo para evitar que
