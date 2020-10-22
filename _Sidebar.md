@@ -13,7 +13,7 @@
 
 ***
 * [\[GUI01\] Guía del Rol de Program Manager
-](https://github.com/novaDepto/Nova/blob/guia/guia-pms/Gu%C3%ADa-del-PM.md)
+](https://github.com/novaDepto/Nova/wiki/Guía-del-PM)
 * [\[GUI02\] Guía del Rol de Team Leader
 ](https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-Team-Leaders.md)
 * [\[GUI03\] Guía para crear eventos en el calendario](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos)
