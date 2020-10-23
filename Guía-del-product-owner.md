@@ -4,6 +4,7 @@
 | ------ | ----|
 | Erwin | Dueño de la guía|
 | Lisi | Autor |
+| Luis | Autor |
 
 ## Objetivo
 > Esta guía tiene como objetivo describir las responsabilidades y desafíos de un Product Owner. Así mismo, servirá para que cualquier miembro del departamento Nova esté orientado sobre lo que implica este rol y cuando se haga transición de roles sirva como referencia para quién sea PO.
