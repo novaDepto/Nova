@@ -30,7 +30,7 @@ recuperar datos históricos de ser necesario
       <td>Análisis</td>
       <td> Identifica los archivos que van a sufrir un cambio para incluirlos
       en la solicitud y utilizando la <a
-      href="https://github.com/novaDepto/Nova/wiki/%5BGUI11%5D-Gu%C3%ADa-de-versionado">[GUI11]
+      href="https://github.com/novaDepto/Nova/wiki/%5BGUI11%5D-Gu%C3%ADa-de-versionado">[GUI03]
       Guía de versionado</a> identifica los cambios de versión
       necesarios.</td>
       <td>Autor del cambio</td>
