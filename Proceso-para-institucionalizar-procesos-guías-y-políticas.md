@@ -3,16 +3,16 @@
 |---------|-------|
 | Peter   | Dueño del proceso |
 | Lisieux   | Autor |
-| Daniel E.  | Autor |
+| Dan  | Autor |
 | Alexis   | Autor |
 | Yaf   | Autor |
 | Juan   | Autor |
 | Alonso   | Autor |
 | Charlie   | Autor |
-
+| Ray   | Autor |
 
 ## Objetivo
-__Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ de los miembros pertinentes, en el menor tiempo posible.
+__Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ de los miembros pertinentes.
 
 ## Entradas
 1. Borrador del documento
@@ -29,91 +29,77 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Planteamiento</td>
-      <td>Tener a la mano, y hasta el final, la <a href="https://docs.google.com/document/d/1KsHp4WnXDkejTbftg5n5KR3B6psNcvt8K9W1mDZjkps/edit?usp=sharing">rúbrica para procesos</a> <b><em></em></b></td>
-      <td>Autor del documento</td>
-      <td>CM</td>
-    </tr
-    <tr>
-      <td>Validar que el proceso a realizar cumpla con los puntos de <b>viabilidad </b>y <b>valor organizacional </b> </td>
-      <td>Autor del documento</td>
-      <td>CM, PPQA</td>
+      <td rowspan="3">Planteamiento</td>
+      <td>Copia y pega la <a href="https://docs.google.com/spreadsheets/d/1QJwNEmHbWxy-EtVOlrlfLJfTQPJb6k8ikunp39Yk8-Y/edit#gid=0"><b> Plantilla de Checklist de Proceso</a></b>.</td>
+      <td rowspan="3">Autor del proceso</td>
+      <td rowspan="3">CM, PPQA</td>
     </tr>
     <tr>
-      <td rowspan="2">Creación</td>
-      <td>Seguir el <a href="https://github.com/novaDepto/Nova/wiki/%5BPRO01%5D-Proceso-para-definir-un-proceso">proceso para definir procesos</a> <b><em></em></b></td>
-      <td>Autor del documento</td>
-      <td>CM</td>
-    </tr
+      <td>Ten a la mano el checklist durante todo el proceso.</td>
+    </tr>
     <tr>
-      <td>Validar que el proceso cumpla con los puntos de <b>definición</b> y <b>estándarización  </b> </td>
-      <td>Autor del documento</td>
-      <td>CM, PPQA</td>
+      <td>Valida que el proceso cumpla con los puntos de <b>Viabilidad </b> y <b>Valor organizacional</b>.</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Creación</td>
+      <td>Realiza el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso"><b>Proceso para definir procesos</b></a>.</td>
+      <td rowspan="3">Autor del proceso</td>
+      <td rowspan="3">CM, PPQA</td>
+    </tr>
+    <tr>
+      <td>Cambia el nombre de la checklist del proceso al <b>Identificador del proceso (Ej. PRO04)</b>.</td>
+    </tr>
+    <tr>
+      <td>Valida que el proceso cumpla con los puntos de <b>Definición</b> y <b>Estándarización  </b> </td>
     </tr>
     <tr>
       <td rowspan="4">Publicación</td>
-      <td>Tomar en consideración la <a href="https://github.com/novaDepto/Nova/wiki/Guía-para-institucionalizar-procesos-guías-políticas">guía de institucionalización</a></td>
-      <td>Autor del documento</td>
+      <td>Sube el proceso a la Wiki siguiendo la <a href="https://github.com/novaDepto/Nova/wiki/Guía-para-institucionalizar-procesos-guías-políticas"><b>Guía de institucionalización</b></a></td>
+      <td>Autor del proceso</td>
       <td>CM</td>
     </tr>
     <tr>
-      <td>Solicitar el <em>Approval</em> o esperar la <em>petición de cambios</em>  de<b> al menos un integrante<b/> del <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a></td>
-      <td>SEPG, Encargado del área relacionada con el documento</td>
+      <td>Solicita el <em>Approval</em> o espera a la <em>petición de cambios</em> de <b>al menos un integrante<b/> del <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a></td>
+      <td>SEPG, Encargado del área relacionada al proceso</td>
       <td>PPQA, PMC, DAR, OPD, OPF</td>
     </tr>
     <tr>
-      <td>Realizar cualquier <b>arreglo y corrección</b> sugerido, ó aclarar cualquier duda presentada en la conversación del <em>Pull Request</em></td>
-      <td>Autor del documento</td>
+      <td>Realiza cualquier <b>arreglo y corrección</b> sugerida y aclara cualquier duda presentada en la conversación del <em>Pull Request</em>.</td>
+      <td>Autor del proceso</td>
       <td>PPQA, OPD, OPF</td>
     </tr>
     <tr>
-      <td>Validar que el proceso cumpla con los puntos de <b>institucionalización </b> </td>
-      <td>Autor del documento</td>
+      <td>Valida que el proceso cumpla con los puntos de <b>Institucionalización</b>.</td>
+      <td>Autor del proceso</td>
       <td>PPQA, OPD, OPF</td>
     </tr>
     <tr>
-      <td rowspan="3">Divulgación</td>
-      <td>Seguir los lineamientos de la<a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion">Política de comunicación</a></td>
-      <td>Autor del documento</td>
-      <td>CM</td>
+      <td rowspan="2">Divulgación</td>
+      <td>Comunica el proceso al departamento siguiendo la <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion"><b>Política de comunicación</b></a> para implementarla en la forma de trabajo.</td>
+      <td>Autor del proceso</td>
+      <td>PMC, PPQA, OPD, OPF, OT</td>
     </tr>
     <tr>
-      <td><b>Comunicar al departamento</b> sobre la publicación del nuevo documento para la implementación en la <em>Forma de trabajo</em></td>
-      <td>Autor del documento</td>
-      <td>PMC, PPQA, OT, OPD, OPF</td>
-    </tr>
-    <tr>
-      <td>Validar que el proceso cumpla con los puntos de <b>difusión </b> </td>
-      <td>Autor del documento</td>
+      <td>Valida que el proceso cumpla con los puntos de <b>Difusión</b>.</td>
+      <td>Autor del proceso</td>
       <td>CM, PPQA</td>
     </tr>
     <tr>
-      <td rowspan="3">Mantenimiento</td>
-      <td>Solicitar auditoría para el proceso institucionalizado</td>
-      <td>Autor del documento</td>
-      <td>CM, PPQA</td>
+      <td rowspan="3">Seguimiento</td>
+      <td>Supervisa el desempeño del proceso tras ponerlo en práctica para determinar si necesita una <b>auditoría o propuesta de mejora</b>.</td>
+      <td>Departamento</td>
+      <td>PPQA, OPF</td>
     </tr>
     <tr>
-    <td>Comunicar el <b>desempeño obtenido</b> tras la puesta en práctica del proceso. Y las <b>propuestas de mejora</b></td>
-      <td>Miembros del departamento</td>
-      <td>PMC, MA</td>
-    </tr>
-    <tr>
-      <td>Responder por las <b>no conformidades </b>y darles seguimiento a través del <a href="https://docs.google.com/spreadsheets/d/1XoZIS9bOkvG00JPGWq24f4WuB-bdESkBypvnKAiDHEM/edit#gid=1693231540">control de auditorías </a> </td>
-      <td>Autor del documento</td>
+      <td>Responde a las <b>no conformidades </b> a través del <a href="https://docs.google.com/spreadsheets/d/1XoZIS9bOkvG00JPGWq24f4WuB-bdESkBypvnKAiDHEM/edit#gid=1693231540">Control de auditorías </a> </td>
+      <td>Autor del proceso</td>
       <td>PMC, CM, PPQA</td>
     </tr>
   </tbody>
 </table>
 
 ## Salidas
-1. _Pull Request_ para la validación del documento.
-2. _Anuncio en slack_ usado para notificar al departamento.
+1. Proceso institucionalizado y anexado a la línea base.
 
 ## Métricas
-
-| Métrica    | Unidad    |
-|------------|-----------|
-| Tiempo de aprobación de un PR | horas |
-| Alcance | **reacciones** al _anuncio de slack_|
-| Utilidad | Cantidad de _Pull Requests_|
+1. Backlog de procesos
