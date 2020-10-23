@@ -98,16 +98,17 @@ Definir actividades a realizar en una junta con cliente para generar un ambiente
       <td>PO</td>
       <td>PMC</td>
     </tr>
+    <tr>
       <td>Revisar el plan de acción del involucramiento del cliente</td>
       <td>PO</td>
       <td>PMC</td>
     </tr>
-       </tr>
+    <tr>
       <td>Actualizar el estado del plan de acción con el cliente</td>
       <td>PO</td>
       <td>PMC</td>
     </tr>
-           </tr>
+    <tr>
       <td>Realizar cambios al plan de acción de ser necesario.</td>
       <td>PO</td>
       <td>PMC, PP</td>
