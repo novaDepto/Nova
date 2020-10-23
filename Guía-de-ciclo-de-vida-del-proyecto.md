@@ -25,7 +25,7 @@ Raymundo   | Autor
 * Genera la lista de actividades priorizadas.
 
 #### Milestones
-* Concenso con stakeholders: ¿Los stakeholders están de acuerdo con la estrategia? 
+* Consenso con stakeholders: ¿Los stakeholders están de acuerdo con la estrategia? 
 
 ### 2) Fase de construcción
 * Desarrolla una solución potencialmente consumible.
