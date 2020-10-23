@@ -22,6 +22,7 @@
 * [\[PRO20\] Proceso para plan de involucramiento de stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 * [\[PRO21\] Proceso para junta con el cliente](https://github.com/novaDepto/Nova/wiki/Proceso-para-junta-con-el-cliente)
 * [\[PRO22\] Proceso de verificación de productos](https://github.com/novaDepto/Nova/wiki/Proceso-de-verificación-de-productos)
+* [\[PRO23\] Proceso de toma de decisiones](https://github.com/novaDepto/Nova/wiki/Proceso-de-toma-de-decisiones)
 
 ### Guías
 
