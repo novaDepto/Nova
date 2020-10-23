@@ -25,7 +25,7 @@ Raymundo   | Autor
 * Genera la lista de actividades priorizadas.
 
 #### Milestones
-* Concenso con stakeholders
+* Concenso con stakeholders: ¿Los stakeholders están de acuerdo con la estrategia? 
 
 ### 2) Fase de construcción
 * Desarrolla una solución potencialmente consumible.
@@ -34,9 +34,9 @@ Raymundo   | Autor
 * Analiza el sentido del proyecto
 
 #### Milestones
-* Arquitectura probada
-* Revisión de la viabilidad del proyecto
-* Funcionalidad suficiente
+* Arquitectura probada: ¿Realmente puedes construir la solución propuesta?
+* Revisión de la viabilidad del proyecto: ¿El proyecto sigue teniendo sentido?
+* Funcionalidad suficiente: ¿Tiene sentido liberar la solución actual?
 
 #### Actividades por iteración
 1. Genera el plan de la iteración con base en la lista de actividades.
@@ -57,5 +57,5 @@ Raymundo   | Autor
 * Entrega los manuales de usuario a los stakeholders.
 
 #### Milestones
-* Listo para producción
-* Stakeholders satisfechos
+* Listo para producción: ¿La solución va a funcionar?
+* Stakeholders satisfechos: ¿Están contentos los stakeholders con la solución desplegada?
