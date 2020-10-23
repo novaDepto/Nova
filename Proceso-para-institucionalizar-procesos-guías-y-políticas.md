@@ -42,7 +42,7 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
     </tr>
     <tr>
       <td rowspan="3">Creación</td>
-      <td>Realiza el <a href="https://github.com/novaDepto/Nova/wiki/%5BPRO01%5D-Proceso-para-definir-un-proceso"><b>Proceso para definir procesos</b></a>.</td>
+      <td>Realiza el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso"><b>Proceso para definir procesos</b></a>.</td>
       <td rowspan="3">Autor del proceso</td>
       <td rowspan="3">CM, PPQA</td>
     </tr>
