@@ -1,5 +1,3 @@
-# Proceso de Gestión de Decisiones (DAR)
-
 ## Responsables
 Nombre     | Rol
 -----------|------------------
