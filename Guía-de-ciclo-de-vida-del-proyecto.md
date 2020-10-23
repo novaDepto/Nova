@@ -24,11 +24,19 @@ Raymundo   | Autor
 * Genera el plan de trabajo de los proyectos.
 * Genera la lista de actividades priorizadas.
 
+#### Milestones
+* Consenso con stakeholders: ¿Los stakeholders están de acuerdo con la estrategia? 
+
 ### 2) Fase de construcción
 * Desarrolla una solución potencialmente consumible.
 * Desarrolla el proyecto a base de iteraciones.
 * Valida la arquitectura seleccionada
 * Analiza el sentido del proyecto
+
+#### Milestones
+* Arquitectura probada: ¿Realmente puedes construir la solución propuesta?
+* Revisión de la viabilidad del proyecto: ¿El proyecto sigue teniendo sentido?
+* Funcionalidad suficiente: ¿Tiene sentido liberar la solución actual?
 
 #### Actividades por iteración
 1. Genera el plan de la iteración con base en la lista de actividades.
@@ -47,3 +55,7 @@ Raymundo   | Autor
 * Capacita a los stakeholders en el uso de la solución.
 * Prepara el ambiente de soporte para los stakeholders.
 * Entrega los manuales de usuario a los stakeholders.
+
+#### Milestones
+* Listo para producción: ¿La solución va a funcionar?
+* Stakeholders satisfechos: ¿Están contentos los stakeholders con la solución desplegada?
