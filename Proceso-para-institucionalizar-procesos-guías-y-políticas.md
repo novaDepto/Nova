@@ -75,7 +75,7 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
     </tr>
     <tr>
       <td rowspan="2">Divulgación</td>
-      <td>Comunica el proceso al departamento siguiendo <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion"><b>Política de comunicación</b></a> para implementarla en la forma de trabajo.</td>
+      <td>Comunica el proceso al departamento siguiendo la <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion"><b>Política de comunicación</b></a> para implementarla en la forma de trabajo.</td>
       <td>Autor del proceso</td>
       <td>PMC, PPQA, OPD, OPF, OT</td>
     </tr>
