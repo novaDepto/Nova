@@ -14,10 +14,9 @@ Raymundo   | Autor
 * Puedan afectar el alcance de los objetivos de los proyectos
 * Generen conflictos entre productos de trabajo
 
-## Objetivos SMART de los interesados
-* Evalúa si el impacto de la decisión compensa el esfuerzo necesario para evaluarla
-* Pide la opinión de las personas afectadas por la decisión
-
-
-
-
+## ¿Qué decisiones NO necesitan un proceso de evaluación formal?
+### Aquellas que:
+* **Se puedan tomar en menos de 5 minutos**
+* **Son individuales o independientes del equipo o departamento.**
+* **No afectan al plan del proyecto**
+* **Sean unánimes en el equipo o departamento.**
