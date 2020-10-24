@@ -60,7 +60,7 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
     </tr>
     <tr>
       <td>Solicita el <em>Approval</em> o espera a la <em>petición de cambios</em> de <b>al menos un integrante<b/> del <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a></td>
-      <td>SEPG, Encargado del área relacionada al proceso</td>
+      <td>CCB o Encargado del área relacionada al proceso</td>
       <td>PPQA, PMC, DAR, OPD, OPF</td>
     </tr>
     <tr>
