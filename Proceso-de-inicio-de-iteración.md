@@ -98,6 +98,8 @@ a) Demostración de la iteración: Se agenda una prueba con el socio.
 b) Demostración bajo demanda: El socio solicita probar el sistema.
 c) Demostración all-hands: El socio puede usar libremente el sistema.
 
+***
+versión 0.1a
 
 
 

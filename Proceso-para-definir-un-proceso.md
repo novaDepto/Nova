@@ -55,3 +55,6 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
 
 ## Métricas
 N/A
+
+***
+versión 0.1a

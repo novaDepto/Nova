@@ -76,3 +76,6 @@ Llevar un control y monitoreo de los riesgos identificados durante el ciclo de v
 ## Métricas
 1. Magnitud acumulada de riesgos 
 2. Burndown de riesgos
+
+***
+versión 0.1a

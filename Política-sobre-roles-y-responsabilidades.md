@@ -85,3 +85,6 @@
 * Fomentar buenos diseños y refactorización para minimizar la deuda técnica. 
 * Asegurar que la solución se integra y prueba constantemente. 
 * Es el último responsable de las decisiones técnicas. 
+
+***
+versión 0.1a

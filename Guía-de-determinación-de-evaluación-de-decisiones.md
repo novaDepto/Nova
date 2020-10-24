@@ -20,3 +20,6 @@ Raymundo   | Autor
 * **Son individuales o independientes del equipo o departamento.**
 * **No afectan al plan del proyecto**
 * **Sean unánimes en el equipo o departamento.**
+
+***
+versión 0.1a

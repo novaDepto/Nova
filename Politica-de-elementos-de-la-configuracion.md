@@ -9,7 +9,7 @@
 Esta política define los productos de trabajo que son elementos de configuración y que por lo tanto son sujetos a los procesos y políticas definidos por el área de proceso de Gestión de la Configuración.
 
 ## Reglamento
-1. Los elementos de la configuración deberán de seguir la [Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n) y la [Guía de versionado](https://github.com/novaDepto/Nova/wiki/%5BGUI11%5D-Gu%C3%ADa-de-versionado)
+1. Los elementos de la configuración deberán de seguir la [Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n) y la [Guía de versionado](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado)
 2. Los elementos sometidos a la Gestión de la Configuración en Nova son:
 
 * **Productos de trabajo interno del departamento**:
@@ -45,7 +45,7 @@ _Son elementos que se utilizaran para el desarrollo de la solución para el clie
       </ul>
     <br>
 * **Productos relacionados con el desarrollo de los proyectos de software:**
-_Son elementos que dan soporte al desarrollo de la solucion_
+_Son elementos que dan soporte al desarrollo de la solución_
      <ul>
           <li>Requisitos funcionales</li>
           <li>Matriz de trazabilidad</li>
@@ -73,4 +73,6 @@ _Son elementos que dan soporte al desarrollo de la solucion_
           <li>Bibliografías</li>
           <li>Resúmenes</li>
      </ul>
-     
+
+***
+versión 0.1a

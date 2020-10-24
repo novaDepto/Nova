@@ -92,3 +92,6 @@ Definir y conseguir el involucramiento deseado de cada uno de los stakeholders p
 
 ## Métricas
 1. Tiempo de ejecución del proceso
+
+***
+versión 0.1a

@@ -4,10 +4,10 @@
 </thead>
 <tbody>
 <tr>
-<td>5</td> <td>Soporte</td> <td>CM</td> <td>Gestión de Configuración</td> <td>Identificar-Tratar el análisis causal de los resultados</td>
+<td>5</td> <td>Soporte</td> <td>CAR</td> <td>Análisis Causal y Resoulución</td>  <td>Identificar-Tratar el análisis causal de los resultados</td>
 </tr>
 <tr>
-<td>2</td> <td>Soporte</td> <td>CAR</td> <td>Análisis Causal y Resoulución</td> <td>Controlar los cambios a los productos de trabajo manteniendo una integridad base</td>
+<td>2</td> <td>Soporte</td> <td>CM</td> <td>Gestión de Configuración</td> <td>Controlar los cambios a los productos de trabajo manteniendo una integridad base</td>
 </tr>
 <tr>
 <td>3</td> <td>Soporte</td> <td>DAR</td> <td>Análisis de Decisiones y Resolución</td> <td>Analizar las posibles decisiones evaluando alternativas frente a criterios establecidos</td>
@@ -71,3 +71,6 @@
 </tr>				
 </tbody>
 </table>
+
+***
+versión 0.1a

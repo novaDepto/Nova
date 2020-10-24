@@ -65,3 +65,6 @@ requisitos.'
 [permisos]: media/guia_eventos_permisos.png
 [disponibilidad]: media/guia_eventos_disponibilidad.png
 [ejemplo]: media/guia_eventos_ejemplo.png
+
+***
+versión 0.1a

@@ -125,3 +125,6 @@ Definir actividades a realizar en una junta con cliente para generar un ambiente
 
 ## Métricas
 1. Tiempo de ejecución del proceso
+
+***
+versión 0.1a

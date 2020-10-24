@@ -84,3 +84,6 @@ calidad del código.
 | 2 | Peter, Juan | Sí | 11 | 3 | 03:24:12 | 00:16:20
 
 [novaflow]: ./media/guia_nova_flow_flow.png
+
+***
+versión 0.1a

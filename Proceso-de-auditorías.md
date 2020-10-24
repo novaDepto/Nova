@@ -37,9 +37,9 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
       <td>PPQA</td>
     </tr>
     <tr>
-      <td>Definir la línea base a ser auditada</td>
+      <td>Definir la <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-lineas-base">línea base </a> a ser auditada</td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
       <td>Definir los procesos y/o productos de trabajo a ser auditados</td>
@@ -146,6 +146,6 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
 1. Registro del tiempo tomado tras realizar todo el proceso para una auditoría, incluyendo todas las fases del proceso.
 2. No-conformidades registradas y categorizadas
 
-## Glosario
-1. __Línea base__ el tipo de producto/proceso que será auditado
 
+***
+versión 0.1a

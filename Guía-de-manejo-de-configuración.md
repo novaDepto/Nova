@@ -65,3 +65,6 @@ fix: Cambiar el título para corregir faltas ortográficas.
 
 ## Ver también
 * [Guía para NovaFlow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
+
+***
+versión 0.1a

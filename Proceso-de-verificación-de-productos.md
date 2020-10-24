@@ -88,3 +88,6 @@ Raymundo   | Autor
 
 ## Métricas
 1. Tasa de aceptación de productos
+
+***
+versión 0.1a

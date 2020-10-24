@@ -1,4 +1,4 @@
-# Cuestionario de Salud (Discord Cheatsheet)
+# Guía de Cuestionario de Salud (Discord Cheatsheet)
 
 ## Comandos
 1. pm!new → Crea la encuesta
@@ -21,3 +21,6 @@
 6. 1
 7. in 6 hours
 8. pm!export 2110
+
+***
+versión 0.1a

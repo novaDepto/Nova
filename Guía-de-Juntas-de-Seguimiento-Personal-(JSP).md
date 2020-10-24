@@ -57,3 +57,6 @@ Alonso     | Autor
 
 ## VI. Cierre
 * El Team Leader agradece la participación del integrante en la sesión y le da un mensaje de apoyo para impulsar su motivación a lo largo de la semana.
+
+***
+versión 0.1a

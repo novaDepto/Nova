@@ -23,3 +23,6 @@ Raymundo   | Autor
 ## Capacitación del rol:
 * Una vez seleccionada la persona nueva en el rol, esta deberá coordinarse con la persona que lo deja para capacitarse y ponerse al día con las tareas y procesos individuales de este.
 * El tiempo y método de capacitación queda a decisión de ambas personas.
+
+***
+versión 0.1a

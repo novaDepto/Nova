@@ -94,3 +94,6 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
 
 ## Métricas
 1. Tiempo de ejecución del proceso
+
+***
+versión 1.0

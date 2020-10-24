@@ -19,3 +19,6 @@ Asegurar la efectividad e impacto deseado de las Juntas de Seguimiento Personal 
 
     5.2 El Team Leader puede discutir temas generales o patrones de comportamiento de un integrante con los Program Managers si lo considera necesario
 6. Queda prohibido usar la información obtenida de las JSP para el beneficio personal del Team Leader. En caso de que esto suceda, se deberá reportar al Comité de Ética.
+
+***
+versión 0.1a

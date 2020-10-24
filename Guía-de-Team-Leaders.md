@@ -26,3 +26,6 @@ El Team Leader facilita y guía al equipo en la ejecución de sus actividades en
 + Detectar cambios en el calendario de actividades
 + Supervisar el progreso del plan de trabajo
 + Delegar responsabilidades y tareas
+
+***
+versión 0.1a

@@ -49,3 +49,6 @@ Se considera como información sensible si se cumplen los siguientes criterios:
 - Es información utilizada como medio identificación personal.
 - Es información sobre bienes materiales y su lugar de almacenamiento.
 - Es información con relación a la administración y/o logística de la empresa.
+
+***
+versión 0.1a

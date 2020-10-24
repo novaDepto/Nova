@@ -52,3 +52,6 @@ El Product Owner es la persona en el equipo que representa la voz de los stakeho
 
 ## Referencias:
 * Ambler, S. W., & Lines, M. (2012). Disciplined agile delivery: A practitioner's guide to agile software delivery in the enterprise. Upper Saddle River, NJ: IBM Press.
+
+***
+versión 0.1a

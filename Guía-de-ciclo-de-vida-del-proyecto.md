@@ -59,3 +59,6 @@ Raymundo   | Autor
 #### Milestones
 * Listo para producción: ¿La solución va a funcionar?
 * Stakeholders satisfechos: ¿Están contentos los stakeholders con la solución desplegada?
+
+***
+versión 0.1a

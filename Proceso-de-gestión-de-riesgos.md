@@ -121,3 +121,6 @@
 3. Magnitud = ¿Cuánto afecta el riesgo al equipo?
 4. Plan de mitigación = Estrategia para reducir la magnitud de un riesgo.
 5. Plan de contingencia = Estrategia para evitar que la magnitud de un riesgo aumente.
+
+***
+versión 0.1a

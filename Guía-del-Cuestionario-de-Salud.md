@@ -32,4 +32,5 @@ Alonso     | Autor
 * Se genera un plan de acción inmediato durante las Daily Meetings.
 * Hablar de los resultados en las Juntas de Seguimiento Personal.
 
-
+***
+versión 0.1a

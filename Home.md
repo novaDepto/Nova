@@ -1,9 +1,11 @@
 ![](https://raw.githubusercontent.com/novaDepto/Nova/master/Desarrollo%20de%20departamento/Imagen%20Corporativa/NOVA_banner.jpg)
 
-# Bienvenido a la wiki de Nova!
+# ¡Bienvenido a la wiki de Nova!
 Aquí podras encontrar la documentación correspondiente a procesos, políticas, marcos de referencia, estándares, y guías que se viven en el departamento.
 
-## Repos de los equipos
+### [Mapa de procesos](https://app.diagrams.net/#G1WO-4zv0Zsb4ugsiL5dlvyaZ0SuDR4aBu)
+
+## Repositorios de los proyectos de software
 
 [Andrómeda](https://gitlab.com/nova_tec/obcapital)
 

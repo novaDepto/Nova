@@ -37,4 +37,5 @@ de sufijo: __x.y?__
 __Nota:__ Todas las versiones de todos los artefactos deben partir del __0.1a__
 donde se entiende que se trata de una versión inicial con detalles a pulir.
 
-
+***
+versión 0.1a

@@ -84,3 +84,6 @@ Definir un proceso de ingeniería de software que permita generar entendimiento,
 
 ## Glosario
 1. Nivel de dependencia: ¿Una historia de usuario depende la realización de otras?
+
+***
+versión 0.1a

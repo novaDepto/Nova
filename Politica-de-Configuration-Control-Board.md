@@ -35,3 +35,6 @@ Que el departamento conozca qué es el Configuration Control Board, quiénes lo 
         <li>Juan Alcántara</li>
         <li>Pedro González</li>
     </ul>
+
+***
+versión 0.1a
