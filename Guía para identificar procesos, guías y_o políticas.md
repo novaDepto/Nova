@@ -36,5 +36,5 @@ Informar sobre la diferencia entre procesos, guías y/o políticas para poder cr
 * Son establecidos por una organización.
 * Para definir un política se debe de usar la <a href="https://github.com/novaDepto/Nova/blob/plantilla/politica/Plantilla-de-pol%C3%ADtica.md">plantilla de política</a>
 
-
-
+***
+versión 0.1a

@@ -19,6 +19,7 @@ Un objetivo que resuelva una necesidad del departamento
 4. Regla 4
 5. Regla 5
 
-
+***
+versión 1.0
 
 

@@ -120,3 +120,6 @@ Lisieux   | Autor
 
 ## Métricas
 1. Backlog de Decisiones
+
+***
+versión 0.1a

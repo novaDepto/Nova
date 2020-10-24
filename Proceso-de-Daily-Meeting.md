@@ -82,3 +82,6 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
 
 ## Métricas
 1. La duración debe ser menor o igual a 15 minutos, priorizando el tiempo al mantenimiento del plan.
+
+***
+versión 0.1a

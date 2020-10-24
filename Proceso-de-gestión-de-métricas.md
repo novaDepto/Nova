@@ -68,3 +68,6 @@ Raymundo   | Autor
 
 ## Métricas
 1. Backlog de Métricas
+
+***
+versión 0.1a

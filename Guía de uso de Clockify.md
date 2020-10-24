@@ -42,3 +42,6 @@ Los pasos para la medición del tiempo:
 <br>
 
 **9. Registra el tiempo en los documentos correspondientes (planes, Backlogs,etc.).**
+
+***
+versión 0.1a

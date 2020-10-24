@@ -80,3 +80,6 @@ En caso de rechazo:
 
 ## Métricas
 1. Promedio de institucionalización de procesos.
+
+***
+versión 0.1a

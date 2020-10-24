@@ -130,3 +130,6 @@ botón de `Submit review`.
 [comentario]: media/guia_institucionalizar_comentario.png
 [cambios]: media/guia_institucionalizar_cambios.png
 [aprobar]: media/guia_institucionalizar_aprobar.png
+
+***
+versión 0.1a

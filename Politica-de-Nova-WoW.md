@@ -70,3 +70,6 @@ Establecer la forma de trabajo de todos los miembros de Nova.
 
 ## Glosario
 1. <b id="glosario1">Item de valor:</b> Proceso, Guía, Politica, correción o retroalimentación a un ítem en <i>Pull Request</i>.
+
+***
+versión 0.1a

@@ -17,3 +17,5 @@ Conflicto, involucrados
 ## Salidas
 Resolución del conflicto mediante acuerdos o medidas que se tomarán por ambas partes acordados por los involucrados.
 
+***
+versión 0.1a

@@ -63,3 +63,6 @@ _Nota: no saldrá la opción del canal, pero sí recibiremos tu denuncia._
 3. Dependiendo del grado de la falta, el Comité decidirá llevar a cabo o no una junta de seguimiento con el denunciado y con los involucrados para llegar asesorar y lograr que los involucrados lleguen a soluciones y acuerdos.
 
 4. Finalmente, en caso de que lo amerite, el denunciado tendrá que firmar una carta de responsabilidad en caso de que la falta suponga la realización de alguna acción para enmendar la falta cometida. Así mismo, el Comité de Ética velará por que esta acción sea cumplida u orientar al denunciado en caso de que necesite asesoramiento.
+
+***
+versión 1.0

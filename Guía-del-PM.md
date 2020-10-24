@@ -7,7 +7,7 @@
 | Yaf | Autor |
 
 ## Objetivo
-> Esta guía tiene como objetivo describir las responsabilidades y desafíos de un Program Manager. Así mismo, servirá para que cualquier miembro del departamento Nova esté orientado sobre lo que implica este rol y cuando se haga transición de roles sirva como referencia para quién sea PM.
+Esta guía tiene como objetivo describir las responsabilidades y desafíos de un Program Manager. Así mismo, servirá para que cualquier miembro del departamento Nova esté orientado sobre lo que implica este rol y cuando se haga transición de roles sirva como referencia para quién sea PM.
 
 ## Responsabilidades
 * Manejar el portafolio de proyectos
@@ -49,3 +49,5 @@
 * Ambler, S. W., & Lines, M. (2012). Disciplined agile delivery: A practitioner's guide to agile software delivery in the enterprise. Upper Saddle River, NJ: IBM Press.
 * Program Management Institute. (2020). Program Management. PMI website. Retrieve 20/09/2020 from: [https://www.pmi.org/disciplined-agile/process/program-management](https://www.pmi.org/disciplined-agile/process/program-management)
  
+***
+versión 0.1a

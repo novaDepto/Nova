@@ -90,3 +90,6 @@ recuperar datos históricos de ser necesario
 1. Tiempo de revisión de cambios.
 2. _Breakdown_ por categoría de cambios, i.e. si fueron _fixes_, adiciones,
 eliminaciones, etc.
+
+***
+versión 0.1a

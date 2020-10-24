@@ -23,3 +23,6 @@ Asegurar un proceso de retroalimentación y mejora continua en cada integrante d
 
     4.1 Si alguien incumple con esta regla, entonces se deberá reportar al Comité de Ética
 5. Queda prohibido usar el contenido de las juntas para coaccionar las acciones de los otros integrantes del equipo.  En caso de que esto suceda, se deberá reportar al Comité de Ética.
+
+***
+versión 0.1a

@@ -98,3 +98,6 @@ a) Documentación: Manuales/Diagramas
 b) Código: Base de datos, Frontend, Backend
 2) Los productos de trabajo pueden tener criterios de verificación comunes y únicos.
 3) **NO SE RECOMIENDA** verificar productos de trabajo de diferentes historias de usuario que sean del mismo tipo porque puede generar confusión y un desarrollo en cascada que va en contra de los principios del desarrollo ágil.
+
+***
+versión 0.1a

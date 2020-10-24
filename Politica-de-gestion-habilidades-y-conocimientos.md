@@ -54,5 +54,6 @@ Desarrollar los conocimientos, confianza y habilidades entre los miembros del de
 | Daniel Z | Colaborador|
 | Luis     | Colaborador|
 
-
+***
+versión 0.1a
 

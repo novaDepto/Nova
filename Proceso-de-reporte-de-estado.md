@@ -117,3 +117,6 @@ Definir las actividades a realizar para generar y preparar una presentación de 
 
 ## Métricas
 1. Tiempo de ejecución del proceso
+
+***
+versión 0.1a

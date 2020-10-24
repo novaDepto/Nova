@@ -76,3 +76,6 @@ Alonso     | Autor
 8. Los integrantes del equipo pueden usar cualquier tipo de lenguaje mientras evalúan a sus compañeros siempre y cuando este no sea denigrante, discriminatorio o tenga la intención de dañar la dignidad de la otra persona.
 * Si alguien incumple con esta regla, entonces se deberá reportar al Comité de Ética.
 9. Evita que el contenido de las juntas de desempeño se use para chantajear o coaccionar a otros integrantes del equipo. En caso de que suceda, se deberá reportar al Comité de Ética.
+
+***
+versión 0.1a

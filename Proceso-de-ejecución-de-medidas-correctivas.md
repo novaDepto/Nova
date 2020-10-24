@@ -63,3 +63,6 @@ Ejecutar medidas correctivas para alcanzar el avance esperado de acuerdo al plan
 
 ## Métricas
 1. Tiempo de ejecución de la medida correctiva
+
+***
+versión 0.1a

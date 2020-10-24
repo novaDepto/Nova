@@ -31,3 +31,6 @@ Definir las líneas base del departamento con el propósito de:
           <li> <a href="https://github.com/AlonsoOropeza/PugSeal"> Línea base del proyecto Cannis Majoris </a> </li>
           <li> <a href="https://gitlab.com/nova_tec/obcapital">  Línea base del proyecto Andrómeda </a> </li>
       </ul>
+
+***
+versión 0.1a
