@@ -34,7 +34,7 @@
       <td>Escribe la descripción del riesgo.</td>
     </tr>
     <tr>
-      <td>Escribe la fuente del riesgo.</td>
+      <td>Escribe la fuente u origen del riesgo.</td>
     </tr>
     <tr>
       <td>Escribe el tipo de riesgo.</td>
@@ -123,4 +123,4 @@
 5. Plan de contingencia = Estrategia para evitar que la magnitud de un riesgo aumente.
 
 ***
-versión 0.1a
+versión 0.2a
