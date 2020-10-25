@@ -49,6 +49,7 @@
 * [\[GUI21\] Guía para juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-juntas-de-seguimiento-personal-(JSP))
 * [\[GUI22\] Guía de Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-product-owner)
 * [\[GUI23\] Guía de cuestionario de salud](https://github.com/novaDepto/Nova/wiki/Cuestionario-de-Salud-Discord-Cheatsheet)
+* [\[GUI24\] Guía de identificación de riesgos](https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos)
 * [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-denuncias)
 
 ### Políticas
