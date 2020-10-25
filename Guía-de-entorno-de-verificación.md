@@ -3,8 +3,8 @@ Nombre     | Rol
 -----------|------------------
 Raymundo   | Autor
 
-## Objetivos
-1. Asegurar la preparación del entorno de verificación
+## Objetivo
+1. Asegurar la preparación del entorno de verificación.
 
 ## Características
 <table>
@@ -20,11 +20,11 @@ Raymundo   | Autor
       <td>Se verifican los productos de trabajo que hayan sido completados.</td>
     </tr>
     <tr>
-    <td>Se recomienda que se verifiquen en lotes por <strong>historia de usuario.</strong></td>
+    <td>Se recomienda que se verifiquen los Work Items por <strong>historia de usuario.</strong></td>
     </tr>
     <tr>
       <td>Método de verificación</td>
-      <td><strong>Pair Revision.</strong></td>
+      <td><strong>Pair Review.</strong></td>
     </tr>
     <tr>
       <td rowspan="2">Criterios de verificación</td>
@@ -41,7 +41,7 @@ Raymundo   | Autor
     </tr>
     <tr>
       <td rowspan="2">Herramienta de verificación</td>
-      <td><a href=""><strong>Reporte de Verificación</strong></a> = Registra los resultados, observaciones y correcciones a realizar a los productos de trabajo verificados.</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"><strong>Reporte de Verificación</strong></a> = Registra los resultados, observaciones y correcciones a realizar a los productos de trabajo verificados.</td>
     </tr>
     <tr>
       <td>Se realiza un Reporte de Verificación por historia de usuario.</td>
@@ -49,7 +49,7 @@ Raymundo   | Autor
   </tbody>
 </table>
 
-## Pair Revision
+## Pair Review
 <table>
   <thead>
     <tr>
@@ -87,17 +87,17 @@ Raymundo   | Autor
     </tr>
     <tr>
       <td>Seguimiento</td>
-      <td>Se recomienda pedir una nueva Pair Revision hasta que un producto de trabajo esté corregido según las observaciones de la verificación anterior.</td>
+      <td>Se recomienda pedir una nueva Pair Review hasta que un producto de trabajo esté corregido según las observaciones de la verificación anterior.</td>
     </tr>
   </tbody>
 </table>
 
 ## Sobre los productos de trabajo
-1) Los productos de trabajo se dividen en dos grandes categorías:
-a) Documentación: Manuales/Diagramas
-b) Código: Base de datos, Frontend, Backend
-2) Los productos de trabajo pueden tener criterios de verificación comunes y únicos.
-3) **NO SE RECOMIENDA** verificar productos de trabajo de diferentes historias de usuario que sean del mismo tipo porque puede generar confusión y un desarrollo en cascada que va en contra de los principios del desarrollo ágil.
+1. Los productos de trabajo se dividen en dos grandes categorías:
+* **Documentación**: Manuales/Diagramas
+* **Código**: Base de datos, Frontend, Backend
+2. Los productos de trabajo pueden tener criterios de verificación comunes y únicos.
+3. **NO SE RECOMIENDA** verificar productos de trabajo de diferentes historias de usuario que sean del mismo tipo porque puede generar confusión y un desarrollo en cascada que va en contra de los principios del desarrollo ágil.
 
 ***
-versión 0.1a
+versión 0.2a
