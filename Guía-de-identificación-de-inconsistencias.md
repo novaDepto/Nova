@@ -1,5 +1,3 @@
-# Guía de Identificación de Inconsistencias (REQM)
-
 ## Responsables
 Nombre     | Rol
 -----------|------------------
