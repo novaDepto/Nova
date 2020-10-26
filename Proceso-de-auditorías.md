@@ -43,7 +43,7 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
       <td>PPQA, CM</td>
     </tr>
     <tr>
-      <td>Definir los procesos y/o productos de trabajo a ser auditados</td>
+      <td>Definir los procesos y/o productos de trabajo a ser auditados. Estos deben de ser <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-elementos-de-la-configuracion"> elementos de la configuración </a> </td>
       <td>Personas auditando</td>
       <td>PPQA, CM</td>
     </tr>
