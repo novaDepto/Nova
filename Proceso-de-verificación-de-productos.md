@@ -44,11 +44,11 @@ Raymundo   | Autor
       </td>
     </tr>
     <tr>
-      <td>Los verificadores preparan el entorno de verificación. (<strong>Consulta la <a href="">Guía del Entorno de Verificación<strong></a> para más información).</td>
+      <td>Los verificadores preparan el entorno de verificación. (<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-entorno-de-verificaci%C3%B3n">Guía del Entorno de Verificación<strong></a> para más información).</td>
     </tr>
     <tr>
       <td rowspan="3">Verificación</td>
-      <td>Los verificadores realizan la verificación de los productos siguiendo el <a href=""><strong>Reporte de Verificación</strong></a>.</td>
+      <td>Los verificadores realizan la verificación de los productos siguiendo el <a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"><strong>Reporte de Verificación</strong></a>.</td>
       <td rowspan="3">Pareja de verificación</td>
       <td rowspan="3">VER</td>
     </tr>

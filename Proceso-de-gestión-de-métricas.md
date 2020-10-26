@@ -11,7 +11,8 @@ Raymundo   | Autor
 3. Poner a disposición las métricas para el departamento.
 
 ## Entradas
-1. Datos semanales nuevos del departamento o los equipos 
+1. Datos semanales nuevos del departamento o los equipos
+2. <a href="https://docs.google.com/spreadsheets/d/1RpU0kmGCRSH35LN6ZTPPkAXsNAeiS_OLvBdqoJsp060/edit#gid=297985474">Backlog de métricas</a>
 
 ## Proceso
 <table>

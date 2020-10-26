@@ -60,11 +60,11 @@ Raymundo   | Autor
   <tbody>
      <tr>
       <td>Tipo</td>
-      <td>Inspección</td>
+      <td>Inspección.</td>
     </tr>
     <tr>
       <td>Petición</td>
-      <td>A demanda</td>
+      <td>A demanda.</td>
     </tr>
     <tr>
       <td>Input</td>
