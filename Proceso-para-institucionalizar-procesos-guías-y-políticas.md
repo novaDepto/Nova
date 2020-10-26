@@ -42,12 +42,12 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
     </tr>
     <tr>
       <td rowspan="3">Creación</td>
-      <td>Realiza el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso"><b>Proceso para definir procesos</b></a> en caso de serlo.</td>
+      <td>Agrega el nombre, ID y versión al <b><a href="https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit?usp=sharing">Listado y control de documentos wiki</a></b> con base de la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuración">Guía de manejo de configuración</a> y <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado">Guía de versionado</a></td>
       <td rowspan="3">Autor del entregable</td>
       <td rowspan="3">CM, PPQA</td>
     </tr>
-    <tr>
-      <td>Cambia el nombre de la hoja agregada a la checklist como su <b>Identificador Único (Ej. PRO04, GUI12, POL03)</b>.</td>
+        <tr>
+      <td>Cambia el nombre de la hoja agregada a la checklist como su <b>Identificador Único</a></b>.</td>
     </tr>
     <tr>
       <td>Valida que el proceso cumpla con los puntos de <b>Definición</b> y <b>Estándarización  </b> </td>
