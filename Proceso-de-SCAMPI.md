@@ -101,11 +101,18 @@ Permitir al departamento contar con la evaluación SCAMPI para conocer el nivel 
       <td>PM</td>
       <td>OPF</td>
     </tr>
+    <tr>
+      <td rowspan="1">Corrección</td>
+      <td> Anotar las observaciones como Work Items en el <a href="https://docs.google.com/spreadsheets/d/1_tEVZlBT36JiXt0Qq1hy3zojkzO2abnw79ju-6LbB4s/edit#gid=1631241593"> Plan Nova </a> y proceder a su corrección de acuerdo al plan. </td>
+      <td> Miembros del departamento</td>
+      <td>OPF</td>
+    </tr>
   </tbody>
 </table>
 
 ## Salidas
 1. CMMI-DEV-Gap-Analysis con las observaciones del SCAMPI
+2. Plan Nova actualizado con los nuevos Work Items a realizar
 
 ## Métricas
 1. Número de observaciones y correcciones a realizar
