@@ -16,7 +16,6 @@
 * [\[PRO11\] Proceso de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-métricas)
 * [\[PRO12\] Proceso de mejora de procesos (PIP) ](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-de-procesos)
 * [\[PRO13\] Proceso de gestión de riesgos](https://github.com/novaDepto/Nova/blob/master/Proceso-de-gesti%C3%B3n-de-riesgos)
-
 * [\[PRO15\] Proceso de ejecución de medidas correctivas](https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecución-de-medidas-correctivas)
 * [\[PRO16\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
 * [\[PRO17\] Proceso de asignación de roles](https://github.com/novaDepto/Nova/wiki/Proceso-de-asignación-de-roles)
@@ -25,6 +24,7 @@
 * [\[PRO21\] Proceso para junta con el cliente](https://github.com/novaDepto/Nova/wiki/Proceso-para-junta-con-el-cliente)
 * [\[PRO22\] Proceso de verificación de productos](https://github.com/novaDepto/Nova/wiki/Proceso-de-verificación-de-productos)
 * [\[PRO23\] Proceso de toma de decisiones](https://github.com/novaDepto/Nova/wiki/Proceso-de-toma-de-decisiones)
+* [\[PRO24\] Proceso de gestion de cambios a historias de usuario](https://github.com/novaDepto/Nova/blob/master/Proceso-de-gesti%C3%B3n-de-cambios-a-historias-de-usuario.md)
 
 ### Guías
 
