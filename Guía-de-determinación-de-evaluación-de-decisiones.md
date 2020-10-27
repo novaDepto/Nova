@@ -3,7 +3,7 @@ Nombre     | Rol
 -----------|------------------
 Raymundo   | Autor
 
-## Objetivos
+## Objetivo
 1. Ayudar a determinar cuándo una decisión debe someterse a una evaluación formal.
 
 ## ¿Qué decisiones necesitan un proceso de evaluación formal?
@@ -17,9 +17,9 @@ Raymundo   | Autor
 ## ¿Qué decisiones NO necesitan un proceso de evaluación formal?
 ### Aquellas que:
 * **Se puedan tomar en menos de 5 minutos**
-* **Son individuales o independientes del equipo o departamento.**
+* **Son individuales o independientes del equipo o departamento**
 * **No afectan al plan del proyecto**
-* **Sean unánimes en el equipo o departamento.**
+* **Sean unánimes en el equipo o departamento**
 
 ***
-versión 0.1a
+versión 0.2a

@@ -7,7 +7,7 @@ Cristian   | Autor
 Luis       | Autor
 
 ## Objetivos
-Definir un proceso de ingeniería de software que permita generar entendimiento, compromiso y trazabilidad sobre los requisitos.
+1. Definir un proceso de ingeniería de software que permita generar entendimiento, compromiso y trazabilidad sobre los requisitos.
 
 ## Entradas
 1. Requisitos obtenidos mediante la reunión con stakeholders.
@@ -25,7 +25,7 @@ Definir un proceso de ingeniería de software que permita generar entendimiento,
   <tbody>
     <tr>
       <td rowspan="3">Identificación</td>
-      <td>Escribe la historia de usuario en el Backlog de Requisitos.</td>
+      <td>Escribe la historia de usuario en el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1630941258">Backlog de Requisitos</a></strong>.</td>
       <td rowspan="3">PO</td>
       <td rowspan="3">REQM</td>
     </tr>

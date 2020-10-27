@@ -1,5 +1,3 @@
-# Guía del Cuestionario de Salud
-
 ## Responsables
 Nombre     | Rol
 -----------|------------------
