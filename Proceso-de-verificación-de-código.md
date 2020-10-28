@@ -14,7 +14,7 @@ Raymundo   | Autor
 
 ## Consideraciones importantes
 1. Los proyectos usan '**pylint**' y '**eslint**' para detectar errores en el código y asegurar que  siga estándares de codificación, por lo que la verificación de estos productos de trabajo usando debe atenerse **solamente a aspectos que dichas herramientas no cubren.** 
-2. Los equipos pueden añadir o cambiar componentes del entorno de verificación recomendado en la <a href="">**Guía del Entorno de Verificación**</a> dependiendo de sus necesidades.
+2. Los equipos pueden añadir o cambiar componentes del entorno de verificación recomendado en la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-entorno-de-verificaci%C3%B3n">Guía del Entorno de Verificación</a> dependiendo de sus necesidades.
 
 ## Proceso
 <table>
@@ -52,8 +52,8 @@ Raymundo   | Autor
     </tr>
     <tr>
       <td rowspan="3">Verificación</td>
-      <td>Realiza la verificación del código siguiendo el <a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"><strong>Reporte de Verificación</strong></a>.</td>
-      <td rowspan="3">Pareja de verificación</td>
+      <td> Realiza la verificación del código siguiendo el <strong> <a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311">  Reporte de Verificación </a> </strong> </td>
+      <td rowspan="3"> Pareja de verificación </td>
       <td rowspan="3">VER</td>
     </tr>
     <tr>
@@ -95,4 +95,4 @@ Raymundo   | Autor
 2. Criterios de código menos aceptados
 
 ***
-versión 0.1a
+versión 0.2b

@@ -15,6 +15,7 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
 3. Calendario del proyecto
 4. Log de inconsistencias
 5. Log de defectos
+6. Log de cambios
 
 ## Proceso
 <table>
@@ -34,29 +35,30 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
         <td>PP</td>
     </tr>
     <tr>
-        <td>Si se presenta un cambio en funcionalidades, actualizar de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Log de incosistencias</a></td>
+        <td>Si se presenta un cambio en funcionalidades, actualizar de <a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460">Log de incosistencias</a></td>
         <td>PO</td>
         <td>PP</td>
      </tr>
      <tr>
-        <td>Actualización de <a href="https://docs.google.com/spreadsheets/d/1ET7v_fy04gPcxORL2C1uxDs2cp5DPIkXzZAsQrKJTUo/edit?usp=sharing">Bitácora de cambios</a></td>
+        <td>Actualización de <a href="https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460">Log de cambios</a></td>
         <td>PO</td>
         <td>PP</td>
      </tr>
      <tr>
          <td rowspan="3">Análisis</td>
          <td>
-             Sesión de <a href="https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6">retrospectiva</a></td>
+             Sesión de <a href="https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6"> retrospectiva </a> utilizando las <a href="https://docs.google.com/spreadsheets/d/1RpU0kmGCRSH35LN6ZTPPkAXsNAeiS_OLvBdqoJsp060/edit#gid=0"> métricas </a> registradas del equipo 
+          </td>
          <td>TL</td>
       <td>PP,PMC</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-monitoreo-de-riesgos">Evaluación de riesgos actuales</a></td>
+        <td><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Evaluación de riesgos actuales</a></td>
          <td>TL</td>
       <td>PMC, RSKM</td>
     </tr>
     <tr>
-        <td>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-medidas-correctivas">acciones correctivas</a></td>
+        <td>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">acciones correctivas</a></td>
          <td>TL</td>
       <td>PP,PMC</td>
     </tr>
@@ -72,4 +74,4 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
 1. Sesión de retrospectiva, la cual tiene una duración entre 30 a 60 minutos.
 
 ***
-versión 0.1a
+versión 0.2b

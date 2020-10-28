@@ -41,16 +41,19 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
       <td>Valida que el entregable cumpla con los puntos de <b>Viabilidad </b> y <b>Valor organizacional</b>.</td>
     </tr>
     <tr>
-      <td rowspan="3">Creación</td>
-      <td>Agrega el nombre, ID y versión al <b><a href="https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit?usp=sharing">Listado y control de documentos wiki</a></b> con base de la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuración">Guía de manejo de configuración</a> y <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado">Guía de versionado</a></td>
-      <td rowspan="3">Autor del entregable</td>
-      <td rowspan="3">CM, PPQA</td>
-    </tr>
-        <tr>
-      <td>Cambia el nombre de la hoja agregada a la checklist como su <b>Identificador Único</a></b>.</td>
+      <td rowspan="4">Creación</td>
+      <td> Agrega el nombre, ID y versión al <b><a href="https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit?usp=sharing">Listado y control de documentos wiki</a></b> con base de la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuración">Guía de manejo de configuración</a> y <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado">Guía de versionado</a></td>
+      <td rowspan="4">Autor del entregable</td>
+      <td rowspan="4">CM, PPQA</td>
     </tr>
     <tr>
-      <td>Valida que el proceso cumpla con los puntos de <b>Definición</b> y <b>Estándarización  </b> </td>
+      <td>Cambia el nombre de la hoja agregada a la checklist como su <b> Identificador Único </a></b>.</td>
+    </tr>
+    <tr>
+      <td> Sigue el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso"> Proceso para definir procesos </a> y la <a href="https://github.com/novaDepto/Nova/wiki/Plantilla-de-proceso"> Plantilla de Procesos  </a> </td>
+    </tr>
+    <tr>
+      <td> Valida que el proceso cumpla con los puntos de <b> la checklist de institucionalización </b> </td>
     </tr>
     <tr>
       <td rowspan="4">Publicación</td>
@@ -59,8 +62,8 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
       <td>CM</td>
     </tr>
     <tr>
-      <td>Solicita el <em>Approval</em> o espera a la <em>petición de cambios</em> de <b>al menos un integrante<b/> del <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a></td>
-      <td>CCB o Encargado del área relacionada al proceso</td>
+      <td>Solicita el <em>Approval</em> o espera a la <em>petición de cambios</em> de <b>al menos un integrante </b> del <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a>< /td>
+      <td> CCB o Encargado del área relacionada al proceso </td>
       <td>PPQA, PMC, DAR, OPD, OPF</td>
     </tr>
     <tr>

@@ -133,6 +133,8 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
 1. Registro del tiempo tomado tras realizar todo el proceso para una auditoría, incluyendo todas las fases del proceso.
 2. No-conformidades registradas y categorizadas
 
+## Glosario
+1. No conformidad: se refiere a una desviación en la ejecución de un proceso o no cumplir con uno de los puntos de las checklists de los productos.
 
 ***
-versión 0.1a
+versión 0.2b
