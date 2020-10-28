@@ -2,6 +2,7 @@
 Nombre     | Rol
 -----------|------------------
 Charlie    | Dueño del proceso
+Lisieux    | Autor
 Raymundo   | Autor
 
 ## Objetivos
