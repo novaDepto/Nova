@@ -10,7 +10,8 @@
 Ejecutar medidas correctivas para alcanzar el avance esperado de acuerdo al plan definido
 
 ## Entradas
-1. Plan que incluya el estado actual y el estado esperado.
+1. Plan que incluya el estado actual y esperado.
+2. En caso de ser una medida correctiva a implementar en un proyecto de software, usar la [Plantilla de Monitoreo de la Iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)
 
 ## Proceso
 <table>
@@ -25,7 +26,7 @@ Ejecutar medidas correctivas para alcanzar el avance esperado de acuerdo al plan
   <tbody>
     <tr>
       <td rowspan="2">Identificación</td>
-      <td>Identificar el momento en el que el se empezó a desviar el estado del estado esperado en el plan. </td>
+      <td>Identificar el momento en el que el se empezó a desviar el estado actual del esperado en el plan. </td>
       <td rowspan="2">Todo el equipo</td>
       <td rowspan="2">PMC, PP</td>
     </tr>

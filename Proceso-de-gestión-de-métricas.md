@@ -71,4 +71,4 @@ Raymundo   | Autor
 1. Backlog de Métricas
 
 ***
-versión 0.1a
+versión 0.2b

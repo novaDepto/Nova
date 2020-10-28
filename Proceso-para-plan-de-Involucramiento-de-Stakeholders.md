@@ -6,7 +6,7 @@
 | Erwin   | Autor             |
 | Marla   | Autor             |
 
-## Objetivo (SMARTish)
+## Objetivo
 Definir y conseguir el involucramiento deseado de cada uno de los stakeholders para satisfacer las necesidades de cumplimiento de cualquiera de las siguientes entradas:
 
 ## Entradas
@@ -94,4 +94,4 @@ Definir y conseguir el involucramiento deseado de cada uno de los stakeholders p
 1. Tiempo de ejecución del proceso
 
 ***
-versión 0.1a
+versión 0.2b

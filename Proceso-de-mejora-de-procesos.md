@@ -5,7 +5,7 @@ Raymundo   | Dueño del proceso
 Daniel Elias  | Autor
 
 ## Objetivo
-1. Permitir la realización de cambios a los procesos para mejorar la forma de trabajo del departamento
+1. Permitir la realización de cambios a los procesos para mejorar la forma de trabajo del departamento utilizando los principios de mejora continua: mejorar el flujo de valor, reducir los ciclos de retroalimentación y la experimentación
 
 ## Entradas
 1. Un proceso en línea base de la wiki del departamento
@@ -22,7 +22,7 @@ Daniel Elias  | Autor
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">Asignación</td>
+      <td rowspan="3"> Asignación </td>
       <td>¿Eres el dueño/responsable del documento?</td>
       <td rowspan="3">Variable</td>
       <td>RSKM</td>
@@ -42,7 +42,7 @@ Daniel Elias  | Autor
       <td rowspan="5">CM, OPF, PPQA</td>
     </tr>
     <tr>
-      <td>Hacer el cambio propuesto al proceso y enviarlo como <strong> Pull Request </strong> siguiendo el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base"> Proceso de modificación de línea base</a> <strong> </td>
+      <td>Hacer el cambio propuesto al proceso y enviarlo como <strong> Pull Request </strong> siguiendo el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base"> Proceso de modificación de línea base</a> <strong>. También en tu Pull Request incluye el principio de mejora continua que se está aplicando con los cambios. </td>
     <tr>
       <td>Selecciona un grupo o muestra de personas que utilizarán el proceso con el cambio.</td>
     </tr>
@@ -82,4 +82,4 @@ En caso de rechazo:
 1. Promedio de institucionalización de procesos.
 
 ***
-versión 0.1a
+versión 0.2b
