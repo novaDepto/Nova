@@ -44,6 +44,7 @@
 * [\[GUI12\] Guía de uso de Clockify](https://github.com/novaDepto/Nova/wiki/Guía-de-uso-de-Clockify)
 * [\[GUI13\] Guía de entorno de verificación](https://github.com/novaDepto/Nova/wiki/Guía-de-entorno-de-verificación)
 * [\[GUI14\] Guía de determinación de evaluación de decisiones](https://github.com/novaDepto/Nova/wiki/Guía-de-determinación-de-evaluación-de-decisiones)
+* [\[GUI15\] Guía para estimar](https://github.com/novaDepto/Nova/wiki/Guía-para-Estimar)
 * [\[GUI17\] Guía de asignación de roles](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-asignación-de-roles)
 * [\[GUI18\] Guía de Program Manager](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-del-PM)
 * [\[GUI19\] Guía de Team Leaders](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Team-Leaders)
