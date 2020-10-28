@@ -95,4 +95,4 @@ Luis       | Autor
 2. Promedio de aplicación del cambio.
 
 ***
-Versión 0.1a
+Versión 0.2b

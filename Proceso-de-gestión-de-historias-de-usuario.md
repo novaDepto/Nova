@@ -72,4 +72,4 @@ Luis       | Autor
 1. Nivel de dependencia: ¿Una historia de usuario depende de la realización de otras?
 
 ***
-Versión 0.2a
+Versión 0.2b

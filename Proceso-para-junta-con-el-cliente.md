@@ -6,12 +6,13 @@
 |Marla| Autor |
 |Lisi| Autor |
 
-## Objetivo (SMARTish)
-Definir actividades a realizar en una junta con cliente para generar un ambiente de colaboración.
+## Objetivo
+Definir actividades a realizar en una junta con cliente para generar un ambiente de colaboración e involucramiento.
 
 ## Entradas
-1. Plan de Involucramiento de Stakeholders 
-4. Minuta de la junta
+1. [Plantilla de Involucramiento de Stakeholders](https://docs.google.com/spreadsheets/d/1LJW6x2z5gMSXP4xEJpemfEZRcDW06QFz_OxPx2q0hZI/edit#gid=1409053923) 
+2. [Minuta de junta](https://docs.google.com/document/d/1k6VO5KwX-mtLj0ZjzU7Rezhc-J7_iJ3ESrvyFMy-uRY/edit?usp=sharing)
+3. [Log de cambios](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)
 
 ## Proceso
 
@@ -83,8 +84,8 @@ Definir actividades a realizar en una junta con cliente para generar un ambiente
       <td>PP, PMC</td>
     </tr>
     <tr>
-      <td rowspan="2">Al terminar </td>
-      <td>Anotar los compromisos en el Plan de Iteración e informar  a los responsables</td>
+      <td rowspan="2"> Al terminar </td>
+      <td> Anotar los compromisos en el Plan de Iteración e informar  a los responsables </td>
       <td>PO</td>
       <td>PP</td>
     </tr>
@@ -93,7 +94,7 @@ Definir actividades a realizar en una junta con cliente para generar un ambiente
       <td>REQM</td>
     </tr>
     <tr>
-      <td rowspan="4">Monitoreo de Involucramiento</td>
+      <td rowspan="4"> Monitoreo de Involucramiento </td>
       <td>Registar los resultados de la encuesta de satisfacción del cliente</td>
       <td>PO</td>
       <td>PMC</td>
@@ -117,14 +118,14 @@ Definir actividades a realizar en una junta con cliente para generar un ambiente
 </table>
 
 ## Salidas
-1. Actualización a la plantilla Involucramiento de Stakeholders
-2. Actualización de gestión de cambios
-3. Lista de requisitos priorizada
+1. Actualización de la plantilla Involucramiento de Stakeholders
+2. Actualización del log de cambios de la plantilla de planeación y monitoreo de la iteración
+3. Lista de requisitos priorizada en el backlog
 4. Resultados de la encuesta de satisfacción
 
 
 ## Métricas
-1. Tiempo de ejecución del proceso
+1. Promedio de satisfacción del cliente
 
 ***
-versión 0.1a
+versión 0.2b

@@ -14,12 +14,11 @@
 * [\[PRO08\] Proceso de modificación de línea base](https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base)
 * [\[PRO09\] Proceso de gestión de historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-historias-de-usuario)
 * [\[PRO11\] Proceso de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-métricas)
-* [\[PRO12\] Proceso de mejora de procesos (PIP) ](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-de-procesos)
+* [\[PRO12\] Proceso de mejora de procesos](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-de-procesos)
 * [\[PRO13\] Proceso de gestión de riesgos](https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos)
 * [\[PRO15\] Proceso de ejecución de medidas correctivas](https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecución-de-medidas-correctivas)
 * [\[PRO16\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
 * [\[PRO17\] Proceso de asignación de roles](https://github.com/novaDepto/Nova/wiki/Proceso-de-asignación-de-roles)
-* [\[PRO18\] Proceso de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Proceso-de-resolución-de-conflictos)
 * [\[PRO20\] Proceso para plan de involucramiento de stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 * [\[PRO21\] Proceso para junta con el cliente](https://github.com/novaDepto/Nova/wiki/Proceso-para-junta-con-el-cliente)
 * [\[PRO22\] Proceso de verificación de productos](https://github.com/novaDepto/Nova/wiki/Proceso-de-verificación-de-productos)
@@ -53,6 +52,7 @@
 * [\[GUI22\] Guía de Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-product-owner)
 * [\[GUI23\] Guía de cuestionario de salud](https://github.com/novaDepto/Nova/wiki/Cuestionario-de-Salud-Discord-Cheatsheet)
 * [\[GUI24\] Guía de identificación de riesgos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos)
+* [\[GUI28\] Guía de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Guía-de-resoluci%C3%B3n-de-conflictos)
 * [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-denuncias)
 
 ### Políticas

@@ -55,7 +55,7 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
     </tr>
     <tr>
         <td>Medición</td>
-        <td> Actualizar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gestion-de-metricas">métricas</a> de desempeño del trabajo diario, permitiendo ver diariamente si la iteración va de acuerdo a lo planeado.</td>
+        <td> Actualizar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-m%C3%A9tricas">métricas</a> de desempeño del trabajo diario, permitiendo ver diariamente si la iteración va de acuerdo a lo planeado.</td>
           <td>Autor del proceso</td>
           <td>MA</td>
     </tr>
