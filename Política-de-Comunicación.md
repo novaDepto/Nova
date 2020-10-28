@@ -12,13 +12,13 @@ Garantizar la comunicación efectiva entre los miembros del departamento.
 ## Reglamento
 1. Canales de comunicación:
       <ul>    
-          <li><b><i>nova-general</i></b>: Sirve para hacer anuncios/preguntas/encuestas departamentales. 
+          <li><b><i>nova-general</i></b>: Sirve para hacer anuncios, preguntas y encuestas departamentales. 
           </li>
-          <li><b><i>nova-foro</i></b>: Inicia hilos de discusión/debate de temas departamentales.
+          <li><b><i>nova-foro</i></b>: Sirve para iniciar hilos discusión ó debate de temas departamentales.
           </li>
-          <li><b><i>Grupo de Whatsapp</i></b>: Se utiliza únicamente para mensajes <a href="#glosario1">reactivos</a>.
+          <li><b><i>Grupo de Whatsapp</i></b>: Se utiliza únicamente para mensajes <b href="#glosario1">reactivos</b>.
           </li>
-             <b>NOTA: </b>En caso de tener un anuncio <a href="#glosario2">urgente</a> el mensaje será enviado por Slack y se notificara a los miembros de su urgencia en el grupo de Whatsapp mediante un "@slack". 
+             <b>NOTA: </b>En caso de tener un anuncio <b href="#glosario2">urgente</b> el mensaje será enviado por Slack y se notificara a los miembros de su urgencia en el grupo de Whatsapp mediante un "@slack". 
       </ul>
 2. Comunicación de procesos, guías o políticas
       <ul>
