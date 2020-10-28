@@ -1,8 +1,8 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
-Daniel     | Dueño del proceso
-Peter      | Dueño del proceso
+Charlie    | Dueño del proceso
+Lisieux    | Autor
 Raymundo   | Autor
 
 ## Objetivos
@@ -29,52 +29,56 @@ Raymundo   | Autor
   <tbody>
       <tr>
       <td>Selección</td>
-      <td>La pareja solicitante selecciona los productos de trabajo a verificar. </td>
+      <td>Selecciona los archivos de código a verificar. </td>
       <td>Pareja solicitante</td>
       <td>REQM, VER</td>
     </tr>
     <tr>
       <td rowspan="3">Preparación</td>
-      <td>La pareja solicitante comunica al equipo que tiene productos de trabajo a verificar. </td>
-      <td rowspan="3">Equipo</td>
+      <td>Comunica al equipo que tienes código para verificar. </td>
+      <td>Pareja solicitante</td>
       <td rowspan="3">VER</td>
     </tr>
     <tr>
-      <td>El equipo decide quiénes serán los verificadores que realizarán la Pair Revision.
+      <td>Decide quiénes realizarán la Pair Review.
       </td>
+      <td>Equipo</td>
     </tr>
     <tr>
-      <td>Los verificadores preparan el entorno de verificación. (<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-entorno-de-verificaci%C3%B3n">Guía del Entorno de Verificación<strong></a> para más información).</td>
+      <td>Prepara el entorno de verificación.
+      <p>(<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-entorno-de-verificaci%C3%B3n">Guía del Entorno de Verificación<strong></a> para más información).</p>
+      </td>
+      <td>Pareja verificadora</td>
     </tr>
     <tr>
       <td rowspan="3">Verificación</td>
-      <td>Los verificadores realizan la verificación de los productos siguiendo el <a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"><strong>Reporte de Verificación</strong></a>.</td>
+      <td>Realiza la verificación del código siguiendo el <a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"><strong>Reporte de Verificación</strong></a>.</td>
       <td rowspan="3">Pareja de verificación</td>
       <td rowspan="3">VER</td>
     </tr>
     <tr>
-      <td>Los verificadores documentan qué productos de trabajo son aprobados.
+      <td>Documenta qué criterios de código son aprobados.
       </td>
     </tr>
     <tr>
-      <td>Los verificadores documentan qué productos de trabajo necesitan correcciones.</td>
+      <td>Documenta qué criterios de código necesitan corregirse.</td>
     </tr>
     <tr>
       <td rowspan="3">Comunicación</td>
-      <td>Los verificadores comunican a la pareja los resultados de la verificación. </td>
+      <td>Comunica a la pareja solicitante los resultados de la verificación. </td>
       <td rowspan="3">Pareja de verificación</td>
       <td rowspan="3">VER</td>
     </tr>
     <tr>
-      <td>Los verificadores indican a la pareja los productos de trabajo que necesitan corrección.
+      <td>Indica los criterios de código que deben corregirse.
       </td>
     </tr>
     <tr>
-      <td>Los verificadores guardan el Reporte de Verificación en el lugar correspondiente.</td>
+      <td>Guarda el Reporte de Verificación en el lugar correspondiente.</td>
     </tr>
     <tr>
       <td>Seguimiento</td>
-      <td>La pareja solicitante puede volver a pedir una nueva verificación de los productos de trabajo <strong>mientras hayan realizado las correcciones registradas en la verificación anterior. </strong></td>
+      <td>La pareja solicitante puede pedir una nueva verificación <strong>siempre y cuando hayan realizado las correcciones registradas en la  anterior.</strong></td>
       <td>Pareja solicitante</td>
       <td>VER, PMC</td>
     </tr>
@@ -88,6 +92,7 @@ Raymundo   | Autor
 
 ## Métricas
 1. Tasa de aceptación de productos
+2. Criterios de código menos aceptados
 
 ***
 versión 0.1a
