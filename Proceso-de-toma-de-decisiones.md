@@ -2,11 +2,11 @@
 Nombre     | Rol
 -----------|------------------
 Raymundo   | Dueño del proceso
-Lisieux   | Autor
+Lisieux    | Autor
 
 ## Objetivos
-1. Asegurar la recogida, análisis y comunicación de las decisiones tomadas
-2. Asegurar una toma de decisiones orientadas al valor y calidad
+1. Asegurar la recogida, análisis y comunicación de las decisiones tomadas.
+2. Asegurar una toma de decisiones orientadas al valor y calidad.
 
 ## Entradas
 1. Decisión
