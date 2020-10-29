@@ -73,7 +73,7 @@
 * [\[POL07\] Política de Configuration Control Board](https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board)
 * [\[POL09\] Política de manejo de datos](https://github.com/novaDepto/Nova/wiki/Politica-de-Manejo-de-Datos)
 * [\[POL11\] Política de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-gestión-de-métricas)
-* [\[POL18\] Política de gestión de habilidades y conocimientos](https://github.com/novaDepto/Nova/wiki/Politica-de-gestion-habilidades-y-conocimientos)
+* [\[POL18\] Política de gestión de habilidades y conocimientos](https://github.com/novaDepto/Nova/wiki/Política-de-gestión-habilidades-y-conocimientos)
 
 ### Plantillas
 
