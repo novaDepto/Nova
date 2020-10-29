@@ -14,7 +14,7 @@ Establecer lineamientos para garantizar la confidencialidad de los datos utiliza
 La recolección y uso de datos de los clientes tienen como objetivo mejorar el desarrollo del proyecto por lo que es necesario tomar las medidas necesarias para mantener su confidencialidad. El uso de estos datos es con fines académicos.
 
 Lineamientos que deben de seguirse:
-- Los <a href="#glosario1">datos sensibles</a> no deben de ser compartidos, de ninguna manera, con personas ajenas al equipo de desarrollo ya sea de manera física, verbal o digital.
+- Los <b href="#glosario1">datos sensibles</b> no deben de ser compartidos, de ninguna manera, con personas ajenas al equipo de desarrollo ya sea de manera física, verbal o digital.
 - Las contraseñas y datos de acceso deben ser encriptados, además de restringir el acceso a ellos.
 - Cualquier solicitud de adquisición, modificación o eliminación de documentos con información confidencial del cliente debe ser comunicada con el Product Owner.
 - El acceso a las cuentas de herramientas que componen el desarrollo de la solución de software se encuentra bajo la responsabilidad del equipo de liderazgo en el equipo.
@@ -39,11 +39,9 @@ Lineamientos que deben de seguirse:
 
 - Cualquier inconsistencia o mal uso en las cuentas deberá rastrearse y reportarse al Comité de Ética de ser necesario.
 
-#### 3. Evaluación de la Seguridad de los Datos Internos y Externos
-- Al inicio y cierre de iteración se debe asegurar la privacidad y seguridad de los datos bajo el Proceso de Integridad de Datos [<a href="https://github.com/novaDepto/Nova/wiki/Proceso-integridad-de-datos">PRO19</a>].   
 
 ## Glosario
-<b id="glosario1">Datos Sensibles</b>
+<b id="#glosario1">Datos Sensibles</b>
 Se considera como información sensible si se cumplen los siguientes criterios:
 
 - Es información utilizada como medio identificación personal.
@@ -51,4 +49,4 @@ Se considera como información sensible si se cumplen los siguientes criterios:
 - Es información con relación a la administración y/o logística de la empresa.
 
 ***
-versión 0.1a
+versión 1.0
