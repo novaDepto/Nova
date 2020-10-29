@@ -5,6 +5,7 @@ Nombre     | Rol
 Daniel Elias| Dueño del proceso
 Javier Mendez| Autor
 Lisieux Serrano| Autor
+Carlos Becerra | Autor
 
 ## Objetivo
 Definir el proceso para planear, agendar y ejecutar una auditoría, así como informar a los involucrados sobre los resultados de esta evaluación objetiva, las no conformidades y la resolución de las mismas. Esto con el fin de:
@@ -15,8 +16,8 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
 4. Asegurar la calidad de los procesos y productos de trabajo del departamento.
 
 ## Entradas
-1. Plantilla de auditorías.
-2. Lista de procesos y productos que serán evaluados.
+1. [Plantilla de auditorías](https://docs.google.com/document/d/1XE7jKV1uRT5Wy6qZtacqW8aur6fFNJAW1batOYKg3No/edit)
+2. [Control de auditorías y no conformidades](https://docs.google.com/spreadsheets/d/1XoZIS9bOkvG00JPGWq24f4WuB-bdESkBypvnKAiDHEM/edit#gid=0)
 
 ## Proceso
 
@@ -32,9 +33,9 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
   <tbody>
     <tr>
       <td rowspan="4">Análisis</td>
-      <td>Definir el nombre de la auditoría</td>
+      <td>Definir el objetivo de la auditoría</td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
       <td>Definir la <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-lineas-base">línea base </a> a ser auditada</td>
@@ -42,57 +43,43 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
       <td>PPQA, CM</td>
     </tr>
     <tr>
-      <td>Definir los procesos y/o productos de trabajo a ser auditados</td>
+      <td>Definir los procesos y/o productos de trabajo a ser auditados. Estos deben de ser <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-elementos-de-la-configuracion"> elementos de la configuración </a> </td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
-      <td>Definir el objetivo de la auditoría</td>
+      <td>Definir el nombre de la auditoría</td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
     <tr>
       <td rowspan="1">Diseño de rúbricas</td>
-      <td>Definir una rúbrica o checklist de lo que debe cumplir cada proceso o producto a evaluar, basándose en el template de rúbricas</td>
+      <td>Definir una rúbrica o checklist de lo que debe cumplir cada proceso o producto a evaluar. En caso de ser un proceso se debe seguir la <a href="https://docs.google.com/spreadsheets/d/1QJwNEmHbWxy-EtVOlrlfLJfTQPJb6k8ikunp39Yk8-Y/edit#gid=0"> Checklist de institucionalización de procesos </a> En caso de ser un producto como código fuente o una historia de usuario se debe de seguir el <a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"> Reporte de verificación </a> </td> 
       <td>Personas auditando</td>
-      <td>PPQA, REQM</td>
+      <td>PPQA, REQM, CM, VER</td>
     </tr>
     <tr>
       <td rowspan="2">Calendarización de la auditoría</td>
       <td>Agregar bloques de tiempo en el calendario para las auditorías. Seguir la <a href="https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-para-agendar-eventos.md">guía para agendar eventos</a></td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
-    <td>Escoger el horario más conveniente entre los disponibles. </a></td>
+    <td>Las auditorías pueden realizarse directamente sobre los productos, pero en caso de necesitar más información sobre los mismos se puede citar a los dueños o responsables para que estén presentes durante la auditoría. En el caso de la auditoría de procesos se recomienda citar a los dueños y responsables. </a></td>
       <td>Encargados del proceso/producto</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     <tr>
-      <td rowspan="5">Realización de la Auditoría</td>
-      <td> Realizar las preguntas necesarias para corroborar el apego a los procesos definidos y que los productos generados sigan los criterios de calidad que han sido establecidos por el departamento.</td>
+      <td rowspan="2">Realización de la Auditoría</td>
+      <td>Inspeccionar los procesos o productos con base en las checklists correspondientes. </td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
+    </tr> 
     </tr>
     <tr>
-      <td>Tomar notas de las respuestas dadas por las personas que presentan un producto y/o proceso</td>
+      <td>Registrar las no conformidades que se van encontrando en la hoja de no conformidades de la auditoría que se encuentra en el documento de <a href="https://docs.google.com/spreadsheets/d/1XoZIS9bOkvG00JPGWq24f4WuB-bdESkBypvnKAiDHEM/edit#gid=0"> Control de auditorías y no conformidades</a> </td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
-    </tr>
-    <tr>
-      <td>Regitrar las no conformidades que se van encontrando</td>
-      <td>Personas auditando</td>
-      <td>PPQA</td>
-    </tr>
-    <tr>
-      <td>Solicitar una fecha conveniente para ambas partes con la finalidad de asignar una junta de seguimiento en caso de encontrar no conformidades</td>
-      <td>Personas auditando</td>
-      <td>PPQA</td>
-    </tr>
-    <tr>
-      <td>Al terminar la sesión de preguntas, se procedera a agradecer a los participantes por su asistencia y se dará fin a la sesión con ellos</td>
-      <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
       <td>Revisión</td>
@@ -100,7 +87,7 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
         Escribir las recomendaciones que se le darán a los encargados del producto/proceso auditado
       </td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
       <td>Verificación</td>
@@ -111,7 +98,7 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
         <li>Que las no conformidades encontradas hayan sido registradas.</li>
       </ul></td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
       <td rowspan="2">Comunicación de resultados de la auditoría</td>
@@ -119,20 +106,20 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
       <td>Personas auditando</td>
       <td>PPQA</td>
     </tr>
-    <td>En caso de presentar no conformidades, agendar una junta de seguimiento o fecha límite para la resolución de las mismas</td>
+    <td>En caso de presentar no conformidades, agendar una fecha límite para la resolución de las mismas.</td>
       <td>Personas auditando</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
       <td rowspan="2">Seguimiento</td>
-      <td>Satisfacer las no conformidades encontradas en los tiempos establecidos por los involucrados</td>
+      <td>Corregir las no conformidades encontradas para la fecha definida para su corrección</td>
       <td>Encargados del producto/proceso</td>
-      <td>PPQA</td>
+      <td>PPQA, CM</td>
     </tr>
     <tr>
       <td>Notificar de los cambios realizados y añadir los datos a las estadísticas pertinentes</td>
       <td>Encargados del producto/proceso</td>
-      <td>PPQA, MA</td>
+      <td>PPQA, MA, CM</td>
     </tr>
   </tbody>
 </table>
@@ -146,6 +133,8 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
 1. Registro del tiempo tomado tras realizar todo el proceso para una auditoría, incluyendo todas las fases del proceso.
 2. No-conformidades registradas y categorizadas
 
+## Glosario
+1. No conformidad: se refiere a una desviación en la ejecución de un proceso o no cumplir con uno de los puntos de las checklists de los productos.
 
 ***
-versión 0.1a
+versión 0.2b

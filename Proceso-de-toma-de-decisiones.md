@@ -1,5 +1,3 @@
-# Proceso de Toma de Decisiones (DAR)
-
 ## Responsables
 Nombre     | Rol
 -----------|------------------
@@ -27,7 +25,7 @@ Lisieux   | Autor
       <tr>
       <td rowspan="4">Identificación</td>
       <td>
-      <strong>Consultar la <a href=""> Guía de Determinación de Evaluación de Decisiones </a></strong>
+      <strong> Consultar la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-determinaci%C3%B3n-de-evaluaci%C3%B3n-de-decisiones"> Guía de Determinación de Evaluación de Decisiones </a> </strong>
       </td>
       <td rowspan="4">Persona que toma la decisión</td>
       <td rowspan="4">DAR</td>
@@ -43,7 +41,7 @@ Lisieux   | Autor
     </tr>
     <tr>
       <td rowspan="4">Recolección</td>
-      <td>Copia y pega la Plantilla en una nueva hoja dentro del <strong><a href="https://docs.google.com/spreadsheets/d/1nJ5I7445d0u0Nq4gy2JMA5Y0usQ69S91n5sDgqUKzSU/edit#gid=1924080691"><a href="">Reporte de Evaluación de Decisión. </a></strong></td>
+      <td>Copia y pega la Plantilla en una nueva hoja dentro del <strong><a href="https://docs.google.com/spreadsheets/d/1nJ5I7445d0u0Nq4gy2JMA5Y0usQ69S91n5sDgqUKzSU/edit?usp=sharing"> Reporte de Evaluación de Decisión </a></strong></td>
       <td rowspan="4">Equipo</td>
       <td rowspan="4">DAR</td>
     </tr>
@@ -61,17 +59,17 @@ Lisieux   | Autor
     </tr>
     <tr>
       <td rowspan="2">Análisis</td>
-      <td>Evalúar el razonamiento y acción necesaria para tomar la decisión. </td>
+      <td>Evaluar el razonamiento y acción necesaria para tomar la decisión.</td>
       <td rowspan="2">Equipo</td>
       <td rowspan="2">DAR</td>
     </tr>
     <tr>
-      <td>Evalúar las ventajas y desventajas de la decisión.
+      <td>Evaluar las ventajas y desventajas de la decisión.
       </td>
     </tr>
     <tr>
       <td rowspan="5">Evaluación</td>
-      <td>Evalúa la decisión usando los criterios de evaluación.</td>
+      <td>Evalua la decisión usando los criterios de evaluación.</td>
       <td rowspan="5">Equipo</td>
       <td rowspan="5">DAR, PP</td>
     </tr>
@@ -122,4 +120,4 @@ Lisieux   | Autor
 1. Backlog de Decisiones
 
 ***
-versión 0.1a
+versión 0.2b

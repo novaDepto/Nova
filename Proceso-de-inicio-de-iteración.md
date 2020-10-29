@@ -32,19 +32,22 @@
       <td>En la hoja "WBS", escribe cuántos minutos tardas en realizar una tarea de historia de usuario en función de sus Agile Points.</td>
     </tr>
     <tr>
-    <td>En la hoja "Compromisos externos", escribe los compromisos con los stakeholders siguiendo la agenda de demostraciones de la iteración.<strong>*</strong></td>
+    <td>En la hoja "Compromisos externos", escribe los compromisos con los stakeholders siguiendo la agenda de demostraciones de la iteración. Uno de los compromisos externos debe ser agendar de demostración  de la iteración, con fecha y tipo de demostración</td>
     </tr>
     <tr>
       <td rowspan="4">Análisis</td>
       <td>En la hoja "Objetivos-Milestones", escribe los objetivos y milestones de DAD de la iteración. </td>
-      <td rowspan="4">Todo el equipo</td>
-      <td rowspan="4">PP, REQM, MA, RSKM</td>
+      <td rowspan="5">Todo el equipo</td>
+      <td rowspan="5">PP, REQM, MA, RSKM</td>
+    </tr>
+    <tr>
+    <td>En la hoja "Historias de Usuario", realiza la selección y análisis de las historias de usuario a realizar en la iteración siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-historias-de-usuario">Proceso de Gestión de Historias de Usuario.</a></strong></td>
     </tr>
     <tr>
       <td>En la hoja "Historias de Usuario", selecciona y analiza las historias de usuario del Backlog de Requisitos a realizar en la iteración</td>
     </tr>
     <tr>
-      <td>Identifica los riesgos de la iteración siguendo el <strong><a href="https://github.com/novaDepto/Nova/blob/master/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos.</a></strong></td>
+    <td>Identifica los riesgos de la iteración siguendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos.</a></strong></td>
     </tr>
     <tr>
       <td>En la hoja "Capacidad del equipo", define el porcentaje del tiempo que se dedicará a cada actividad del departamento. 
@@ -75,11 +78,6 @@
   </tbody>
 </table>
 
-## Notas:
-* Uno de los compromisos externos debe ser la agenda de demostración de la iteración 
-* La agenda de demostración debe incluir fecha y **tipo de demostración**.
-
-
 ## Salida
 1. Plantilla de Planeación-Monitoreo de la iteración rellenada
 2. Proceso de Involucramiento de Stakeholders 
@@ -94,4 +92,5 @@
 * Demostración all-hands: El socio puede usar libremente el sistema.
 
 ***
-versión 0.2a
+
+versión 0.2b

@@ -10,8 +10,9 @@ Definir las actividades a realizar para generar y preparar una presentación de 
 
 
 ## Entradas
-1. Repositorio de métricas del departamento
-2. Repositorio de métricas de cada proyecto de software
+1. Backlog de métricas del departamento
+2. Backlog de métricas de cada proyecto de software
+3. Planeación y Monitoreo de la Iteración de cada proyecto software
 
 ## Proceso
 
@@ -71,7 +72,7 @@ Definir las actividades a realizar para generar y preparar una presentación de 
     <tr>
       <td rowspan="2">Construcción</td>
       <td> Seguir el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-m%C3%A9tricas">Proceso de gestión de métricas</a> para recolectar, analizar y comunicar las métricas del departamento y proyectos de software en el reporte de estado</td>
-      <td>Miembro del área de MA</td>
+      <td>Encargado de MA</td>
       <td>MA</td>
     </tr>
     <tr>
@@ -98,7 +99,7 @@ Definir las actividades a realizar para generar y preparar una presentación de 
     </tr>
     <tr>
       <td rowspan="2">Retroalimentación</td>
-      <td> Anotar la retroalimentación o comentarios recibidos por la audiencia para la mejora continua del departamento</td>
+      <td> Anotar la retroalimentación o comentarios recibidos por la audiencia para la mejora continua del departamento en la diapositiva final de la presentación de reporte de estado</td>
       <td> PM o encargado de PMC </td>
       <td> PMC</td>
     </tr>
@@ -119,4 +120,4 @@ Definir las actividades a realizar para generar y preparar una presentación de 
 1. Tiempo de ejecución del proceso
 
 ***
-versión 0.1a
+versión 0.2b

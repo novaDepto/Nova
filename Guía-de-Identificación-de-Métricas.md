@@ -3,6 +3,9 @@ Nombre     | Rol
 -----------|------------------
 Raymundo   | Autor
 
+## Objetivo
+1. Enlistar las métricas que se supervisan actualmente en los equipos y el departamento.
+
 ## Lista de métricas
 <table>
   <thead>
@@ -16,26 +19,26 @@ Raymundo   | Autor
   <tbody>
     <tr>
       <td>Promedio de toma de decisiones</td>
-      <td>¿Cuál es el tiempo promedio que toma el departamento/equipo en tomar una decisión?</td>
-      <td>Suma de diferencia de decisión/Número de decisiones</td>
+      <td>¿Cuál es el tiempo promedio que se toma en tomar una decisión?</td>
+      <td>(Suma de diferencia de decisión)/(Número de decisiones)</td>
       <td>Backlog de Decisiones</td>
     </tr>
     <tr>
       <td>Promedio de aplicación de decisiones</td>
-      <td>¿Cuál es el tiempo promedio que toma el departamento/equipo en aplicar una decisión tomada?</td>
-      <td>Suma de diferencia de aplicación/Número de decisiones</td>
+      <td>¿Cuál es el tiempo promedio que se toma en aplicar una decisión tomada?</td>
+      <td>(Suma de diferencia de aplicación)/(Número de decisiones)</td>
       <td>Backlog de Decisiones</td>
     </tr>
     <tr>
       <td>Promedio de riesgo</td>
-      <td>¿Cuál es el nivel de riesgo promedio del equipo?</td>
-      <td>Suma de magnitudes de riesgos/Número de riesgos</td>
+      <td>¿Cuál es el nivel de riesgo promedio del proyecto?</td>
+      <td>(Suma de magnitudes de riesgos)/(Número de riesgos)</td>
       <td>Matriz de Riesgos</td>
     </tr>
     <tr>
       <td>SPI</td>
-      <td>¿Cómo es el avance del equipo respecto al plan de trabajo?</td>
-      <td>Porcentaje de trabajo completado/Porcentaje de trabajo planeado</td>
+      <td>¿Cómo es el avance respecto al plan de trabajo?</td>
+      <td>(Porcentaje de trabajo completado)/(Porcentaje de trabajo planeado)</td>
       <td>Plan de Trabajo</td>
     </tr>
     <tr>
@@ -46,8 +49,8 @@ Raymundo   | Autor
     </tr>
     <tr>
       <td>CPI</td>
-      <td>¿Cuánto tiempo el equipo ha invertido al plan de trabajo?</td>
-      <td>Número de horas trabajadas/Número de horas estimadas</td>
+      <td>¿Cuánto tiempo se ha invertido al plan de trabajo?</td>
+      <td>(Número de horas trabajadas)/(Número de horas estimadas)</td>
       <td>Plan de Trabajo</td>
     </tr>
     <tr>
@@ -58,8 +61,8 @@ Raymundo   | Autor
     </tr>
     <tr>
       <td>Promedio de resolución de defectos</td>
-      <td>¿Cuál es el tiempo promedio que toma el equipo para resolver un defecto?</td>
-      <td>Suma de tiempo de resolución/Número de defectos</td>
+      <td>¿Cuál es el tiempo promedio que toma resolver un defecto?</td>
+      <td>(Suma de tiempo de resolución)/(Número de defectos)</td>
       <td>Backlog de Requisitos</td>
     </tr>
     <tr>
@@ -69,12 +72,29 @@ Raymundo   | Autor
       <td>Backlog de Requisitos</td>
     </tr>
     <tr>
-      <td>Promedio de institucionalización de procesos</td>
-      <td>¿Cuál es el tiempo promedio que toma el departamento para institucionalizar un proceso, guía o política?</td>
-      <td>Suma de tiempo de institucionalización/Número de procesos</td>
-      <td>Backlog de Procesos</td>
+      <td>Promedio de resolución de inconsistencias</td>
+      <td>¿Cuál es el tiempo promedio que toma resolver una inconsistencia?</td>
+      <td>(Suma de tiempo de inconsistencias)/(Número de inconsistencias)</td>
+      <td>Backlog de Requisitos</td>
     </tr>
     <tr>
+      <td>Promedio de revisión de cambios</td>
+      <td>¿Cuál es el tiempo promedio que se toma en decidir un cambio a un requisito?</td>
+      <td>(Suma de timepo de decisión)/(Número de cambios)</td>
+      <td>Backlog de Requisitos</td>
+    </tr>
+    <tr>
+      <td>Promedio de aplicación de decisiones</td>
+      <td>¿Cuál es el tiempo promedio que se toma en aplicar un cambio a un requisito?</td>
+      <td>(Suma de tiempo de aplicación)/(Número de cambios)</td>
+      <td>Backlog de Requisitos</td>
+    </tr>
+    <tr>
+      <td>Promedio de institucionalización de procesos</td>
+      <td>¿Cuál es el tiempo promedio que toma el departamento para institucionalizar un proceso, guía o política?</td>
+      <td>(Suma de tiempo de institucionalización)/(Número de procesos)</td>
+      <td>Backlog de Procesos</td>
+    </tr>
     <tr>
       <td>Promedio de motivación</td>
       <td>¿Cuál es la motivación promedio del equipo?</td>
@@ -84,7 +104,19 @@ Raymundo   | Autor
     <tr>
       <td>Encuesta semanal de satisfacción</td>
       <td>¿Cuál es el estatus actual del departamento?</td>
-      <td>Promedio de resultados (Uno por pregunta de la encuesta)</td>
+      <td>Promedio de resultados (Uno por pregunta):
+          <ul>
+            <li>Organización</li>
+            <li>Motivación</li>
+            <li>Inclusión</li>
+            <li>Ayuda de clases</li>
+            <li>Toma de decisiones</li>
+            <li>Desempeño del equipo</li>
+            <li>Reconocimiento de trabajo</li>
+            <li>Efectividad del departamento</li>
+            <li>Consciencia de importancia</li>
+          </ul>
+      </td>
       <td>Historial de Encuesta de satisfacción</td>
     </tr>
     <tr>

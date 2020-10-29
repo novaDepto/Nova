@@ -30,58 +30,61 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
   <tbody>
     <tr>
       <td rowspan="3">Planteamiento</td>
-      <td>Copia y pega la <a href="https://docs.google.com/spreadsheets/d/1QJwNEmHbWxy-EtVOlrlfLJfTQPJb6k8ikunp39Yk8-Y/edit#gid=0"><b> Plantilla de Checklist de Proceso</a></b>.</td>
-      <td rowspan="3">Autor del proceso</td>
+      <td>Copia y pega la <a href="https://docs.google.com/spreadsheets/d/1QJwNEmHbWxy-EtVOlrlfLJfTQPJb6k8ikunp39Yk8-Y/edit#gid=0"><b> Plantilla de Checklist de Institucionalización (proceso, guía, política)</a></b>. Según corresponda.</td>
+      <td rowspan="3">Dueño del entregable</td>
       <td rowspan="3">CM, PPQA</td>
     </tr>
     <tr>
       <td>Ten a la mano el checklist durante todo el proceso.</td>
     </tr>
     <tr>
-      <td>Valida que el proceso cumpla con los puntos de <b>Viabilidad </b> y <b>Valor organizacional</b>.</td>
+      <td>Valida que el entregable cumpla con los puntos de <b>Viabilidad </b> y <b>Valor organizacional</b>.</td>
     </tr>
     <tr>
-      <td rowspan="3">Creación</td>
-      <td>Realiza el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso"><b>Proceso para definir procesos</b></a>.</td>
-      <td rowspan="3">Autor del proceso</td>
-      <td rowspan="3">CM, PPQA</td>
+      <td rowspan="4">Creación</td>
+      <td> Agrega el nombre, ID y versión al <b><a href="https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit?usp=sharing">Listado y control de documentos wiki</a></b> con base de la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuración">Guía de manejo de configuración</a> y <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado">Guía de versionado</a></td>
+      <td rowspan="4">Autor del entregable</td>
+      <td rowspan="4">CM, PPQA</td>
     </tr>
     <tr>
-      <td>Cambia el nombre de la checklist del proceso al <b>Identificador del proceso (Ej. PRO04)</b>.</td>
+      <td>Cambia el nombre de la hoja agregada a la checklist como su <b> Identificador Único </a></b>.</td>
     </tr>
     <tr>
-      <td>Valida que el proceso cumpla con los puntos de <b>Definición</b> y <b>Estándarización  </b> </td>
+      <td> Sigue el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso"> Proceso para definir procesos </a> y la <a href="https://github.com/novaDepto/Nova/wiki/Plantilla-de-proceso"> Plantilla de Procesos  </a> </td>
+    </tr>
+    <tr>
+      <td> Valida que el proceso cumpla con los puntos de <b> la checklist de institucionalización </b> </td>
     </tr>
     <tr>
       <td rowspan="4">Publicación</td>
       <td>Sube el proceso a la Wiki siguiendo la <a href="https://github.com/novaDepto/Nova/wiki/Guía-para-institucionalizar-procesos-guías-políticas"><b>Guía de institucionalización</b></a></td>
-      <td>Autor del proceso</td>
+      <td>Autor del entregable</td>
       <td>CM</td>
     </tr>
     <tr>
-      <td>Solicita el <em>Approval</em> o espera a la <em>petición de cambios</em> de <b>al menos un integrante<b/> del <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a></td>
-      <td>CCB o Encargado del área relacionada al proceso</td>
+      <td>Solicita el <em>Approval</em> o espera a la <em>petición de cambios</em> de <b>al menos un integrante </b> del <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a>< /td>
+      <td> CCB o Encargado del área relacionada al proceso </td>
       <td>PPQA, PMC, DAR, OPD, OPF</td>
     </tr>
     <tr>
       <td>Realiza cualquier <b>arreglo y corrección</b> sugerida y aclara cualquier duda presentada en la conversación del <em>Pull Request</em>.</td>
-      <td>Autor del proceso</td>
+      <td>Autor del entregable</td>
       <td>PPQA, OPD, OPF</td>
     </tr>
     <tr>
       <td>Valida que el proceso cumpla con los puntos de <b>Institucionalización</b>.</td>
-      <td>Autor del proceso</td>
+      <td>Autor del entregable</td>
       <td>PPQA, OPD, OPF</td>
     </tr>
     <tr>
       <td rowspan="2">Divulgación</td>
       <td>Comunica el proceso al departamento siguiendo la <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion"><b>Política de comunicación</b></a> para implementarla en la forma de trabajo.</td>
-      <td>Autor del proceso</td>
+      <td>Autor del entregable</td>
       <td>PMC, PPQA, OPD, OPF, OT</td>
     </tr>
     <tr>
       <td>Valida que el proceso cumpla con los puntos de <b>Difusión</b>.</td>
-      <td>Autor del proceso</td>
+      <td>Autor del entregable</td>
       <td>CM, PPQA</td>
     </tr>
     <tr>
@@ -91,18 +94,18 @@ __Institucionalizar__ un proceso, guía o política teniendo la __aprobación__ 
       <td>PPQA, OPF</td>
     </tr>
     <tr>
-      <td>Responde a las <b>no conformidades </b> a través del <a href="https://docs.google.com/spreadsheets/d/1XoZIS9bOkvG00JPGWq24f4WuB-bdESkBypvnKAiDHEM/edit#gid=1693231540">Control de auditorías </a> </td>
-      <td>Autor del proceso</td>
+      <td>Responde a las <b>no conformidades </b> a través del <b> <a href="https://docs.google.com/spreadsheets/d/1XoZIS9bOkvG00JPGWq24f4WuB-bdESkBypvnKAiDHEM/edit#gid=1693231540">Control de auditorías </a> <b></td>
+      <td>Autor del entregable</td>
       <td>PMC, CM, PPQA</td>
     </tr>
   </tbody>
 </table>
 
 ## Salidas
-1. Proceso institucionalizado y anexado a la línea base.
+1. Proceso, política o guía institucionalizada y anexada a la línea base.
 
 ## Métricas
 1. Backlog de procesos
 
 ***
-versión 0.1a
+versión 0.3b

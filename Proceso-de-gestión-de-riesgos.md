@@ -25,16 +25,22 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5">Identificación</td>
+      <td rowspan="7">Identificación</td>
       <td>Abre la <strong><a href="https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718">Matriz de Riesgos</a><strong>.</td>
-      <td rowspan="5">Todo el equipo</td>
-      <td rowspan="5">RSKM</td>
+      <td rowspan="7">Todo el equipo</td>
+      <td rowspan="7">RSKM</td>
+    </tr>
+    <tr>
+      <td>Genera una lluvia de ideas sobre situaciones o problemas que hayan sucedido en el equipo durante la semana.</td>
+    </tr>
+    <tr>
+      <td>Determina cuáles situaciones o problemas deben elevarse como un riesgo. <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos">Guía de Identificación de Riesgos</a> para más información)<strong>.</td>
     </tr>
     <tr>
       <td>Escribe la descripción del riesgo.</td>
     </tr>
     <tr>
-      <td>Escribe la fuente del riesgo.</td>
+      <td>Escribe la fuente u origen del riesgo.</td>
     </tr>
     <tr>
       <td>Escribe el tipo de riesgo.</td>
@@ -123,4 +129,4 @@
 5. Plan de contingencia = Estrategia para evitar que la magnitud de un riesgo aumente.
 
 ***
-versión 0.1a
+versión 0.2a
