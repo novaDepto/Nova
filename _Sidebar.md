@@ -67,7 +67,7 @@
 * [\[POL01\] Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 * [\[POL02\] Política de juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
 * [\[POL03\] Política de Nova WOW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
-* [\[POL04\] Política de comunicación](https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion)
+* [\[POL04\] Política de comunicación](https://github.com/novaDepto/Nova/wiki/Política-de-Comunicación)
 * [\[POL05\] Política de elementos de la configuración](https://github.com/novaDepto/Nova/wiki/Politica-de-elementos-de-la-configuracion)
 * [\[POL06\] Política de líneas base](https://github.com/novaDepto/Nova/wiki/Politica-de-lineas-base)
 * [\[POL07\] Política de Configuration Control Board](https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board)
