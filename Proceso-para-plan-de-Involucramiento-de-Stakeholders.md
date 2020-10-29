@@ -32,7 +32,7 @@ Definir y conseguir el involucramiento deseado de cada uno de los stakeholders p
   <tbody>
       <tr>
       <td>Creación</td>
-      <td>Copiar y pegar la  <a href="https://docs.google.com/document/d/1KsHp4WnXDkejTbftg5n5KR3B6psNcvt8K9W1mDZjkps/edit?usp=sharing">Plantilla de Involucramiento de Stakeholders</a> para el proyecto a realizar</td>
+      <td>Copiar y pegar la  <a href="https://docs.google.com/spreadsheets/d/1LJW6x2z5gMSXP4xEJpemfEZRcDW06QFz_OxPx2q0hZI/edit#gid=1409053923">Plantilla de Involucramiento de Stakeholders</a> para el proyecto a realizar</td>
       <td>PO</td>
       <td>PP, PPQA</td>
     </tr>
@@ -94,4 +94,4 @@ Definir y conseguir el involucramiento deseado de cada uno de los stakeholders p
 1. Tiempo de ejecución del proceso
 
 ***
-versión 0.2b
+versión 1.0

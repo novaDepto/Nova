@@ -1,6 +1,7 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
+Raymundo   | Dueño de la guía
 Raymundo   | Autor
 Charlie    | Autor
 
@@ -93,4 +94,4 @@ Charlie    | Autor
 **NO SE RECOMIENDA** verificar código de diferentes historias de usuario porque puede generar confusión y un desarrollo en cascada que va en contra de los principios del desarrollo ágil.
 
 ***
-versión 0.2a
+versión 1.0

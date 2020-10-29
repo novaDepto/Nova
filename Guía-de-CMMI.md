@@ -1,3 +1,14 @@
+
+## Responsables
+| Nombre  | Rol   |
+|---------|-------|
+|   Raymundo  | Dueño de la guía |
+|   Raymundo  | Autor |
+
+
+## Objetivo
+1. Dar a conocer a los miembros del departamento las diferentes áreas de CMMI, con su nivel de madurez, categoría, siglas, nombre y descripción, con el fin de guiar sobre la importancia y responsabilidades de cada área
+
 <table>
 <thead>
 <th>Madurez</th><th>Categoría</th><th>Siglas</th><th>Nombre</th><th>Descripción</th>
@@ -73,4 +84,4 @@
 </table>
 
 ***
-versión 0.1a
+versión 1.0

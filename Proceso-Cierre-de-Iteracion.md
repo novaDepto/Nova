@@ -74,4 +74,4 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
 1. Sesión de retrospectiva, la cual tiene una duración entre 30 a 60 minutos.
 
 ***
-versión 0.2b
+versión 1.0

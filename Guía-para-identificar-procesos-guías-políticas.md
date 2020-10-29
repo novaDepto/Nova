@@ -1,9 +1,8 @@
-![](https://raw.githubusercontent.com/novaDepto/Nova/master/Desarrollo%20de%20departamento/Marketing%20y%20comunicaci%C3%B3n/Imagen%20Corporativa/Im%C3%A1genes/NOVA_banner.jpg)
 
-
+## Responsables
 | Nombre         | Rol           |
 | -------------- | ------------- |
-| Luis Escobar   | Dueño de guía |
+| Luis Escobar   | Dueño de la guía |
 | Alonso Oropeza | Autor         |
 | Irving Aguilar | Autor         |
 | Daniel Elias   | Autor         |
@@ -37,4 +36,4 @@ Informar sobre la diferencia entre procesos, guías y/o políticas para poder cr
 * Para definir un política se debe de usar la <a href="https://github.com/novaDepto/Nova/blob/plantilla/politica/Plantilla-de-pol%C3%ADtica.md">plantilla de política</a>
 
 ***
-versión 0.1a
+versión 1.0

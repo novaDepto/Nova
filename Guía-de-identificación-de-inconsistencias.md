@@ -1,7 +1,7 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
-Irving     | Autor
+Irving     | Dueño de la guía
 Luis       | Autor
 Cristian   | Autor
 
@@ -36,5 +36,5 @@ Es una discrepancia entre los planes de trabajo y los requisitos a desarrollar e
 ## ¿Cómo se corrigen?
 Se documentan en el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=142199667"> Log de Inconsistencias </a></strong> para que el equipo las atienda lo antes posible.
 
-*****
-Versión 0.1a
+***
+versión 1.0

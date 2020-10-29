@@ -32,7 +32,7 @@ Raymundo   | Autor
       <td rowspan="8">PP</td>
     </tr>
     <tr>
-      <td>Identifica los riesgos del proyecto <strong>(Consulta el <a href="https://github.com/novaDepto/Nova/blob/master/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a> para más información).</strong></td>
+      <td>Identifica los riesgos del proyecto <strong>(Consulta el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a> para más información).</strong></td>
     </tr> 
     <tr>
       <td>Enlista las actividades para el desarrollo y obtención de conocimientos <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-gestion-habilidades-y-conocimientos">Política de gestión de habilidades y conocimientos</a> para más información).</strong></td>
@@ -62,7 +62,7 @@ Raymundo   | Autor
       <td>Define las fechas de entrega para cada fase y milestone. <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-ciclo-de-vida-del-proyecto">Guía del ciclo de vida del proyecto</a> para más información).</strong></td>
     </tr> 
     <tr>
-      <td>Estima el tiempo para desarrollar un requisito <strong>(Consulta la <a href="">Guía de Estimación</a> para más información).</strong></td>
+      <td>Estima el tiempo para desarrollar un requisito <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-Estimar">Guía para estimar</a>).</strong></td>
     </tr> 
     <tr>
       <td>Define las actividades a realizar en cada fase y genera una matriz RACI para asignar responsabilidades entre los miembros.</td>
@@ -99,4 +99,4 @@ Raymundo   | Autor
 N/A
 
 ***
-Versión 0.2a
+versión 1.0

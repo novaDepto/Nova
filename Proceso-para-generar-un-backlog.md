@@ -114,4 +114,8 @@ El cual indica si vas adelantado o retrasado conforme a las actividades.
 El cual indica cuánto costó realmente ejecutar las actividades en relación a lo que se había estimado que iban a costar. 
 `Costo Planeado / Costo Real`
 
+***
+
+versión 1.0
+
 

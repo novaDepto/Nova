@@ -2,10 +2,11 @@
 
 Nombre     | Rol
 -----------|------------------
+Raymundo   | Dueño de la guía
 Raymundo   | Autor
 
 
-## Objetivo (SMARTish)
+## Objetivo
 1. Asegurar la asignación exitosa de una nueva persona a un rol.
 
 ## Petición de cambio de rol
@@ -25,4 +26,4 @@ Raymundo   | Autor
 * El tiempo y método de capacitación queda a decisión de ambas personas.
 
 ***
-versión 0.1a
+versión 1.0

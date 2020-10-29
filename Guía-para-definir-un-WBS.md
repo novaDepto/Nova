@@ -1,9 +1,9 @@
 Nombre     | Rol
 -----------|------------------
-PO, AO, TL, PM| Dueño de la guía
+Carlos Miguel| Dueño de la guía
 Carlos Miguel | Autor
-Marla        | Responsable
-Alonso       | Responsable
+Marla        | Autor
+Alonso       | Autor
 
 ## Objetivo
 Orientar a la definición de __WBS efectivos__ que __cualquier miembro del
@@ -27,7 +27,7 @@ A continuación se muestra un ejemplo de WBS siguiendo la plantilla.
 ![](https://i.imgur.com/1pdr3GU.png)
 
 ***
-versión 0.1a
+versión 1.0
 
 
 

@@ -1,10 +1,11 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
+Raymundo   | Dueño de la guía
 Raymundo   | Autor
 Alonso     | Autor
 
-## Objetivo
+## Objetivos
 1. Orientar la conversación de las Juntas de Seguimiento Personal. 
 2. Generar un espacio en el que los integrantes del equipo puedan hablar libremente y se les ayude a mejorar como personas a fin de asegurar la confianza y efectividad del equipo.
 
@@ -61,4 +62,4 @@ Alonso     | Autor
 * JSP = Juntas de Seguimiento Personal
 
 ***
-versión 0.1a
+versión 1.0

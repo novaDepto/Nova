@@ -50,4 +50,4 @@ Esta guía tiene como objetivo describir las responsabilidades y desafíos de un
 * Program Management Institute. (2020). Program Management. PMI website. Retrieve 20/09/2020 from: [https://www.pmi.org/disciplined-agile/process/program-management](https://www.pmi.org/disciplined-agile/process/program-management)
  
 ***
-versión 0.1a
+versión 1.0

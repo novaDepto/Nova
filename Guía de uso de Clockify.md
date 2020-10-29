@@ -1,3 +1,9 @@
+## Responsables
+Nombre     | Rol
+-----------|------------------
+Daniel Zavalza  | Dueño de la guía
+Daniel Zavalza   | Autor
+
 ## Objetivo
 
 Hacer uso correcto de la herramienta *Clockify* y mejorar el monitoreo de tiempo de las actividades.
@@ -44,4 +50,4 @@ Los pasos para la medición del tiempo:
 **9. Registra el tiempo en los documentos correspondientes (planes, Backlogs,etc.).**
 
 ***
-versión 0.1a
+versión 1.0

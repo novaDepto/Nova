@@ -1,6 +1,7 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
+Raymundo   | Dueño de la guía
 Raymundo   | Autor
 
 ## Objetivo
@@ -156,4 +157,4 @@ Raymundo   | Autor
 </table>
 
 ***
-versión 0.1a
+versión 1.0

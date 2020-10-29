@@ -26,7 +26,7 @@ Luis       | Autor
   <tbody>
     <tr>
       <td rowspan="6">Identificación</td>
-      <td>Abre el Backlog de Cambios.</td>
+      <td> Abre la <a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1185110039"> Bitácora de cambios en el backlog de requisitos </a></td>
       <td rowspan="6">TM</td>
       <td rowspan="6">REQM</td>
     </tr>
@@ -88,11 +88,11 @@ Luis       | Autor
 </table>
 
 ## Salidas
-1. Cambio a historia de usuario aprobado/rechazado
+1. Cambio a historia de usuario aprobado o rechazado y registrado
 
 ## Métricas
 1. Promedio de decisión del cambio.
 2. Promedio de aplicación del cambio.
 
 ***
-Versión 0.2b
+versión 1.0

@@ -40,7 +40,7 @@ Raymundo   | Autor
     <tr>
       <td rowspan="3">Análisis</td>
       <td>Compara los datos obtenidos con los indicadores específicos de la métrica 
-      <br>(<strong>Consulta la <a href="">Guía de Identificación de Métricas<strong></a> para saber cómo se calculan).</strong></td>
+      <br>(<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Identificaci%C3%B3n-de-M%C3%A9tricas">Guía de Identificación de Métricas<strong></a> para saber cómo se calculan).</strong></td>
       <td rowspan="3">MA</td>
       <td rowspan="3">PMC, MA</td>
     </tr>
@@ -71,4 +71,4 @@ Raymundo   | Autor
 1. Backlog de Métricas
 
 ***
-versión 0.2b
+versión 1.0

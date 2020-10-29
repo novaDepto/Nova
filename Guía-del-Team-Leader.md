@@ -1,3 +1,13 @@
+## Responsables
+Nombre         | Rol
+-------------- | -----
+Raymundo| Dueño de la guía    |
+Raymundo | Autor
+
+## Objetivo
+1. Guiar a los miembros del departamento sobre el rol y responsabilidades de un Team Leader
+
+## ¿Quién es el Team Leader?
 El Team Leader facilita y guía al equipo en la ejecución de sus actividades en vez de tomar esas responsabilidades él mismo. Es un coach ágil que ayuda al equipo a entregar sus ítems de trabajo y completar sus objetivos personales y profesionales. Actúa como líder al facilitar la comunicación, empoderar al equipo con los recursos necesarios para realizar su trabajo y remover impedimentos.
 
 ## 1. Salud del equipo:
@@ -7,7 +17,7 @@ El Team Leader facilita y guía al equipo en la ejecución de sus actividades en
 + Ayudar a los integrantes del equipo a desarrollar sus habilidades profesionales
 + Ayudar a los integrantes del equipo a lograr sus metas personales
 + Asegurar un ambiente y forma de trabajo óptimo en el equipo
-+ Incentivar el sentimiento de pertenencia del equipo al trabajo.
++ Incentivar el sentimiento de pertenencia del equipo al trabajo
 
 ## 2. Comunicación:
 + Tener un canal de comunicación con los Project Managers
@@ -28,4 +38,4 @@ El Team Leader facilita y guía al equipo en la ejecución de sus actividades en
 + Delegar responsabilidades y tareas
 
 ***
-versión 0.1a
+versión 1.0

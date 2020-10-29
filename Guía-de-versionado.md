@@ -1,8 +1,11 @@
 ## Responsables
 Nombre         | Rol
 -------------- | -----
-Juan Alcántara | Dueño
+Juan Alcántara | Dueño de la guía    |
 Juan Alcántara | Autor
+
+## Objetivo
+Guia al departamento sobre qué es el versionado, y que significa cada uno de los elementos de un número de versión, para lograr manejar la configuración y gestionar cambios de manera controlada
 
 ## Versiones
 A veces es difícil determinar en que estado está un _codebase_ o los documentos
@@ -38,4 +41,4 @@ __Nota:__ Todas las versiones de todos los artefactos deben partir del __0.1a__
 donde se entiende que se trata de una versión inicial con detalles a pulir.
 
 ***
-versión 0.1a
+versión 1.0

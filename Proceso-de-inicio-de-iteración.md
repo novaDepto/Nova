@@ -94,7 +94,7 @@ b) Demostración bajo demanda: El socio solicita probar el sistema.
 c) Demostración all-hands: El socio puede usar libremente el sistema.
 
 ***
-versión 0.2b
+versión 1.0
 
 
 
