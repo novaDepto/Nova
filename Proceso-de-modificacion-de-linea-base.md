@@ -89,4 +89,4 @@ Mantener una gestión y control de los cambios que sufren las [líneas base](htt
 eliminaciones, etc.
 
 ***
-versión 0.1a
+versión 1.0

@@ -1,7 +1,7 @@
 # Responsables
 Nombre     | Rol
 -----------|------------------
-Irving     | Dueño de guía
+Irving     | Dueño de la guía
 Cris       | Autor
 Luis       | Autor
 
@@ -145,5 +145,5 @@ A continuación se presenta la plantilla utilizada para la especificación de hi
 </tr>
 
 ***
-versión 0.1a
+versión 1.0
 

@@ -1,6 +1,7 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
+Raymundo   | Dueño de la guía
 Raymundo   | Autor
 
 ## Objetivo
@@ -16,6 +17,6 @@ Aquellos problemas o situaciones **recurrentes** que:
 * **Político:** Afecten a alguna política del departamento
 * **Temporal:** Afecten al tiempo de trabajo de los integrantes
 
-*****
-Versión 0.1a
+***
+versión 1.0
 		

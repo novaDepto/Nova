@@ -1,10 +1,11 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
+Raymundo   | Dueño de la guía
 Raymundo   | Autor
 Alonso     | Autor
 
-## Objetivos
+## Objetivo
 1. Dar las herramientas necesarias para asegurar el propósito del Cuestionario de Salud.
 
 ## Recomendaciones generales
@@ -31,4 +32,4 @@ Alonso     | Autor
 * Hablar de los resultados en las Juntas de Seguimiento Personal.
 
 ***
-versión 0.1a
+versión 1.0

@@ -34,7 +34,7 @@
       <td>Genera una lluvia de ideas sobre situaciones o problemas que hayan sucedido en el equipo durante la semana.</td>
     </tr>
     <tr>
-      <td>Determina cuáles situaciones o problemas deben elevarse como un riesgo. <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos">Guía de Identificación de Riesgos</a> para más información)<strong>.</td>
+      <td>Determina cuáles situaciones o problemas deben elevarse como un riesgo. <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos">Guía de Identificación de Riesgos</a> para más información)<strong>.</td>
     </tr>
     <tr>
       <td>Escribe la descripción del riesgo.</td>
@@ -129,4 +129,4 @@
 5. Plan de contingencia = Estrategia para evitar que la magnitud de un riesgo aumente.
 
 ***
-versión 0.2a
+versión 1.0

@@ -1,5 +1,12 @@
+## Responsables 
+| Nombre | Rol | 
+| -------- | -------- | 
+| Marla    | Dueño de la guía   | 
+| Marla    | Autor     | 
+| Daniel Elias    | Autor     | 
+
 ## Objetivo 
-Guiar y establecer un proceso de resolución de conflictos del departamento para mantener un ambiente colaborativo de trabajo, donde los conflictos entre miembros, asesores, socios formadores, usuarios, representantes del Tecnológico de Monterrey y otros stakeholders puedan llegar a una resolución mediante el diálogo y así mantener firmes nuestros valores: comprensión, humildad, perseverancia y flexibilidad.
+Guiar la resolución de conflictos del departamento para mantener un ambiente colaborativo de trabajo, donde los conflictos entre miembros, asesores, socios formadores, usuarios, representantes del Tecnológico de Monterrey y otros stakeholders puedan llegar a una resolución mediante el diálogo y así mantener firmes nuestros valores: comprensión, humildad, perseverancia y flexibilidad.
 
 ## Pasos
 ![Niveles problema](https://raw.githubusercontent.com/novaDepto/Nova/master/Desarrollo%20de%20departamento/Comit%C3%A9%20de%20%C3%89tica/problemlevels.PNG)
@@ -12,4 +19,4 @@ Guiar y establecer un proceso de resolución de conflictos del departamento para
 7. Los mediadores del Comité de Ética escribirán en un documento los acuerdos a los que llegaron los involucrados, se les preguntará a los involucrados si están de acuerdo con lo que se escribió y finalmente el mediador firmará un apartado que estipula que los involucrados estuvieron de acuerdo.
 
 ***
-versión 0.2a
+versión 1.0

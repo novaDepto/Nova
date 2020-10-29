@@ -128,4 +128,4 @@ Definir actividades a realizar en una junta con cliente para generar un ambiente
 1. Promedio de satisfacción del cliente
 
 ***
-versión 0.2b
+versión 1.0

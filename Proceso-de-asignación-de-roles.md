@@ -38,9 +38,8 @@ Raymundo   | Autor
     <tr>
       <td>Transición</td>
       <td>La nueva persona en el rol debe ponerse al día con las tareas del mismo con la ayuda y capacitación de la persona anterior al rol.
-      <p><strong><em>
-      (Véase la <a href="https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-de-asignaci%C3%B3n-de-roles.md">Guía de Asignación de Roles</a> para más información)
-      </em></strong></p>
+      <p><strong>
+      (Véase la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-asignaci%C3%B3n-de-roles">Guía de Asignación de Roles</a> para más información)</strong></p>
       </td>
       <td>PM</td>
       <td>OT</td>
@@ -55,4 +54,4 @@ Raymundo   | Autor
 1. Motivación del departamento
 
 ***
-versión 0.2b
+versión 1.0

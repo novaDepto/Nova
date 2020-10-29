@@ -1,17 +1,16 @@
 ## Responsables 
 | Nombre | Rol | 
 | -------- | -------- | 
-| Cristhian    | Responsable     | 
+| Cristhian    | Dueño de la guía   | 
 | Daniel Zavalza    | Autor     | 
 | Marla   | Autor     |
-| Alonso    | Autor     | 
+| Alonso    | Autor    | 
 | Luis    | Autor     |
 | Javier    | Autor     |
 
 
 ## Objetivo
-
-Orientar a los integrantes del departamento Nova, a nuevos miembros o a miembros que antes tenían otro rol, sobre las responsabilidades de un Team Member, para así lograr su inclusión rápida al equipo.
+1. Orientar a los integrantes del departamento Nova, a nuevos miembros o a miembros que antes tenían otro rol, sobre las responsabilidades de un Team Member, para así lograr su inclusión rápida al equipo.
 
 ## Responsabilidades
 * Produce soluciones que satisfacen las necesidades para los stakeholders
@@ -73,4 +72,4 @@ Orientar a los integrantes del departamento Nova, a nuevos miembros o a miembros
 * Ambler, S. W., & Lines, M. (2012). Disciplined agile delivery: A practitioner's guide to agile software delivery in the enterprise. Upper Saddle River, NJ: IBM Press.
 
 ***
-versión 0.1a
+versión 1.0

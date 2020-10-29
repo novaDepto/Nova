@@ -120,4 +120,4 @@ Definir las actividades a realizar para generar y preparar una presentación de 
 1. Tiempo de ejecución del proceso
 
 ***
-versión 0.2b
+versión 1.0

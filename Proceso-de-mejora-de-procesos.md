@@ -82,4 +82,4 @@ En caso de rechazo:
 1. Promedio de institucionalización de procesos.
 
 ***
-versión 0.2b
+versión 1.0

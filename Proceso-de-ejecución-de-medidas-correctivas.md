@@ -66,4 +66,4 @@ Ejecutar medidas correctivas para alcanzar el avance esperado de acuerdo al plan
 1. Tiempo de ejecución de la medida correctiva
 
 ***
-versión 0.1a
+versión 1.0

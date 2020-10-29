@@ -1,5 +1,12 @@
-## Objetivo 
+## Responsables 
+| Nombre | Rol | 
+| -------- | -------- | 
+| Marla    | Dueño de la guía   | 
+| Marla    | Autor     | 
+| Carlos Miguel   | Autor     | 
+| Daniel Elias    | Autor     | 
 
+## Objetivo 
 El presente documento tiene el objetivo de informar y orientar a los miembros del departamento NOVA los pasos a seguir para denunciar alguna falta o violación a alguna de las secciones del Código de Ética de NOVA por parte de algún integrante del departamento. 
 
 De igual manera, orienta a los miembros que cometan una falta o violación a alguna de las secciones del Código de Ética de NOVA sobre las acciones que el Comité de Ética llevará a cabo para la resolución del incidente.

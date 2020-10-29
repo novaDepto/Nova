@@ -120,4 +120,4 @@ Lisieux    | Autor
 1. Backlog de Decisiones
 
 ***
-versión 0.2b
+versión 1.0

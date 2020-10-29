@@ -95,4 +95,4 @@ Raymundo   | Autor
 2. Criterios de código menos aceptados
 
 ***
-versión 0.2b
+versión 1.0

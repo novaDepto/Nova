@@ -1,6 +1,7 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
+Raymundo   | Dueño de la guía
 Raymundo   | Autor
 Alonso     | Autor
 
@@ -78,4 +79,4 @@ Alonso     | Autor
 9. Evita que el contenido de las juntas de desempeño se use para chantajear o coaccionar a otros integrantes del equipo. En caso de que suceda, se deberá reportar al Comité de Ética.
 
 ***
-versión 0.1a
+versión 1.0

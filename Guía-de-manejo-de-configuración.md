@@ -2,7 +2,11 @@
 
 Nombre         | Rol
 -------------- | ---------
+Juan Alcántara        | Dueño de la guía    |
 Juan Alcántara | Autor
+
+## Objetivo
+Guiar a los miembros del departamento sobre qué es el manejo de la configuración y cómo se logra en Nova
 
 ## ¿Cómo manejar la configuración?
 En Nova es de suma importancia mantener constancia de los artefactos y los
@@ -29,6 +33,9 @@ Guía              | GUI     | GUI19
 Política          | POL     | POL02
 Proceso           | PRO     | PRO32
 Wireframe         | WIR     | WIR79
+Plantilla         | PLA     | PLA34
+Documentos proporcionados por el stakeholder | STA | STA01
+Manual de usuario        | MAN     | MAN02
 
 \* En caso de faltar algún tipo de documento, incluir una definición en la guía
 para evitar confusiones en el futuro<br>
@@ -67,4 +74,4 @@ fix: Cambiar el título para corregir faltas ortográficas.
 * [Guía para NovaFlow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
 
 ***
-versión 0.1a
+versión 1.0

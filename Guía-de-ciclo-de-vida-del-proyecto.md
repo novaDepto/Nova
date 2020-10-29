@@ -1,10 +1,11 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
+Raymundo   | Dueño de la guía
 Raymundo   | Autor
 
 
-## Objetivos
+## Objetivo
 1. Describir el modelo de ciclo de vida utilizado en los proyectos.
 
 ## Modelo de ciclo de vida
@@ -61,4 +62,4 @@ Raymundo   | Autor
 * Stakeholders satisfechos: ¿Están contentos los stakeholders con la solución desplegada?
 
 ***
-versión 0.1a
+versión 1.0

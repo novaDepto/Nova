@@ -2,9 +2,12 @@
 ## Responsables
 | Nombre         | Rol           |
 | -------------- | ------------- |
-| Juan Alcántara | Dueño de guía |
+| Juan Alcántara | Dueño de la guía |
 | Peter González | Autor         |
 | Juan Alcántara | Autor         |
+
+## Objetivo
+Guiar sobre el uso de control de versiones a través del flujo denominado: NovaFlow
 
 ## ¿Qué es NovaFlow?
 ![novaflow][novaflow]
@@ -86,4 +89,4 @@ calidad del código.
 [novaflow]: ./media/guia_nova_flow_flow.png
 
 ***
-versión 0.1a
+versión 1.0

@@ -1,19 +1,14 @@
-# Responsables
-
+## Responsables
 | Nombre   | Rol           |
 | -------- | ------------- |
-| Irving   | Dueño de guía |
+| Irving   | Dueño de la guía |
 | Cristian | Autor         |
 | Luis     | Autor         |
 
 ## Objetivo
-
 Definir los pasos necesarios para completar el documento de cambio a historia de usuario.
 
-
-
 ## Plantilla
-
 A continuación se presenta la plantilla para la solicitar el cambio de una historia de usuario (Se puede copiar y pegar en el apartado de documentación de historias de usuario de tu proyecto).
 
 #### [Plantilla de petición de cambio a historia de usuario.](https://docs.google.com/document/d/1M069mmX34Qs00u1gTi_QwSYtdNtDVKalAZwjJS4YCkI/edit?usp=sharing)
@@ -104,5 +99,9 @@ A continuación se presenta la plantilla para la solicitar el cambio de una hist
    Llenar la tabla de petición con los datos correspondientes.            
 </td>
 </tr>
+</table>
+
+***
+versión 1.0
 
 

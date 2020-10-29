@@ -1,3 +1,13 @@
+## Responsables
+Nombre         | Rol
+-------------- | -----
+Juan Alcántara | Dueño de la guía    |
+Juan Alcántara | Autor
+Pedro González | Autor
+Alonso Oropeza | Autor
+Yafté Gallegos | Autor
+Daniel Elias | Autor
+
 ## Objetivo
 El objetivo de esta guía es **orientar** y **facilitar** la participación en el
 [proceso] definido para institucionalizar procesos, guías y políticas.
@@ -11,8 +21,8 @@ apruebe el documento y se suba en automático a la wiki, se pueda acceder con
 rapidez a este. 
 
 0. **Recuerda poner el Identificador único del documento** siguiendo la
-[Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n) y guiándote en la numeración del
-documento de [Listado de numeración](https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit?usp=sharing)
+[Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n) y guiándote en la numeración del
+documento de [Listado y control de documentos wiki](https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit?usp=sharing)
 
 0. **Github automáticamente despliega el nombre del archivo cómo el _título del
 documento_. Por lo que no hay que poner un título en el archivo para evitar que
@@ -132,4 +142,4 @@ botón de `Submit review`.
 [aprobar]: media/guia_institucionalizar_aprobar.png
 
 ***
-versión 0.1a
+versión 1.0

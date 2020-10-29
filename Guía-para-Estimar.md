@@ -23,8 +23,6 @@ Para definir el tamaño y costo de una tarea se utilizan Agile Points. Siguiendo
 ### Existe historial
 1. En el caso de **contar con historial** se revisa el Historial y se define el costo de la tarea en base a los registros.
 
-
-
 ## Calendario
 
 1. Se definen :
@@ -34,6 +32,8 @@ Para definir el tamaño y costo de una tarea se utilizan Agile Points. Siguiendo
 
 1. Se agregan al backlog tareas todas aquellas que cubren el tiempo de esfuerzo total.
 
+***
+versión 1.0
 
 
 

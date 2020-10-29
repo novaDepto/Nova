@@ -28,7 +28,7 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
   <tbody>
     <tr>
       <td rowspan="6">Definición</td>
-      <td>Definir un identificador para el proceso (véase <a href="https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n">GUI10</a>)</td>
+      <td>Definir un identificador para el proceso (véase <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n">Guía de manejo de la configuración</a>)</td>
       <td rowspan="6">Autor del proceso</td>
       <td rowspan="6">PPQA, MA, CM</td>
     </tr>
@@ -57,4 +57,4 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
 N/A
 
 ***
-versión 0.1a
+versión 1.0

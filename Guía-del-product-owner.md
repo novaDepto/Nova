@@ -7,7 +7,7 @@
 | Luis | Autor |
 
 ## Objetivo
-> Esta guía tiene como objetivo describir las responsabilidades y desafíos de un Product Owner. Así mismo, servirá para que cualquier miembro del departamento Nova esté orientado sobre lo que implica este rol y cuando se haga transición de roles sirva como referencia para quién sea PO.
+Esta guía tiene como objetivo describir las responsabilidades y desafíos de un Product Owner. Así mismo, servirá para que cualquier miembro del departamento Nova esté orientado sobre lo que implica este rol y cuando se haga transición de roles sirva como referencia para quién sea PO.
 
 ## Descripción del rol
 
@@ -21,7 +21,7 @@ El Product Owner es la persona en el equipo que representa la voz de los stakeho
 * Moderar entre inquietudes del cliente con inquietudes del AO
 * Tomar el liderazgo del proyecto con el enfoque de que es el dueño del proyecto y representa los intereses del socio ante el equipo
 * Ser el representante y la cara pública del departamento ante los stakeholders
-* Procurar mantener un involucramiento activo de parte del socio en el proyecto
+* Procurar mantener un involucramiento activo de parte del socio en el proyecto. Consultar el [Proceso para plan de Involucramiento de Stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 * Informa y los interesados del proyecto del proceso de desarrollo que sigue el equipo
 
 <strong>Visión del Proyecto</strong>:
@@ -54,4 +54,4 @@ El Product Owner es la persona en el equipo que representa la voz de los stakeho
 * Ambler, S. W., & Lines, M. (2012). Disciplined agile delivery: A practitioner's guide to agile software delivery in the enterprise. Upper Saddle River, NJ: IBM Press.
 
 ***
-versión 0.1a
+versión 1.0

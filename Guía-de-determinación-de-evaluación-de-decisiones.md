@@ -1,6 +1,7 @@
 ## Responsables
 Nombre     | Rol
 -----------|------------------
+Raymundo | Dueño de la guía 
 Raymundo   | Autor
 
 ## Objetivo
@@ -22,4 +23,4 @@ Raymundo   | Autor
 * **Sean unánimes en el equipo o departamento**
 
 ***
-versión 0.2a
+versión 1.0

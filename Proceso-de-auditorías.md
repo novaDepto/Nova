@@ -61,7 +61,7 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
     </tr>
     <tr>
       <td rowspan="2">Calendarización de la auditoría</td>
-      <td>Agregar bloques de tiempo en el calendario para las auditorías. Seguir la <a href="https://github.com/novaDepto/Nova/blob/master/Gu%C3%ADa-para-agendar-eventos.md">guía para agendar eventos</a></td>
+      <td>Agregar bloques de tiempo en el calendario para las auditorías. Seguir la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-agendar-eventos">guía para agendar eventos</a></td>
       <td>Personas auditando</td>
       <td>PPQA, CM</td>
     </tr>
@@ -137,4 +137,4 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
 1. No conformidad: se refiere a una desviación en la ejecución de un proceso o no cumplir con uno de los puntos de las checklists de los productos.
 
 ***
-versión 0.2b
+versión 1.0

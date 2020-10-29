@@ -118,4 +118,4 @@ Permitir al departamento contar con la evaluación SCAMPI para conocer el nivel 
 1. Número de observaciones y correcciones a realizar
 
 ***
-versión 0.1b
+versión 1.0
