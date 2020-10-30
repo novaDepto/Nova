@@ -35,7 +35,7 @@ Raymundo   | Autor
       <td>Identifica los riesgos del proyecto <strong>(Consulta el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a> para más información).</strong></td>
     </tr> 
     <tr>
-      <td>Enlista las actividades para el desarrollo y obtención de conocimientos <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-gestion-habilidades-y-conocimientos">Política de gestión de habilidades y conocimientos</a> para más información).</strong></td>
+      <td>Enlista las actividades para el desarrollo y obtención de conocimientos <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Política-de-gestión-habilidades-y-conocimientos">Política de gestión de habilidades y conocimientos</a> para más información).</strong></td>
     </tr>
     <tr>
     <td>Identifica las <a href="#glosario1">restricciones del proyecto.</a></td>
