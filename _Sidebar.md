@@ -1,4 +1,4 @@
-### [Mapa de procesos](https://app.diagrams.net/#G1WO-4zv0Zsb4ugsiL5dlvyaZ0SuDR4aBu)
+### [Mapa de procesos](https://drive.google.com/file/d/1WXMBn0wiYKdKTR2ANFS0dlHRj_vHOPfy/view?usp=sharing)
 
 ### Procesos
 
@@ -25,6 +25,7 @@
 * [\[PRO22\] Proceso de verificación de código](https://github.com/novaDepto/Nova/wiki/Proceso-de-verificación-de-código)
 * [\[PRO23\] Proceso de toma de decisiones](https://github.com/novaDepto/Nova/wiki/Proceso-de-toma-de-decisiones)
 * [\[PRO24\] Proceso de gestion de cambios a historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-cambios-a-historias-de-usuario)
+* [\[PRO25\] Proceso de recolección de requisitos](https://github.com/novaDepto/Nova/wiki/Proceso-de-recolección-de-requisitos)
 * [\[PRO26\] Proceso para definir el alcance](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-el-alcance)
 * [\[PRO27\] Proceso de SCAMPI](https://github.com/novaDepto/Nova/wiki/Proceso-de-SCAMPI)
 
