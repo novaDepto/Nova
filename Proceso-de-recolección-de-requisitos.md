@@ -1,4 +1,4 @@
-# Proceso de recolección de requisitos
+
 ## Responsables
 
 | Nombre   | Rol               |
@@ -16,8 +16,7 @@ Establecer un criterio que ayude a recopilar los requisitos apropiados para sati
 1. Listado de necesidades, pain points, del cliente
 
 ## Proceso
-​HTML  				 			
- 
+ 				 			 
 <table>
   <thead>
     <tr>

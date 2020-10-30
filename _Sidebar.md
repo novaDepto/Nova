@@ -25,6 +25,7 @@
 * [\[PRO22\] Proceso de verificación de código](https://github.com/novaDepto/Nova/wiki/Proceso-de-verificación-de-código)
 * [\[PRO23\] Proceso de toma de decisiones](https://github.com/novaDepto/Nova/wiki/Proceso-de-toma-de-decisiones)
 * [\[PRO24\] Proceso de gestion de cambios a historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-cambios-a-historias-de-usuario)
+* [\[PRO25\] Proceso de recolección de requisitos](https://github.com/novaDepto/Nova/wiki/Proceso-de-recolección-de-requisitos)
 * [\[PRO26\] Proceso para definir el alcance](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-el-alcance)
 * [\[PRO27\] Proceso de SCAMPI](https://github.com/novaDepto/Nova/wiki/Proceso-de-SCAMPI)
 
