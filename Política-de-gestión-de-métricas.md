@@ -22,4 +22,4 @@ Daniel     | Autor
 3. Los Backlog de Métricas se encuentran en: <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI#MA">Directorio de MA</a>
 
 ***
-versión 0.1a
+versión 1.0

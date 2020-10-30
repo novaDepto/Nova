@@ -1,15 +1,14 @@
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
-| Carlos Becerra   | Autor           | 
+| Carlos Becerra   | Dueño de la política | 
 | Daniel Elias   | Autor             | 
-| Juan Alcántara | Responsable       |
 
-## Objetivos
+## Objetivo
 Esta política define los productos de trabajo que son elementos de configuración y que por lo tanto son sujetos a los procesos y políticas definidos por el área de proceso de Gestión de la Configuración.
 
 ## Reglamento
-1. Los elementos de la configuración deberán de seguir la [Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/%5BGUI10%5D-Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n) y la [Guía de versionado](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado)
+1. Los elementos de la configuración deberán de seguir la [Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/Guía-de-manejo-de-configuración) y la [Guía de versionado](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado)
 2. Los elementos sometidos a la Gestión de la Configuración en Nova son:
 
 * **Productos de trabajo interno del departamento**:
@@ -19,6 +18,7 @@ Esta política define los productos de trabajo que son elementos de configuraci�
           <li>Políticas</li>
           <li>Guías</li>
           <li>Mapa de procesos</li>
+          <li>Plantillas</li>
      </ul>
      <br>
 * **Productos de trabajo entregados al cliente**:
@@ -44,15 +44,6 @@ _Son elementos que se utilizaran para el desarrollo de la solución para el clie
           <li>Plataformas de despliegue</li>
       </ul>
     <br>
-* **Productos relacionados con el desarrollo de los proyectos de software:**
-_Son elementos que dan soporte al desarrollo de la solución_
-     <ul>
-          <li>Requisitos funcionales</li>
-          <li>Matriz de trazabilidad</li>
-          <li>Control de cambios</li>
-          <li>Gestión de riesgos</li>
-      </ul>
-    <br>
 * **Productos de trabajo entregados al departamento por algún stakeholder del proyecto**:
     *Productos de trabajo que son dados al departamento con el fin de cumplir con el proyecto de software.*
      <ul>
@@ -75,4 +66,4 @@ _Son elementos que dan soporte al desarrollo de la solución_
      </ul>
 
 ***
-versión 0.1a
+versión 1.0

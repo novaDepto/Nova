@@ -2,17 +2,16 @@
  
 | Nombre    | Rol               |
 | --------- | ----------------- |
+|  Carlos   | Dueño de la política      |
 |  Marla    | Autor             |
-|  Carlos   | Responsable       |
-|  Alonso   | Responsable       |
  
-## Objetivos
+## Objetivo
 Desarrollar los conocimientos, confianza y habilidades entre los miembros del departamento, para lograr un equipo de alto desempeño.
  
 ## Reglamento
 ### 1. Desarrollo de habilidades para la resolución de conflictos
 - Los miembros del departamento siguen las prácticas de dirección de conflictos y contribuyen en su mejora, cómo factor para la reducción de conflictos.
-- Al identificar un conflicto, se puede pedir apoyo con el Team Leader de proyecto o Program Manager de ser necesario, y seguir la guía de resolución de conflictos <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-resolución-de-conflictos">[GUI28]</a>.
+- Al identificar un conflicto, se puede pedir apoyo con el Team Leader de proyecto o Program Manager de ser necesario, y seguir la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-resolución-de-conflictos">Guía de resolución de conflictos</a>.
  
 ### 2. Desarrollo de Conocimientos
 - Cada miembro del departamento es consciente de los distintos niveles de conocimiento en cada miembro. Asegurando el desarrollo de todos los miembros se pueden aplicar las siguientes estrategias:
@@ -39,7 +38,7 @@ Desarrollar los conocimientos, confianza y habilidades entre los miembros del de
    <ul>
        <li> Articulación clara de puntos y posiciones.</li>
        <li>Escucha activa y eficaz</li>
-       <li>Recopilación de información relevante para abordar problemas, logrando acuerdos que fomenten la confianza en el equipo. Siguiendo el Proceso de toma de decisiones <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-toma-de-decisiones">[PRO23]</a>. </li>
+       <li>Recopilación de información relevante para abordar problemas, logrando acuerdos que fomenten la confianza en el equipo. Siguiendo el Proceso de toma de decisiones <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-toma-de-decisiones">Proceso de toma de decisiones</a>. </li>
    </ul>
 </ul>
  

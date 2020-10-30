@@ -9,7 +9,7 @@ Lisieux    | Autor
 2. Asegurar una toma de decisiones orientadas al valor y calidad.
 
 ## Entradas
-1. Decisión
+1. Decisión a ser tomada
 
 ## Proceso
 <table>

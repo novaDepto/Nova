@@ -1,4 +1,4 @@
-# Proceso de Validación
+
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
@@ -8,11 +8,11 @@
 
 
 ## Objetivo
-Conocer el proceso, entradas y salidas que debe de tener el flujo de validación de las US.
+Conocer el proceso, entradas y salidas que debe de tener el flujo de validación de las historias de usuario con el fin de encontrar defectos y al corregirlos lograr que el stakeholder esté deleitado con la entrega de las mismas
 
 
 ## Entrada 
-1. Listado de US a validar.(Puede ser únicamente una US)
+1. Listado de historias de usuario a validar.
 
 ## Proceso
 
@@ -28,7 +28,7 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
   <tbody>
     <tr>
       <td rowspan="2">Comprobación</td>
-      <td>Revisar la <a href="https://github.com/novaDepto/Nova/wiki/Guía-para-Estimar"><strong>Guía de Validación </strong></a> para saber qué es necesario evaluar en la US.</td>
+      <td>Revisar la <a href="https://github.com/novaDepto/Nova/wiki/Guía-de-validación"><strong>Guía de Validación </strong></a> para saber qué es necesario evaluar en la historia de usuario.</td>
       <td>Autor del plan</td>
       <td>REQM</td>
     </tr>
@@ -39,7 +39,7 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
     </tr>
     <tr>
       <td rowspan="3">Análisis</td>
-      <td>A partir de los resultados obtenidos, al realizar la guía o Think Aloud se deberán tener datos para saber si es necesario hacer cambios a la estructura del código.</td>
+      <td>A partir de los resultados obtenidos, al realizar la guía o Think Aloud se deberán tener datos para saber si es necesario hacer cambios a la estructura del código. Si hay defectos, se deberán de registrar en el log de defectos.</td>
       <td>Autor del plan</td>
       <td>REQM</td>
     </tr>
@@ -49,7 +49,7 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
         <td>REQM</td>
     </tr>
     <tr>
-        <td>Redefinir acciones para las etapas de diseño y análisis dentro del ciclo de vida de la US.</td>
+        <td>Redefinir acciones para las etapas de diseño y análisis dentro del ciclo de vida de la historia de usuario</td>
         <td>Autor del plan</td>
         <td>REQM</td>
     </tr>
@@ -57,16 +57,13 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
   </tbody>
 </table>
 
-## Salida
+## Salidas
 Los resultados finales son:
 1. Wireframes, diagramas de actividad, diagramas de flujo y/o casos de prueba actualizados.
 2. Métricas de tiempos y de satisfacción.
 
     
-
-
 ***
-
 versión 1.0
 
 

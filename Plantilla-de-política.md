@@ -1,11 +1,11 @@
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
-|           | Autor             | 
-|           | Responsable       |
+|           | Dueño de la política            | 
+|           | Autor       |
 
-## Objetivos
-Un objetivo que resuelva una necesidad del departamento
+## Objetivo
+Un objetivo que resuelva una necesidad del departamento y demuestre la importancia de la política
 
 ## Reglamento
 1. Regla 1

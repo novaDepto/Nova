@@ -23,4 +23,4 @@
 8. pm!export 2110
 
 ***
-versión 0.1a
+versión 1.0

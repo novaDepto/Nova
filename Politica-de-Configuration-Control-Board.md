@@ -1,19 +1,15 @@
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
-| Daniel Elias    | Autor             | 
-| Juan Alcántara         | Responsable       |
-| Pedro González         | Responsable       |
-| Marla Galván        | Responsable       |
-| Raymundo Romero         | Responsable       |
-| Erwin Julian         | Responsable       |
+| Daniel Elias    | Dueño de la política             | 
+| Daniel Elias | Autor |
 
 ## Objetivos
 Que el departamento conozca qué es el Configuration Control Board, quiénes lo integran y cuál es el rol de sus miembros
 
 ## Reglamento
-1. El __CCB__, por sus siglas en inglés Configuration Control Board, es un grupo de miembros del departamento responsable de __identificar__, __auditar__, __monitorear el status__, __aprobar__ y __rechazar__ [cambios propuestos](https://github.com/novaDepto/Nova/wiki/Proceso-de-Modificaci%C3%B3n-de-baseline) a los [elementos de la configuración](https://github.com/novaDepto/Nova/wiki/Politica-de-elementos-de-la-configuracion) de las [líneas base del departamento](https://github.com/novaDepto/Nova/wiki/Politica-de-lineas-base)
-2. Los miembros del CCB encargados de la [línea base de la wiki del departamento](https://github.com/novaDepto/Nova/wiki) son:
+1. El __CCB__, por sus siglas en inglés Configuration Control Board, es un grupo de miembros del departamento responsable de __identificar__, __auditar__, __monitorear el status__, __aprobar__ y __rechazar__ [cambios propuestos](https://github.com/novaDepto/Nova/wiki/https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base) a los [elementos de la configuración](https://github.com/novaDepto/Nova/wiki/Politica-de-elementos-de-la-configuracion) de las [líneas base del departamento](https://github.com/novaDepto/Nova/wiki/Politica-de-lineas-base)
+2. Los miembros del CCB encargados de la [línea base de la wiki del departamento](https://github.com/novaDepto/Nova/wiki/Politica-de-lineas-base) son:
     <ul>
         <li>PMs actuales</li>
         <li>Pedro González</li>
@@ -37,4 +33,4 @@ Que el departamento conozca qué es el Configuration Control Board, quiénes lo 
     </ul>
 
 ***
-versión 0.1a
+versión 1.0
