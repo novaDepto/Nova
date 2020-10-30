@@ -5,13 +5,13 @@
 |         | Dueño del proceso |
 |         | Autor |
 
-## Objetivo (SMARTish)
+## Objetivo
 Definir __procesos de ingeniería de software__ que __cualquier miembro del
 equipo__  es capaz de consultar y seguir, con el objetivo de que se cumplan con
-las metas de diferentes __áreas del CMMI__ en __menos de un día__.
+las metas de diferentes __áreas del CMMI__ en __menos de un día__. Demostrar la importancia del proceso.
 
 ## Entradas
-1. Una necesidad por resolver.
+1. Un producto de trabajo
 
 ## Proceso
 

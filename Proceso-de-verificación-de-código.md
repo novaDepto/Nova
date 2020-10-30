@@ -10,7 +10,7 @@ Raymundo   | Autor
 2. Asegurar la calidad de los productos de trabajo del proyecto
 
 ## Entradas
-1. Productos de trabajo no revisados
+1. Productos de trabajo no verificados
 
 ## Consideraciones importantes
 1. Los proyectos usan '**pylint**' y '**eslint**' para detectar errores en el código y asegurar que  siga estándares de codificación, por lo que la verificación de estos productos de trabajo usando debe atenerse **solamente a aspectos que dichas herramientas no cubren.** 

@@ -12,7 +12,7 @@ Definir las actividades a realizar para generar y preparar una presentación de 
 ## Entradas
 1. Backlog de métricas del departamento
 2. Backlog de métricas de cada proyecto de software
-3. Planeación y Monitoreo de la Iteración de cada proyecto software
+3. Documento de Planeación y Monitoreo de la Iteración de cada proyecto software
 
 ## Proceso
 

@@ -2,7 +2,7 @@
 
 Nombre     | Rol
 -----------|------------------
-Por definir| Dueño del proceso
+Peter | Dueño del proceso
 Peter      | Autor
 Juan       | Autor
 

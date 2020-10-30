@@ -1,12 +1,11 @@
 ## Responsables
 | Nombre    | Rol            | 
 | --------- | -------------- | 
-| Marla     | Autor          | 
+| Marla     | Dueño de la política | 
 | Ray       | Autor          |
 | Lisieux   | Autor          |
-| Dan       | Responsable    |
 
-## Objetivos
+## Objetivo
 Garantizar la comunicación efectiva entre los miembros del departamento.
 
 ## Reglamento
@@ -32,3 +31,6 @@ Garantizar la comunicación efectiva entre los miembros del departamento.
 ## Glosario
 1. <b id="glosario1">Reactivos:</b> Mensajes que requieren únicamente la confirmación/negación de al menos un miembro del departamento en un tiempo menor a 3 minutos.
 2. <b id="glosario2">Urgente:</b> Mensajes que requieren respuesta de al menos 10 miembros del departamento en un tiempo menor a 24 horas o están a la espera de la respuesta de un externo al departamento(consultor/stakeholder).
+
+***
+versión 1.0

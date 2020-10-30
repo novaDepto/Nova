@@ -1,9 +1,8 @@
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
-| Carlos B  | Autor             | 
-| Juan      | Responsable       |
-| Marla     | Responsable       |
+| Carlos B  | Dueño de la política            | 
+| Marla     | Autor       |
 
 ## Objetivo
 Establecer lineamientos para garantizar la confidencialidad de los datos utilizados para el desarrollo de la solución.
@@ -24,7 +23,7 @@ Lineamientos que deben de seguirse:
 
 
 #### 2. Manejo y Manipulación de Datos de Internos:
-- Los datos e información del desempeño del trabajo son recopilados y analizados bajo la política de gestión de métricas [<a href="https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-gestión-de-métricas">POL11</a>].
+- Los datos e información del desempeño del trabajo son recopilados y analizados bajo la <a href="https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-gestión-de-métricas">Política de gestión de métricas</a>.
 - El acceso a las cuentas del departamento se encuentra bajo la gestión de los responsables. Cualquier cambio debe ser aprobado, por los mismos.
 
 | Cuenta         |  Responsable |

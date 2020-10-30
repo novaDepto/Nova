@@ -8,8 +8,7 @@
 1. Planear las actividades de una iteración
 
 ## Entrada 
-1. Iteración nueva
-2. [**Plantilla de Planeación-Monitoreo de la iteración**](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1457739545)
+1. [**Plantilla de Planeación-Monitoreo de la iteración**](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1457739545)
 
 ## Proceso 
 <table>

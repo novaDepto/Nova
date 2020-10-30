@@ -19,6 +19,7 @@
 * [\[PRO15\] Proceso de ejecución de medidas correctivas](https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecución-de-medidas-correctivas)
 * [\[PRO16\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
 * [\[PRO17\] Proceso de asignación de roles](https://github.com/novaDepto/Nova/wiki/Proceso-de-asignación-de-roles)
+* [\[PRO18\] Proceso de validación](https://github.com/novaDepto/Nova/wiki/Proceso-de-validación)
 * [\[PRO20\] Proceso para plan de involucramiento de stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 * [\[PRO21\] Proceso para junta con el cliente](https://github.com/novaDepto/Nova/wiki/Proceso-para-junta-con-el-cliente)
 * [\[PRO22\] Proceso de verificación de código](https://github.com/novaDepto/Nova/wiki/Proceso-de-verificación-de-código)
@@ -56,6 +57,7 @@
 * [\[GUI23\] Guía de cuestionario de salud](https://github.com/novaDepto/Nova/wiki/Cuestionario-de-Salud-Discord-Cheatsheet)
 * [\[GUI24\] Guía de identificación de riesgos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos)
 * [\[GUI25\] Guía de Team Member](https://github.com/novaDepto/Nova/wiki/Guía-de-Team-Member)
+* [\[GUI26\] Guía de validación](https://github.com/novaDepto/Nova/wiki/Guía-de-validación)
 * [\[GUI27\] Guía para identificar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Guía-para-identificar-procesos-guías-políticas)
 * [\[GUI28\] Guía de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Guía-de-resoluci%C3%B3n-de-conflictos)
 * [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-denuncias)
@@ -79,14 +81,15 @@
 
 ***
 
-* [Plantilla de proceso](https://github.com/novaDepto/Nova/wiki/Plantilla-de-proceso)
-* [Plantilla de política](https://github.com/novaDepto/Nova/wiki/Plantilla-de-pol%C3%ADtica)
+* [\[PLA01\] Plantilla de proceso](https://github.com/novaDepto/Nova/wiki/Plantilla-de-proceso)
+* [\[PLA02\] Plantilla de política](https://github.com/novaDepto/Nova/wiki/Plantilla-de-pol%C3%ADtica)
+* [\[PLA03\] Plantilla de guía](https://github.com/novaDepto/Nova/wiki/Plantilla-de-guía)
 
 ### Comité de Ética
 
 ***
 
-* [Código de ética](https://github.com/novaDepto/Nova/wiki/C%C3%B3digo-de-%C3%A9tica)
+* [\[COD01\] Código de ética](https://github.com/novaDepto/Nova/wiki/C%C3%B3digo-de-%C3%A9tica)
 
 ### Directorios de archivos
 ***
