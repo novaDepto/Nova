@@ -25,7 +25,7 @@ Lisieux    | Autor
       <tr>
       <td rowspan="4">Identificación</td>
       <td>
-      <strong> Consultar la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-determinaci%C3%B3n-de-evaluaci%C3%B3n-de-decisiones"> Guía de Determinación de Evaluación de Decisiones </a> </strong>
+      <strong> Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-determinaci%C3%B3n-de-evaluaci%C3%B3n-de-decisiones"> Guía de Determinación de Evaluación de Decisiones </a> </strong>
       </td>
       <td rowspan="4">Persona que toma la decisión</td>
       <td rowspan="4">DAR</td>
@@ -46,30 +46,30 @@ Lisieux    | Autor
       <td rowspan="4">DAR</td>
     </tr>
     <tr>
-      <td>Nombrar la hoja del reporte siguiendo con el formato <strong>(Proyecto/Departamento)-(Número)</strong> (Ej. CM-6).
+      <td>Nombra la hoja del reporte siguiendo con el formato <strong>(Proyecto/Departamento)-(Número)</strong> (Ej. CM-6).
       </td>
     </tr>
     <tr>
-      <td>Documentar la decisión a tomar.
+      <td>Documenta la decisión a tomar.
       </td>
     </tr>
      <tr>
-      <td>Documentar la fecha de aparición de la decisión.
+      <td>Documenta la fecha de aparición de la decisión.
       </td>
     </tr>
     <tr>
       <td rowspan="2">Análisis</td>
-      <td>Evaluar el razonamiento y acción necesaria para tomar la decisión.</td>
+      <td>Evalúa el razonamiento y acción necesaria para tomar la decisión.</td>
       <td rowspan="2">Equipo</td>
       <td rowspan="2">DAR</td>
     </tr>
     <tr>
-      <td>Evaluar las ventajas y desventajas de la decisión.
+      <td>Evalúa las ventajas y desventajas de la decisión.
       </td>
     </tr>
     <tr>
       <td rowspan="5">Evaluación</td>
-      <td>Evalua la decisión usando los criterios de evaluación.</td>
+      <td>Evalúa la decisión usando los criterios de evaluación.</td>
       <td rowspan="5">Equipo</td>
       <td rowspan="5">DAR, PP</td>
     </tr>
@@ -106,7 +106,7 @@ Lisieux    | Autor
       </td>
     </tr>
     <tr>
-    <td>Documenta la información de decisión en la hoja <em><strong>Backlog de Decisiones</strong>.
+    <td>Documenta la información de decisión en la hoja <em><strong>Backlog de Decisiones.</strong>
       </td>
     </tr>
   </tbody>
