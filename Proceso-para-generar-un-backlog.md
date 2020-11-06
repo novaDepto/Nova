@@ -16,7 +16,6 @@ Desarrollar un backlog de tareas relacionadas a un plan, para que pueda ser moni
 4. Revisar esta [guía para relizar un WBS.](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS) 
 
 ## Proceso
-
 <table>
   <thead>
     <tr>
@@ -28,94 +27,75 @@ Desarrollar un backlog de tareas relacionadas a un plan, para que pueda ser moni
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">Identificación</td>
-      <td>Del tamaño, costo de cada tarea (Consultar la <a href="https://github.com/novaDepto/Nova/wiki/Guía-para-Estimar">Guía para estimar</a>).</td>
-      <td>Autor del plan</td>
-      <td>PP</td>
+      <td rowspan="5">Identificación</td>
+      <td>identifica los riesgos relacionados al plan (<strong>Consulta el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a> para más información).</strong>
+      <td rowspan="5">Autor del plan o integrante</td>
+      <td rowspan="5">PP</td>
     </tr>
     <tr>
-      <td>De la estimación del tamaño, costo de cada tarea </td>
-      <td>Autor del plan</td>
-      <td>PP</td>
+      <td>Escribe la tarea</td>
     </tr>
     <tr>
-      <td>De la fecha estimada de entrega. (Consuta la sección de calendario <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-Estimar#calendario">Guía para estimar</a>).</td>
-      <td>Autor del plan</td>
-      <td>PP</td>
+      <td>Establece el área o equipo al que pertenece la tarea.</td>
     </tr>
     <tr>
-      <td>De los riesgos del plan. (Consuta la sección de calendario <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-riesgos">Proceso de Gestión de Riesgos</a>).</td>
-      <td>Autor del plan</td>
-      <td>PP</td>
+      <td>Asigna una prioridad a la tarea.</td>
     </tr>
     <tr>
-      <td rowspan="2">Asignación</td>
-      <td>De tareas y responsabilidades que quedarán plasmadas en el plan</td>
-      <td>Autor del plan</td>
-      <td>PP</td>
+      <td>Asigna Agile Points a la tarea (<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Guía-para-Estimar">Guía para estimar</a> para más información).</strong></td>
     </tr>
     <tr>
-        <td>De responsable, auditor, consultado e informado en la matriz RACI</td>
-        <td>Autor del plan</td>
-        <td>PP</td>
-    <</tr>
+      <td rowspan="3">Asignación</td>
+      <td>Elige las tareas en las que quieres participar.</td>
+      <td>Integrante</td>
+      <td rowspan="3">PP</td>
+    </tr>
+    <tr>
+      <td>Rellena la Matriz RACI de la tarea.</td>
+      <td>Participantes de la tarea</td>
+    </tr>
+    <tr>
+      <td>Establece una fecha estimada de entrega.</td>
+      <td>Responsable de la tarea</td>
+    </tr>
     <tr>
       <td>Medición</td>
-      <td>Del tiempo que tomó realmente ejecutar la tarea, que se registra en el plan</td>
-      <td>Autor del plan</td>
+      <td>Una vez terminada la tarea, registra las horas que tomó hacerla.</td>
+      <td>Participante de la tarea</td>
       <td>PP</td>
     </tr>
     <tr>
-      <td rowspan="3">Análisis</td>
-      <td>De las métricas del plan y tomar decisiones en caso requerido</td>
-      <td>Autor del plan</td>
-      <td>PP</td>
+      <td rowspan="5">Seguimiento</td>
+      <td>Calcula las métricas del plan.</td>
+      <td rowspan="5">Autor del plan o integrante</td>
+      <td rowspan="5">PP</td>
     </tr>
     <tr>
-        <td>De la tendencia presentada (subestimación/sobrestimación)</td>
-        <td>Autor del plan</td>
-        <td>PP</td>
+      <td>Evalúa las tendencias de las métricas.</td>
     </tr>
     <tr>
-        <td>De la desviación, sólo si es menor o mayor al 30% pasar al siguiente paso</td>
-        <td>Autor del plan</td>
-        <td>PP</td>
+      <td>Evalúa si el plan tiene una desviación mayor al 30%</td>
     </tr>
     <tr>
-      <td rowspan="3">Actualización del plan</td>
-      <td>De fechas límites</td>
-      <td>Autor del plan</td>
-      <td>PP</td>
+      <td>Actualiza la información de las tareas de ser necesario.</td>
     </tr>
     <tr>
-        <td>De priorización de tareas</td>
-        <td>Autor del plan</td>
-        <td>PP</td>
-    </tr>
-    <tr>
-        <td>De tiempo que tomará cada tarea en completarse</td>
-        <td>Autor del plan</td>
-        <td>PP</td>
+      <td>Actualiza o reformula el plan con base en la desviación.</td>
     </tr>
   </tbody>
 </table>
 
-## Salida
-Los resultados finales son:
+## Salidas
 1. [Plantilla Plan](https://docs.google.com/spreadsheets/d/1_tEVZlBT36JiXt0Qq1hy3zojkzO2abnw79ju-6LbB4s/edit#gid=976734963) 
-2. **Matriz RACI** que permite designar responsabilidades y auditar el seguimiento, así como el cumplimiento del plan.
-
     
 ## Métricas
-1. **SPI** (schedule performance index): 
-El cual indica si vas adelantado o retrasado conforme a las actividades.
+1. **SPI** (Schedule Performance Index): ¿Vas adelantado o retrasado conforme a las actividades?
 `Valor Planeado / Valor Ganado`
-2. **CPI** (cost performance index): 
-El cual indica cuánto costó realmente ejecutar las actividades en relación a lo que se había estimado que iban a costar. 
+2. **CPI** (Cost Performance Index): ¿Has invertido más o menos tiempo del esperado a las actividades?
 `Costo Planeado / Costo Real`
 
 ***
 
-versión 1.0
+Versión 1.1
 
 
