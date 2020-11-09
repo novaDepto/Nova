@@ -65,4 +65,4 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
 N/A
 
 ***
-Versión 1.0
+Versión 1.1
