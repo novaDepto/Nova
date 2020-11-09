@@ -13,6 +13,7 @@ Definir actividades a realizar en una junta con cliente para generar un ambiente
 1. [Plantilla de Involucramiento de Stakeholders](https://docs.google.com/spreadsheets/d/1LJW6x2z5gMSXP4xEJpemfEZRcDW06QFz_OxPx2q0hZI/edit#gid=1409053923) 
 2. [Minuta de junta](https://docs.google.com/document/d/1k6VO5KwX-mtLj0ZjzU7Rezhc-J7_iJ3ESrvyFMy-uRY/edit?usp=sharing)
 3. [Log de cambios](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)
+4. [Matriz de riesgos](https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718)
 
 ## Proceso
 
