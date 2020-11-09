@@ -46,7 +46,7 @@
       <td>En la hoja <strong>Planeación</strong>, selecciona los Work Items a realizar por historia de usuario y estima su fecha de entrega.</td>
     </tr>
     <tr>
-      <td>En la hoja <strong>Planeación</strong>, escribe cualquier compromiso de los integrantes o con el stakeholder como Work Item y estima su duración y fecha de entrega.</td>
+      <td>En la hoja <strong>Planeación</strong>, escribe cualquier compromiso de los integrantes o el stakeholder como un Work Item y estima su duración y fecha de entrega.</td>
     </tr>
     <tr>
       <td>Si identificas un riesgo potencial en la iteración, documentálo siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos.</a></strong></td>
