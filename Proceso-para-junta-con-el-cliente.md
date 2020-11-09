@@ -61,7 +61,7 @@ Definir las actividades a realizar en una junta con el cliente.
       <td>Actualiza y mantén priorizados los requisitos de acuerdo a las necesidades del cliente.</td>
     </tr>
     <tr>
-      <td>Mantén informado al cliente de los riesgos actuales y potenciales del proyecto durante la conversación</td>
+      <td>Abre la <strong><a href="https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718">Matriz de Riesgos</a></strong> para informar al cliente de los riesgos actuales y potenciales del proyecto a lo largo de la conversación.</td>
       <td>RSKM</td>
     </tr>
     <tr>
