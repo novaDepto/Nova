@@ -53,9 +53,15 @@
     </tr>
     <tr>
       <td>Métricas</td>
-      <td>Genera el Burndown Chart de la iteración
+      <td>Genera el Burndown Chart de la iteración</td>
       <td>TL, MA</td>
       <td>PMC, MA</td>
+    </tr>
+    <tr>
+      <td>Compromiso</td>
+      <td>Pregunta a cada integrante si está comprometido con el plan. En caso contrario, realiza los ajustes necesarios.</td>
+      <td>TL</td>
+      <td>PP, PMC</td>
     </tr>
     <tr>
       <td>Monitoreo</td>
