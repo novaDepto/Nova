@@ -58,8 +58,7 @@ Establecer la forma de trabajo de todos los miembros de Nova.
         <a href="#glosario1"> ítems de valor.</a> 
         Al terminarlos son agregados en la sección <i>Stack de Items de valor</i> en la <a href="https://drive.google.com/drive/folders/11kOv1oal83q3YzuDWC-a--gShOOH0_Tq?usp=sharing"> minuta del día. <a>
     </li>
-    </li>
-        <li>
+    <li>
         La hora comodín de departamento culmina 1 hora después de haber empezado, en este caso a las
         <b> 11 AM.</b> 
     </li>
