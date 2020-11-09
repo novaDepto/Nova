@@ -30,7 +30,7 @@ Definir las actividades a realizar en una junta con el cliente.
       <td rowspan="5">Preparación</td>
       <td>Define la lista de asuntos y objetivos de la reunión.</td>
       <td rowspan="5">PO</td>
-      <td rowspan="5">PP,PMC</td>
+      <td rowspan="5">PP, PMC</td>
     </tr>
     <tr>
       <td>Enlista las dudas a preguntarle al cliente.</td>
@@ -79,7 +79,7 @@ Definir las actividades a realizar en una junta con el cliente.
       <td rowspan="4">Seguimiento</td>
       <td>Registra los resultados de la Encuesta de satisfacción de cliente.</td>
       <td rowspan="4">PO</td>
-      <td rowspan="4">PP,PMC</td>
+      <td rowspan="4">PP, PMC</td>
     </tr>
     <tr>
       <td>Actualiza el plan de acción del cliente en la Plantilla de Involucramiento de Stakeholders.</td>
