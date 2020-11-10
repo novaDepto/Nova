@@ -2,7 +2,6 @@
 Nombre     | Rol
 -----------|------------------
 Raymundo   | Dueño de la guía
-Raymundo   | Autor
 Charlie    | Autor
 
 ## Objetivo
@@ -19,7 +18,7 @@ Charlie    | Autor
   <tbody>
     <tr>
       <td rowspan="2">Selección</td>
-      <td>Se verifica el código que hayan sido completado y esté funcionando.</td>
+      <td>Se verifica el código que haya sido completado y esté funcionando.</td>
     </tr>
     <tr>
     <td>Se recomienda que se verifique el código por <strong>historia de usuario.</strong></td>
@@ -62,7 +61,7 @@ Charlie    | Autor
     </tr>
     <tr>
       <td>Input</td>
-      <td>Petición de verificación código.</td>
+      <td>Petición de verificación de código.</td>
     </tr>
     <tr>
       <td>Precondiciones</td>
