@@ -3,7 +3,6 @@
 Nombre     | Rol
 -----------|------------------
 Peter | Dueño del proceso
-Peter      | Autor
 Juan       | Autor
 
 ## Objetivos
@@ -27,10 +26,10 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6">Definición</td>
-      <td>Definir un identificador para el proceso (véase <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n">Guía de manejo de la configuración</a>)</td>
-      <td rowspan="6">Autor del proceso</td>
-      <td rowspan="6">PPQA, MA, CM</td>
+      <td rowspan="7">Definición</td>
+      <td>Define un ID para el proceso <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuraci%C3%B3n">Guía de manejo de la configuración</a> para más información).</strong></td>
+      <td rowspan="7">Autor del proceso</td>
+      <td rowspan="7">PPQA, MA, CM</td>
     </tr>
     <tr>
       <td>Define el objetivo del proceso.</td>
@@ -46,9 +45,18 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
     </tr>
     <tr>
       <td>Define las métricas para evaluar la calidad de las salidas del proceso.</td>
-    </tr>    
+    </tr>
+    <tr>
+      <td>Verifica que se cumplan <strong>los estándares de redacción</strong>.</td>
+    </tr> 
   </tbody>
 </table>
+
+## Estándares de redacción
+1. Las actividades inician con un verbo en **imperativo** (Ej. Realiza/Evalúa/Muestra).
+2. Se deben usar los nombres oficiales de los artefactos del departamento cuando se mencionen.
+3. No deben haber errores de ortografía, puntuación o sintaxis.
+4. Se debe usar un lenguaje claro, apropiado y comprensible.
 
 ## Salidas
 1. Documento del proceso
@@ -57,4 +65,4 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__.
 N/A
 
 ***
-versión 1.0
+Versión 1.1
