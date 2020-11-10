@@ -1,51 +1,50 @@
 ## Responsables
 | Nombre    | Rol               | 
 | --------- | ----------------- | 
-| Carlos Becerra   | Dueño de la política | 
-| Daniel Elias   | Autor             | 
+| Charlie   | Dueño de la política | 
+| Dan       | Autor             | 
 
 ## Objetivo
-Esta política define los productos de trabajo que son elementos de configuración y que por lo tanto son sujetos a los procesos y políticas definidos por el área de proceso de Gestión de la Configuración.
+1. Definir los productos de trabajo que están bajo Gestión de la Configuración.
 
 ## Reglamento
-1. Los elementos de la configuración deberán de seguir la [Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/Guía-de-manejo-de-configuración) y la [Guía de versionado](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado)
-2. Los elementos sometidos a la Gestión de la Configuración en Nova son:
+1. Los elementos de la configuración deberán seguir las recomendaciones de las siguientes guías:
+     * **[Guía de manejo de la configuración](https://github.com/novaDepto/Nova/wiki/Guía-de-manejo-de-configuración)**
+     * **[Guía de versionado](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado)**
+2. Los productos de trabajo bajo Gestión de la Configuración en Nova son:
 
-* **Productos de trabajo interno del departamento**:
-      *Productos de trabajo que definen la forma de trabajo interna del departamento.*
+* **Internos del departamento**:
+      *Definen la forma de trabajo del departamento.*
     <ul>
           <li>Procesos</li>
           <li>Políticas</li>
           <li>Guías</li>
           <li>Mapa de procesos</li>
-          <li>Plantillas</li>
+          <li>Plantillas de documentos</li>
      </ul>
      <br>
-* **Productos de trabajo entregados al cliente**:
-    *Productos de trabajo sobre el proyecto de software que son entregados a los clientes.*
+* **Entregados al cliente**:
+    *Relativos al proyecto de software que son entregados a los clientes.*
      <ul>
-          <li>Manuales de usuario</li>
+          <li>Handbook de arquitectura</li>
+          <li>Diagramas</li>
+          <li>Wireframes</li>
           <li>Código fuente</li>
-          <li>Handbook de la arquitectura</li>
-          <li>Documentación ej.</li>
-              <ul>
-                  <li>Wireframes</li>
-                  <li>Diagramas de despliegue</li>
-              </ul>
+          <li>Manuales de usuario</li>   
       </ul>
       <br>
-* **Productos de trabajo relacionados con las herramientas**:
-_Son elementos que se utilizaran para el desarrollo de la solución para el cliente_
+* **Relacionados con las herramientas**:
+_Se usan para el desarrollo de la solución del cliente._
     <ul>
           <li>Base de datos</li>
-          <li>Host de almacenamiento</li>
+          <li>Sevicio de hosting</li>
           <li>Framework Front-End</li>
           <li>Framework Back-End</li>
-          <li>Plataformas de despliegue</li>
-      </ul>
+          <li>Plataforma de despliegue</li>
+    </ul>
     <br>
-* **Productos de trabajo entregados al departamento por algún stakeholder del proyecto**:
-    *Productos de trabajo que son dados al departamento con el fin de cumplir con el proyecto de software.*
+* **Entregados por los stakeholders del proyecto**:
+    *Se dan al departamento con el fin de generar la solución de software.*
      <ul>
           <li>Mapa de procesos del cliente</li>
           <li>Organigrama de la organización</li>
@@ -56,9 +55,7 @@ _Son elementos que se utilizaran para el desarrollo de la solución para el clie
 3. Los elementos que no son sometidos a la Gestión de la Configuración en Nova son:
 
 * **Productos de trabajo que NO ayuden a planificar, monitorear, controlar y dar solución a los proyectos de software y el desarrollo del departamento** 
-
 * **Minutas de juntas internas o externas**
-
 * **Material de apoyo** como:
      <ul>
           <li>Bibliografías</li>
@@ -66,4 +63,4 @@ _Son elementos que se utilizaran para el desarrollo de la solución para el clie
      </ul>
 
 ***
-versión 1.0
+versión 1.1
