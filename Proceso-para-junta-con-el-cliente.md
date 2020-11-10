@@ -14,6 +14,7 @@ Definir las actividades a realizar en una junta con el cliente.
 2. [Minuta de junta](https://docs.google.com/document/d/1k6VO5KwX-mtLj0ZjzU7Rezhc-J7_iJ3ESrvyFMy-uRY/edit?usp=sharing)
 3. [Backlog de cambios](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)
 4. [Planeación de la iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1457739545)
+5. [Matriz de riesgos](https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718)
 
 ## Proceso
 <table>
@@ -39,15 +40,15 @@ Definir las actividades a realizar en una junta con el cliente.
       <td>Confirma el lugar, fecha, y hora de la junta.</td>
     </tr>
     <tr>
-      <td>Conoce el estado acutal del proyecto.</td>
+      <td>Conoce el estado actual del proyecto.</td>
     </tr>
     <tr>
       <td>Revisa los compromisos hechos con el cliente.</td>
     </tr>
     <tr>
-      <td rowspan="8">Ejecución</td>
+      <td rowspan="9">Ejecución</td>
       <td>Asiste de manera puntual a la junta y saludar a los clientes.</td>
-      <td rowspan="8">PO</td>
+      <td rowspan="9">PO</td>
       <td rowspan="2">PMC</td>
     </tr>
     <tr>
@@ -61,8 +62,11 @@ Definir las actividades a realizar en una junta con el cliente.
       <td>Actualiza y mantén priorizados los requisitos de acuerdo a las necesidades del cliente.</td>
     </tr>
     <tr>
-      <td>Abre la <strong><a href="https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718">Matriz de Riesgos</a></strong> para informar al cliente de los riesgos actuales y potenciales del proyecto a lo largo de la conversación.</td>
-      <td>RSKM</td>
+      <td>Abre la Matriz de Riesgos para informar al cliente de los riesgos actuales y potenciales del proyecto a lo largo de la conversación.</td>
+      <td rowspan="2">RSKM</td>
+    </tr>
+    <tr>
+      <td>Documenta cualquier riesgo que salga de la junta siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a></strong>.</td>
     </tr>
     <tr>
       <td>Aplica la <strong><a href="https://forms.gle/qk8K3Cgn8JJsB9dW6">Encuesta de satisfacción al cliente</a></strong>.</td>
@@ -88,7 +92,7 @@ Definir las actividades a realizar en una junta con el cliente.
 </table>
 
 ## Salidas
-1. Plan de Involucramiento de Staekholders actualizada
+1. Plan de Involucramiento de Stakeholders actualizada
 2. Backlog de Cambios actualizado
 3. Plan de Iteración actual actualizado
 4. Backlog de Requisitos actualizado y repriorizado
