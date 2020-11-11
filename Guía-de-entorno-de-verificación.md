@@ -37,7 +37,7 @@ Charlie    | Autor
     </tr>
     <tr>
       <td>Herramienta</td>
-      <td><a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"><strong>Reporte de Verificación</strong></a> = Registra los resultados, observaciones y correcciones a realizar al código verificado.</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"><strong>Reporte de Verificación</strong></a> = Registra los resultados, observaciones y correcciones a realizar al código.</td>
     </tr>
   </tbody>
 </table>
@@ -53,7 +53,7 @@ Charlie    | Autor
   <tbody>
      <tr>
       <td>Tipo</td>
-      <td>Inspección.</td>
+      <td><strong>Inspección.</strong></td>
     </tr>
     <tr>
       <td>Petición</td>
@@ -79,13 +79,8 @@ Charlie    | Autor
       <td>Documentar los resultados de la inspección.</td>
     </tr>
     <tr>
-    <tr>
       <td>Roles</td>
-      <td>La pareja puede decidir si inspeccionar el código y documentar la verificación a la vez o asignarse roles para realizar ambas tareas.</td>
-    </tr>
-      <td>Seguimiento</td>
-      <td>Se recomienda pedir una nueva Pair Review hasta que el código esté corregido según las observaciones de la verificación anterior.</td>
-    </tr>
+      <td>La pareja decide si verificar y documentar el código a la vez o asignarse roles para realizar cada una.</td>
   </tbody>
 </table>
 
@@ -93,4 +88,4 @@ Charlie    | Autor
 **NO SE RECOMIENDA** verificar código de diferentes historias de usuario porque puede generar confusión y un desarrollo en cascada que va en contra de los principios del desarrollo ágil.
 
 ***
-versión 1.0
+Versión 1.1
