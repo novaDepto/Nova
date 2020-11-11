@@ -5,16 +5,14 @@
 |         | Dueño del proceso |
 |         | Autor |
 
-## Objetivo
-Definir __procesos de ingeniería de software__ que __cualquier miembro del
-equipo__  es capaz de consultar y seguir, con el objetivo de que se cumplan con
-las metas de diferentes __áreas del CMMI__ en __menos de un día__. Demostrar la importancia del proceso.
+## Objetivos
+¿Cuál es la necesidad u objetivo que atiende este proceso? ¿Por qué es importante?
+* Recuerda que el proceso debe mejorar el desempeño del departamento y sus integrantes, así como cumplir con las metas de las áreas de proceso.
 
 ## Entradas
-1. Un producto de trabajo
+¿Qué información se usa para realizar este proceso?
 
 ## Proceso
-
 <table>
   <thead>
     <tr>
@@ -26,74 +24,25 @@ las metas de diferentes __áreas del CMMI__ en __menos de un día__. Demostrar l
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5">Fase</td>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td>Fase</td>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td>Fase</td>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td>Fase</td>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td>Fase</td>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td rowspan="2">Fase</td>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Autor del proceso</td>
-      <td>Áreas CMMI</td>
+      <td>Sustantivo</td>
+      <td>¿Qué tarea debes realizar?</td>
+      <td>¿Quién realiza esta tarea?</td>
+      <td>¿A qué área de proceso responde la tarea?</td>
     </tr>
   </tbody>
 </table>
 
+1. **Se pueden insertar cuantas fases y actividades sean necesarias.**
+2. **Cada actividad debe tener un encargado y asociarse a un área del CMMI.**
+
 ## Salidas
-1. Documento del proceso.
+1. ¿Qué artefactos son creados o rellenados tras realizar el proceso?
+2. ¿Qué información se obtiene o actualiza tras realizar el proceso?
+* **NO todos los procesos producen artefactos e información, a veces solo una de las dos.**
 
 ## Métricas
-1. Tiempo de ejecución del proceso
+1. ¿Qué métricas se pueden extraer de las salidas o el proceso mismo?
+* **NO todos los procesos necesitan o pueden generar métricas. En el dado caso, escribe N/A.**
 
 ***
-versión 1.0
+Versión 1.1
