@@ -58,7 +58,7 @@
       <td>Compromiso</td>
       <td>Pregunta a cada integrante si está comprometido con el plan. En caso contrario, realiza los ajustes necesarios.</td>
       <td>TL</td>
-      <td>PP, PMC</td>
+      <td>PP, PMC, REQM</td>
     </tr>
     <tr>
       <td>Monitoreo</td>
@@ -69,9 +69,10 @@
   </tbody>
 </table>
 
+
 ## Salida
-1. Plantilla de Planeación-Monitoreo de la iteración rellenada
-2. Proceso de Involucramiento de Stakeholders 
+1. Plantilla de Planeación-Monitoreo de la iteración actualizada.
+2. Proceso de Involucramiento de Stakeholders. 
 
 ## Metricas
 1. Tiempo de ejecución del proceso
