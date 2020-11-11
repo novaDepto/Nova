@@ -82,4 +82,4 @@
 1. Tiempo promedio de aplicación de mejoras
 
 ***
-Versión 0.1a
+Versión 1.1
