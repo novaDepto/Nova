@@ -5,7 +5,7 @@
 |           | Autor       |
 
 ## Objetivo
-Un objetivo que resuelva una necesidad del departamento y demuestre la importancia de la política
+¿Cuál es la necesidad u objetivo que atiende esta política? ¿Por qué es importante?
 
 ## Reglamento
 1. Regla 1
@@ -18,8 +18,9 @@ Un objetivo que resuelva una necesidad del departamento y demuestre la importanc
       </ul>
 4. Regla 4
 5. Regla 5
+* Recuerda que el reglamento debe establecer lineamientos sobre cómo aplicar un proceso.
 
 ***
-versión 1.0
+Versión 1.1
 
 
