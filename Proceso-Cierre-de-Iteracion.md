@@ -1,7 +1,7 @@
 ## Responsables
-| Nombre    | Rol               | 
-| --------- | ----------------- | 
-| Marla     | Dueño del Proceso | 
+| Nombre    | Rol               |
+| --------- | ----------------- |
+| Marla     | Dueño del Proceso |
 | Yaf | Autor |
 
 
@@ -58,15 +58,16 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
       <td>PMC, RSKM</td>
     </tr>
     <tr>
-        <td>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">acciones correctivas</a></td>
+        <td>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas">acciones correctivas</a></td>
          <td>TL</td>
       <td>PP,PMC</td>
     </tr>
   </tbody>
 </table>
 
+
 ## Salida
-1. [Presentación  de Retrospectiva](https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6)
+1. [Presentación  de Retrospectiva de iteración.](https://docs.google.com/presentation/d/12MnN0y6ZLH3cZj34giITkOceMhmeGRBj/edit#slide=id.p6)
 3. [Actualización a Mátriz de Riesgos](https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit?usp=sharing). 
 
 
