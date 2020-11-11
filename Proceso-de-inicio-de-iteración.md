@@ -25,7 +25,7 @@
       <td rowspan="3">Información previa</td>
       <td>En la hoja <strong>Capacidad del equipo</strong>, escribe cuántos días y horas por día vas a invertir para trabajar en la iteración.</td>
       <td rowspan="3">Todo el equipo</td>
-      <td rowspan="3">PP, REQM</td>
+      <td rowspan="3">PP</td>
     </tr>
     <tr>
       <td>En la hoja <strong>Capacidad del equipo</strong>, define el porcentaje del tiempo que se dedicará a otras tareas del departamento. 
@@ -34,19 +34,16 @@
       <td>En la hoja <strong>WBS</strong>, escribe cuántos minutos tardas en realizar un Work Item de una historia de usuario en función de sus Agile Points.</td>
     </tr>
     <tr>
-      <td rowspan="5">Análisis</td>
+      <td rowspan="4">Análisis</td>
       <td>En la hoja <strong>Objetivos</strong>, escribe los objetivos de la iteración. </td>
-      <td rowspan="5">Todo el equipo</td>
-      <td rowspan="5">PP, REQM, MA, RSKM</td>
+      <td rowspan="4">Todo el equipo</td>
+      <td rowspan="4">PP, REQM, MA, RSKM</td>
     </tr>
     <tr>
-      <td>En la hoja <strong>Historias de Usuario</strong>, selecciona las historias de usuario a realizar en la iteración.</td>
+      <td>En la hoja <strong>Planeación</strong>, selecciona las historias de usuario a realizar, los Work Items que involucrará cada una y estima su fecha de entrega.</td>
     </tr>
     <tr>
-      <td>En la hoja <strong>Planeación</strong>, selecciona los Work Items a realizar por historia de usuario y estima su fecha de entrega.</td>
-    </tr>
-    <tr>
-      <td>En la hoja <strong>Planeación</strong>, escribe cualquier compromiso de los integrantes o el stakeholder como un Work Item y estima su duración y fecha de entrega.</td>
+      <td>En la hoja <strong>Planeación</strong>, escribe cualquier compromiso interno de los integrantes o externo del o con el stakeholder como un Work Item y estima su duración y fecha de entrega.</td>
     </tr>
     <tr>
       <td>Si identificas un riesgo potencial en la iteración, documentálo siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos.</a></strong></td>
@@ -65,7 +62,7 @@
     </tr>
     <tr>
       <td>Monitoreo</td>
-      <td>Actualiza cualquier aspecto de la planeación durante las Daily Meetings.
+      <td>Actualiza el plan durante las Daily Meetings.
       <td>Todo el equipo</td>
       <td>PMC</td>
     </tr>
