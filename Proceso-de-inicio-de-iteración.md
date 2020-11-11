@@ -22,10 +22,13 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">Información previa</td>
+      <td rowspan="4">Información previa</td>
+      <td>Decidan con qué ciclo de vida trabajarán la iteración (<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-ciclo-de-vida-del-proyecto">Guía del ciclo de vida del proyecto</a> para más información</strong>).</td>
+      <td rowspan="4">Todo el equipo</td>
+      <td rowspan="4">PP</td>
+    </tr>
+    <tr>
       <td>En la hoja <strong>Capacidad del equipo</strong>, escribe cuántos días y horas por día vas a invertir para trabajar en la iteración.</td>
-      <td rowspan="3">Todo el equipo</td>
-      <td rowspan="3">PP</td>
     </tr>
     <tr>
       <td>En la hoja <strong>Capacidad del equipo</strong>, define el porcentaje del tiempo que se dedicará a otras tareas del departamento. 
