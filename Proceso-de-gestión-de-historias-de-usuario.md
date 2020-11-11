@@ -51,10 +51,7 @@ Luis       | Autor
       <td>Realiza un Planning Poker para definir los Agile Points de la historia de usuario.</td>
     </tr> 
     <tr>
-      <td>Estima el nivel de dependencia de la historia de usuario.</td>
-    </tr> 
-    <tr>
-      <td>Define los Work Items que se realizarán para la historia de usuario.</td>
+      <td>Estima el <strong>nivel de dependencia</strong> de la historia de usuario.</td>
     </tr> 
     <tr>
       <td>Sigue el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-inicio-de-iteraci%C3%B3n">Proceso de inicio de iteración</a></strong> para determinar si la historia de usuario se realizará en la iteración actual.</td>
@@ -72,4 +69,4 @@ Luis       | Autor
 1. Nivel de dependencia: ¿Una historia de usuario depende de la realización de otras?
 
 ***
-versión 1.0
+Versión 1.1
