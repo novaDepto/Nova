@@ -2,13 +2,14 @@
 
 Nombre     | Rol
 -----------|------------------
-Raymundo   | Autor
+Raymundo   | Dueño del proceso
 
 ## Objetivo
 1. Gestionar el cambio en los roles de liderazgo dentro del departamento.
 
 ## Entradas
-1. Cambio de rol programado
+1. Anuncio de cambio de rol
+2. Integrantes del departamento interesados en postularse para el rol
 
 ## Proceso
 <table>
@@ -23,35 +24,36 @@ Raymundo   | Autor
   <tbody>
     <tr>
       <td>Presentación</td>
-      <td>Se convoca a una junta para realizar la nueva asignación de roles.</td>
+      <td>Convoca a una junta para realizar la nueva asignación del rol.</td>
       <td>PM</td>
       <td>DAR</td>
     </tr>
     <tr>
-      <td>Identificación</td>
-      <td>Los integrantes del departamento se postulan para el rol que deseen.      
-      Si varias personas se postulan para el mismo rol, entonces se ponen de acuerdo para ver quién se queda con el rol.
-      </td>
-      <td>PM</td>
+      <td>Asignación</td>
+      <td>Ponte de acuerdo con los demás interesados para ver quién se queda con el rol.</td>
+      <td>Interesado en el rol</td>
       <td>DAR</td>
     </tr>
     <tr>
-      <td>Transición</td>
-      <td>La nueva persona en el rol debe ponerse al día con las tareas del mismo con la ayuda y capacitación de la persona anterior al rol.
-      <p><strong>
-      (Véase la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-asignaci%C3%B3n-de-roles">Guía de Asignación de Roles</a> para más información)</strong></p>
-      </td>
+      <td rowspan="2">Transición</td>
+      <td>Comunica el cambio de rol al departamento y los consultores vía Slack.</td>
       <td>PM</td>
-      <td>OT</td>
+      <td rowspan="2">OT</td>
+    </tr>
+    <tr>
+      <td>Ponte al día con las tareas del rol con la ayuda y capacitación del encargado anterior.<strong>
+      (Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-asignaci%C3%B3n-de-roles">Guía de Asignación de Roles</a> para más información)</strong>
+      </td>
+      <td>Candidato seleccionado</td>
     </tr>
   </tbody>
 </table>
 
 ## Salidas
-1. Nueva persona en cada rol
+1. Nueva persona en el rol
 
 ## Métricas
 1. Motivación del departamento
 
 ***
-versión 1.0
+Versión 1.1
