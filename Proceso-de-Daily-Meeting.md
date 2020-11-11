@@ -1,9 +1,9 @@
 ## Responsables
-| Nombre    | Rol               | 
-| --------- | ----------------- | 
-| Marla     | Dueño del Proceso | 
-| Alonso    | Responsables      | 
-| Carlos    | Responsables      | 
+| Nombre    | Rol               |
+| --------- | ----------------- |
+| Marla     | Dueño del Proceso |
+| Alonso    | Responsables      |
+| Carlos    | Responsables      |
 
 ## Objetivo
 Guiar el proceso en las juntas de coordinación para comunicar efectivamente el estado de los items de trabajo, información y resolución impedimentos y la coordinación de las tareas del día.
@@ -53,6 +53,12 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
       <td>Autor del proceso</td>
       <td>PP</td>
     </tr>
+<tr>
+        <td>Compromiso</td>
+        <td>Pregunta a cada integrante si está comprometido con las actividades a realizar. En caso contrario, realiza los ajustes necesarios.</td>
+          <td>TL</td>
+          <td>REQM</td>
+    </tr>
     <tr>
         <td>Medición</td>
         <td> Actualizar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-m%C3%A9tricas">métricas</a> de desempeño del trabajo diario, permitiendo ver diariamente si la iteración va de acuerdo a lo planeado.</td>
@@ -70,9 +76,6 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
       <td> Autor del proceso</td>
       <td> PP </td>
     </tr>
-    
-  </tbody>
-</table>
 
 ## Salida
 1. Actualización al plan de trabajo.
