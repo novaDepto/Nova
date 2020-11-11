@@ -12,10 +12,11 @@
 | Ray     | Autor |
 
 ## Objetivo
-1. Institucionalizar un proceso, guía o política teniendo la aprobación de los miembros pertinentes.
+1. Institucionalizar un proceso, guía o política nueva o existente en el departamento
 
 ## Entradas
-1. Borrador del artefacto
+1. Borrador del nuevo artefacto
+2. Actualización de artefacto existente
 
 ## Pasos a seguir
 <table>
