@@ -6,11 +6,16 @@
 |         | Autor |
 
 ## Objetivo
-Definir el objetivo de la guía. Debe de resolver una necesidad y se debe demostrar su importancia.
+¿Cuál es la necesidad u objetivo que atiende esta política? ¿Por qué es importante?
 
 ## Contenido
+* **Las guías pueden ser cuantas secciones de apoyo sean necesarias.**
+* **Las guías deben tener recomendaciones generales sobre cómo aplicar un proceso.**
 
-
+## Estándares de redacción (Esto NO se incluye como un apartado en la guía)
+1. Se deben usar los nombres oficiales de los artefactos del departamento cuando se mencionen.
+2. No deben haber errores de ortografía, puntuación o sintaxis.
+3. Se debe usar un lenguaje claro, apropiado y comprensible.
 
 ***
-versión 1.0
+Versión 1.1
