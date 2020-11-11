@@ -6,11 +6,11 @@
 |         | Autor |
 
 ## Objetivo
-Definir el objetivo de la guía. Debe de resolver una necesidad y se debe demostrar su importancia.
+¿Cuál es la necesidad u objetivo que atiende esta política? ¿Por qué es importante?
 
 ## Contenido
-
-
+* **Las guías pueden ser cuantas secciones de apoyo sean necesarias.**
+* **Las guías deben tener recomendaciones generales sobre cómo aplicar un proceso.**
 
 ***
-versión 1.0
+Versión 1.1
