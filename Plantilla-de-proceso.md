@@ -35,6 +35,12 @@
 1. **Se pueden insertar cuantas fases y actividades sean necesarias.**
 2. **Cada actividad debe tener un encargado y asociarse a un área del CMMI.**
 
+## Estándares de redacción (Esto NO se incluye como un apartado en el proceso)
+1. Las actividades inician con un verbo en **imperativo** (Ej. Realiza/Evalúa/Muestra).
+2. Se deben usar los nombres oficiales de los artefactos del departamento cuando se mencionen.
+3. No deben haber errores de ortografía, puntuación o sintaxis.
+4. Se debe usar un lenguaje claro, apropiado y comprensible.
+
 ## Salidas
 1. ¿Qué artefactos son creados o rellenados tras realizar el proceso?
 2. ¿Qué información se obtiene o actualiza tras realizar el proceso?
