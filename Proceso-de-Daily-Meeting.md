@@ -5,14 +5,13 @@
 | Alonso    | Responsables      |
 | Carlos    | Responsables      |
 
-## Objetivo
-Guiar el proceso en las juntas de coordinación para comunicar efectivamente el estado de los items de trabajo, información y resolución impedimentos y la coordinación de las tareas del día.
+## Objetivos
+1. Guiar las juntas de coordinación para comunicar efectivamente el estado de los items de trabajo y resolver los impedimentos de las tareas del día.
 
 ## Entrada 
-1. Plan de trabajo
-2. Matriz de compromisos
-3. Matriz de riesgos
-
+1. Plan de iteración actual
+2. Matriz de riesgos
+3. Backlog de acciones correctivas
 
 ## Proceso
 <table>
@@ -27,61 +26,56 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
   <tbody>
     <tr>
       <td rowspan="2">Análisis</td>
-      <td>
-          Visualizar el plan de trabajo y matriz de compromisos encontradas en el <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-del-departamento">directorio</a> del departamento </td>
-      <td>Autor del proceso</td>
-      <td>PP</td>
+      <td>Abre el <strong><a href="https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204">Plan de iteración actual</a></strong> </td>
+      <td>TL</td>
+      <td>PP, PMC</td>
     </tr>
     <tr>
       <td>
-          Cada miembro debe contestar las siguientes preguntas: 
+          Contesta las siguientes preguntas: 
           </br>
-              <li>
-                <b>¿Qué hice ayer?</b>
-              </li>
-              Cuestionar cualquier cosa que se hizo que no fue planeada para la iteración. 
-        </br>
-          <li>
-            <b>¿Qué voy a hacer hoy? </b>
-          </li>
-            Asegurarse de hacer adecuaciones al plan para cubrir los pendientes.
-        </br>
-          <li>
-            <b>¿Tengo algún impedimento/bloqueo/aspecto?</b>
-          </li>
-            Asegurarse de generar una estrategía para resolverlos.        </td>
-      <td>Autor del proceso</td>
-      <td>PP</td>
-    </tr>
-<tr>
-        <td>Compromiso</td>
-        <td>Pregunta a cada integrante si está comprometido con las actividades a realizar. En caso contrario, realiza los ajustes necesarios.</td>
-          <td>TL</td>
-          <td>REQM</td>
+          <li><b>¿Qué hice ayer?</b></li>
+          Cuestionar cualquier cosa que se hizo que no fue planeada para la iteración. 
+          </br>
+          <li><b>¿Qué voy a hacer hoy? </b></li>
+          Asegurarse de hacer adecuaciones al plan para cubrir los pendientes.
+          </br>
+          <li><b>¿Tengo algún impedimento/bloqueo/aspecto?</b></li>
+          Asegurarse de generar una estrategía para resolverlos.
+      </td>
+      <td>Todo el equipo</td>
+      <td>PP, PMC</td>
     </tr>
     <tr>
-        <td>Medición</td>
-        <td> Actualizar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-m%C3%A9tricas">métricas</a> de desempeño del trabajo diario, permitiendo ver diariamente si la iteración va de acuerdo a lo planeado.</td>
-          <td>Autor del proceso</td>
-          <td>MA</td>
+      <td>Compromiso</td>
+      <td>Pregunta a cada integrante si está comprometido con las actividades a realizar en el día. En caso contrario, realiza los ajustes necesarios.</td>
+      <td>TL</td>
+      <td>REQM</td>
     </tr>
     <tr>
-        <td rowspan="2">Mantenimiento del plan</td>
-        <td>Hacer una revisión al plan y en caso de tener una desviación de más del 10% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan</td>
-        <td>Autor del proceso</td>
-        <td>PP</td>
+      <td>Medición</td>
+      <td>Actualiza las métricas del equipo para ver si la iteración va de acuerdo a lo planeado.</td>
+      <td>Todo el equipo</td>
+      <td>MA</td>
     </tr>
     <tr>
-      <td> Actualizar la matriz de riesgos y la matriz de compromisos del proyecto </td>
-      <td> Autor del proceso</td>
-      <td> PP </td>
+      <td rowspan="2">Mantenimiento del plan</td>
+      <td>Si hay una desviación significativa en el plan, entonces ajústalo siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">Proceso de acciones correctivas</a></strong>.</td>
+      <td>Todo el equipo</td>
+      <td>PP, PMC</td>
     </tr>
+    <tr>
+      <td>Si hay un nuevo riesgo en el plan, entonces documéntalo siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de gestión de riesgos</a></strong>.</td>
+      <td>Todo el equipo</td>
+      <td>RSKM</td>
+    </tr>
+    </tbody>
+</table>
 
 ## Salida
-1. Actualización al plan de trabajo.
-2. Actualizar matriz de compromisos.
-3. Actualizar matriz de riesgos.
-
+1. Plan de iteración actualizada
+2. Matriz de riesgos actualizada
+3. Acciones correctivas implementadas
 
 ## Métricas
 1. La duración debe ser menor o igual a 15 minutos, priorizando el tiempo al mantenimiento del plan.
