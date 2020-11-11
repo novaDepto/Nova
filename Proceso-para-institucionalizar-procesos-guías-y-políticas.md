@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <td rowspan="2">Divulgación</td>
-      <td>Comunica el entregable al departamento siguiendo la <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Comunicacion"><b>Política de comunicación</b></a> para implementarla en la forma de trabajo.</td>
+      <td>Comunica el entregable al departamento siguiendo la <a href="https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Comunicaci%C3%B3n"><b>Política de comunicación</b></a> para implementarla en la forma de trabajo.</td>
       <td>Dueño del entregable</td>
       <td>PMC, PPQA, OPD, OPF, OT</td>
     </tr>
