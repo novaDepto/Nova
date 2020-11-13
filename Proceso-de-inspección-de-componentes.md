@@ -148,4 +148,4 @@ Realizar una inspección al código fuente de un componente de un proyecto de so
 4. Esfuerzo total de la inspección
 
 ***
-versión 0.1a
+versión 0.1b
