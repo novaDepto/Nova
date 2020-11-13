@@ -29,10 +29,16 @@ Raymundo   | Dueño del proceso
       <td>DAR</td>
     </tr>
     <tr>
-      <td>Asignación</td>
-      <td>Ponte de acuerdo con los demás interesados para ver quién se queda con el rol.</td>
-      <td>Interesado en el rol</td>
-      <td>DAR</td>
+      <td rowspan="3">Asignación</td>
+      <td>Presenta tus objetivos a alcanzar en el rol a asignar.</td>
+      <td rowspan="3">Interesado en el rol</td>
+      <td rowspan="3">DAR</td>
+    </tr>
+    <tr>
+      <td>Presenta los riesgos o posibles impedimentos de tu asignación en el rol.</td>
+    </tr>
+    <tr>
+      <td>Ponte de acuerdo con los demás interesados para decidir quién se queda con el rol.</td>
     </tr>
     <tr>
       <td rowspan="2">Transición</td>
