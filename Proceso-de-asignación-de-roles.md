@@ -41,8 +41,7 @@ Raymundo   | Dueño del proceso
       <td rowspan="2">OT</td>
     </tr>
     <tr>
-      <td>Ponte al día con las tareas del rol con la ayuda y capacitación del encargado anterior.<strong>
-      (Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-asignaci%C3%B3n-de-roles">Guía de Asignación de Roles</a> para más información)</strong>
+      <td>Ponte al día con las tareas del rol con la ayuda y capacitación del encargado anterior.<strong> (Consulta la guía del respectivo rol para más información)</strong>
       </td>
       <td>Candidato seleccionado</td>
     </tr>
