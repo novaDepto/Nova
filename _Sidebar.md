@@ -28,8 +28,10 @@
 * [\[PRO25\] Proceso de recolección de requisitos](https://github.com/novaDepto/Nova/wiki/Proceso-de-recolección-de-requisitos)
 * [\[PRO26\] Proceso para definir el alcance](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-el-alcance)
 * [\[PRO27\] Proceso de SCAMPI](https://github.com/novaDepto/Nova/wiki/Proceso-de-SCAMPI)
-* [\[PRO28\] Proceso de mejora continua](https://github.com/novaDepto/Nova/blob/master/Proceso-de-mejora-continua.md)
-* [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki)
+* [\[PRO28\] Proceso de mejora continua](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-continua)
+* [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
+
+* [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-inspección-de-componentes)
 
 
 
