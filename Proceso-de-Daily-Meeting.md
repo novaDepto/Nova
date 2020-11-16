@@ -2,11 +2,12 @@
 | Nombre    | Rol               |
 | --------- | ----------------- |
 | Marla     | Dueño del Proceso |
-| Alonso    | Responsables      |
-| Carlos    | Responsables      |
+| Alonso    | Autor             |
+| Carlos    |  Autor            |
 
 ## Objetivos
-1. Guiar las juntas de coordinación para comunicar efectivamente el estado de los items de trabajo y resolver los impedimentos de las tareas del día.
+1. Guiar las juntas de coordinación para comunicar efectivamente el estado de los items de trabajo 
+2. Resolver los impedimentos de las tareas del día.
 
 ## Entrada 
 1. Plan de iteración actual
@@ -26,7 +27,7 @@
   <tbody>
     <tr>
       <td rowspan="2">Análisis</td>
-      <td>Abre el <strong><a href="https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204">Plan de iteración actual</a></strong> </td>
+      <td>Abre el <strong><a href="https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204">Plan de iteración</a></strong> actual.</td>
       <td>TL</td>
       <td>PP, PMC</td>
     </tr>
@@ -35,13 +36,16 @@
           Contesta las siguientes preguntas: 
           </br>
           <li><b>¿Qué hice ayer?</b></li>
-          Cuestionar cualquier cosa que se hizo que no fue planeada para la iteración. 
+          Cuestionen cualquier cosa que se hizo que no fue planeada para la iteración. 
           </br>
           <li><b>¿Qué voy a hacer hoy? </b></li>
-          Asegurarse de hacer adecuaciones al plan para cubrir los pendientes.
+          Asegúrense de hacer adecuaciones al plan para cubrir los pendientes.
           </br>
           <li><b>¿Tengo algún impedimento/bloqueo/aspecto?</b></li>
-          Asegurarse de generar una estrategía para resolverlos.
+          Asegúrense de generar una estrategía para resolverlos.
+          </br>
+          <li><b>¿Tengo alguna duda que quiera preguntar a los consultores?</b></li>
+          Enlisten todas las dudas para pedir una asesoría a los consultores.
       </td>
       <td>Todo el equipo</td>
       <td>PP, PMC</td>
@@ -73,12 +77,12 @@
 </table>
 
 ## Salida
-1. Plan de iteración actualizada
-2. Matriz de riesgos actualizada
-3. Acciones correctivas implementadas
+1. Plan de iteración actualizado
+2. Matriz de riesgos actualizada (si aplica)
+3. Acciones correctivas implementadas (si aplica)
 
 ## Métricas
 1. La duración debe ser menor o igual a 15 minutos, priorizando el tiempo al mantenimiento del plan.
 
 ***
-versión 1.0
+Versión 1.1
