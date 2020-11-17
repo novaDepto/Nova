@@ -25,6 +25,18 @@
   </thead>
   <tbody>
      <tr>
+        <td rowspan="3">Demostración de la solución</td>
+        <td>Mostrar al stakeholder los avances de la Iteración.</td>
+        <td rowspan="3">PO</td>
+        <td rowspan="3">PP</td>
+    </tr>
+    <tr>
+        <td>Si se presenta un cambio en las funcionalidades, actualiza el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=142199667">Backlog de incosistencias</a></strong></td>
+     </tr>
+     <tr>
+        <td>Actualiza el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1185110039">Backlog de cambios</a></strong></td>
+     </tr>
+     <tr>
          <td rowspan="2">Análisis</td>
          <td>Realiza una sesión de retrospectiva para rellenar la <strong><a href="https://docs.google.com/presentation/d/1U08JwlISDmeyeUz-c2EplvUdz_375Qv3ShD0TSTIUqA/edit#slide=id.p1">Retrospectiva de la iteración</a></strong> con base en el Backlog de métricas.</td>
          <td rowspan="2">TL</td>
