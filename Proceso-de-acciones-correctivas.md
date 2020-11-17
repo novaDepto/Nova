@@ -56,7 +56,7 @@
       <td>Determina si debe implementarse la acción correctiva.</td>
     </tr>
     <tr>
-      <td>a) <strong>Sí =</strong> Registra su fecha de aplicación.</td>
+      <td>a) <strong>Sí =</strong> Registra el responsable y fecha en que se aplicará.</td>
     </tr>
     <tr>
       <td>b) <strong>No =</strong> Ajusta la acción correctiva o plantea una nueva.</td>
