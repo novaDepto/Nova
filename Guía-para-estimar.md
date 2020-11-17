@@ -6,13 +6,21 @@ Estimar el tamaño, costo y calendario de una tarea.
 * El costo de los Agile Points se define a nivel equipo y departamento basado en el **historial de métricas.** 
 
 ### Ejemplo
-| Agile Points | Costo (Horas) | 
-| ------------ | ------------- |
-| 1            | 1             |
-| 2            | 2             |
-| 3            | 4             |
-| 5            | 8             |
-| 8            | 16            |
+| Agile Points | Costo (Horas) | Tamaño | 
+| ------------ | ------------- | ------ | 
+| 1            | 1             | XS     | 
+| 2            | 2             | S      | 
+| 3            | 4             | M      | 
+| 5            | 8             | L      | 
+| 8            | 16            | XL     | 
+
+### No existe historial
+1. En el caso de **no contar con un historial** de costo en una tarea, se tiene que llegar a un consenso del tamaño y costo del mismo.
+2. Se duplica el costo en horas  **(Costo x 2)**
+3. Al concluir la tarea debe ser agregada al historial y registrar su tamaño basándose en el costo real.
+
+### Existe historial
+1. En el caso de **contar con un historial,** se revisa y se define el costo de la tarea con base en los registros.
 
 ## Calendario
 1. Se definen:
