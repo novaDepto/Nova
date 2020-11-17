@@ -61,13 +61,19 @@
       <td>PP, PMC</td>
     </tr>
     <tr>
-      <td>Monitoreo</td>
-      <td>Actualiza el plan durante las Daily Meetings.
-      <td>Todo el equipo</td>
-      <td>PMC</td>
-    </tr>
+      <td rowspan="2" >Monitoreo</td> 
+      <td>Actualiza el plan durante las Daily Meetings.</td> 
+       <td>Todo el equipo</td>     
+        <td>PMC</td>
+    </tr>      
+      <tr>
+      	 <td>Comunicar al socio formador los riesgos identificados</td>
+          <td>PO</td>     
+      	 <td>PMC</td>
+      </tr>
   </tbody>
 </table>
+
 
 ## Salida
 1. Plantilla de Planeación-Monitoreo de la iteración rellenada
