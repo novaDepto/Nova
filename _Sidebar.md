@@ -30,8 +30,8 @@
 * [\[PRO27\] Proceso de SCAMPI](https://github.com/novaDepto/Nova/wiki/Proceso-de-SCAMPI)
 * [\[PRO28\] Proceso de mejora continua](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-continua)
 * [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
-
-* [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-inspección-de-componentes)
+* [\[PRO30\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
+* [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-Acompañamiento-para-Competencia-Oral)
 
 
 
@@ -67,6 +67,7 @@
 * [\[GUI27\] Guía para identificar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Guía-para-identificar-procesos-guías-políticas)
 * [\[GUI28\] Guía de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Guía-de-resoluci%C3%B3n-de-conflictos)
 * [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-denuncias)
+* [\[GUI30\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
 
 ### Políticas
 
