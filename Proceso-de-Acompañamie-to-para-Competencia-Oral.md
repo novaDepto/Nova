@@ -38,7 +38,7 @@ Erwin  | Autor
       <td rowspan="1">N/A</td>
     </tr>
     <tr>
-      <td>Sigue los <b>preparativos</b> de la <i> <em><a href="https://github.com/novaDepto/Nova/wiki/Guía_de_Exposición_Oral"> Guía de Exposición Oral</a></em> </td>
+      <td>Sigue los <b>preparativos</b> de la <i> <em><a href="https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral"> Guía de Exposición Oral</a></em> </td>
       <td rowspan="1">Participante</td>
       <td rowspan="1">N/A</td>
     </tr>
