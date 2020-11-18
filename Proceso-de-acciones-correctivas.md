@@ -7,11 +7,11 @@
 | Yafté   | Autor |
 
 ## Objetivo
-Ejecutar acciones correctivas para asegurar el flujo del plan de trabajo.
+1. Ejecutar acciones correctivas para asegurar el flujo del plan de trabajo.
 
 ## Entradas
 1. Desviación en el plan de trabajo
-2. **[Planeación-Monitoreo de la Iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)** para el plan de equipo
+2. **[Plan de Iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)** para el plan de equipo
 3. **[Plan Nova](https://docs.google.com/spreadsheets/d/1_tEVZlBT36JiXt0Qq1hy3zojkzO2abnw79ju-6LbB4s/edit#gid=1926334706&fvid=1861621495)** para el plan del departamento
 
 ## Proceso
@@ -35,16 +35,19 @@ Ejecutar acciones correctivas para asegurar el flujo del plan de trabajo.
       <td>Identifica la diferencia entre el estado actual y el esperado del plan.</td>
     </tr>
     <tr>
-      <td rowspan="5">Estrategia</td>
-      <td>Abre el <strong><a href="https://docs.google.com/spreadsheets/d/1xGBumgWR0n8JYpx8wtaYD-Z-5w88GS-5x7oSkErcMhY/edit#gid=1715800722">Backlog de acciones correctivas</a></strong>.</td>
-      <td rowspan="5">Todo el equipo</td>
-      <td rowspan="5">PMC, PP</td>
+      <td rowspan="8">Estrategia</td>
+      <td>Abre la Hoja <strong><a href="https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=143546945">Acciones correctivas</a></strong> del plan a corregir.</td>
+      <td rowspan="8">Todo el equipo</td>
+      <td rowspan="8">PMC, PP, PPQA</td>
     </tr>
     <tr>
-      <td>Documenta la situación de la desviación del plan.</td>
+      <td>Escribe la fecha de detección de la acción correctiva.</td>
     </tr>
     <tr>
-      <td>Formula la acción correctiva a realizar.</td>
+      <td>Escribe la situación de la desviación del plan.</td>
+    </tr>
+    <tr>
+      <td>Escribe la acción correctiva a realizar.</td>
     </tr>
     <tr>
       <td>Evalúa la acción correctiva siguiendo los criterios de evaluación.</td>
@@ -53,16 +56,10 @@ Ejecutar acciones correctivas para asegurar el flujo del plan de trabajo.
       <td>Determina si debe implementarse la acción correctiva.</td>
     </tr>
     <tr>
-      <td rowspan="3">Seguimiento</td>
-      <td>Registra la fecha de detección de la acción correctiva. </td>
-      <td rowspan="3">Todo el equipo</td>
-      <td rowspan="3">PMC, PPQA</td>
+      <td>a) <strong>Sí =</strong> Registra el responsable y fecha en que se aplicará.</td>
     </tr>
     <tr>
-      <td>Asigna a un responsable de implementar la acción correctiva.</td>
-    </tr>
-    <tr>
-      <td>Una vez implementada la acción correctiva, registra su fecha de ejecución.</td>
+      <td>b) <strong>No =</strong> Ajusta la acción correctiva o plantea una nueva.</td>
     </tr>
   </tbody>
 </table>
@@ -72,7 +69,7 @@ Ejecutar acciones correctivas para asegurar el flujo del plan de trabajo.
 2. Backlog de acciones correctivas
 
 ## Métricas
-1. Tiempo de ejecución de la medida correctiva
+1. SPI-CPI
 
 ***
 Versión 1.1
