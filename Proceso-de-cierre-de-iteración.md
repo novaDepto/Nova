@@ -25,26 +25,27 @@
   </thead>
   <tbody>
      <tr>
-        <td rowspan="3">Demostración de la solución</td>
-        <td>Mostrar al stakeholder los avances de la Iteración.</td>
-        <td rowspan="3">PO</td>
-        <td rowspan="3">PP</td>
+        <td rowspan="2">Demostración de la solución</td>
+        <td>Muestra al stakeholder los avances de la iteración.</td>
+        <td rowspan="2">PO</td>
+        <td rowspan="2">PP</td>
     </tr>
     <tr>
-        <td>Si se presenta un cambio en las funcionalidades, actualiza el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=142199667">Backlog de incosistencias</a></strong></td>
+        <td>Si se presenta un cambio en las funcionalidades, actualiza el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1185110039">Backlog de cambios</a></strong> y <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=142199667">Backlog de inconsistencias</a></strong> conforme sea necesario.</td>
      </tr>
      <tr>
-        <td>Actualiza el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1185110039">Backlog de cambios</a></strong></td>
-     </tr>
-     <tr>
-         <td rowspan="2">Análisis</td>
+         <td rowspan="3">Análisis</td>
          <td>Realiza una sesión de retrospectiva para rellenar la <strong><a href="https://docs.google.com/presentation/d/1U08JwlISDmeyeUz-c2EplvUdz_375Qv3ShD0TSTIUqA/edit#slide=id.p1">Retrospectiva de la iteración</a></strong> con base en el Backlog de métricas.</td>
-         <td rowspan="2">TL</td>
+         <td rowspan="3">TL</td>
          <td>PP,PMC</td>
     </tr>
     <tr>
-        <td>Evalúa los riesgos del proyecto siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a></strong>.</td>
+        <td>Evalúa los riesgos del proyecto siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de gestión de riesgos</a></strong>.</td>
         <td>PMC, RSKM</td>
+    </tr>
+    <tr>
+        <td>Si el plan del proyecto se atrasó al fin de la iteración, genera una acción correctiva siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas">Proceso de acciones correctivas</a></strong>.</td>
+        <td>PMC</td>
     </tr>
   </tbody>
 </table>
@@ -52,7 +53,7 @@
 
 ## Salida
 1. Presentación de Retrospectiva de la iteración
-2. Matriz de Riesgos actualizadas
+2. Matriz de Riesgos actualizada
 
 ## Métricas
 1. Sesión de retrospectiva (30 a 60 minutos).
