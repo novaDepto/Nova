@@ -28,10 +28,10 @@
       <td rowspan="7">Identificación</td>
       <td>Abre la <strong><a href="https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718">Matriz de Riesgos</a><strong>.</td>
       <td rowspan="7">Todo el equipo</td>
-      <td rowspan="7">RSKM</td>
+      <td rowspan="7">RSKM, PMC</td>
     </tr>
     <tr>
-      <td>Genera una lluvia de ideas sobre situaciones o problemas que hayan sucedido en el equipo durante la semana.</td>
+      <td>Genera una lluvia de ideas sobre situaciones o problemas que puedan suceder o hayan sucedido durante la ejecución del plan</td>
     </tr>
     <tr>
       <td>Determina cuáles situaciones o problemas deben elevarse como un riesgo. <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos">Guía de Identificación de Riesgos</a> para más información)<strong>.</td>
@@ -50,14 +50,16 @@
     </tr>
     <tr>
       <td rowspan="4">Análisis</td>
-      <td>Define la probabilidad de que ocurra el riesgo.
+      <td>Define la probabilidad de que ocurra el riesgo en base a histórico o
+      experiencia previa de algún miembro del equipo.
           <li>Probabilidad = 0-100%</li>
       </td>
       <td rowspan="4">Todo el equipo</td>
       <td rowspan="4">RSKM, MA</td>
     </tr>
     <tr>
-      <td>Define el impacto de que ocurra el riesgo.
+      <td>Define el impacto de que ocurra el riesgo. Desde poco impacto en
+      cuanto a la ejecución del plan (1) a que se debe reformular el plan (10)
           <li>Impacto = 1-10</li>
       </td>
     </tr>
@@ -71,7 +73,8 @@
     </tr>
     <tr>
       <td rowspan="4">Estrategia</td>
-      <td>Establece la prioridad de atención del riesgo.</td>
+      <td>Establece la prioridad de atención del riesgo tomando en cuenta su
+      magnitud.</td>
       <td rowspan="4">Todo el equipo</td>
       <td rowspan="4">RSKM, PP</td>
     </tr>
@@ -79,19 +82,21 @@
       <td>Formule un plan de mitigación para atender el riesgo.</td>
     </tr>
     <tr>
-      <td>Formule un plan de contingencia para evitar que el riesgo se afecte al equipo.</td>
+      <td>Formule un plan de contingencia para evitar que el riesgo afecte al equipo más allá de lo previsto.</td>
     </tr>
     <tr>
       <td>Asigna un encargado de supervisar el riesgo.</td>
     </tr>
     <tr>
       <td>Documentación</td>
-      <td>Registra el riesgo en el Historial de Riesgos.
+      <td>Registra el riesgo en el <em>Historial de Riesgos</em> de donde se
+      esté llevando la <em>Matriz de Riesgos</em>
           <li>Si el riesgo es nuevo, sólo se debe anotar la fecha en que fue detectado.</li>
       </td>
       <td>Todo el equipo</td>
       <td>RSKM, OPF</td>
     </tr>
+    <!---- ESTO DEBERÍA ESTAR EN UN PROCESO DE MONITOREO DEL PLAN DIARIO
     <tr>
       <td rowspan="5">Seguimiento</td>
       <td>Convoca a una revisión semanal de riesgos.</td>
@@ -110,6 +115,7 @@
     <tr>
       <td>Calcula el promedio de riesgos en el Burndown de Riesgos.</td>
     </tr>
+    --->
   </tbody>
 </table>
 
