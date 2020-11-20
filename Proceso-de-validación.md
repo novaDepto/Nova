@@ -38,6 +38,15 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
       <td>REQM</td>
     </tr>
     <tr>
+     <td>Ejecución</td>
+     <td>Usa la <strong><a href="https://docs.google.com/spreadsheets/d/17N34zCkKkA4rHp_mF5eHi9PtrRDht8qFl5xqETTHyZk/edit#gid=0">plantilla para validación con cliente</a></strong> para cada user story a tratar.
+
+No olvides documentar los compromisos y cambios acordados en el backlog de cambios.
+</td>
+<td>Autor del plan</td>
+<td>REQM</td>
+    </tr>
+    <tr>
       <td rowspan="3">Análisis</td>
       <td>A partir de los resultados obtenidos, al realizar la guía o Think Aloud se deberán tener datos para saber si es necesario hacer cambios a la estructura del código. Si hay defectos, se deberán de registrar en el log de defectos.</td>
       <td>Autor del plan</td>
@@ -64,6 +73,6 @@ Los resultados finales son:
 
     
 ***
-versión 1.0
+versión 1.1
 
 
