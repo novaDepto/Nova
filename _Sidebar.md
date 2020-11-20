@@ -1,10 +1,8 @@
 ### [Mapa de procesos](https://drive.google.com/file/d/1WXMBn0wiYKdKTR2ANFS0dlHRj_vHOPfy/view?usp=sharing)
 
 ### Procesos
-
 ***
-
-* [\[PRO01\] Proceso para generar  backlog](https://github.com/novaDepto/Nova/wiki/Proceso-para-generar-un-backlog)
+* [\[PRO01\] Proceso para generar backlog](https://github.com/novaDepto/Nova/wiki/Proceso-para-generar-un-backlog)
 * [\[PRO02\] Proceso de auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditor%C3%ADas)
 * [\[PRO03\] Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
 * [\[PRO04\] Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
@@ -14,7 +12,6 @@
 * [\[PRO08\] Proceso de modificación de línea base](https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base)
 * [\[PRO09\] Proceso de gestión de historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-historias-de-usuario)
 * [\[PRO11\] Proceso de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-métricas)
-* [\[PRO12\] Proceso de mejora de procesos](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-de-procesos)
 * [\[PRO13\] Proceso de gestión de riesgos](https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos)
 * [\[PRO15\] Proceso de ejecución de medidas correctivas](https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecución-de-medidas-correctivas)
 * [\[PRO16\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
@@ -30,13 +27,10 @@
 * [\[PRO27\] Proceso de SCAMPI](https://github.com/novaDepto/Nova/wiki/Proceso-de-SCAMPI)
 * [\[PRO28\] Proceso de mejora continua](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-continua)
 * [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
-
-* [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-inspección-de-componentes)
-
-
+* [\[PRO30\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
+* [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-Acompañamiento-para-Competencia-Oral)
 
 ### Guías
-
 ***
 * [\[GUI01\] Guía de CMMI](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-CMMI)
 * [\[GUI02\] Guía de manejo de configuración](https://github.com/novaDepto/Nova/wiki/Guía-de-manejo-de-configuración)
@@ -67,11 +61,10 @@
 * [\[GUI27\] Guía para identificar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Guía-para-identificar-procesos-guías-políticas)
 * [\[GUI28\] Guía de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Guía-de-resoluci%C3%B3n-de-conflictos)
 * [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-denuncias)
+* [\[GUI30\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
 
 ### Políticas
-
 ***
-
 * [\[POL01\] Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 * [\[POL02\] Política de juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
 * [\[POL03\] Política de Nova WOW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
@@ -84,21 +77,33 @@
 * [\[POL18\] Política de gestión de habilidades y conocimientos](https://github.com/novaDepto/Nova/wiki/Política-de-gestión-habilidades-y-conocimientos)
 
 ### Plantillas
-
 ***
-
 * [\[PLA01\] Plantilla de proceso](https://github.com/novaDepto/Nova/wiki/Plantilla-de-proceso)
 * [\[PLA02\] Plantilla de política](https://github.com/novaDepto/Nova/wiki/Plantilla-de-pol%C3%ADtica)
 * [\[PLA03\] Plantilla de guía](https://github.com/novaDepto/Nova/wiki/Plantilla-de-guía)
+* [\[PLA04\] Backlog de decisiones](https://docs.google.com/spreadsheets/d/1nJ5I7445d0u0Nq4gy2JMA5Y0usQ69S91n5sDgqUKzSU/edit#gid=1924080691)
+* [\[PLA05\] Backlog de requisitos](https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1630941258)
+* [\[PLA06\] Backlog de métricas](https://docs.google.com/spreadsheets/d/1RpU0kmGCRSH35LN6ZTPPkAXsNAeiS_OLvBdqoJsp060/edit#gid=297985474)
+* [\[PLA07\] Hoja de SCAMPI](https://docs.google.com/spreadsheets/d/1eX0PEoSCOoxUpK7R_F4MFCURxo-ZMzCXWvjHwOdh6U4/edit#gid=508227290)
+* [\[PLA08\] Checklist de SCAMPI](https://docs.google.com/spreadsheets/d/1BX8XF1rEKBe7fWHllFt9fd9kfUWGy_QH6kMyRChC7JA/edit#gid=1627908832)
+* [\[PLA09\] Matriz de riesgos](https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718)
+* [\[PLA10\] Reporte de inspección](https://docs.google.com/spreadsheets/d/1MRa1gjtF_DUqVybsPa9u1NTLnkQr5NAtyJtS0Q0poz4/edit#gid=0)
+* [\[PLA11\] Checklist de institucionalización](https://docs.google.com/spreadsheets/d/1XAqWjIFZltpBxRqM4tiFcHUAeU0lEUMLf7BhwAKrkQQ/edit#gid=72583243)
+* [\[PLA12\] Plan de involucramiento de stakeholders](https://docs.google.com/spreadsheets/d/1LJW6x2z5gMSXP4xEJpemfEZRcDW06QFz_OxPx2q0hZI/edit#gid=0)
+* [\[PLA13\] Backlog de patrones](https://docs.google.com/spreadsheets/d/1lyAFfTwAxPTakxZwWxMJbgr55oXKp0U-W-MfYSzdyso/edit#gid=0)
+* [\[PLA14\] Plan de iteración](https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204)
+* [\[PLA15\] Plan de presentación](https://docs.google.com/spreadsheets/d/1ppdRbp99KkVAqtytITJ55h-s64kZhnVnmHD7zUqY8jI/edit#gid=1717015154)
+* [\[PLA16\] Retrospectiva de la iteración](https://docs.google.com/presentation/u/1/d/1U08JwlISDmeyeUz-c2EplvUdz_375Qv3ShD0TSTIUqA/edit?usp=drive_web&ouid=107220917163263104768)
+* [\[PLA17\] Acta de proyecto](https://docs.google.com/document/d/1D8YamLG8exdWsomChPIIVsLQrkbBy3XM/edit)
+* [\[PLA18\] Backlog de PIPs](https://docs.google.com/spreadsheets/d/12Y6jLAnQ-Zo48nUle1ZyOc1UQwUuhHfccgSZIPosh9o/edit)
+* [\[PLA19\] Hoja de especificación de requisitos](https://docs.google.com/document/d/1kWa49M5i2LyEFAsawZfrYRFMQnMOAeqNbDrwHtjj7tE/edit)
+* [\[PLA20\] Reporte de Pair Review](https://docs.google.com/spreadsheets/d/1c6FRhE9Fm7sWP4pWwGucm6aBd6LtCEgJ2KAb7Hz2inY/edit#gid=0)
 
 ### Comité de Ética
-
 ***
-
 * [\[COD01\] Código de ética](https://github.com/novaDepto/Nova/wiki/C%C3%B3digo-de-%C3%A9tica)
 
 ### Directorios de archivos
 ***
-
 * [Departamento](https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-del-departamento)
 * [CMMI](https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI)
