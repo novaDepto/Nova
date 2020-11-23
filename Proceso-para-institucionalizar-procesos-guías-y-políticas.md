@@ -105,11 +105,6 @@
       <td>CM, PPQA</td>
     </tr>
     <tr>
-      <td>Valida que el entregable cumpla con el punto de <b>Difusión</b> de la Checklist de Institucionalización.</td>
-      <td>Dueño del entregable</td>
-      <td>CM, PPQA</td>
-    </tr>
-    <tr>
       <td rowspan="3">Seguimiento</td>
       <td>Supervisa el desempeño del proceso tras ponerlo en práctica para determinar si necesita una <b>auditoría o propuesta de mejora</b>.</td>
       <td>Departamento</td>
