@@ -261,10 +261,6 @@ Carlos     | Autor
       <td>Guía de Product Owner</td>
       <td>1.0</td>
     </tr><tr>
-      <td>GUI23</td>
-      <td>Guía de cuestionario de salud</td>
-      <td>1.0</td>
-    </tr><tr>
       <td>GUI24</td>
       <td>Guía de identificación de riesgos</td>
       <td>1.0</td>

@@ -60,7 +60,6 @@
 * [\[GUI20\] Guía para juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-desempeño)
 * [\[GUI21\] Guía para juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-seguimiento-personal)
 * [\[GUI22\] Guía de Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-product-owner)
-* [\[GUI23\] Guía de cuestionario de salud](https://github.com/novaDepto/Nova/wiki/Cuestionario-de-Salud-Discord-Cheatsheet)
 * [\[GUI24\] Guía de identificación de riesgos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos)
 * [\[GUI25\] Guía de Team Member](https://github.com/novaDepto/Nova/wiki/Guía-de-Team-Member)
 * [\[GUI26\] Guía de validación](https://github.com/novaDepto/Nova/wiki/Guía-de-validación)
