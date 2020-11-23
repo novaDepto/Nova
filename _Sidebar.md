@@ -13,7 +13,7 @@
 * [\[PRO09\] Proceso de gestión de historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-historias-de-usuario)
 * [\[PRO11\] Proceso de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-métricas)
 * [\[PRO13\] Proceso de gestión de riesgos](https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos)
-* [\[PRO15\] Proceso de ejecución de medidas correctivas](https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecución-de-medidas-correctivas)
+* [\[PRO15\] Proceso de acciones correctivas](https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas)
 * [\[PRO16\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
 * [\[PRO17\] Proceso de asignación de roles](https://github.com/novaDepto/Nova/wiki/Proceso-de-asignación-de-roles)
 * [\[PRO18\] Proceso de validación](https://github.com/novaDepto/Nova/wiki/Proceso-de-validación)
