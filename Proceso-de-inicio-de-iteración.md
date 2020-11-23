@@ -58,7 +58,7 @@
       <td>Escribe cualquier compromiso de los integrantes y el stakeholder como un Work Item y estima su duración y fecha de entrega.</td>
     </tr>
     <tr>
-      <td>Identifica los riesgos de la iteración siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos.</a></strong></td>
+      <td>Identifica los riesgos de la iteración siguiendo el v<a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos.</a></strong></td>
     </tr>
     <tr>
       <td>Métricas</td>
@@ -73,11 +73,16 @@
       <td>PP, PMC, REQM</td>
     </tr>
     <tr>
-      <td rowspan="2" >Monitoreo</td> 
+      <td rowspan="3" >Monitoreo</td> 
       <td>Actualiza el plan durante las Daily Meetings.</td> 
        <td>Todo el equipo</td>     
         <td>PMC</td>
-    </tr>      
+    </tr>
+       <tr>
+           <td>En caso de encontrar inconsistencias en plan, seguir la <strong><a href="Guía-de-identificación-de-inconsistencias">Guía de identificación de inconsistencias</a></strong></td>
+          <td>Todo el equipo</td>     
+      	 <td>PMC</td>
+      </tr>
       <tr>
       	 <td>Comunicar al socio formador los riesgos identificados</td>
           <td>PO</td>     
@@ -85,6 +90,7 @@
       </tr>
   </tbody>
 </table>
+
 
 
 ## Salida
