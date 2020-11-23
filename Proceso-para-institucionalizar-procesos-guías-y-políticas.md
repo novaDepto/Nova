@@ -12,7 +12,7 @@
 | Ray     | Autor |
 
 ## Objetivo
-1. Institucionalizar un proceso, guía o política nueva o existente en el departamento
+1. Institucionalizar la creación o cambio de un proceso, guía, política o plantilla del departamento
 
 ## Entradas
 1. Borrador del nuevo artefacto
@@ -42,10 +42,10 @@
       <td>Valida que el entregable cumpla con los puntos de <b>Viabilidad</b> y <b>Valor organizacional</b>.</td>
     </tr>
     <tr>
-      <td rowspan="3">Creación</td>
+      <td rowspan="4">Creación</td>
       <td>Agrega el nombre, ID y versión a la <strong><a href="https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit#gid=844584100">Matriz de Configuración</a></strong> con base de la <strong> <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuración">Guía de manejo de configuración</a> </strong> y <strong><a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado">Guía de versionado</a></strong>.</td>
-      <td rowspan="3">Dueño del entregable</td>
-      <td rowspan="3">CM, PPQA</td>
+      <td rowspan="4">Dueño del entregable</td>
+      <td rowspan="4">CM, PPQA</td>
     </tr>
     <tr>
       <td>Cambia el nombre de la hoja agregada a la checklist como su <b> Identificador Único</a></b>.</td>
@@ -54,8 +54,21 @@
       <td>Verifica que el entregable cumpla con los puntos de <strong>Definición</strong>, <strong>Gestión de la Configuración</strong> y <strong>Links</strong>.</td>
     </tr>
     <tr>
-      <td rowspan="4">Publicación</td>
+      <td>En caso de que el cambio al artefacto involucre un cambio a una plantilla, haz una copia de la plantilla en su mismo documento, modifica esta copia y sigue también la <strong> <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-manejo-de-configuración">Guía de manejo de configuración</a> </strong> y <strong><a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-versionado">Guía de versionado.</a></strong>. No realices cambios sobre la última versión de la plantilla antes de que los cambios a la guía, proceso o política sean aprobados en las fases posteriores.</td>
+    </tr>
+    <tr>
+      <td rowspan="6">Publicación</td>
       <td>Sube el entregable a la Wiki siguiendo la <a href="https://github.com/novaDepto/Nova/wiki/Guía-para-institucionalizar-procesos-guías-políticas"><b>Guía de institucionalización</b></a></td>
+      <td>Dueño del entregable</td>
+      <td>CM</td>
+    </tr>
+    <tr>
+      <td>Recuerda agregar en la descripción de tu <em>Pull Request:</em> 
+        <ul>
+          <li>Justificación de la creación o cambio al artefacto</li>
+          <li>Comentarios a considerar por los miembros que harán la revisión</li>
+        </ul>
+      </td>
       <td>Dueño del entregable</td>
       <td>CM</td>
     </tr>
@@ -66,14 +79,19 @@
       <td>PPQA, PMC, OPD, OPF</td>
     </tr>
     <tr>
-      <td>Realiza cualquier corrección sugerida y aclara cualquier duda presentada en la conversación del <em>Pull Request</em>.</td>
+      <td>Realiza cualquier corrección sugerida y aclara cualquier duda presentada en la conversación del <em>Pull Request</em>. Incluye un comentario que diga que ya se corrigió el cambio. En caso de que consideres que los cambios pedidos no son válidos o necesarios, también justifícalo a los revisores del documento.</td>
       <td>Dueño del entregable</td>
       <td>PPQA, OPD, OPF</td>
     </tr>
     <tr>
-      <td>Valida que el entregable cumpla con el punto de <b>Institucionalización</b>.</td>
+      <td>Valida que el entregable cumpla con el punto de <b>Institucionalización</b> de la Checklist de Institucionalización.</td>
       <td>Dueño del entregable</td>
       <td>PPQA, OPD, OPF</td>
+    </tr>
+    <tr>
+      <td>Si se trata de un cambio a un artefacto, este ha sido aprobado e involucra un cambio a un plantilla, recuerda actualizar la plantilla en línea base a la última versión propuesta.</td>
+      <td>Dueño del entregable</td>
+      <td>CM</td>
     </tr>
     <tr>
       <td rowspan="2">Divulgación</td>
@@ -82,7 +100,12 @@
       <td>PMC, PPQA, OPD, OPF, OT</td>
     </tr>
     <tr>
-      <td>Valida que el entregable cumpla con el punto de <b>Difusión</b>.</td>
+      <td>Valida que el entregable cumpla con el punto de <b>Difusión</b> de la Checklist de Institucionalización.</td>
+      <td>Dueño del entregable</td>
+      <td>CM, PPQA</td>
+    </tr>
+    <tr>
+      <td>Valida que el entregable cumpla con el punto de <b>Difusión</b> de la Checklist de Institucionalización.</td>
       <td>Dueño del entregable</td>
       <td>CM, PPQA</td>
     </tr>
@@ -101,7 +124,7 @@
 </table>
 
 ## Salidas
-1. Proceso, política o guía institucionalizada y anexada a la línea base.
+1. Proceso, política, guía o plantilla institucionalizada y anexada a la línea base.
 
 ## Métricas
 1. Backlog de procesos
