@@ -91,7 +91,7 @@ A continuación se presenta la plantilla para la solicitar el cambio de una hist
             </td>
            <td>
                11.Solicitar <strong>validación</strong> del cambio a AO/PO.</br></br>
-<strong>Nota. </strong> Escribir el Veredicto final y la razón para esta deliberación.
+<strong>Nota. </strong>Seguir los criterios de aceptación en el documento de petición y establecer el veredicto.
 </td>
 </tr>
 <tr>
