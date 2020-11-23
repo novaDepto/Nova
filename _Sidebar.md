@@ -10,7 +10,7 @@
 * [\[PRO04\] Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
 * [\[PRO05\] Proceso de Daily Meeting](https://github.com/novaDepto/Nova/wiki/Proceso-de-Daily-Meeting)
 * [\[PRO06\] Proceso de inicio de iteración](https://github.com/novaDepto/Nova/wiki/Proceso-de-inicio-de-iteración)
-* [\[PRO07\] Proceso de cierre de iteración](https://github.com/novaDepto/Nova/wiki/Proceso-Cierre-de-Iteracion)
+* [\[PRO07\] Proceso de cierre de iteración](https://github.com/novaDepto/Nova/wiki/Proceso-cierre-de-iteración)
 * [\[PRO08\] Proceso de modificación de línea base](https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base)
 * [\[PRO09\] Proceso de gestión de historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-historias-de-usuario)
 * [\[PRO11\] Proceso de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-métricas)
