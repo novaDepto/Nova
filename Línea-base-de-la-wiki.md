@@ -76,11 +76,6 @@ Carlos     | Autor
       <td>1.0</td>
     </tr>
     <tr>
-      <td>PRO12</td>
-      <td>Proceso de mejora de procesos</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
       <td>PRO13</td>
       <td>Proceso de gestión de riesgos</td>
       <td>1.0</td>
