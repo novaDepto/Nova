@@ -54,8 +54,23 @@ Establecer un criterio que ayude a recopilar los requisitos apropiados para sati
     </tr>  
     <tr>
       <td>Escoge una necesidad y enlista de los requisitos funcionales/no funcionales necesarios.</td>
+    </tr>
+    <tr>
+      <td  rowspan="2">Aceptación de requisitos</td>
+    </tr>
+    <tr>
+      <td>Para aceptar un requisito, verifica que el requisito:
+        <ul>
+            <li>Aporte valor a la solución</li>
+            <li>Es necesario para cumplir los objetivos del proyecto</li>
+            <li>Es realizable de acuerdo con las habilidades técnicas del equipo</li>
+            <li>Es claro y no se presta a distintas interpretaciones</li>
+            <li>No compromete la salud del equipo</li>
+            <li>No entra en conflicto con otro requisito</li>
+            <li>Será posible determinar si fue satisfecho</li>
+          </ul>
+      </td>
     </tr>  
-      
   </tbody>
 </table>
 ​

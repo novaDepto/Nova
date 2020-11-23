@@ -61,11 +61,21 @@ Luis       | Autor
       <td>Escribe los riesgos potenciales de implementar el cambio.</td>
     </tr>
     <tr>
-      <td>Con la información obtenida, estima el impacto del cambio..</td>
+      <td>Con la información obtenida, reivsa los criterios de aceptación. El cambio:
+        <ul>
+          <li>Aporta valor a la solución</li>
+          <li>Es necesario para cumplir los objetivos del proyecto</li>
+          <li>Es realizable de acuerdo con las habilidades técnicas del equipo</li>
+          <li>Es claro y no se presta a distintas interpretaciones</li>
+          <li>No compromete la salud del equipo</li>
+          <li>No compromete el calendario del proyecto</li>
+          <li>No impacta radicalmente funcionalidades del sistema ya implementadas</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td rowspan="6">Decisión</td>
-      <td>Da el veredicto sobre el cambio.</td>
+      <td>Da el veredicto sobre el cambio considerando la respuesta a los criterios anteriores</td>
       <td rowspan="6">PO, AO</td>
       <td rowspan="6">REQM</td>
     </tr> 
