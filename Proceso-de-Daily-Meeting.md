@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td rowspan="2">Mantenimiento del plan</td>
-      <td>Si hay una desviación significativa en el plan, entonces ajústalo siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">Proceso de acciones correctivas</a></strong>.</td>
+      <td>Si hay una desviación significativa en el plan, entonces ajústalo siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas">Proceso de acciones correctivas</a></strong>.</td>
       <td>Todo el equipo</td>
       <td>PP, PMC</td>
     </tr>

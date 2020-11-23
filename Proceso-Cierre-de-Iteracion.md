@@ -58,7 +58,7 @@ Identificar cómo mejorar la forma de trabajo del equipo detectando lo que funci
       <td>PMC, RSKM</td>
     </tr>
     <tr>
-        <td>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">acciones correctivas</a></td>
+        <td>Generar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas">acciones correctivas</a></td>
          <td>TL</td>
       <td>PP,PMC</td>
     </tr>
