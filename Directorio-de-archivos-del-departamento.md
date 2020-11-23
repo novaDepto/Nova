@@ -33,12 +33,10 @@ relacionados con el departamento**.
 ### <div id="AN"></div>Andrómeda
 | Nombre del documento             | Descripción                              |
 | -------------------------------- | ---------------------------------------- |
-| [Plan de liberación](https://online.officetimeline.com/app/#/file/06bd812b-3d96-402b-a723-b284a356fefb)| Plan de liberación.|
-| [Log de defectos](https://docs.google.com/spreadsheets/d/1S_DcAeUMPY-U6sWN6xiNxTJHHUox39jeNhP0XrD8LjM/edit?usp=sharing)| Excel para el monitoreo de los defectos detectados. |
+| [Plan de liberación](https://online.officetimeline.com/app/#/shareable-link?token=0xa6xNEF0SZ0iUnJy4pTyPIy9FxNDwXZcn8LaV5BYnhW7pDKi3crKHnyXXcY3FPB49T9znfmbpFPxPW5pYMmxG4Ys3k4vns0QNZaAEMra3HkwbcEx%2fzmWADuug4as2k%2f)| Plan de liberaciones de Andrómeda.|
 | [Métricas Andrómeda](https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit?usp=sharing)| Plan para la fase de _iteración de arquitectura_. |
 | [Métricas Monkeytype](https://docs.google.com/spreadsheets/d/1fopRleqoNj0ycrFNX2ky1P2KUAj3Z4Y-2Hguu5h7SXI/edit?usp=sharing) | Métricas del progreso de la velocidad que escribimos.|
-| [Plan de arquitectura](https://docs.google.com/spreadsheets/d/1n1bSsnMBvcmrwVCx5_lMYrUAjiZRA5Rvymc4fCS6rbk/edit?usp=sharing)| Plan para la fase de _iteración de arquitectura_.|
-| [Plan de iteración 1](https://online.officetimeline.com/app/#/file/06bd812b-3d96-402b-a723-b284a356fefb/gantt-view)| Plan para la primera iteración.|
-| [Retrospectiva iteración 1](https://drive.google.com/drive/u/0/folders/1_rS9GS6UI2UFdUACZMX7jx-qm1XLri0O)| Retrospectiva de la primera iteración de Andrómeda. |
-| [Plan maestro Andrómeda](https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit?usp=sharing)| Hoja de excel en donde se encuentra el plan del proyecto y los diferentes planes de las iteraciones (empezando desde la segunda iteración). |
-| [Test cases HIDBA](https://docs.google.com/spreadsheets/d/1Tkbytq4iCU267aPgDj8ovtal7dWti_ZrTjLsHNSGnQU/edit?usp=sharing) | Excel con los casos de prueba para el desarrollo de HIDBA. |
+| [Plan maestro Andrómeda](https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit?usp=sharing)| Hoja  deexcel en donde se encuentra el plan del proyecto y los diferentes planes de las iteraciones (empezando desde la segunda iteración). |
+| [Test cases Andrómeda](https://docs.google.com/spreadsheets/d/1Tkbytq4iCU267aPgDj8ovtal7dWti_ZrTjLsHNSGnQU/edit?usp=sharing) | Excel con los casos de prueba para el desarrollo de HIDBA. |
+| [Matriz de riesgos Andrómeda](https://docs.google.com/spreadsheets/d/1JHLEvLsdJaZ-GCcDPPPTXcUuQcegYHzlpqYmngEDmLU/edit#gid=1750311807) | Excel con los riesgos del equipo Andrómeda. |
+| [MER Andrómeda](https://docs.google.com/spreadsheets/d/1JHLEvLsdJaZ-GCcDPPPTXcUuQcegYHzlpqYmngEDmLU/edit#gid=1750311807) | Draw.io del modelo entidad relación de Andrómeda. |

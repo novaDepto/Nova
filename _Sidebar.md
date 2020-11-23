@@ -105,4 +105,3 @@
 ### Directorios de archivos
 ***
 * [Departamento](https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-del-departamento)
-* [CMMI](https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-de-CMMI)
