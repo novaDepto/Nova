@@ -3,6 +3,7 @@
 | ------ | ----------------- |
 | Marla  | Dueño del proceso |
 | Irving |   Autor           |
+| Yaf    |   Autor           |
 
 ## Objetivo
 Definir los **criterios a seguir en cada fase del desarrollo de una historia de usuario** para asegurar la calidad de un producto de software.
@@ -103,4 +104,8 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
 1. Manual de Usuario
 2. Matriz de Trazabilidad
 3. Historia de usuario implementada
+
+***
+
+Versión 1.0a
 
