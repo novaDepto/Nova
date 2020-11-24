@@ -28,7 +28,7 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
   <tbody>
     <tr>
       <td rowspan="2">Comprobación</td>
-      <td>Revisar la <a href="https://github.com/novaDepto/Nova/wiki/Guía-de-validación"><strong>Guía de Validación </strong></a> para saber qué es necesario evaluar en la historia de usuario.</td>
+      <td>Revisar la <strong><a href="https://github.com/novaDepto/Nova/wiki/Guía-de-validación">Guía de Validación </a> </strong> para saber qué es necesario evaluar en la historia de usuario.</td>
       <td>Autor del plan</td>
       <td>REQM</td>
     </tr>
@@ -46,7 +46,7 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
     </tr>
     <tr>
       <td rowspan="3">Análisis</td>
-      <td>A partir de los resultados obtenidos, al realizar la guía o Think Aloud se deberán tener datos para saber si es necesario hacer cambios a la estructura del código. Si existen inconsistencias, estas se deberán de registrar en el<a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-inconsistencias"><strong> Log de inconsistencias</strong></a></td>
+      <td>A partir de los resultados obtenidos, al realizar la guía o Think Aloud se deberán tener datos para saber si es necesario hacer cambios a la estructura del código. Si existen inconsistencias sigue la <strong> <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-inconsistencias"> Guía de identificación de inconsistencias.</a> </strong> </td>
       <td>Autor del plan</td>
       <td>REQM</td>
     </tr>
@@ -56,7 +56,7 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
         <td>REQM</td>
     </tr>
     <tr>
-        <td>Redefinir acciones para las etapas de diseño y análisis dentro del ciclo de vida de la historia de usuario</td>
+        <td>Redefinir acciones para las etapas de diseño y análisis dentro del ciclo de vida de la historia de usuario.</td>
         <td>Autor del plan</td>
         <td>REQM</td>
     </tr>  </tbody>
@@ -69,6 +69,6 @@ Los resultados finales son:
 
     
 ***
-versión 1.1
+versión 1.2
 
 
