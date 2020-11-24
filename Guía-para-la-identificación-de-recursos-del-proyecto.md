@@ -21,7 +21,7 @@
 <td>2</td> <td>Conocimiento</td><td>Propiedad intelectual, patentes, información confidencial y general de la empresa, metodologías, técnicas y software.</td> 
 </tr>
 <tr>
-<td>3</td> <td>Relaciones y contactos</td> <td>Estas relaciones o contactos contribuyen contribuyen al logro de objetivos del proyecto, como proveedores, distribuidores, socios, colaboradores y clientes.</td> <
+<td>3</td> <td>Relaciones y contactos</td> <td>Estas relaciones o contactos contribuyen contribuyen al logro de objetivos del proyecto, como proveedores, distribuidores, socios, colaboradores y clientes.</td>
 </tr>
 <tr>
 <td>4</td> <td>Financieros</td> <td> Los recursos financieros necesarios para el proyecto como gastos operativos, pagos de sueldos, transporte, equipo de trabajo necesario y lugar de trabajo.   </td>
@@ -33,4 +33,4 @@
 </table>
 
 ***
-versión 0.1
+versión 0.1a

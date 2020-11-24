@@ -61,6 +61,7 @@
 * [\[GUI28\] Guía de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Guía-de-resoluci%C3%B3n-de-conflictos)
 * [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-denuncias)
 * [\[GUI30\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
+* [\[GUI32\] Guía para la identificación de recursos del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-para-la-identificación-de-recursos-del-proyecto)
 
 ### Políticas
 ***
