@@ -83,7 +83,7 @@ Dan       | Autor
       <td>Escribe la fecha del veredicto final</td>
     </tr>
     <tr>
-      <td>En caso de que el cambio haya sido propuesto por el socio formador, comunícale la aprobación o rechazo del cambio. </td>
+      <td>En caso de que el cambio haya sido propuesto por el socio formador, comunícale y justifícale la aprobación o rechazo del cambio. </td>
     </tr> 
   </tbody>
 </table>
