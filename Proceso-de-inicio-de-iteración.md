@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>Métricas</td>
-      <td>Genera el Burndown Chart de la iteración</td>
+      <td>Genera el Burndown Chart de la iteración.</td>
       <td>TL, MA</td>
       <td>PMC, MA</td>
     </tr>
@@ -73,18 +73,24 @@
       <td>PP, PMC, REQM</td>
     </tr>
     <tr>
-      <td rowspan="2" >Monitoreo</td> 
+      <td rowspan="3" >Monitoreo</td> 
       <td>Actualiza el plan durante las Daily Meetings.</td> 
        <td>Todo el equipo</td>     
         <td>PMC</td>
-    </tr>      
+    </tr>
       <tr>
-      	 <td>Comunicar al socio formador los riesgos identificados</td>
+          <td>En caso de encontrar inconsistencias en plan, seguir la <strong><a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-inconsistencias">Guía de identificación de inconsistencias.</a></strong></td>
+          <td>Todo el equipo</td>     
+      	 <td>PMC</td>
+      </tr>
+      <tr>
+      	 <td>Comunicar al socio formador los riesgos identificados.</td>
           <td>PO</td>     
       	 <td>PMC</td>
       </tr>
   </tbody>
 </table>
+
 
 
 ## Salida
