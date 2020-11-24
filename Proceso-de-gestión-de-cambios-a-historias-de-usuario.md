@@ -12,7 +12,7 @@ Dan       | Autor
 1. Gestionar los cambios a las historias de usuario a medida que evolucionan para alinearlas con el plan y producto final del proyecto
 
 ## Entradas
-1.Petición de cambio a historia de usuario solicitada por un team member o socio formador 
+1. Petición de cambio a historia de usuario solicitada por un team member o socio formador 
 
 ## Proceso
 <table>
