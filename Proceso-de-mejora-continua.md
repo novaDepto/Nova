@@ -40,15 +40,15 @@
       </td>
     </tr>
     <tr>
-      <td>Si la mejora implica agregar un nuevo artefacto o actualizar uno ya existente que esté bajo Gestión de Configuración, entonces consulta el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas">Proceso para institucionalizar procesos, guías y políticas</strong></a> para formalizarlo a nivel departamento.</td>
+      <td>Si la mejora implica actualizar un artefacto ya existente que esté bajo Gestión de Configuración, notifica al dueño del artefacto los cambios a implementar antes de hacer alguna modificación.</td>
     </tr>
     <tr>
-      <td>Identifica a un encargado de analizar y validar la propuesta. Considera las recomendaciones de la plantilla.</td>
+      <td>Consulta el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base">Proceso de modificación de línea base</strong></a> y el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas">Proceso para institucionalizar procesos guías y políticas</strong></a> para formalizar el cambio a nivel departamento.</td>
     </tr>
     <tr>
-      <td>Resolución</td>
-      <td>Rellena el apartado <strong>Resolución de propuesta</strong>.</td>
-      <td>Supervisor del PIP</td>
+      <td>Resultados</td>
+      <td>Rellena el apartado <strong>Resultados obtenidos</strong> de acuerdo al impacto de la mejora ya implementada.</td>
+      <td>Autor del PIP</td>
       <td>PPQA, PMC, OPF</td>
     </tr>
     <tr>
@@ -82,4 +82,4 @@
 1. Tiempo promedio de aplicación de mejoras
 
 ***
-Versión 1.1
+Versión 1.2
