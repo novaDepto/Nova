@@ -40,7 +40,7 @@
          <td>PP,PMC</td>
     </tr>
     <tr>
-        <td>Evalúa el avance de las milestones, checando cuáles se han completado y cuáles faltan por completarse llevando el registro en la plantilla de monitoreo del proyecto.</td>
+        <td>Evalúa el avance de las milestones, checando cuáles se han completado y cuáles faltan por completarse llevando el registro en la <strong><a href="https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204">Plantilla de monitoreo del proyecto</a></strong>.</td>
         <td>PMC, RSKM</td>
     </tr>
     <tr>
