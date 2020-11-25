@@ -50,7 +50,7 @@ Raymundo   | Autor
       <td>Identifica los entregables del proyecto.</td>
     </tr>
     <tr>
-      <td>Identifica las herramientas, componentes y recursos para desarrollar el proyecto <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-estrategia-tecnica">Guía de estrategia técnica</a> para más información).</strong></td>
+      <td>Identifica las herramientas, componentes y recursos para desarrollar el proyecto <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-la-identificación-de-recursos-del-proyecto">Guía de identificación de recursos</a> para más información).</strong></td>
     </tr>
     <tr>
       <td rowspan="6">Definición</td>
