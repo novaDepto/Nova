@@ -1,160 +1,41 @@
 ## Responsables
-Nombre     | Rol
------------|------------------
-Raymundo   | Dueño de la guía
-Raymundo   | Autor
 
-## Objetivo
-1. Enlistar las métricas que se supervisan actualmente en los equipos y el departamento.
+| Nombre | Rol              |
+| ------ | ---------------- |
+| Daniel | Dueño de la guía |
+| Irving | Autor            |
 
-## Lista de métricas
-<table>
-  <thead>
-    <tr>
-      <th>Métrica</th>
-      <th>Descripción</th>
-      <th>Fórmula</th>
-      <th>Ubicación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Promedio de toma de decisiones</td>
-      <td>¿Cuál es el tiempo promedio que se toma en tomar una decisión?</td>
-      <td>(Suma de diferencia de decisión)/(Número de decisiones)</td>
-      <td>Backlog de Decisiones</td>
-    </tr>
-    <tr>
-      <td>Promedio de aplicación de decisiones</td>
-      <td>¿Cuál es el tiempo promedio que se toma en aplicar una decisión tomada?</td>
-      <td>(Suma de diferencia de aplicación)/(Número de decisiones)</td>
-      <td>Backlog de Decisiones</td>
-    </tr>
-    <tr>
-      <td>Promedio de riesgo</td>
-      <td>¿Cuál es el nivel de riesgo promedio del proyecto?</td>
-      <td>(Suma de magnitudes de riesgos)/(Número de riesgos)</td>
-      <td>Matriz de Riesgos</td>
-    </tr>
-    <tr>
-      <td>SPI</td>
-      <td>¿Cómo es el avance respecto al plan de trabajo?</td>
-      <td>(Porcentaje de trabajo completado)/(Porcentaje de trabajo planeado)</td>
-      <td>Plan de Trabajo</td>
-    </tr>
-    <tr>
-      <td>SV</td>
-      <td>¿Vas atrasado o adelantado respecto al plan de trabajo?</td>
-      <td>Porcentaje de trabajo completado - Porcentaje de trabajo planeado</td>
-      <td>Plan de Trabajo</td>
-    </tr>
-    <tr>
-      <td>CPI</td>
-      <td>¿Cuánto tiempo se ha invertido al plan de trabajo?</td>
-      <td>(Número de horas trabajadas)/(Número de horas estimadas)</td>
-      <td>Plan de Trabajo</td>
-    </tr>
-    <tr>
-      <td>CV</td>
-      <td>¿El plan de trabajo ha costado más o menos esfuerzo?</td>
-      <td>Número de horas trabajadas - Número de horas estimadas</td>
-      <td>Plan de Trabajo</td>
-    </tr>
-    <tr>
-      <td>Promedio de resolución de defectos</td>
-      <td>¿Cuál es el tiempo promedio que toma resolver un defecto?</td>
-      <td>(Suma de tiempo de resolución)/(Número de defectos)</td>
-      <td>Backlog de Requisitos</td>
-    </tr>
-    <tr>
-      <td>Resolución de defectos por fase</td>
-      <td>¿Cuál es la frecuencia de inyección y detección de defectos por fase del ciclo de desarrollo?</td>
-      <td>Número de defectos inyectados por fase vs. Número de defectos detectados por fase</td>
-      <td>Backlog de Requisitos</td>
-    </tr>
-    <tr>
-      <td>Promedio de resolución de inconsistencias</td>
-      <td>¿Cuál es el tiempo promedio que toma resolver una inconsistencia?</td>
-      <td>(Suma de tiempo de inconsistencias)/(Número de inconsistencias)</td>
-      <td>Backlog de Requisitos</td>
-    </tr>
-    <tr>
-      <td>Promedio de revisión de cambios</td>
-      <td>¿Cuál es el tiempo promedio que se toma en decidir un cambio a un requisito?</td>
-      <td>(Suma de timepo de decisión)/(Número de cambios)</td>
-      <td>Backlog de Requisitos</td>
-    </tr>
-    <tr>
-      <td>Promedio de aplicación de decisiones</td>
-      <td>¿Cuál es el tiempo promedio que se toma en aplicar un cambio a un requisito?</td>
-      <td>(Suma de tiempo de aplicación)/(Número de cambios)</td>
-      <td>Backlog de Requisitos</td>
-    </tr>
-    <tr>
-      <td>Promedio de institucionalización de procesos</td>
-      <td>¿Cuál es el tiempo promedio que toma el departamento para institucionalizar un proceso, guía o política?</td>
-      <td>(Suma de tiempo de institucionalización)/(Número de procesos)</td>
-      <td>Backlog de Procesos</td>
-    </tr>
-    <tr>
-      <td>Promedio de motivación</td>
-      <td>¿Cuál es la motivación promedio del equipo?</td>
-      <td>Suma de calificación de motivación/Número de integrantes en equipo</td>
-      <td>Historial del Cuestionario de Salud</td>
-    </tr>
-    <tr>
-      <td>Encuesta semanal de satisfacción</td>
-      <td>¿Cuál es el estatus actual del departamento?</td>
-      <td>Promedio de resultados (Uno por pregunta):
-          <ul>
-            <li>Organización</li>
-            <li>Motivación</li>
-            <li>Inclusión</li>
-            <li>Ayuda de clases</li>
-            <li>Toma de decisiones</li>
-            <li>Desempeño del equipo</li>
-            <li>Reconocimiento de trabajo</li>
-            <li>Efectividad del departamento</li>
-            <li>Consciencia de importancia</li>
-          </ul>
-      </td>
-      <td>Historial de Encuesta de satisfacción</td>
-    </tr>
-    <tr>
-      <td>Progreso de malla</td>
-      <td>¿Cuál es el progreso de cada integrante del departamento con su malla?</td>
-      <td>Número de competencias por nivel</td>
-      <td>Backlog de Malla</td>
-    </tr>
-    <tr>
-      <td colspan="4"><h3>Futuras métricas del departamento</h3></td>
-    </tr>
-    <tr>
-      <td>Promedio de capacitación</td>
-      <td>¿Cuál es el tiempo promedio que toma capacitar al equipo en una actividad de formación?</td>
-      <td>Suma de tiempo de formación/Número de formaciones</td>
-      <td>Backlog de Formación</td>
-    </tr>
-    <tr>
-      <td>Promedio de mejora de procesos</td>
-      <td>¿Cuál es el tiempo promedio que toma implementar una mejora en un proceso del departamento?</td>
-      <td>Suma de tiempo de implementación/Número de mejoras</td>
-      <td>Backlog de Mejoras a Procesos</td>
-    </tr>
-    <tr>
-      <td>Promedio de Agile Points</td>
-      <td>¿Cuántos Agile Points en promedio logra realizar un equipo al día?</td>
-      <td>Suma de Agile Points/Número de días</td>
-      <td>Backlog de Requisitos</td>
-    </tr>
-    <tr>
-      <td>Tasa de aceptación de productos</td>
-      <td>¿Cuál es el porcentaje promedio de aceptación de los productos de las historias de usuario?</td>
-      <td>Promedio de porcentajes de aceptación por verificación</td>
-      <td>Backlog de Verificación</td>
-    </tr>
-  </tbody>
-</table>
+## Contenido
+
+## ¿Qué es una métrica?
+
+Es una **medida cuantificable** que nos permite **rastrear y evaluar el estado de un proceso**.
+
+En el área del software, las métricas nos permiten conocer el tamaño del reto al que como desarrolladores de software nos enfrentamos y poder tomar decisiones de acuerdo a la tendencia de los resutados.
+
+## Tipos de métricas
+* Escalares
+* Tendencia
+* Listas
+
+
+## ¿Cómo se identifica una métrica?
+
+Para identificar nuevas métricas se deben considerar las siguientes características:
+
+* Debe ser consistente y objetiva (no debe ser ambigua).
+* Fácil y rentable de obtener.
+* Capaz de ser validada por su precisión y fiabilidad.
+* Fácil de adaptar a los proyectos.
+* Tener una unidad de medida específica (valor ganado, %costo de cálidad, % varianza de esfuerzo, etc).
+
+Una vez cumpla con las caractetísticas anteriores la métrica debe tener:
+
+* **Nombre:** Una forma de identificar la métrica.
+* **Descripción:** Puede ser una pregunta o una descripción clara de ¿Cómo? o ¿en qué circunstancia? es posible obtener dicha métrica.
+* **Fórmula:** De qué forma se calcula la métrica.
+* **Ubicación:** El documento donde se registrarán los datos de dicha métrica.
+
 
 ***
-versión 1.0
+versión 2.0
