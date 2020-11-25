@@ -30,6 +30,11 @@ Establecer la forma de trabajo de todos los miembros de Nova.
         Al terminarlos son agregados en la sección <i>Stack de Items de valor</i> en la <a href="https://drive.google.com/drive/folders/11kOv1oal83q3YzuDWC-a--gShOOH0_Tq?usp=sharing"> minuta del día. <a>
     </li>
     <li>
+        Los ítems de trabajo deben ser revisados por todos los integrantes durante la hora del departamento en el listado de pull requests dentro del repositorio de la wiki del departamento, de tal forma que se pueda aprobar un nuevo proceso o modificación de alguno. <strong> Los pull requests generados durante el día serán atendidos durante el horario del departamento del siguiente día hábil. </strong> 
+        <a href="#glosario1"> Ítems de valor: </a> 
+        Al terminarlos son agregados en la sección <i>Stack de Items de valor</i> en la <a href="https://drive.google.com/drive/folders/11kOv1oal83q3YzuDWC-a--gShOOH0_Tq?usp=sharing"> minuta del día. <a>
+    </li>
+    <li>
         La hora de departamento culmina 1 hora después de haber empezado, en este caso a las
         <b> 10 AM.</b> 
     </li>
@@ -83,7 +88,7 @@ Establecer la forma de trabajo de todos los miembros de Nova.
     </ul>
 
 ## Glosario
-1. <b id="glosario1">Item de valor:</b> Proceso, Guía, Politica, correción o retroalimentación a un ítem en <i>Pull Request</i>.
+1. <b id="glosario1">Ítem de valor:</b> Proceso, Guía, Politica, correción o retroalimentación a un ítem en <i>Pull Request</i>.
 
 ***
-versión 1.1b
+versión 1.2b
