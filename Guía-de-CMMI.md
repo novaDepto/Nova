@@ -1,5 +1,5 @@
 
-## Responsables
+## Responsables  
 | Nombre  | Rol   |
 |---------|-------|
 |   Raymundo  | Dueño de la guía |
