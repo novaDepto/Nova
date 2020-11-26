@@ -12,6 +12,7 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
 1. Plan de trabajo
 2. Matriz de compromisos
 3. Matriz de riesgos
+4. Matriz de plan de involucramiento con el stakeholder
 
 
 ## Proceso
@@ -29,12 +30,12 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
       <td rowspan="2">Análisis</td>
       <td>
           Visualizar el plan de trabajo y matriz de compromisos encontradas en el <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-del-departamento">directorio</a> del departamento </td>
-      <td>Autor del proceso</td>
+      <td>Team Leader</td>
       <td>PP</td>
     </tr>
     <tr>
       <td>
-          Cada miembro debe contestar las siguientes preguntas: 
+          La daily meeting es liderada por el Team Member, el <b>product owner</b> deberá comentar los acuerdos establecidos con el stakeholder si es que hay nuevos.<br><br>Cada miembro debe contestar las siguientes preguntas: 
           </br>
               <li>
                 <b>¿Qué hice ayer?</b>
@@ -50,27 +51,33 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
             <b>¿Tengo algún impedimento/bloqueo/aspecto?</b>
           </li>
             Asegurarse de generar una estrategía para resolverlos.        </td>
-      <td>Autor del proceso</td>
+      <td>Todos los miembros del equipo</td>
       <td>PP</td>
     </tr>
     <tr>
         <td>Medición</td>
         <td> Actualizar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-m%C3%A9tricas">métricas</a> de desempeño del trabajo diario, permitiendo ver diariamente si la iteración va de acuerdo a lo planeado.</td>
-          <td>Autor del proceso</td>
+          <td>Team leader</td>
           <td>MA</td>
     </tr>
     <tr>
-        <td rowspan="2">Mantenimiento del plan</td>
-        <td>Hacer una revisión al plan y en caso de tener una desviación de más del 10% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan</td>
-        <td>Autor del proceso</td>
+        <td rowspan="3">Mantenimiento del plan</td>
+        <td>
+Si alguno de los acuerdos con el stakeholder puede afectar el plan, actualizarlo.
+</td>
+        <td>Team leader</td>
         <td>PP</td>
     </tr>
     <tr>
-      <td> Actualizar la matriz de riesgos y la matriz de compromisos del proyecto </td>
-      <td> Autor del proceso</td>
+      <td> Hacer una revisión al plan y en caso de tener una desviación de más del 10% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan </td>
+      <td> Team leader</td>
       <td> PP </td>
     </tr>
-    
+      <tr>
+      <td> Actualizar la matriz de riesgos y la matriz de compromisos del proyecto  </td>
+      <td> Team leader</td>
+      <td> PP </td>
+    </tr> 
   </tbody>
 </table>
 
@@ -78,10 +85,10 @@ Guiar el proceso en las juntas de coordinación para comunicar efectivamente el 
 1. Actualización al plan de trabajo.
 2. Actualizar matriz de compromisos.
 3. Actualizar matriz de riesgos.
-
+4. Actualizar matriz de plan de involucramiento con el stakeholder.
 
 ## Métricas
 1. La duración debe ser menor o igual a 15 minutos, priorizando el tiempo al mantenimiento del plan.
 
 ***
-versión 1.0
+versión 1.5
