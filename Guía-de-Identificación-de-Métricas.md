@@ -4,6 +4,7 @@
 | ------ | ---------------- |
 | Daniel | Dueño de la guía |
 | Irving | Autor            |
+| Juan    | Autor            |
 
 ## Contenido
 
@@ -14,9 +15,14 @@ Es una **medida cuantificable** que nos permite **rastrear y evaluar el estado d
 En el área del software, las métricas nos permiten conocer el tamaño del reto al que como desarrolladores de software nos enfrentamos y poder tomar decisiones de acuerdo a la tendencia de los resutados.
 
 ## Tipos de métricas
-* Escalares
-* Tendencia
-* Listas
+* **Escalares**: Números concretos y aislados. Dan poca o nula información. 
+Ejemplo: numero de defectos: **34**<br><br>
+* **Tendencia**: Números escalares vistos a través del tiempo, Dan mucha información y facilitan la toma de decisiones. Ejemplo: 
+
+![](https://i.imgur.com/mV4hIa1.png)
+<br>
+* **Listas**: Enumeración de registros, permíten tener información detallada de las métricas, al igual que las tendencias son útiles para tomar decisiones. 
+Ejemplos: lista de defectos, lista de cosas que se hicieron bien/mal, etc.
 
 
 ## ¿Cómo se identifica una métrica?
@@ -38,4 +44,4 @@ Una vez cumpla con las caractetísticas anteriores la métrica debe tener:
 
 
 ***
-versión 2.0
+versión 1.1
