@@ -14,6 +14,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
 ## Entradas
 
 1. Listado de necesidades, pain points, del cliente
+2. [Proceso para plan de Involucramiento de Stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 
 ## Proceso
  				 			 
@@ -29,10 +30,10 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
   <tbody>
     <tr>
       <td rowspan="3">Identificación</td>
-      <td>En la <a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=846530107">matriz de proveedores</a> de requisitos identifica a todos aquellos involucrados en el proyecto que sean los más apropiados para ser los proveedores de requisitos tomando como base los siguientes criterios.
+      <td>En el <a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=846530107">plan de invoucramiento de stakeholders</a> identifica en la columna "proveedor de requisitos" a todos aquellos involucrados en el proyecto que sean los más apropiados para ser los proveedores de requisitos tomando como base los siguientes criterios.
       <ul>
         <li>Es quien da seguimiento y aprobará el proyecto al finalizar.</li>
-        <li>Tiene la aprobación por parte de quien aprovará el proyecto al finalizar. </li>
+        <li>Tiene la aprobación por parte de quien aprobará el proyecto al finalizar. </li>
         <li>Cuenta con un amplio conocimiento del uso que se la dará a la solución.</li>
         <li>Tiene conocimeinto detallado acerca del funcionamiento del negocio del socio formador.
         </li>
