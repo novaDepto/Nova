@@ -102,7 +102,7 @@ Definir y conseguir el involucramiento deseado de cada uno de los stakeholders p
       <td>PP</td>
     </tr>
        <tr>
-      <td>Anotar las <b>lecciones aprendidas</b> si que hubo.</td>
+      <td>Anotar las <b>lecciones aprendidas</b> si hubo.</td>
       <td>PO</td>
       <td>PP</td>
     </tr>
