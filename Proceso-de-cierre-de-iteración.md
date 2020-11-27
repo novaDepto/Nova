@@ -46,6 +46,10 @@
       <td>MA</td>
     </tr>
     <tr>
+        <td>Evalúa el avance de las milestones, checando cuáles se han completado y cuáles faltan por completarse llevando el registro en la <strong><a href="https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204">Plantilla de monitoreo del proyecto</a></strong>.</td>
+        <td>PMC, RSKM</td>
+    </tr>
+    <tr>
         <td>Evalúa los riesgos del proyecto siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de gestión de riesgos</a></strong>.</td>
         <td>PMC, RSKM</td>
     </tr>
@@ -63,4 +67,4 @@
 3. Historial de Análisis del Backlog de métricas actualizado
 
 ***
-Versión 1.3
+Versión 1.4

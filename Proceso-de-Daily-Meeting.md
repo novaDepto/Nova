@@ -10,9 +10,10 @@
 2. Resolver los impedimentos de las tareas del día.
 
 ## Entrada 
-1. Plan de iteración actual
-2. Matriz de riesgos
-3. Backlog de acciones correctivas
+1. Plan de trabajo
+2. Matriz de compromisos
+3. Matriz de riesgos
+4. Matriz de plan de involucramiento con el stakeholder
 
 ## Proceso
 <table>
@@ -27,62 +28,69 @@
   <tbody>
     <tr>
       <td rowspan="2">Análisis</td>
-      <td>Abre el <strong><a href="https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204">Plan de iteración</a></strong> actual.</td>
-      <td>TL</td>
-      <td>PP, PMC</td>
+      <td>
+          Visualizar el plan de trabajo y matriz de compromisos encontradas en el <a href="https://github.com/novaDepto/Nova/wiki/Directorio-de-archivos-del-departamento">directorio</a> del departamento </td>
+      <td>Team Leader</td>
+      <td>PP</td>
     </tr>
     <tr>
       <td>
-          Contesta las siguientes preguntas: 
+          La daily meeting es liderada por el Team Member, el <b>product owner</b> deberá comentar los acuerdos establecidos con el stakeholder si es que hay nuevos.<br><br>Cada miembro debe contestar las siguientes preguntas: 
           </br>
-          <li><b>¿Qué hice ayer?</b></li>
-          Cuestionen cualquier cosa que se hizo que no fue planeada para la iteración. 
-          </br>
-          <li><b>¿Qué voy a hacer hoy? </b></li>
-          Asegúrense de hacer adecuaciones al plan para cubrir los pendientes.
-          </br>
-          <li><b>¿Tengo algún impedimento/bloqueo/aspecto?</b></li>
-          Asegúrense de generar una estrategía para resolverlos.
-          </br>
-          <li><b>¿Tengo alguna duda que quiera preguntar a los consultores?</b></li>
-          Enlisten todas las dudas para pedir una asesoría a los consultores.
-      </td>
-      <td>Todo el equipo</td>
-      <td>PP, PMC</td>
+              <li>
+                <b>¿Qué hice ayer?</b>
+              </li>
+              Cuestionar cualquier cosa que se hizo que no fue planeada para la iteración. 
+        </br>
+          <li>
+            <b>¿Qué voy a hacer hoy? </b>
+          </li>
+            Asegurarse de hacer adecuaciones al plan para cubrir los pendientes.
+        </br>
+          <li>
+            <b>¿Tengo algún impedimento/bloqueo/aspecto?</b>
+          </li>
+            Asegurarse de generar una estrategía para resolverlos.        </td>
+      <td>Todos los miembros del equipo</td>
+      <td>PP</td>
     </tr>
     <tr>
-      <td>Compromiso</td>
-      <td>Pregunta a cada integrante si está comprometido con las actividades a realizar en el día. En caso contrario, realiza los ajustes necesarios.</td>
-      <td>TL</td>
-      <td>REQM</td>
+        <td>Medición</td>
+        <td> Actualizar <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-m%C3%A9tricas">métricas</a> de desempeño del trabajo diario, permitiendo ver diariamente si la iteración va de acuerdo a lo planeado.</td>
+          <td>Team leader</td>
+          <td>MA</td>
     </tr>
     <tr>
-      <td>Medición</td>
-      <td>Actualiza las métricas del equipo para ver si la iteración va de acuerdo a lo planeado.</td>
-      <td>Todo el equipo</td>
-      <td>MA</td>
+        <td rowspan="3">Mantenimiento del plan</td>
+        <td>
+Si alguno de los acuerdos con el stakeholder puede afectar el plan, actualizarlo.
+</td>
+        <td>Team leader</td>
+        <td>PP</td>
     </tr>
     <tr>
-      <td rowspan="2">Mantenimiento del plan</td>
-      <td>Si hay una desviación significativa en el plan, entonces ajústalo siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas">Proceso de acciones correctivas</a></strong>.</td>
-      <td>Todo el equipo</td>
-      <td>PP, PMC</td>
+      <td> Hacer una revisión al plan y en caso de tener una desviación de más del 10% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan </td>
+      <td> Team leader</td>
+      <td> PP </td>
     </tr>
-    <tr>
-      <td>Si hay un nuevo riesgo en el plan, entonces documéntalo siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de gestión de riesgos</a></strong>.</td>
-      <td>Todo el equipo</td>
-      <td>RSKM</td>
-    </tr>
-    </tbody>
+      <tr>
+      <td> Actualizar la matriz de riesgos y la matriz de compromisos del proyecto  </td>
+      <td> Team leader</td>
+      <td> PP </td>
+    </tr> 
+  </tbody>
 </table>
 
 ## Salida
-1. Plan de iteración actualizado
-2. Matriz de riesgos actualizada (si aplica)
-3. Acciones correctivas implementadas (si aplica)
+1. Actualización al plan de trabajo.
+2. Actualizar matriz de compromisos.
+3. Actualizar matriz de riesgos.
+4. Actualizar matriz de plan de involucramiento con el stakeholder.
+
 
 ## Métricas
 1. La duración debe ser menor o igual a 15 minutos, priorizando el tiempo al mantenimiento del plan.
 
 ***
-Versión 1.1
+versión 1.5
+
