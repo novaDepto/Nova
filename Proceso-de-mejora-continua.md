@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td>Si la mejora implica actualizar un <strong>artefacto ya existente que esté bajo Gestión de Configuración</strong>, notifica al dueño del artefacto los cambios a implementar. Deberás realizar el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base">Proceso de modificación de línea base</strong></a> y el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas">Proceso para institucionalizar procesos guías y políticas</strong></a> para formalizar el cambio a nivel departamento.</td>
+      <td>Si la mejora implica actualizar un <strong>artefacto ya existente que esté bajo Gestión de Configuración</strong>, notifica al dueño del artefacto los cambios a implementar antes de hacer alguna modificación. Deberás seguir el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base">Proceso de modificación de línea base</strong></a> y el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas">Proceso para institucionalizar procesos guías y políticas</strong></a> para formalizar el cambio a nivel departamento.</td>
     </tr>
     <tr>
       <td>Resultados</td>
