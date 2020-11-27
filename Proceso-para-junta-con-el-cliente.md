@@ -1,15 +1,17 @@
 ## Responsables
 
-| Nombre  | Rol   |
-|---------|-------|
-| Erwin   | Dueño del proceso |
-| Marla   | Autor |
-| Lisi    | Autor |
+| Nombre | Rol               |
+| ------ | ----------------- |
+| Erwin  | Dueño del proceso |
+| Marla  | Autor             |
+| Lisi   | Autor             |
 
 ## Objetivo
+
 Definir las actividades a realizar en una junta con el cliente.
 
 ## Entradas
+
 1. [Plantilla de Involucramiento de Stakeholders](https://docs.google.com/spreadsheets/d/1LJW6x2z5gMSXP4xEJpemfEZRcDW06QFz_OxPx2q0hZI/edit#gid=1409053923) 
 2. [Minuta de junta](https://docs.google.com/document/d/1k6VO5KwX-mtLj0ZjzU7Rezhc-J7_iJ3ESrvyFMy-uRY/edit?usp=sharing)
 3. [Backlog de cambios](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)
@@ -17,6 +19,7 @@ Definir las actividades a realizar en una junta con el cliente.
 5. [Matriz de riesgos](https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718)
 
 ## Proceso
+
 <table>
   <thead>
     <tr>
@@ -88,10 +91,15 @@ Definir las actividades a realizar en una junta con el cliente.
     <tr>
       <td>Actualiza el plan de acción del cliente en la Plantilla de Involucramiento de Stakeholders.</td>
     </tr>
+    <tr>
+      <td>Si hay alguna acción que se tenga que tomar en cuenta para corregir el plan seguir el <a href = https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas>Proceso de acciones correctivas</a></td>
+    </tr>
   </tbody>
 </table>
 
+
 ## Salidas
+
 1. Plan de Involucramiento de Stakeholders actualizada
 2. Backlog de Cambios actualizado
 3. Plan de Iteración actual actualizado
@@ -99,7 +107,9 @@ Definir las actividades a realizar en una junta con el cliente.
 5. Resultados de la encuesta de satisfacción
 
 ## Métricas
+
 1. Promedio de satisfacción del cliente
 
 ***
-Versión 1.1
+
+Versión 1.2

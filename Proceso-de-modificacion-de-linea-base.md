@@ -41,7 +41,7 @@ Mantener una gestión y control de los cambios que sufren las [líneas base](htt
       Guía de NovaFlow </a> y en caso de ser un repositorio de documentación,
       e.g. Wiki, sigue la <a
       href="https://guides.github.com/introduction/flow/">Guía de GitHub
-      Flow</a>. Si es un cambio a un proceso sigue el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-de-procesos"> Proceso de Mejora de Procesos (PIP) </a> </td>
+      Flow</a>. Si es un cambio a un proceso sigue el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-continua"> Proceso de Mejora Continua </a> </td>
       <td> Autor del cambio</td>
       <td> CM, REQM, RM</td>
     </tr>

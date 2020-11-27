@@ -1,19 +1,19 @@
 ## Responsables
-| Nombre    | Rol               | 
-| --------- | ----------------- | 
-| Marla     | Dueño del Proceso | 
-| Alonso    | Responsables      | 
-| Carlos    | Responsables      | 
+| Nombre    | Rol               |
+| --------- | ----------------- |
+| Marla     | Dueño del Proceso |
+| Alonso    | Autor             |
+| Carlos    |  Autor            |
 
-## Objetivo
-Guiar el proceso en las juntas de coordinación para comunicar efectivamente el estado de los items de trabajo, información y resolución impedimentos y la coordinación de las tareas del día.
+## Objetivos
+1. Guiar las juntas de coordinación para comunicar efectivamente el estado de los items de trabajo 
+2. Resolver los impedimentos de las tareas del día.
 
 ## Entrada 
 1. Plan de trabajo
 2. Matriz de compromisos
 3. Matriz de riesgos
 4. Matriz de plan de involucramiento con el stakeholder
-
 
 ## Proceso
 <table>
@@ -87,8 +87,10 @@ Si alguno de los acuerdos con el stakeholder puede afectar el plan, actualizarlo
 3. Actualizar matriz de riesgos.
 4. Actualizar matriz de plan de involucramiento con el stakeholder.
 
+
 ## Métricas
 1. La duración debe ser menor o igual a 15 minutos, priorizando el tiempo al mantenimiento del plan.
 
 ***
 versión 1.5
+

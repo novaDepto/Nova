@@ -51,12 +51,9 @@ que ser la rama _master_**. La segunda es la rama que publicaste en el paso 1.
 
 0. Antes de iniciar el pull request te solicitará un título y una descripción.
 
-    1. **En el título**: escribe el título de tu archivo, en caso de que sea una
-       corrección, indica claramente que es sólo para una corrección (p.e. 
-       Corrección: Falta de ortografía en el menú principal).
+   1. **En el título**: escribe el título de tu archivo. En caso de que sea una corrección, indica claramente que es sólo para una corrección (p.e. Corrección: Falta de ortografía en el menú principal).
 
-    2. **En la descripción**: escribe el objetivo del documento, y una breve
-       descripción de este.
+   2. **En la descripción**: escribe el objetivo del documento, una breve descripción de este y una **justificación** a cerca de la creación del documento, mejora o cambio del mismo. Puedes agregar también notas que deberán de considerar las personas que revisarán el Pull request
 
 0. Finalmente confirma la creación presionando `Create pull request`.
 
@@ -78,7 +75,9 @@ que aparece a la izquierda de tu pantalla.
 necesarios en la **rama en la que publicaste tu borrador del documento**. Al
 volver a publicar esta rama, el _pull request_ se actualizará.
 
-2. Además, agrega a tu pull request la etiqueta de **Requested Changes Fixed**.
+2. Agrega a tu pull request la etiqueta de **Requested Changes Fixed**.
+
+3. Incluye un comentario que diga que ya se corrigió el cambio. **En caso de que consideres que los cambios pedidos no son válidos o necesarios, también justifícalo a los revisores del documento.**
 
 ## ¿Cómo hacer revisiones a propuestas de mis compañeros?
 ### Revisar cambios

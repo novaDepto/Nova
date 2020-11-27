@@ -20,8 +20,8 @@ Informar sobre la diferencia entre procesos, guías y/o políticas para poder cr
 * Tiene una serie de fases con actividades.
 * Sirven para regir procedimientos en una organización.
 * Evolucionan con el tiempo conforme evoluciona la forma de trabajo.
-* Para definir un proceso se debe seguir el <a href="https://github.com/novaDepto/Nova/blob/master/%5BPRO01%5D-Proceso-para-definir-un-proceso.md">proceso para definir un proceso</a>
-* Para definir un proceso se debe de usar la <a href="https://github.com/novaDepto/Nova/wiki/Plantilla-de-proceso.md">plantilla de proceso</a>
+* Para definir un proceso se debe seguir el <a href="https://github.com/novaDepto/Nova/wiki/%5BPRO01%5D-Proceso-para-definir-un-proceso.md">proceso para definir un proceso</a>
+* Para definir un proceso se debe de usar la <a href="https://github.com/novaDepto/Nova/wiki/Plantilla-de-proceso">plantilla de proceso</a>
 
 ### Guía
 * Serie de pasos específicos que nos ayudan a conocer el funcionamiento o manejo de alguna herramienta, producto, servicio.
@@ -33,7 +33,7 @@ Informar sobre la diferencia entre procesos, guías y/o políticas para poder cr
 * Son reglas estrictas que deben seguirse.
 * Establecen normas que rigen procedimientos, lineamientos y comportamientos que deben llevarse a cabo por todos los miembros del departamento.
 * Son establecidos por una organización.
-* Para definir un política se debe de usar la <a href="https://github.com/novaDepto/Nova/blob/plantilla/politica/Plantilla-de-pol%C3%ADtica.md">plantilla de política</a>
+* Para definir un política se debe de usar la <a href="https://github.com/novaDepto/Nova/wiki/Plantilla-de-pol%C3%ADtica">plantilla de política</a>
 
 ***
 versión 1.0

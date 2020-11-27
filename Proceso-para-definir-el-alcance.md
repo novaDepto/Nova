@@ -7,7 +7,7 @@ Luis       | Autor
 Raymundo   | Autor
 
 ## Objetivos
-1. Definir de manera realista el alcance del proyecto.
+1. Definir de manera objetiva el alcance del proyecto.
 2. Preparar la planeación de los ítems de trabajo del proyecto.
 
 ## Entradas
@@ -26,7 +26,7 @@ Raymundo   | Autor
   </thead>
   <tbody>
     <tr>
-      <td rowspan="8">Identificación de fases para WBS</td>
+      <td rowspan="8">Identificación</td>
       <td>Prioriza las necesidades del cliente.</td>
       <td rowspan="8">PP</td>
       <td rowspan="8">PP</td>
@@ -35,22 +35,22 @@ Raymundo   | Autor
       <td>Identifica los riesgos del proyecto <strong>(Consulta el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a> para más información).</strong></td>
     </tr> 
     <tr>
-      <td>Enlista las actividades para el desarrollo y obtención de conocimientos <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Política-de-gestión-habilidades-y-conocimientos">Política de gestión de habilidades y conocimientos</a> para más información).</strong></td>
+      <td>Enlista las actividades de formación <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Política-de-gestión-habilidades-y-conocimientos">Política de gestión de habilidades y conocimientos</a> para más información).</strong></td>
     </tr>
     <tr>
-    <td>Identifica las <a href="#glosario1">restricciones del proyecto.</a></td>
+      <td>Identifica las restricciones o limitaciones del proyecto</td>
     </tr>
     <tr>
       <td>Identifica los procesos estándar a seguir en el proyecto.</td>
     </tr>
     <tr>
-      <td>Enlista las actividades para la verificación y aseguramiento de la calidad del proyecto.</td>
+      <td>Identifica las actividades de verificación y aseguramiento de la calidad del proyecto.</td>
     </tr>
     <tr>
-      <td>Enlista los entregables del proyecto.</td>
+      <td>Identifica los entregables del proyecto.</td>
     </tr>
     <tr>
-      <td>Enlista las herramientas y recursos para desarrollar el proyecto.</td>
+      <td>Identifica las herramientas, componentes y recursos para desarrollar el proyecto <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-la-identificación-de-recursos-del-proyecto">Guía de identificación de recursos</a> para más información).</strong></td>
     </tr>
     <tr>
       <td rowspan="6">Definición</td>
@@ -59,10 +59,10 @@ Raymundo   | Autor
       <td rowspan="6">REQM, PP</td>
     </tr> 
     <tr>
-      <td>Define las fechas de entrega para cada fase y milestone. <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-ciclo-de-vida-del-proyecto">Guía del ciclo de vida del proyecto</a> para más información).</strong></td>
+      <td>Define las fechas de entrega para cada fase de desarrollo <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-ciclo-de-vida-del-proyecto">Guía del ciclo de vida del proyecto</a> para más información).</strong></td>
     </tr> 
     <tr>
-      <td>Estima el tiempo para desarrollar un requisito <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-Estimar">Guía para estimar</a>).</strong></td>
+      <td>Estima el tiempo para desarrollar un requisito <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-estimar">Guía para estimar</a> para más información).</strong></td>
     </tr> 
     <tr>
       <td>Define las actividades a realizar en cada fase y genera una matriz RACI para asignar responsabilidades entre los miembros.</td>
@@ -90,13 +90,13 @@ Raymundo   | Autor
 
 ## Salidas
 1. Acta de constitución del proyecto
-2. WBS con el listado de actividades
+2. WBS
 
 ## Glosario
-1. <b id="glosario1">Restricciones en proyectos:</b> (p.ej., alcance, calidad, cronograma, costos, recursos)
+1. Restricciones en proyectos: Alcance, calidad, cronograma, costos, recursos, etc...
 
 ## Métricas
 N/A
 
 ***
-versión 1.0
+Versión 1.1
