@@ -34,10 +34,14 @@
         <td>Si se presenta un cambio en las funcionalidades, actualiza el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1185110039">Backlog de cambios</a></strong> y <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=142199667">Backlog de inconsistencias</a></strong> conforme sea necesario.</td>
      </tr>
      <tr>
-         <td rowspan="3">Análisis</td>
+         <td rowspan="4">Análisis</td>
          <td>Realiza una sesión de retrospectiva para rellenar la <strong><a href="https://docs.google.com/presentation/d/1U08JwlISDmeyeUz-c2EplvUdz_375Qv3ShD0TSTIUqA/edit#slide=id.p1">Retrospectiva de la iteración</a></strong> con base en el Backlog de métricas.</td>
-         <td rowspan="3">TL</td>
+         <td rowspan="4">TL</td>
          <td>PP,PMC</td>
+    </tr>
+    <tr>
+        <td>Evalúa el avance de las milestones, checando cuáles se han completado y cuáles faltan por completarse llevando el registro en la <strong><a href="https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204">Plantilla de monitoreo del proyecto</a></strong>.</td>
+        <td>PMC, RSKM</td>
     </tr>
     <tr>
         <td>Evalúa los riesgos del proyecto siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de gestión de riesgos</a></strong>.</td>
@@ -59,4 +63,4 @@
 1. Sesión de retrospectiva (30 a 60 minutos).
 
 ***
-Versión 1.2
+Versión 1.3
