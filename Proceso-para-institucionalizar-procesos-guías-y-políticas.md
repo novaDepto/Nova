@@ -30,13 +30,21 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">Planteamiento</td>
+      <td rowspan="4">Planteamiento</td>
       <td>Copia y pega la <strong><a href="https://docs.google.com/spreadsheets/d/1QJwNEmHbWxy-EtVOlrlfLJfTQPJb6k8ikunp39Yk8-Y/edit#gid=0"> Plantilla de Checklist de Institucionalización</a></strong> según corresponda.</td>
-      <td rowspan="3">Dueño del entregable</td>
-      <td rowspan="3">CM, PPQA</td>
+      <td rowspan="4">Dueño del entregable</td>
+      <td rowspan="4">CM, PPQA</td>
     </tr>
     <tr>
       <td>Ten a la mano el checklist durante todo el proceso.</td>
+    </tr>
+    <tr>
+      <td>Rellena los datos del artefacto a revisar
+        <ul>
+          <li>Si el artefacto es <strong>nuevo</strong>, entonces la versión de este deberá ser de acuerdo a la línea base</li>
+          <li>Si el artefacto es uno <strong>existente al que le está implementando un PIP</strong>, entonces aumenta la versión dentro de la línea base <strong>(Ej. 1.0 --> 1.1)</strong></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Valida que el entregable cumpla con los puntos de <b>Viabilidad</b> y <b>Valor organizacional</b>.</td>
@@ -75,7 +83,7 @@
     <tr>
       <td>Solicita la revisión y aprobación de al menos un integrante </b> del <strong> <a href="https://github.com/novaDepto/Nova/wiki/Politica-de-Configuration-Control-Board">Configuration Control Board (CCB)</a>.</strong>
       </td>
-      <td>CCB o encargado del área relacionada al entregable</td>
+      <td>Dueño del entregable</td>
       <td>PPQA, PMC, OPD, OPF</td>
     </tr>
     <tr>
