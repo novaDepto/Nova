@@ -1,4 +1,5 @@
 ## Responsables
+
 | Nombre    | Rol               |
 | --------- | ----------------- |
 | Marla     | Dueño del Proceso |
@@ -36,7 +37,7 @@
      <tr>
          <td rowspan="6">Análisis</td>
          <td>Realiza una sesión de retrospectiva para rellenar la <strong><a href="https://docs.google.com/presentation/d/1U08JwlISDmeyeUz-c2EplvUdz_375Qv3ShD0TSTIUqA/edit#slide=id.p1">Retrospectiva de la iteración</a></strong></td>
-         <td rowspan="5">Equipo completo</td>
+         <td rowspan="6">Equipo completo</td>
          <td>PP, PMC</td>
     </tr>
     <tr>
@@ -71,4 +72,4 @@
 3. Historial de Análisis del Backlog de métricas actualizado
 
 ***
-Versión 1.4
+Versión 1.5
