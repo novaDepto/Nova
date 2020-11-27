@@ -56,7 +56,7 @@
     </tr>
     <tr>
         <td>Monitorea el manejo de datos de acuerdo a la <strong><a href="https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Manejo-de-Datos">Política de manejo de datos</a></strong> detallando en la <strong><a href="https://docs.google.com/presentation/d/1U08JwlISDmeyeUz-c2EplvUdz_375Qv3ShD0TSTIUqA/edit#slide=id.p1">Retrospectiva de la iteración</a></strong> los problemas que hayan tenido, el impacto de los mismos y decisiones para corregir o mantener un buen manejo de datos del proyecto.</td>
-        <td>PMC, RSKM</td>
+        <td>PP, PMC, RSKM</td>
     </tr>
     <tr>
         <td>Si el plan del proyecto se atrasó al fin de la iteración, genera una acción correctiva siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas">Proceso de acciones correctivas</a></strong> y evaluando las métricas recolectadas.</td>
