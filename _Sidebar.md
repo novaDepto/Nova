@@ -43,7 +43,7 @@
 * [\[GUI08\] Guía de especificación de requisitos](https://github.com/novaDepto/Nova/wiki/Guia-de%20-especificacion-requisitos)
 * [\[GUI10\] Guía de petición de cambios a historias de usuario](https://github.com/novaDepto/Nova/wiki/Guía-de-petición-de-cambios-a-historias-de-usuario)
 * [\[GUI09\] Guía del ciclo de vida del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-de-ciclo-de-vida-del-proyecto)
-* [\[GUI11\] Guía de identificación de métricas](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Identificación-de-Métricas)
+* [\[GUI11\] Guía de creación de métricas](https://github.com/novaDepto/Nova/blob/guia/CreacionMetricas/Guía-de-Creación-de-Métricas.md)
 * [\[GUI12\] Guía de uso de Clockify](https://github.com/novaDepto/Nova/wiki/Guía-de-uso-de-Clockify)
 * [\[GUI13\] Guía de entorno de verificación](https://github.com/novaDepto/Nova/wiki/Guía-de-entorno-de-verificación)
 * [\[GUI14\] Guía de determinación de evaluación de decisiones](https://github.com/novaDepto/Nova/wiki/Guía-de-determinación-de-evaluación-de-decisiones)
