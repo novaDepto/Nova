@@ -1,4 +1,3 @@
-
 ## Responsables
 
 | Nombre   | Rol               |
@@ -41,7 +40,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
       </ul>
       <strong>Se sugiere que el PO sea el proveedor de requisitos a nombre del departamento.</strong>
       <td rowspan="2">PO</td>
-      <td rowspan="2">REQM</td>
+      <td rowspan="2">REQM, VAL</td>
       </td>
     </tr>
     <tr>
@@ -50,7 +49,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
     <tr>
       <td>Identifica dependencias entre las necesidades.</td>
       <td rowspan="5">PO, TL</td>
-      <td rowspan="4">REQM, PP</td>
+      <td rowspan="4">REQM, PP, VAL</td>
     </tr>
     <tr>
       <td rowspan="4">Analisis</td>
@@ -66,7 +65,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
     <tr>
       <td>Identifica y analiza los posibles riesgos de aceptar algun requisito siguiendo el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">proceso de gestión de riesgos</a>.
       </td>
-      <td rowspan="1">REQM, PP, RSKM</td>
+      <td rowspan="1">REQM, PP, RSKM, VAL</td>
     </tr>
     <tr>
       <td rowspan="4">Aceptación de requisitos</td>
@@ -82,7 +81,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
           </ul>
       </td>
       <td rowspan="1">PO, TODOS</td>
-      <td rowspan="1">REQM</td>
+      <td rowspan="1">REQM, VAL</td>
     </tr> 
   </tbody>
 </table>
@@ -95,4 +94,5 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
 1) Valor Ganado de la Plantilla de Planeación-Monitoreo de la Iteración.
 
 ***
-versión 1.2
+versión 1.3
+
