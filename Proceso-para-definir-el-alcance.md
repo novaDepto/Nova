@@ -29,7 +29,7 @@ Raymundo   | Autor
       <td rowspan="8">Identificación</td>
       <td>Prioriza las necesidades del cliente.</td>
       <td rowspan="8">PP</td>
-      <td rowspan="8">PP</td>
+      <td rowspan="8">PP, VAL</td>
     </tr>
     <tr>
       <td>Identifica los riesgos del proyecto <strong>(Consulta el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a> para más información).</strong></td>
@@ -54,9 +54,9 @@ Raymundo   | Autor
     </tr>
     <tr>
       <td rowspan="6">Definición</td>
-      <td>Define el tiempo para concluir el proyecto.</td>
+      <td>Define el tiempo para concluir el proyecto así como el plan de liberaciones y milestones del mismo. <strong> (Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-ciclo-de-vida-del-proyecto">Guía de ciclo de vida del proyecto</a> para más información)</strong></td>
       <td rowspan="6">Todo el equipo</td>
-      <td rowspan="6">REQM, PP</td>
+      <td rowspan="6">REQM, PP, VAL</td>
     </tr> 
     <tr>
       <td>Define las fechas de entrega para cada fase de desarrollo <strong>(Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-ciclo-de-vida-del-proyecto">Guía del ciclo de vida del proyecto</a> para más información).</strong></td>
@@ -85,6 +85,15 @@ Raymundo   | Autor
     <tr>
       <td>Válida el acta de constitución del proyecto con el cliente.</td>
     </tr>
+     <tr>
+      <td rowspan="2">Preparación del ambiente de trabajo</td>
+      <td>Definir el medio de trabajo así como los horarios que se estará trabajando en el proyecto, asegurarse que todos los miembros del equipo tienen acceso y hay un común acuerdo del mismo.</td>
+      <td rowspan="2">TL, AO</td>
+      <td rowspan="2">PP, VAL</td>
+    </tr>
+    <tr>
+      <td>Definir las herramientas de desarrollo a utilizar y asegurarse que todos los miembros del equipo las tengan instaladas.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -99,4 +108,4 @@ Raymundo   | Autor
 N/A
 
 ***
-Versión 1.1
+Versión 1.2
