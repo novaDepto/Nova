@@ -38,7 +38,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
     <tr>
       <td>Valida el análisis asegurandote de que el "para que" de la US se pueda lograr</td>
       <td>Product Owner</td>
-      <td>REQM</td>
+      <td>REQM, VAL</td>
     </tr>
     <tr>
       <td rowspan="5">Diseño</td>
@@ -89,7 +89,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
     <tr>
         <td>Valida la us con los stakeholders y/o usuarios finales</td>
         <td>Product owner</td>
-        <td>REQM</td>
+        <td>REQM, VAL</td>
     </tr>
    <tr>
       <td rowspan="5">Pruebas</td>
@@ -136,7 +136,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
     <tr>
         <td>Valida el manual de usuario con el PO</td>
         <td>Autor de la US</td>
-        <td>REQM</td>
+        <td>REQM, VAL</td>
     </tr>
     
   </tbody>
@@ -150,4 +150,3 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
 
 ## Métricas
 1. Tiempo de ejecución del proceso
-
