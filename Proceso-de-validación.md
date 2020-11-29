@@ -28,7 +28,7 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
   <tbody>
     <tr>
       <td rowspan="2">Comprobación</td>
-      <td>Revisar la <strong><a href="https://github.com/novaDepto/Nova/wiki/Guía-de-validación">Guía de Validación </a> </strong> para saber qué es necesario evaluar en la historia de usuario.</td>
+      <td>Revisar la <strong><a href="https://github.com/novaDepto/Nova/wiki/Guía-de-validación-de-user-story">Guía de Validación </a> </strong> para saber qué es necesario evaluar en la historia de usuario.</td>
       <td>Autor del plan</td>
       <td>REQM</td>
     </tr>
