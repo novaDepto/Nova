@@ -63,13 +63,13 @@
     <tr>
         <td rowspan="3">Mantenimiento del plan</td>
         <td>
-Si alguno de los acuerdos con el stakeholder puede afectar el plan, actualizarlo.
+Si alguno de los acuerdos con el stakeholder puede afectar el plan ya sea historias de usuario o compromisos,  actualizar el plan.
 </td>
         <td>Team leader</td>
-        <td>PP</td>
+        <td>PP, REQM</td>
     </tr>
     <tr>
-      <td> Hacer una revisión al plan y en caso de tener una desviación de más del 10% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan </td>
+      <td> Hacer una revisión al plan y en caso de tener una desviación de más del 30% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan </td>
       <td> Team leader</td>
       <td> PP </td>
     </tr>
@@ -80,6 +80,7 @@ Si alguno de los acuerdos con el stakeholder puede afectar el plan, actualizarlo
     </tr> 
   </tbody>
 </table>
+
 
 ## Salida
 1. Actualización al plan de trabajo.

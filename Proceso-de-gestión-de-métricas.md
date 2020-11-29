@@ -1,18 +1,20 @@
 ## Responsables
-Nombre     | Rol
+ Nombre     | Rol
 -----------|------------------
 Daniel     | Dueño del proceso
-Peter      | Autor
-Raymundo   | Autor
+Irving      | Autor
+Juan   | Autor
 
 ## Objetivos
-1. Asegurar la recolección, análisis, comunicación y seguimiento de las métricas.
-2. Generar un plan de acción basado en los datos de las métricas.
-3. Poner a disposición las métricas para el departamento.
+1. Aplicación del modelo GQM(Goal-Question-Metric) para la gestión correcta de métricas.
+2. Generar un plan de acción basado en los datos obtenidos.
+3. Asegurar la recolección, análisis, comunicación y seguimiento de las métricas.
 
 ## Entradas
-1. Datos semanales nuevos del departamento o los equipos
+1. Datos semanales nuevos del departamento o los equipos.
 2. <a href="https://docs.google.com/spreadsheets/d/1RpU0kmGCRSH35LN6ZTPPkAXsNAeiS_OLvBdqoJsp060/edit#gid=297985474">Backlog de métricas</a>
+3. En caso de requerir la creación de una métrica seguir la Guía de Creación de métricas.
+
 
 ## Proceso
 <table>
@@ -38,18 +40,35 @@ Raymundo   | Autor
       <td>MA</td>
     </tr>
     <tr>
+     <td rowspan="2">Gestión</td>
+     <td>Identifica los elementos clave de la métrica: Meta/objetivos, Preguntas asignadas a la métrica</td>
+     <td rowspan="2">MA</td>
+     <td rowspan="2">MA</td>
+    </tr>
+    <tr>
+    <td> Responde cada una de las preguntas con las métricas recolectadas.</td>
+    </tr>
+    <tr>
       <td rowspan="3">Análisis</td>
-      <td>Compara los datos obtenidos con los indicadores específicos de la métrica 
-      <br>(<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Identificaci%C3%B3n-de-M%C3%A9tricas">Guía de Identificación de Métricas<strong></a> para saber cómo se calculan).</strong></td>
+      <td>Compara los nuevos datos con los anteriores, en caso de que exista una gráfica de tendencia, observa el comportamiento de ésta.</td>
       <td rowspan="3">MA</td>
       <td rowspan="3">PMC, MA</td>
     </tr>
     <tr>
-      <td>Compara los nuevos datos contra los anteriores.
+      <td> Identifica si las respuestas obtenidas y la tendencia generada van de acuerdo a la meta/objetivos.
       </td>
     </tr>
     <tr>
-      <td>Busca patrones y correlaciones entre los datos.</td>
+      <td>Identifica en el <a href="https://docs.google.com/spreadsheets/d/1RpU0kmGCRSH35LN6ZTPPkAXsNAeiS_OLvBdqoJsp060/edit#gid=297985474"><strong>Backlog de métricas</strong></a> la tabla "Historial de Análisis" y llena la columna "Análisis" con lo que has observado.</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Decisión</td>
+        <td>Toma una decisión a partir de los datos recolectados y analizados.</td>
+        <td rowspan="2">MA</td>
+        <td rowspan="2">PMC, MA</td>
+    </tr>
+    <tr>
+        <td>En la misma tabla "Historial de Análisis" Llena la columna "Decisión" con la iniciativa tomada</td>
     </tr>
     <tr>
       <td rowspan="3">Comunicación</td>
@@ -71,4 +90,4 @@ Raymundo   | Autor
 1. Backlog de Métricas
 
 ***
-versión 1.0
+versión 1.1
