@@ -28,10 +28,11 @@
 * [\[PRO27\] Proceso de SCAMPI](https://github.com/novaDepto/Nova/wiki/Proceso-de-SCAMPI)
 * [\[PRO28\] Proceso de mejora continua](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-continua)
 * [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
-* [\[PRO30\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
-* [\[PRO31\] Proceso de desarrollo de historias de usuario Andrómeda](https://github.com/novaDepto/Nova/wiki/Proceso-de-desarrollo-de-historias-de-usuario-Andrómeda)
-* [\[PRO32\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-acompañamiento-para-competencia-oral)
-* [\[PRO33\] Proceso de inspección](https://github.com/novaDepto/Nova/wiki/Proceso-de-inspección)
+* [\[PRO30\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-acompañamiento-para-competencia-oral)
+* [\[PRO31\] Proceso de inspección](https://github.com/novaDepto/Nova/wiki/Proceso-de-inspección)
+* [\[PRO32\] Proceso de desarrollo de historias de usuario Andrómeda](https://github.com/novaDepto/Nova/wiki/Proceso-de-desarrollo-de-historias-de-usuario-Andrómeda)
+
+
 
 ### Guías
 ***
