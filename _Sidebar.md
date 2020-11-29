@@ -1,4 +1,4 @@
-### [Mapa de procesos](https://drive.google.com/file/d/1WXMBn0wiYKdKTR2ANFS0dlHRj_vHOPfy/view?usp=sharing)
+### [Mapa de procesos](https://app.diagrams.net/#G1WO-4zv0Zsb4ugsiL5dlvyaZ0SuDR4aBu)
 
 ### Procesos
 ***
