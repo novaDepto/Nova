@@ -29,7 +29,7 @@
 * [\[PRO28\] Proceso de mejora continua](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-continua)
 * [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
 * [\[PRO30\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
-* [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-Acompañamiento-para-Competencia-Oral)
+* [\[PRO31\] Proceso de inspección](https://github.com/novaDepto/Nova/wiki/Proceso-de-inspección)
 
 ### Guías
 ***
