@@ -33,4 +33,4 @@
 </table>
 
 ***
-versión 0.1a
+versión 1.0

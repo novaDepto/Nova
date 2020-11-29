@@ -1,4 +1,3 @@
-# Guía de Exposición Oral
 
 ## Responsables
 | Nombre  | Rol   |
@@ -17,4 +16,4 @@ Facilitar la preparación y exposición de una presentación oral
 * Al recibir retroalimentación, decide qué vas a incorporar a tu discurso, haz las modificaciones y comienza a practicar, en caso de requerirlo pide ayuda a alguien que sea bueno en comunicación.
 
 ***
-Versión .1a
+Versión 1.0

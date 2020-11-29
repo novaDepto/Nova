@@ -1,4 +1,3 @@
-## Responsables
 
 ## Responsables
 
@@ -125,4 +124,4 @@ Orientar a los miembros de nova en la preparación y ejecución de presentacione
 1. Tiempo de ejecución del proceso
 
 ***
-versión 0.1a
+versión 1.0
