@@ -30,6 +30,7 @@
 * [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
 * [\[PRO30\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
 * [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-Acompañamiento-para-Competencia-Oral)
+* [\[PRO32\] Proceso de desarrollo de us](https://github.com/novaDepto/Nova/wiki/Proceso-de-Desarrollo-de-us)
 
 ### Guías
 ***

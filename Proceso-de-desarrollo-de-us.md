@@ -1,5 +1,3 @@
-# Proceso de desarollo de una historias de usuario
-
 ## Responsables
 
 | Nombre  | Rol   |
@@ -150,3 +148,6 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
 
 ## Métricas
 1. Tiempo de ejecución del proceso
+
+***
+Versión 1.5
