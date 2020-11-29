@@ -51,7 +51,7 @@ Realizar una inspección al código fuente de un componente de un proyecto de so
       <td>Escribe las líneas de código y Agile Points que conforman el componente.</td>
     </tr>
     <tr>
-      <td>Entrega a los inspectores los archivos necesarios para inspeccionar el componente.</td>
+      <td>Entrega a los inspectores los archivos necesarios para inspeccionar el componente <strong>(Consulta las Precondiciones en la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-entorno-de-verificaci%C3%B3n">Guía del Entorno de Verificación)</a><strong>.</td>
     </tr>
     <tr>
       <td rowspan="5">Inspección</td>
