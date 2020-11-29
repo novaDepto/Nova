@@ -28,7 +28,7 @@
 * [\[PRO27\] Proceso de SCAMPI](https://github.com/novaDepto/Nova/wiki/Proceso-de-SCAMPI)
 * [\[PRO28\] Proceso de mejora continua](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-continua)
 * [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
-* [\[PRO30\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
+* [\[PRO30\] Proceso de acompañamiento oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-acompañamiento-para-competencia-oral)
 * [\[PRO31\] Proceso de inspección](https://github.com/novaDepto/Nova/wiki/Proceso-de-inspección)
 
 ### Guías
