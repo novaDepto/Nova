@@ -30,18 +30,15 @@ Raymundo   | Autor
     <tr>
       <td rowspan="3">Preparación</td>
       <td>Comunica al equipo que hay un Pull Request en el repositorio.</td>
-      <td>Integrante del equipo</td>
+      <td rowspan="3">Autores del Pull Request</td>
       <td rowspan="3">VER</td>
     </tr>
     <tr>
       <td>Decide quiénes realizarán la Pair Review.</td>
-      <td>Equipo</td>
     </tr>
     <tr>
-      <td>Prepara el entorno del Pair Review.
-      <p>(<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-entorno-de-verificaci%C3%B3n">Guía del Entorno de Verificación<strong></a> para más información).</p>
+      <td>Entrega a la pareja los archivos necesarios para revisar el Pull Request <br><strong>(Consulta las Precondiciones en la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-entorno-de-verificaci%C3%B3n">Guía del Entorno de Verificación)</a><strong>.
       </td>
-      <td>Pair Reviewer</td>
     </tr>
     <tr>
       <td rowspan="2">Verificación</td>
