@@ -57,8 +57,18 @@ Charlie    | Autor
       <td>Los defectos deben documentarse en el Backlog de defectos.</td>
     </tr>
     <tr>
-      <td>Roles</td>
-      <td>Todos los inspectores tienen las mismas responsabilidades.</td>
+      <td rowspan="5">Roles</td>
+      <td><strong>Autor del código</strong> = Atiende las dudas de los inspectores.</td>
+    </tr>
+    <tr>
+      <td><strong>Moderador</strong> = Dirige el curso de la inspección.</td>
+    </tr>
+    <tr>
+      <td><strong>Asistente</strong> = Cronometra el tiempo de la inspección.</td>
+    </tr>
+    <tr>
+      <td><strong>Inspector</strong> = Rellena el Reporte de inspección.</td>
+    </tr>
   </tbody>
 </table>
 
