@@ -1,16 +1,14 @@
 ## Responsables
-
 | Nombre  | Rol   |
 |---------|-------|
 |         | Dueño del proceso |
 |         | Autor |
 
 ## Objetivos
-¿Cuál es la necesidad u objetivo que atiende este proceso? ¿Por qué es importante?
-* Recuerda que el proceso debe mejorar el desempeño del departamento y sus integrantes, así como cumplir con las metas de las áreas de proceso.
+(¿Cuál es la necesidad u objetivo que atiende este proceso? ¿Por qué es importante?)
 
 ## Entradas
-¿Qué información se usa para realizar este proceso?
+1. (¿Qué información se usa para realizar este proceso?)
 
 ## Proceso
 <table>
@@ -24,31 +22,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>Sustantivo</td>
-      <td>¿Qué tarea debes realizar?</td>
-      <td>¿Quién realiza esta tarea?</td>
-      <td>¿A qué área de proceso responde la tarea?</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
-1. **Se pueden insertar cuantas fases y actividades sean necesarias.**
-2. **Cada actividad debe tener un encargado y asociarse a un área del CMMI.**
-
-## Estándares de redacción (Esto NO se incluye como un apartado en el proceso)
-1. Las actividades inician con un verbo en **imperativo** (Ej. Realiza/Evalúa/Muestra).
-2. Se deben usar los nombres oficiales de los artefactos del departamento cuando se mencionen.
-3. No deben haber errores de ortografía, puntuación o sintaxis.
-4. Se debe usar un lenguaje claro, apropiado y comprensible.
-
 ## Salidas
-1. ¿Qué artefactos son creados o rellenados tras realizar el proceso?
-2. ¿Qué información se obtiene o actualiza tras realizar el proceso?
-* **NO todos los procesos producen artefactos e información, a veces solo una de las dos.**
+1. (¿Qué artefactos o datos se obtienen tras realizar el proceso?)
 
 ## Métricas
-1. ¿Qué métricas se pueden extraer de las salidas o el proceso mismo?
-* **NO todos los procesos necesitan o pueden generar métricas. En el dado caso, escribe N/A.**
+1. (¿Qué métricas se pueden extraer de las salidas del proceso?)
 
 ***
 Versión 1.1
