@@ -29,7 +29,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
   <tbody>
     <tr>
       <td rowspan="3">Identificación</td>
-      <td>En el <a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=846530107">plan de invoucramiento de stakeholders</a> identifica en la columna "proveedor de requisitos" a todos aquellos involucrados en el proyecto que sean los más apropiados para ser los proveedores de requisitos tomando como base los siguientes criterios.
+      <td>En el <a href="https://docs.google.com/spreadsheets/d/1LJW6x2z5gMSXP4xEJpemfEZRcDW06QFz_OxPx2q0hZI/edit#gid=0">plan de invoucramiento de stakeholders</a> identifica en la columna "proveedor de requisitos" a todos aquellos involucrados en el proyecto que sean los más apropiados para ser los proveedores de requisitos tomando como base los siguientes criterios.
       <ul>
         <li>Es quien da seguimiento y aprobará el proyecto al finalizar.</li>
         <li>Tiene la aprobación por parte de quien aprobará el proyecto al finalizar. </li>
