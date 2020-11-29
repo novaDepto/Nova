@@ -29,7 +29,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
       <td>REQM</td>
     </tr>
     <tr>
-      <td>Verifica el análisis siguiendo la <a href="https://docs.google.com/spreadsheets/d/1OzvLmG6009rsnaEdnI3jXBSzOqWM0eZoKP0ns16bBzU/edit#gid=0">checklist de verificación de análisis</a>. En caso de encontrar un defecto, registralo en  el <a href="">log de defectos</a></td>
+      <td>Verifica el análisis siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590">checklist de verificación de análisis</a>. En caso de encontrar un defecto, registralo en  el <a href="">log de defectos</a></td>
       <td>Autor de la US, Verificador</td>
       <td>REQM, VER</td>
     </tr>
@@ -55,7 +55,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
       <td>REQM</td>
     </tr>
     <tr>
-      <td>Verifica el diseño siguiendo la <a href="https://docs.google.com/spreadsheets/d/1OzvLmG6009rsnaEdnI3jXBSzOqWM0eZoKP0ns16bBzU/edit#gid=0">checklist de verificación de diseño</a>. En caso de encontrar un defecto, registralo en el <a href="">log de defectos</a></td>
+      <td>Verifica el diseño siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590">checklist de verificación de diseño</a>. En caso de encontrar un defecto, registralo en el <a href="">log de defectos</a></td>
       <td>Autor de la US, Verificador</td>
       <td>REQM, VER</td>
     </tr>
@@ -80,7 +80,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
         <td>REQM</td>
     </tr>
     <tr>
-        <td>Verifica la construcción en el PR siguiendo la <a href="https://gitlab.com/nova_tec/obcapital/backend/-/wikis/Verificaci%C3%B3n-de-c%C3%B3digo">checklist de verificación de código</a>.En caso de encontrar un defecto, registralo en  el <a href="https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit#gid=297985474">log de defectos</a></td>
+        <td>Verifica la construcción en el PR siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590">checklist de verificación de código</a>.En caso de encontrar un defecto, registralo en  el <a href="https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit#gid=297985474">log de defectos</a></td>
         <td>Autor de la US, Verificador</td>
         <td>REQM, VER</td>
     </tr>
@@ -106,7 +106,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
         <td>REQM</td>
     </tr>
     <tr>
-    <td>Verifica la construcción siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590" >checklist de verificación de pruebas.</a>a En caso de encontrar un defecto, registralo en el <a href="https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit#gid=297985474">log de defectos</a></td>
+    <td>Verifica las pruebas siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590" >checklist de verificación de pruebas.</a>a En caso de encontrar un defecto, registralo en el <a href="https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit#gid=297985474">log de defectos</a></td>
         <td>Autor de la US, Verificador</td>
         <td>REQM, VER</td>
     </tr>
@@ -122,12 +122,12 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
       <td>REQM</td>
     </tr>
     <tr>
-        <td>Documenta el funcionamiento de la us en el <a>manual de usuario</a></td>
+        <td>Documenta el funcionamiento de la us en el manual de usuario</td>
         <td>Autor de la US</td>
         <td>REQM</td>
     </tr>
     <tr>
-        <td>Documenta cualquier cambio a la arquitectura en el<a> manual de arquitectura</a></td>
+        <td>Documenta cualquier cambio a la arquitectura en el manual de arquitectura</td>
         <td>Autor de la US</td>
         <td>REQM</td>
     </tr>
