@@ -57,12 +57,14 @@
 * [\[GUI22\] Guía de Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-product-owner)
 * [\[GUI24\] Guía de identificación de riesgos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos)
 * [\[GUI25\] Guía de Team Member](https://github.com/novaDepto/Nova/wiki/Guía-de-Team-Member)
-* [\[GUI26\] Guía de validación](https://github.com/novaDepto/Nova/wiki/Guía-de-validación)
+* [\[GUI26\] Guía de Validación de User Story](https://github.com/novaDepto/Nova/wiki/Guía-de-validación-de-user-story)
 * [\[GUI27\] Guía para identificar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Guía-para-identificar-procesos-guías-políticas)
 * [\[GUI28\] Guía de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Guía-de-resoluci%C3%B3n-de-conflictos)
 * [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-denuncias)
-* [\[GUI30\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
+* [\[GUI30\] Guía de estrategia técnica](https://github.com/novaDepto/Nova/wiki/Guía-de-estrategia-técnica)
+* [\[GUI31\] Guía de Exposición Oral](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
 * [\[GUI32\] Guía para la identificación de recursos del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-para-la-identificación-de-recursos-del-proyecto)
+* [\[GUI32\] Guía de verificación y validación de productos](https://github.com/novaDepto/Nova/wiki/Guía-de-verificación-y-validación-de-productos)
 
 ### Políticas
 ***
