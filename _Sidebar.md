@@ -30,7 +30,7 @@
 * [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
 * [\[PRO30\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
 * [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-Acompañamiento-para-Competencia-Oral)
-* [\[PRO32\] Proceso de desarrollo de historias de usuario (Andrómeda)](https://github.com/novaDepto/Nova/wiki/Proceso-de-desarrollo-de-historias-de-usuario-Andrómeda)
+* [\[PRO32\] Proceso de desarrollo de historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-desarrollo-de-historias-de-usuario)
 
 ### Guías
 ***
