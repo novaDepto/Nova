@@ -1,4 +1,4 @@
-Responsables
+## Responsables
 
 | Nombre   | Rol               |
 | -------- | ----------------- |
