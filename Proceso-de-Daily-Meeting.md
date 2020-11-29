@@ -69,7 +69,7 @@ Si alguno de los acuerdos con el stakeholder puede afectar el plan ya sea histor
         <td>PP, REQM</td>
     </tr>
     <tr>
-      <td> Hacer una revisión al plan y en caso de tener una desviación de más del 10% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan </td>
+      <td> Hacer una revisión al plan y en caso de tener una desviación de más del 30% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan </td>
       <td> Team leader</td>
       <td> PP </td>
     </tr>
