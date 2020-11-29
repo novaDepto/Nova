@@ -10,6 +10,7 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
 
 ## Entrada
 1. Historia de usuario
+2. [**Guía de especificación de requisitos**](https://github.com/novaDepto/Nova/wiki/Guia-de -especificacion-requisitos)
 
 ## Proceso
 <table>
@@ -22,6 +23,12 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td rowspan="1">Especificación</td>
+        <td>En caso de requerirlo, consulta la guía de especificación de requisitos en los apartados Análisis, Diseño y Validación.</td>
+        <td>Responsable de US</td>
+         <td>REQM</td>
+    </tr>
     <tr>
       <td rowspan="3">Análisis</td>
         <td>Presenta el flujo de la historia de usuario utilizando una herramienta de ingeniería de software </td>
@@ -99,6 +106,7 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
     </tr>
   </tbody>
 </table>
+
 
 ## Salida
 1. Manual de Usuario
