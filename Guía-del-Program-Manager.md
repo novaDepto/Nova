@@ -7,47 +7,40 @@
 | Yaf | Autor |
 
 ## Objetivo
-Esta guía tiene como objetivo describir las responsabilidades y desafíos de un Program Manager. Así mismo, servirá para que cualquier miembro del departamento Nova esté orientado sobre lo que implica este rol y cuando se haga transición de roles sirva como referencia para quién sea PM.
+1. Guiar a los miembros del departamento sobre el rol y responsabilidades de un Program Manager.
 
-## Responsabilidades
-* Manejar el portafolio de proyectos
-* Velar por los valores, visión y misión del departamento
-* Monitorear los objetivos
-* Asegurarse de que el WOW se siga
-* Remover impedimentos del equipo
-* Defender el calendario y salud del equipo
-* Proveer todo lo necesario para que el equipo se desempeñe correctamente y por lo tanto, entregué los resultados esperados
-* Asegurar el éxito de los proyectos 
-* Identificar fortalezas y áreas de oportunidad del equipo
-* Organizar juntas con los diferentes equipos para mantener una comunicación efectiva y tomar decisiones en conjunto
-* Monitorear el estatus de los proyectos
-* Identificar riesgos del desarrollo 
-* Mantener un ambiente sano dentro del equipo
+## ¿Quién es el Program Manager?
+El Program Manager es el representante del departamento hacia el exterior. Es el encargado de monitorear la forma de trabajo de los equipos y administrar el proyecto del departamento. Se asegura de darle a los equipos el asesoramiento necesario para que puedan realizar sus proyectos de la manera más efectiva posible.
 
+## 1. Departamento
+* Velar por los valores, visión y misión del departamento.
+* Monitorear los objetivos del departamento.
+* Remover los impedimentos del departamento.
+* Defender el calendario y salud del departamento.
+* Identificar las fortalezas y áreas de oportunidad en el departamento.
+* Identificar riesgos en el proyecto del departamento.
+* Comunicar a los consultores el estado de los proyectos.
 
-## Desafíos
-* Asegurarse de que los equipos se organicen de manera efectiva en cada fase 
-* Proveer guías y prácticas comunes al departamento, siempre respetando el propio WOW definido por cada cada equipo
-* Coordinar el equipo de liderazgo
-* El equipo de liderazgo se compone de tres sub equipos:
-    * Product coordination
-    * Product ownership
-    * Architecture ownership
+## 2. Proyectos
+* Manejar el portafolio de proyectos.
+* Asegurar el éxito de los proyectos.
+* Monitorear el estatus de los proyectos.
+* Organizar juntas con los diferentes equipos para mantener una comunicación y toma de decisiones efectiva.
+* Proveer todo lo necesario para que los equipos se desempeñen correctamente y entreguen los resultados esperados.
+* Asegurar que los equipos se organicen de manera efectiva en cada fase del desarrollo del proyecto.
 
-* Guíar en la definición del WOW del programa
-    * Asignar tareas de una manera NO autocrática, sino basada en la capacidad y habilidades de los equipos
-    * Priorizar el trabajo
-    * Agendar liberaciones de la solución 
-    * Planificar el programa
-    * Coordinar equipos
-    * Coordinar horarios 
-    * Negociar dependencias funcionales 
-    * Negociar dependencias técnicas
-    * Administrar el programa
+## 3. Way of Work (WoW)
+* Guíar la definición del WoW del departamento.
+    * Asignar tareas basado en la capacidad y habilidades de los equipos.
+    * Monitorear y priorizar los Work Items del plan del departamento.
+    * Coordinar juntas, equipos y horarios .
+    * Negociar dependencias técnicas y funcionales.
+* Asegurar la efectividad del WoW.
+* Mantener un ambiente sano dentro del departamento.
 
 ## Referencias:
 * Ambler, S. W., & Lines, M. (2012). Disciplined agile delivery: A practitioner's guide to agile software delivery in the enterprise. Upper Saddle River, NJ: IBM Press.
 * Program Management Institute. (2020). Program Management. PMI website. Retrieve 20/09/2020 from: [https://www.pmi.org/disciplined-agile/process/program-management](https://www.pmi.org/disciplined-agile/process/program-management)
  
 ***
-versión 1.0
+Versión 1.1
