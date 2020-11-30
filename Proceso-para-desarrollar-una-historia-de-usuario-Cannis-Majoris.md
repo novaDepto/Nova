@@ -3,14 +3,12 @@
 | ------ | ----------------- |
 | Marla  | Dueño del proceso |
 | Irving |   Autor           |
-| Yaf    |   Autor           |
 
 ## Objetivo
 Definir los **criterios a seguir en cada fase del desarrollo de una historia de usuario** para asegurar la calidad de un producto de software.
 
 ## Entrada
 1. Historia de usuario
-
 ## Proceso
 <table>
   <thead>
@@ -23,40 +21,51 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
   </thead>
   <tbody>
     <tr>
+         <td rowspan="2">Asignación</td>
+         <td>Define el RACI de la historia de usuario en Backlog de Requisitos.</td>
+         <td>Responsable de US</td>
+         <td>REQM</td>
+    </tr>
+    <tr>
+         <td>Asigna la pareja a la historia de usuario en el tablero.</td>
+         <td>Responsable de US</td>
+         <td>REQM</td>
+    </tr>
+    <tr>
       <td rowspan="3">Análisis</td>
-        <td>Presenta el flujo de la historia de usuario utilizando una herramienta de ingeniería de software </td>
+        <td>Presenta el flujo de la historia de usuario utilizando una herramienta de ingeniería de software (véase diagramas de actividad y secuencia). Revisa el  <a href="https://docs.google.com/spreadsheets/d/1N_Co0-Jj21QWI_XME_h3kM-z37MwIO99N-ZEVFEKSSk/edit?usp=sharing">Checklist de diagramas de actividad.</a></td>
         <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
         <tr>
-        <td>Define los criterios de aceptación. </td>
+        <td>Define los criterios de aceptación. Revisa el <a href="https://docs.google.com/spreadsheets/d/1N_Co0-Jj21QWI_XME_h3kM-z37MwIO99N-ZEVFEKSSk/edit?usp=sharing">Checklist de criterios de aceptación.</a></td>
          <td>Responsable de US</td>
          <td>REQM</td>
      </tr>
     <tr>
-         <td>Valida el análisis con el PO.</td>
+         <td>Valida el análisis con el PO. En caso de encontrar algún defecto regístralo en el log de defectos.</td>
          <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
-    <tr>
+     <tr>
          <td rowspan="2">Diseño</td>
-         <td>Realiza el diseño de interfaz de la historia de usuario.</td>
+         <td>Diseña los Wireframes de la historia de usuario. Revisa el <a href="https://docs.google.com/spreadsheets/d/1N_Co0-Jj21QWI_XME_h3kM-z37MwIO99N-ZEVFEKSSk/edit?usp=sharing">Checklist de Wireframes.</a></td>
          <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
     <tr>
-         <td>Valida el diseño con el PO.</td>
+         <td>Valida los diseño con el PO.  En caso de encontrar algún defecto regístralo en el log de defectos.</td>
          <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
     <tr>
-         <td rowspan="4">Implementación</td>
-         <td>Revisa la entidad y sus atributos en el diagrama MER.</td>
+         <td rowspan="5">Implementación</td>
+         <td>Define la entidad y sus atributos en el diagrama MER.</td>
          <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
     <tr>
-         <td>Revisa las entidades en el diccionario de datos.</td>
+         <td>Define las entidades en el diccionario de datos.</td>
          <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
@@ -70,14 +79,19 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
                   <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
+        <tr>
+         <td>Verifica la implementación con la <a href="https://docs.google.com/spreadsheets/d/1q-SjC4gj9X4_DL2qxXfhUKVq4J5odkJlyza0gS9D0AE/edit#gid=1461386475">Checklist de verificación de código</a>. En caso de encontrar algún defecto regístralo en el log de defectos.</td>
+                  <td>Responsable de US</td>
+         <td>REQM</td>
+    </tr>
     <tr>
          <td rowspan="2">Pruebas</td>
-         <td>Realiza las pruebas unitarias.</td>
+         <td>Realiza las pruebas unitarias. En caso de encontrar algún defecto regístralo en el log de defectos.</td>
          <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
     <tr>
-         <td>Realiza las pruebas de usabilidad.</td>
+         <td>Realiza las pruebas de usabilidad. En caso de encontrar algún defecto regístralo en el log de defectos.</td>
          <td>Responsable de US</td>
          <td>REQM</td>
     </tr>
@@ -107,5 +121,4 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
 
 ***
 
-Versión 1.0a
-
+Versión 1.1

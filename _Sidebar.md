@@ -11,7 +11,7 @@
 * [\[PRO07\] Proceso de cierre de iteración](https://github.com/novaDepto/Nova/wiki/Proceso-de-cierre-de-iteración)
 * [\[PRO08\] Proceso de modificación de línea base](https://github.com/novaDepto/Nova/wiki/Proceso-de-modificacion-de-linea-base)
 * [\[PRO09\] Proceso de gestión de historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-historias-de-usuario)
-* [\[PRO10\] Proceso para desarrollar una historia de usuario ]( https://github.com/novaDepto/Nova/wiki/Proceso-para-desarrollar-una-historia-de-usuario)
+* [\[PRO10\] Proceso para desarrollar una historia de usuario Cannis Majoris]( https://github.com/novaDepto/Nova/wiki/Proceso-para-desarrollar-una-historia-de-usuario)
 * [\[PRO11\] Proceso de gestión de métricas](https://github.com/novaDepto/Nova/wiki/Proceso-de-gestión-de-métricas)
 * [\[PRO13\] Proceso de gestión de riesgos](https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos)
 * [\[PRO15\] Proceso de acciones correctivas](https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas)
