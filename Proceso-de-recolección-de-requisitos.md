@@ -16,7 +16,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
 2. [Proceso para plan de Involucramiento de Stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 
 ## Proceso
- 				 			 
+
 <table>
   <thead>
     <tr>
@@ -68,7 +68,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
       <td rowspan="1">REQM, PP, RSKM, VAL</td>
     </tr>
     <tr>
-      <td rowspan="4">Aceptación de requisitos</td>
+      <td rowspan="1">Revisión de requisitos</td>
       <td>Comunica con el equipo y decidan si se acepta o no. Para aceptar un requisito, verifica que el requisito:
         <ul>
             <li>Aporte valor a la solución</li>
@@ -82,10 +82,17 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
       </td>
       <td rowspan="1">PO, TODOS</td>
       <td rowspan="1">REQM, VAL</td>
-    </tr> 
+    </tr>
+	 <tr>
+      <td rowspan="1">Aceptación de requisitos</td>
+      <td>
+       Verifica la lista de requisitos con los stakeholders, explicando las necesidades que se solucionan. (De ser necesario un cambio, ejecuta este proceso nuevamente)
+      </td>
+      <td rowspan="1">PO, TODOS</td>
+      <td rowspan="1">REQM, VAL</td>
+    </tr>
   </tbody>
 </table>
-
 
 ## Salidas
 1) Lista de Requisitos funcionales/No funcionales
