@@ -68,6 +68,7 @@
 * [\[GUI31\] Guía de exposición oral](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
 * [\[GUI32\] Guía para la identificación de recursos del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-para-la-identificación-de-recursos-del-proyecto)
 * [\[GUI32\] Guía de verificación y validación de productos](https://github.com/novaDepto/Nova/wiki/Guía-de-verificación-y-validación-de-productos)
+* [\[GUI33\] Guía del Architect Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-architect-owner)
 
 ### Políticas
 ***
