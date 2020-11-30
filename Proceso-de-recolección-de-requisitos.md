@@ -40,8 +40,8 @@ Establecer un criterio que ayude a recopilar los requisitos apropiados para sati
       <td>Identifica requisitos no funcionales en las necesidades.</td>
     </tr>
     <tr>
-      <td> Escribe las necesidades identificadas en el <strong>Backlog de Requisitos (<a href="https://docs.google.com/document/d/1kWa49M5i2LyEFAsawZfrYRFMQnMOAeqNbDrwHtjj7tE/edit" target="_blank">Andromeda</a></strong>,
-      <strong><a href="https://docs.google.com/spreadsheets/d/1QIIxxGKVowHiTMKZ0W9J0BH3R1VLyfq81xQvodNfULI/edit#gid=117876730" target="_blank">Cannis</a>).</strong></td>
+      <td> Escribe las necesidades identificadas en la Hoja de Necesidades del Socio en el <strong> <a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1630941258" target="_blank">Backlog de Requisitos</a></strong>,
+      </td>
     </tr>
     <tr>
       <td rowspan="3">Analisis</td>
@@ -82,3 +82,5 @@ Establecer un criterio que ayude a recopilar los requisitos apropiados para sati
 ## Métricas
 1) Valor Ganado de la Plantilla de Planeación-Monitoreo de la Iteración.
 
+***
+versión 2.0

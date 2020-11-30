@@ -127,4 +127,4 @@ Erwin  | Autor
 2. Matriz de retroalimentación
 
 ***
-Versión .1b
+Versión 2.0

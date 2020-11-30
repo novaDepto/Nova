@@ -92,7 +92,6 @@
 </table>
 
 
-
 ## Salida
 1. Plan de iteración rellenada
 2. Proceso de Involucramiento de Stakeholders
@@ -101,4 +100,4 @@
 1. Tiempo de ejecución del proceso
 
 ***
-Versión 1.1
+Versión 2.0

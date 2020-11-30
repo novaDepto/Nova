@@ -69,7 +69,7 @@ Si alguno de los acuerdos con el stakeholder puede afectar el plan, actualizarlo
         <td>PP</td>
     </tr>
     <tr>
-      <td> Hacer una revisión al plan y en caso de tener una desviación de más del 10% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-ejecuci%C3%B3n-de-medidas-correctivas">medidas correctivas</a> necesarias para ajustar el plan </td>
+      <td> Hacer una revisión al plan y en caso de tener una desviación de más del 10% aplicar las <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-acciones-correctivas">medidas correctivas</a> necesarias para ajustar el plan </td>
       <td> Team leader</td>
       <td> PP </td>
     </tr>
@@ -92,5 +92,5 @@ Si alguno de los acuerdos con el stakeholder puede afectar el plan, actualizarlo
 1. La duración debe ser menor o igual a 15 minutos, priorizando el tiempo al mantenimiento del plan.
 
 ***
-versión 1.5
+versión 2.0
 

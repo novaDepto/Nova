@@ -107,5 +107,5 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
 
 ***
 
-Versión 1.0a
+Versión 2.0
 

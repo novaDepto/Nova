@@ -40,7 +40,7 @@ Raymundo   | Autor
     <tr>
       <td rowspan="3">Análisis</td>
       <td>Compara los datos obtenidos con los indicadores específicos de la métrica 
-      <br>(<strong>Consulta la <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Identificaci%C3%B3n-de-M%C3%A9tricas">Guía de Identificación de Métricas<strong></a> para saber cómo se calculan).</strong></td>
+      </td>
       <td rowspan="3">MA</td>
       <td rowspan="3">PMC, MA</td>
     </tr>
@@ -53,7 +53,7 @@ Raymundo   | Autor
     </tr>
     <tr>
       <td rowspan="3">Comunicación</td>
-      <td>Documenta las métricas obtenidas, junto con su análisis razonado, en el Reporte de Estado Semanal (Consulta la <a href="https://drive.google.com/drive/u/1/folders/1XZxtdq3RoWhYY6TDnYhSzn36lIpbwFja"><strong>Plantilla del Reporte de Estado<strong></a>). </td>
+      <td>Documenta las métricas obtenidas, junto con su análisis razonado, en el Reporte de Estado Semanal (Consulta la <strong> <a href="https://drive.google.com/drive/u/1/folders/1XZxtdq3RoWhYY6TDnYhSzn36lIpbwFja">Plantilla del Reporte de Estado</a>).<strong> </td>
       <td rowspan="3">MA</td>
       <td rowspan="3">PP, MA</td>
     </tr>
@@ -71,4 +71,4 @@ Raymundo   | Autor
 1. Backlog de Métricas
 
 ***
-versión 1.0
+versión 2.0

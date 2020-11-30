@@ -15,7 +15,7 @@ Definir las actividades a realizar en una junta con el cliente.
 1. [Plantilla de Involucramiento de Stakeholders](https://docs.google.com/spreadsheets/d/1LJW6x2z5gMSXP4xEJpemfEZRcDW06QFz_OxPx2q0hZI/edit#gid=1409053923) 
 2. [Minuta de junta](https://docs.google.com/document/d/1k6VO5KwX-mtLj0ZjzU7Rezhc-J7_iJ3ESrvyFMy-uRY/edit?usp=sharing)
 3. [Backlog de cambios](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)
-4. [Planeación de la iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1457739545)
+4. [Planeación de la iteración](https://docs.google.com/spreadsheets/d/1M9tEEHHR3T3sjsyLJInvCYqsI33Mv_aYRQG24igrs_E/edit?usp=drive_web&ouid=102870935383672915125)
 5. [Matriz de riesgos](https://docs.google.com/spreadsheets/d/18VTmqZFssfmSA94mQ-7-Vk1mXdO4NWjvTCE1Hzx7w4g/edit#gid=1120081718)
 
 ## Proceso
@@ -72,7 +72,7 @@ Definir las actividades a realizar en una junta con el cliente.
       <td>Documenta cualquier riesgo que salga de la junta siguiendo el <strong><a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-riesgos">Proceso de Gestión de Riesgos</a></strong>.</td>
     </tr>
     <tr>
-      <td>Aplica la <strong><a href="https://forms.gle/qk8K3Cgn8JJsB9dW6">Encuesta de satisfacción al cliente</a></strong>.</td>
+      <td>Aplica la <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSegGTK2uA0nmZra2vNqSFmT6yY7ieFn3RrRmAYbKwnn6deXFg/viewform?usp=sf_link">Encuesta de satisfacción al cliente</a></strong>.</td>
       <td rowspan="2">PP, PMC</td>
     </tr>
     <tr>
@@ -112,4 +112,4 @@ Definir las actividades a realizar en una junta con el cliente.
 
 ***
 
-Versión 1.2
+Versión 2.0

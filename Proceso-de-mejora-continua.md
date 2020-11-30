@@ -24,7 +24,7 @@
   <tbody>
     <tr>
       <td rowspan="5">Análisis</td>
-      <td>Copia y pega la <strong><a href="https://drive.google.com/drive/folders/1T-uc9Qq8DJFU_dVLAq8DKjDVZbLt2mz8?usp=sharing"> Plantilla de PIP</a></strong>.</td>
+      <td>Copia y pega la <strong><a href="https://docs.google.com/spreadsheets/d/1Nm8hRKyHrkTOLHAgPSefPR1EFTksQOtR67O4vHRFoc4/edit"> Plantilla de PIP en el Backlog de PIPs</a></strong>.</td>
       <td rowspan="5">Autor del PIP</td>
       <td rowspan="5">PPQA, PMC, OPD, OPF</td>
     </tr>
@@ -82,4 +82,4 @@
 1. Tiempo promedio de aplicación de mejoras
 
 ***
-Versión 1.2
+Versión 2.0

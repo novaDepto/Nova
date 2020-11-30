@@ -125,4 +125,4 @@
 1. Backlog de procesos
 
 ***
-Versión 1.1
+Versión 2.0

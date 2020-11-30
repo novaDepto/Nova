@@ -66,9 +66,8 @@ Conocer el proceso, entradas y salidas que debe de tener el flujo de validación
 Los resultados finales son:
 1. Wireframes, diagramas de actividad, diagramas de flujo y/o casos de prueba actualizados.
 2. Métricas de tiempos y de satisfacción.
-
     
 ***
-versión 1.2
+versión 2.0
 
 

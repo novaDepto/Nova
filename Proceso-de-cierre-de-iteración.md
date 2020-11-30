@@ -63,4 +63,4 @@
 1. Sesión de retrospectiva (30 a 60 minutos).
 
 ***
-Versión 1.3
+Versión 2.0

@@ -9,7 +9,7 @@
 Realizar una inspección al código fuente de un componente de un proyecto de software, de acuerdo a una checklist de código, para así encontrar posibles defectos y dar paso a su resolución
 
 ## Entradas
-1. [Reporte de inspección](https://docs.google.com/spreadsheets/d/1c6FRhE9Fm7sWP4pWwGucm6aBd6LtCEgJ2KAb7Hz2inY/edit?usp=sharing)
+1. [Reporte de inspección](https://docs.google.com/spreadsheets/d/1MRa1gjtF_DUqVybsPa9u1NTLnkQr5NAtyJtS0Q0poz4/edit?usp=drive_web&ouid=102870935383672915125)
 2. Componente a ser inspeccionado
 
 ## Proceso
@@ -25,7 +25,7 @@ Realizar una inspección al código fuente de un componente de un proyecto de so
   <tbody>
     <tr>
       <td rowspan="6">Preparación</td>
-      <td>Copiar y pegar el <a href="https://docs.google.com/spreadsheets/d/1c6FRhE9Fm7sWP4pWwGucm6aBd6LtCEgJ2KAb7Hz2inY/edit?usp=sharing">Reporte de inspección</a> a la carpeta de la iteración actual </td>
+      <td>Copiar y pegar el <a href="https://docs.google.com/spreadsheets/d/1MRa1gjtF_DUqVybsPa9u1NTLnkQr5NAtyJtS0Q0poz4/edit?usp=drive_web&ouid=102870935383672915125">Reporte de inspección</a> a la carpeta de la iteración actual </td>
       <td>Miembro del departamento</td>
       <td>VER, PPQA</td>
     </tr>
@@ -65,7 +65,7 @@ Realizar una inspección al código fuente de un componente de un proyecto de so
       <td>VER, PPQA</td>
     </tr>
     <tr>
-      <td> Los inspectores abren la <a href="https://docs.google.com/spreadsheets/d/1E_izcL8uxgLuaBweOwx9BvzihSYBKjuGjGuQ7ilZv24/edit#gid=1351407982"> Checklist de código </a> , <a href="https://docs.google.com/spreadsheets/d/1c6FRhE9Fm7sWP4pWwGucm6aBd6LtCEgJ2KAb7Hz2inY/edit?usp=sharing"> Reporte de inspección </a>y los archivos de código del componente que será inspeccionado. </td>
+      <td> Los inspectores abren la <a href="https://docs.google.com/spreadsheets/d/1E_izcL8uxgLuaBweOwx9BvzihSYBKjuGjGuQ7ilZv24/edit#gid=1351407982"> Checklist de código </a> , <a href="https://docs.google.com/spreadsheets/d/1MRa1gjtF_DUqVybsPa9u1NTLnkQr5NAtyJtS0Q0poz4/edit?usp=drive_web&ouid=102870935383672915125"> Reporte de inspección </a>y los archivos de código del componente que será inspeccionado. </td>
       <td>Moderador, persona que toma el tiempo</td>
       <td>VER, PPQA</td>
     </tr>
@@ -75,7 +75,7 @@ Realizar una inspección al código fuente de un componente de un proyecto de so
       <td>VER, PPQA</td>
     </tr>
     <tr>
-      <td> Por cada rubro de la checklist de código, los inspectores leen el código del componente y registran los defectos que van encontrando en su hoja correspondiente del <a href="https://docs.google.com/spreadsheets/d/1c6FRhE9Fm7sWP4pWwGucm6aBd6LtCEgJ2KAb7Hz2inY/edit?usp=sharing">Reporte de inspección</a> </td>
+      <td> Por cada rubro de la checklist de código, los inspectores leen el código del componente y registran los defectos que van encontrando en su hoja correspondiente del <a href="https://docs.google.com/spreadsheets/d/1MRa1gjtF_DUqVybsPa9u1NTLnkQr5NAtyJtS0Q0poz4/edit?usp=drive_web&ouid=102870935383672915125">Reporte de inspección</a> </td>
       <td>Moderador, persona que toma el tiempo</td>
       <td>VER, PPQA</td>
     </tr>
@@ -148,4 +148,4 @@ Realizar una inspección al código fuente de un componente de un proyecto de so
 4. Esfuerzo total de la inspección
 
 ***
-versión 0.1b
+versión 2.0
