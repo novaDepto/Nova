@@ -1,17 +1,15 @@
 # Guía de Manuales
 
 ## Responsables
-Nombre     | Rol
------------|------------------
-Alonso     | Autor
-Irving     | Autor
+| Nombre  | Rol              |
+| ------  | -----            |
+| Irving  | Dueño de la guía |
+| Alonso  | Autor            |
 
-## Objetivo
-
+## Objetivos
 Un manual de usuario o guía de usuario es un documento de comunicación técnica destinado a dar asistencia a las personas que utilizan un sistema en particular. Es decir, es un documento organizado y estructurado con una serie de instrucciones sobre cómo utilizar un determinado sistema, producto o servicio. Los manuales deben ser útiles y entendibles para cualquier usuario.
 
 ## Recomendaciones generales para la elaboración de un manual
-
 1. Ser consciente acerca de **quién es la audiencia o lector**, ya que de esta manera podremos adaptar el manual a sus necesidades.
 2. **Crear la estructura** que tendrá el manual de usuario.
     * **Portada**
