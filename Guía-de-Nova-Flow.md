@@ -89,4 +89,4 @@ calidad del código.
 [novaflow]: ./media/guia_nova_flow_flow.png
 
 ***
-versión 1.0
+versión 2.0

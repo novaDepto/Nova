@@ -32,4 +32,4 @@ Alonso     | Autor
 * Hablar de los resultados en las Juntas de Seguimiento Personal.
 
 ***
-versión 1.0
+versión 2.0

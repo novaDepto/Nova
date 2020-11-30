@@ -48,4 +48,4 @@ Se considera como información sensible si se cumplen los siguientes criterios:
 - Es información con relación a la administración y/o logística de la empresa.
 
 ***
-versión 1.0
+versión 2.0

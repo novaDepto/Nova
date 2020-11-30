@@ -101,4 +101,4 @@ ACM (2020) Código de Ética y Conducta Profesional de ACM. Recuperado el 22 de 
 ![Firmas comité ética](https://raw.githubusercontent.com/novaDepto/Nova/master/Desarrollo%20de%20departamento/Comit%C3%A9%20de%20%C3%89tica/firmascodigoetica.PNG)
 
 ***
-versión 1.0
+versión 2.0

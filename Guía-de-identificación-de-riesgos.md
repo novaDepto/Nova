@@ -18,5 +18,5 @@ Aquellos problemas o situaciones **recurrentes** que:
 * **Temporal:** Afecten al tiempo de trabajo de los integrantes
 
 ***
-versión 1.0
+versión 2.0
 		

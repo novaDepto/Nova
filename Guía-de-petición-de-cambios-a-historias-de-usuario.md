@@ -102,6 +102,6 @@ A continuación se presenta la plantilla para la solicitar el cambio de una hist
 </table>
 
 ***
-versión 1.0
+versión 2.0
 
 

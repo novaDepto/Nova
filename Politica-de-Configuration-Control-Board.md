@@ -33,4 +33,4 @@ Que el departamento conozca qué es el Configuration Control Board, quiénes lo 
     </ul>
 
 ***
-versión 1.0
+versión 2.0

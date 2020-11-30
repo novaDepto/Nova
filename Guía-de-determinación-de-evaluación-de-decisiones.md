@@ -23,4 +23,4 @@ Raymundo   | Autor
 * **Sean unánimes en el equipo o departamento**
 
 ***
-versión 1.0
+versión 2.0

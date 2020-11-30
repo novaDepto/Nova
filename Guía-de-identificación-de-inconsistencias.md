@@ -37,4 +37,4 @@ Es una discrepancia entre los planes de trabajo y los requisitos a desarrollar e
 Se documentan en el <strong><a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=142199667"> Log de Inconsistencias </a></strong> para que el equipo las atienda lo antes posible.
 
 ***
-versión 1.0
+versión 2.0

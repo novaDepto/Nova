@@ -58,4 +58,4 @@ A continuacion se incluyen las 10 heurísticas en formato de checklist para aseg
 </table>
 
 ***
-Versión 1.1
+versión 2.0

@@ -143,7 +143,8 @@ A continuación se presenta la plantilla utilizada para la especificación de hi
 </br></br>- Los documentos/diagramas hechos sirven para entender la historia de usuario.</br></br>- Evidencias de los modelos a usar ya sea diagrama de actividad/wireframe.</br></br>- Satisface la necesidad del socio formador.</br></br>- Abarca los atributos de calidad a considerar para la historia de usuario.
     </td>
 </tr>
+</table>
 
 ***
-versión 1.0
+versión 2.0
 

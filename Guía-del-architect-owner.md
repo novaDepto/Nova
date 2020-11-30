@@ -37,4 +37,4 @@ El Architect Owner es quien se encarga de definir y mantener la estructura de un
 + Welcome to the Agile Architect Website! (n.d.). Retrieved November 30, 2020, from https://www.agilearchitect.org/agile/role.htm
 
 ***
-Versión 2.0
+versión 2.0
