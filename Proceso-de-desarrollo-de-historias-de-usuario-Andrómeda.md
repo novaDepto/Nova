@@ -29,7 +29,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
       <td>REQM</td>
     </tr>
     <tr>
-      <td>Verifica el análisis siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590">hoja de definition of done</a>. En caso de encontrar un defecto, registralo en  el <a href="">log de defectos</a></td>
+      <td>Verifica el análisis siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590">hoja de definition of done</a>. En caso de encontrar un defecto, registralo en  el <a href="https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit#gid=1803474303">log de defectos</a></td>
       <td>Autor de la US, Verificador</td>
       <td>REQM, VER</td>
     </tr>
@@ -55,7 +55,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
       <td>REQM</td>
     </tr>
     <tr>
-      <td>Verifica el diseño siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590">hoja de definition of done</a>. En caso de encontrar un defecto, registralo en el <a href="">log de defectos</a></td>
+      <td>Verifica el diseño siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590">hoja de definition of done</a>. En caso de encontrar un defecto, registralo en el <a href="https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit#gid=1803474303">log de defectos</a></td>
       <td>Autor de la US, Verificador</td>
       <td>REQM, VER</td>
     </tr>
@@ -106,7 +106,7 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
         <td>REQM</td>
     </tr>
     <tr>
-    <td>Verifica las pruebas siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590" >hoja de definition of done.</a>a En caso de encontrar un defecto, registralo en el <a href="https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit#gid=297985474">log de defectos</a></td>
+    <td>Verifica las pruebas siguiendo la <a href="https://docs.google.com/spreadsheets/d/1IgZc7QfV-ERe5NN4mzPMR0jwJEriAZw02rgkx8LZxTk/edit#gid=267543590" >hoja de definition of done.</a>a En caso de encontrar un defecto, registralo en el <a href="https://docs.google.com/spreadsheets/d/1p7jjni0co6IECTxC1ZdccV9jmnQxoqOTV6jjng3B4EQ/edit#gid=1803474303">log de defectos</a></td>
         <td>Autor de la US, Verificador</td>
         <td>REQM, VER</td>
     </tr>
@@ -136,7 +136,8 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
         <td>Autor de la US</td>
         <td>REQM, VAL</td>
     </tr>
-    
+
+
   </tbody>
 </table>
 
