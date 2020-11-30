@@ -57,7 +57,7 @@
 * [\[GUI19\] Guía del Team Leader](https://github.com/novaDepto/Nova/wiki/Guía-del-Team-Leader)
 * [\[GUI20\] Guía para juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-desempeño)
 * [\[GUI21\] Guía para juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-seguimiento-personal)
-* [\[GUI22\] Guía del Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-product-owner)
+* [\[GUI22\] Guía del Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-Product-Owner)
 * [\[GUI24\] Guía de identificación de riesgos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos)
 * [\[GUI25\] Guía del Team Member](https://github.com/novaDepto/Nova/wiki/Guía-de-Team-Member)
 * [\[GUI26\] Guía de Validación de User Story](https://github.com/novaDepto/Nova/wiki/Guía-de-validación-de-user-story)
