@@ -1,5 +1,3 @@
-# Guía de Manuales
-
 ## Responsables
 | Nombre  | Rol              |
 | ------  | -----            |
