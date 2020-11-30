@@ -34,6 +34,7 @@ Política          | POL     | POL02
 Proceso           | PRO     | PRO32
 Wireframe         | WIR     | WIR79
 Plantilla         | PLA     | PLA34
+Checklist         | CHE     | CHE04
 Documentos proporcionados por el stakeholder | STA | STA01
 Manual de usuario        | MAN     | MAN02
 
@@ -74,4 +75,4 @@ fix: Cambiar el título para corregir faltas ortográficas.
 * [Guía para NovaFlow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
 
 ***
-versión 1.0
+versión 2.0

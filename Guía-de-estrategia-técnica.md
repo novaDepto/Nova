@@ -103,4 +103,4 @@ Luis       | Autor
 3. Los equipos deciden qué componentes de la arquitectura desarrollarán por historia de usuario.
 
 ***
-Versión 1.0
+versión 2.0

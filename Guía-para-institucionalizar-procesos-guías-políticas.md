@@ -141,4 +141,4 @@ botón de `Submit review`.
 [aprobar]: media/guia_institucionalizar_aprobar.png
 
 ***
-versión 1.0
+versión 2.0

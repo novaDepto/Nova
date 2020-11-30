@@ -67,4 +67,4 @@ Grupo Carricay. (2018). ¿Cómo escribir un buen manual de usuario?. Noviembre 2
 Nekodificador. (2017). Cómo hacer un vídeo tutorial. Noviembre 29, 2020, de YouTube Sitio web: https://www.youtube.com/watch?v=YtmzH_GP5vQ.
 
 ***
-Versión 1.0
+versión 2.0

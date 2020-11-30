@@ -157,4 +157,4 @@ Raymundo   | Autor
 </table>
 
 ***
-versión 1.0
+versión 2.0

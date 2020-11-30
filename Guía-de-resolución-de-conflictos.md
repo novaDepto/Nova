@@ -19,4 +19,4 @@ Guiar la resolución de conflictos del departamento para mantener un ambiente co
 7. Los mediadores del Comité de Ética escribirán en un documento los acuerdos a los que llegaron los involucrados, se les preguntará a los involucrados si están de acuerdo con lo que se escribió y finalmente el mediador firmará un apartado que estipula que los involucrados estuvieron de acuerdo.
 
 ***
-versión 1.0
+versión 2.0

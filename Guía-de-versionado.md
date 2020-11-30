@@ -41,4 +41,4 @@ __Nota:__ Todas las versiones de todos los artefactos deben partir del __0.1a__
 donde se entiende que se trata de una versión inicial con detalles a pulir.
 
 ***
-versión 1.0
+versión 2.0

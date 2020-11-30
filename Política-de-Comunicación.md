@@ -33,4 +33,4 @@ Garantizar la comunicación efectiva entre los miembros del departamento.
 2. <b id="glosario2">Urgente:</b> Mensajes que requieren respuesta de al menos 10 miembros del departamento en un tiempo menor a 24 horas o están a la espera de la respuesta de un externo al departamento(consultor/stakeholder).
 
 ***
-versión 1.0
+versión 2.0

@@ -37,4 +37,4 @@
 1. (¿Qué métricas se pueden extraer de las salidas del proceso?)
 
 ***
-Versión 1.1
+versión 2.0

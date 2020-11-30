@@ -30,4 +30,4 @@ Estimar el tamaño, costo y calendario de una tarea.
 2. Se agregan al **[Plan de iteración](https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204)** o **[Plan Nova](https://docs.google.com/spreadsheets/d/1_tEVZlBT36JiXt0Qq1hy3zojkzO2abnw79ju-6LbB4s/edit#gid=1656144519)** aquellas que cubren el tiempo de esfuerzo total.
 
 ***
-Versión 1.1
+versión 2.0

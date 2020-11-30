@@ -20,6 +20,6 @@
 5. Regla 5
 
 ***
-Versión 1.1
+versión 2.0
 
 

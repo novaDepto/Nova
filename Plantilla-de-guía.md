@@ -13,4 +13,4 @@
 ## Recomendaciones
 
 ***
-Versión 1.1
+versión 2.0

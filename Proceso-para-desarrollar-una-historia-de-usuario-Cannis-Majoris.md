@@ -121,4 +121,5 @@ Definir los **criterios a seguir en cada fase del desarrollo de una historia de 
 
 ***
 
-Versión 1.1
+Versión 2.0
+

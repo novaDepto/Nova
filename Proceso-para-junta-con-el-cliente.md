@@ -112,4 +112,4 @@ Definir las actividades a realizar en una junta con el cliente.
 
 ***
 
-Versión 1.2
+versión 2.0

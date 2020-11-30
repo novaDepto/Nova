@@ -90,4 +90,4 @@ Juan   | Autor
 1. Backlog de Métricas
 
 ***
-versión 1.1
+versión 2.0

@@ -78,4 +78,4 @@ Raymundo   | Autor
 1. Defectos encontrados por fase
 
 ***
-Versión 1.1
+versión 2.0
