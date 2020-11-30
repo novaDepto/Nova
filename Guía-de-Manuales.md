@@ -69,3 +69,6 @@ La elaboración del manual con base a las recomendaciones propuestas en esta gu�
 Grupo Carricay. (2018). ¿Cómo escribir un buen manual de usuario?. Noviembre 29, 2020, de Medium Sitio web: https://medium.com/grupo-carricay/c%C3%B3mo-escribir-un-buen-manual-de-usuario-fd8d0c6bae49
 
 Nekodificador. (2017). Cómo hacer un vídeo tutorial. Noviembre 29, 2020, de YouTube Sitio web: https://www.youtube.com/watch?v=YtmzH_GP5vQ.
+
+***
+Versión 1.0
