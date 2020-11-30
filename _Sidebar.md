@@ -1,4 +1,4 @@
-### [Mapa de procesos](https://drive.google.com/file/d/1WXMBn0wiYKdKTR2ANFS0dlHRj_vHOPfy/view?usp=sharing)
+### [Mapa de procesos](https://app.diagrams.net/#G1WO-4zv0Zsb4ugsiL5dlvyaZ0SuDR4aBu)
 
 ### Procesos
 ***
@@ -44,8 +44,8 @@
 * [\[GUI06\] Guía de Nova Flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
 * [\[GUI07\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
 * [\[GUI08\] Guía de especificación de requisitos](https://github.com/novaDepto/Nova/wiki/Guia-de%20-especificacion-requisitos)
-* [\[GUI10\] Guía de petición de cambios a historias de usuario](https://github.com/novaDepto/Nova/wiki/Guía-de-petición-de-cambios-a-historias-de-usuario)
 * [\[GUI09\] Guía del ciclo de vida del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-de-ciclo-de-vida-del-proyecto)
+* [\[GUI10\] Guía de petición de cambios a historias de usuario](https://github.com/novaDepto/Nova/wiki/Guía-de-petición-de-cambios-a-historias-de-usuario)
 * [\[GUI11\] Guía de creación de métricas](https://github.com/novaDepto/Nova/blob/guia/CreacionMetricas/Guía-de-Creación-de-Métricas.md)
 * [\[GUI12\] Guía de uso de Clockify](https://github.com/novaDepto/Nova/wiki/Guía-de-uso-de-Clockify)
 * [\[GUI13\] Guía de entorno de verificación](https://github.com/novaDepto/Nova/wiki/Guía-de-entorno-de-verificación)
@@ -57,7 +57,7 @@
 * [\[GUI19\] Guía del Team Leader](https://github.com/novaDepto/Nova/wiki/Guía-del-Team-Leader)
 * [\[GUI20\] Guía para juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-desempeño)
 * [\[GUI21\] Guía para juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-seguimiento-personal)
-* [\[GUI22\] Guía del Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-product-owner)
+* [\[GUI22\] Guía del Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-Product-Owner)
 * [\[GUI24\] Guía de identificación de riesgos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos)
 * [\[GUI25\] Guía del Team Member](https://github.com/novaDepto/Nova/wiki/Guía-de-Team-Member)
 * [\[GUI26\] Guía de Validación de User Story](https://github.com/novaDepto/Nova/wiki/Guía-de-validación-de-user-story)
@@ -67,7 +67,9 @@
 * [\[GUI30\] Guía de estrategia técnica](https://github.com/novaDepto/Nova/wiki/Guía-de-estrategia-técnica)
 * [\[GUI31\] Guía de exposición oral](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
 * [\[GUI32\] Guía para la identificación de recursos del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-para-la-identificación-de-recursos-del-proyecto)
-* [\[GUI32\] Guía de verificación y validación de productos](https://github.com/novaDepto/Nova/wiki/Guía-de-verificación-y-validación-de-productos)
+* [\[GUI33\] Guía de verificación y validación de productos](https://github.com/novaDepto/Nova/wiki/Guía-de-verificación-y-validación-de-productos)
+* [\[GUI34\] Guía del Architect Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-architect-owner)
+* [\[GUI35\] Guía de Manuales](https://github.com/novaDepto/Nova/wiki/Guía-de-Manuales)
 
 ### Políticas
 ***

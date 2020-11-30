@@ -16,7 +16,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
 2. [Proceso para plan de Involucramiento de Stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 
 ## Proceso
- 				 			 
+
 <table>
   <thead>
     <tr>
@@ -29,7 +29,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
   <tbody>
     <tr>
       <td rowspan="3">Identificación</td>
-      <td>En el <a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=846530107">plan de invoucramiento de stakeholders</a> identifica en la columna "proveedor de requisitos" a todos aquellos involucrados en el proyecto que sean los más apropiados para ser los proveedores de requisitos tomando como base los siguientes criterios.
+      <td>En el <a href="https://docs.google.com/spreadsheets/d/1LJW6x2z5gMSXP4xEJpemfEZRcDW06QFz_OxPx2q0hZI/edit#gid=20053583">plan de invoucramiento de stakeholders</a> identifica en la columna "proveedor de requisitos" a todos aquellos involucrados en el proyecto que sean los más apropiados para ser los proveedores de requisitos tomando como base los siguientes criterios.
       <ul>
         <li>Es quien da seguimiento y aprobará el proyecto al finalizar.</li>
         <li>Tiene la aprobación por parte de quien aprobará el proyecto al finalizar. </li>
@@ -68,7 +68,7 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
       <td rowspan="1">REQM, PP, RSKM, VAL</td>
     </tr>
     <tr>
-      <td rowspan="4">Aceptación de requisitos</td>
+      <td rowspan="1">Revisión de requisitos</td>
       <td>Comunica con el equipo y decidan si se acepta o no. Para aceptar un requisito, verifica que el requisito:
         <ul>
             <li>Aporte valor a la solución</li>
@@ -82,10 +82,17 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
       </td>
       <td rowspan="1">PO, TODOS</td>
       <td rowspan="1">REQM, VAL</td>
-    </tr> 
+    </tr>
+	 <tr>
+      <td rowspan="1">Aceptación de requisitos</td>
+      <td>
+       Verifica la lista de requisitos con los stakeholders, explicando las necesidades que se solucionan. (De ser necesario un cambio, ejecuta este proceso nuevamente)
+      </td>
+      <td rowspan="1">PO, TODOS</td>
+      <td rowspan="1">REQM, VAL</td>
+    </tr>
   </tbody>
 </table>
-
 
 ## Salidas
 1) Lista de Requisitos funcionales/No funcionales
