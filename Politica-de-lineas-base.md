@@ -31,6 +31,15 @@ Definir las líneas base del departamento con el propósito de:
           <li> <a href="https://github.com/AlonsoOropeza/PugSeal"> Línea base del proyecto Cannis Majoris </a> </li>
           <li> <a href="https://gitlab.com/nova_tec/obcapital">  Línea base del proyecto Andrómeda </a> </li>
       </ul>
+4. El contenido de las líneas base debe de ser registrado en sus respectivas matrices de configuración, especificando el nombre del artefacto, su identificador, su versión actual, su versión anterior y el link al artefacto. Para cada despliegue de cada línea base se debe de tener una matriz de configuración:
+    <ul>
+          <li> 
+          <a href="https://docs.google.com/spreadsheets/d/1zb8at9oXi9vS-wS0yP7s6vCBlLSLcxMHLbA9aJRmJCI/edit#gid=844584100"> Matriz de la Línea base del departamento 
+          </a> 
+          </li>
+          <li> <a href="https://docs.google.com/spreadsheets/d/1890J62rrI2Fs1NrgX2BmwPgm2dcisTGm2s0LfJu4Rl8/edit#gid=1007848311"> Matriz de la Línea base del proyecto Cannis Majoris </a> </li>
+          <li> <a href="https://docs.google.com/spreadsheets/d/1E-ef9z0x8cCsGt1MsFNxQ2liVi2fKIKNXXMzmrG45p8/edit#gid=844584100"> Matriz de la Línea base del proyecto Andrómeda </a> </li>
+      </ul>
 
 ***
 versión 2.0
