@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td rowspan="3">Análisis</td>
-      <td>A partir de los resultados obtenidos, al ejecutar la guía o Think Aloud se deberán tener datos para saber si es necesario hacer cambios a la estructura del código. <li> Si existen inconsistencias identificadas sigue la <strong> <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-inconsistencias"> Guía de identificación de inconsistencias.</a> </strong> </li><li>Si existen defectos anótalo en el <b><a href="https://docs.google.com/spreadsheets/d/1RpU0kmGCRSH35LN6ZTPPkAXsNAeiS_OLvBdqoJsp060/edit#gid=868244246">log de defectos</a></b></li><li>Si existen cambios detectados anotarlos en el<a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1185110039"> <b>log de cambios</b></a></li></td>
+      <td>A partir de los resultados obtenidos, al ejecutar la guía o Think Aloud se deberán tener datos para saber si es necesario hacer cambios a la estructura del código. <li> Si existen inconsistencias identificadas sigue la <strong> <a href="https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-inconsistencias"> Guía de identificación de inconsistencias.</a> </strong> </li><li>Si existen defectos anótalo en el <b><a href="https://docs.google.com/spreadsheets/d/1RpU0kmGCRSH35LN6ZTPPkAXsNAeiS_OLvBdqoJsp060/edit#gid=868244246">log de defectos</a></b></li><li>Si existen cambios detectados seguir el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-cambios-a-historias-de-usuario"> <b>proceso de gestión de cambios a historias de usuario.</b></a></li></td>
       <td>PO</td>
       <td>REQM, VAL</td>
     </tr>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
     <td>Redefinir acciones para las etapas de diseño y análisis dentro del ciclo de vida de la historia de usuario. Y ajustar éstas en el <b>plan actual de trabajo.</b></td>
-        <td>PO</td>
+        <td>P</td>
         <td>REQM, VAL</td>
     </tr>
   </tbody>
