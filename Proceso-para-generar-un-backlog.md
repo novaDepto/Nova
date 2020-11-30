@@ -15,7 +15,7 @@ Desarrollar un backlog de tareas relacionadas a un plan, para que pueda ser moni
 
 1. Lista de necesidades a resolver en un plazo de tiempo definido
 2. [Plantilla Plan](https://docs.google.com/spreadsheets/d/1_tEVZlBT36JiXt0Qq1hy3zojkzO2abnw79ju-6LbB4s/edit#gid=976734963) 
-3. Revisar esta [guía para relizar un WBS.](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS) 
+3. Revisar esta [guía para realizar un WBS.](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS) 
 
 ## Proceso
 
@@ -88,5 +88,5 @@ Desarrollar un backlog de tareas relacionadas a un plan, para que pueda ser moni
 
 ***
 
-Versión 1.2a
+versión 2.0
 

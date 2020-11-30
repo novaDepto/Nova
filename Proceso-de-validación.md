@@ -37,7 +37,7 @@
     </tr>
     <tr>
      <td>Ejecución</td>
-     <td>Muestra al stakeholder el prototipo del sistema o el sistema corriendo, usa la <strong><a href="https://docs.google.com/spreadsheets/d/17N34zCkKkA4rHp_mF5eHi9PtrRDht8qFl5xqETTHyZk/edit#gid=0">plantilla para validación con cliente</a></strong> para cada user story a tratar con el socio formador y basate en la <b><a href="https://drive.google.com/file/d/1AiwO6-m2auzmky6S-LVg5ssMjTsxumKl/view?usp=sharing">Guía de validación de historias de usuario</a></b> para los criterios de validación. <br></a>
+     <td>Muestra al stakeholder el prototipo del sistema o el sistema corriendo, usa la <strong><a href="https://docs.google.com/spreadsheets/d/17N34zCkKkA4rHp_mF5eHi9PtrRDht8qFl5xqETTHyZk/edit#gid=0">plantilla para validación con cliente</a></strong> para cada user story a tratar con el socio formador y basate en la <b><a href="https://github.com/novaDepto/Nova/wiki/Guía-de-validación-de-historias-de-usuario">Guía de validación de historias de usuario</a></b> para los criterios de validación. <br></a>
 </td>
 <td>PO</td>
 <td>REQM, VAL</td>
@@ -70,6 +70,6 @@ Los resultados finales son:
 5. Log de cambios actualizados.
 
 ***
-Versión 1.3
+versión 2.0
 
 

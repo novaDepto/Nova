@@ -65,4 +65,4 @@ Raymundo   | Dueño del proceso
 1. Motivación del departamento
 
 ***
-Versión 1.2
+versión 2.0

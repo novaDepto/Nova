@@ -9,8 +9,8 @@
 1. Planear las actividades de una iteración
 
 ## Entrada 
-1. [**Plan de iteración**](https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204)
-2. [**Backlog de requisitos**](https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1630941258)
+1. [Plan de iteración](https://docs.google.com/spreadsheets/d/10jles4oKMwJUHPutNXLaHZ7kg8zFZ9TdrAVAJlUmjfU/edit#gid=753031204)
+2. [Backlog de requisitos](https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1630941258)
 
 ## Proceso 
 <table>
@@ -106,4 +106,4 @@
 1. Tiempo de ejecución del proceso
 
 ***
-Versión 2.0
+versión 2.0

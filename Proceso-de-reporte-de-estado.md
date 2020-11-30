@@ -28,7 +28,7 @@ Definir las actividades a realizar para generar y preparar una presentación de 
   <tbody>
     <tr>
       <td rowspan="4">Diseño</td>
-      <td> Hacer copia de la <a href="https://drive.google.com/file/d/1dpBivvOogRRn4Zhop3fV9m18MBa7H7Jp/view?usp=sharing">Plantilla de reporte de estado.</a> </td>
+      <td> Hacer copia de la <a href="https://drive.google.com/drive/u/0/folders/1XZxtdq3RoWhYY6TDnYhSzn36lIpbwFja">Plantilla de reporte de estado.</a> </td>
       <td>PM o encargado de PMC</td>
       <td>PMC</td>
     </tr>
@@ -123,4 +123,4 @@ Definir las actividades a realizar para generar y preparar una presentación de 
 2. Muletillas en el reporte de estado
 
 ***
-versión 1.1
+versión 2.0

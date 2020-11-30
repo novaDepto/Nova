@@ -95,4 +95,4 @@ Dan       | Autor
 - N/A se actualizan al ejecutar el proceso de gestión de riesgos y actualizar el plan del proyecto
 
 ***
-versión 1.1
+versión 2.0

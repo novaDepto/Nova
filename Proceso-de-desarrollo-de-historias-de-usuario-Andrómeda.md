@@ -150,4 +150,4 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
 1. Tiempo de ejecución del proceso
 
 ***
-Versión 1.0
+versión 2.0

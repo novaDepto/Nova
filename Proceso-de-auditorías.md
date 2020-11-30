@@ -55,7 +55,7 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
     <tr>
     <tr>
       <td rowspan="1">Diseño de rúbricas</td>
-      <td>Definir una rúbrica o checklist de lo que debe cumplir cada proceso o producto a evaluar. En caso de ser un proceso se debe seguir la <a href="https://docs.google.com/spreadsheets/d/1QJwNEmHbWxy-EtVOlrlfLJfTQPJb6k8ikunp39Yk8-Y/edit#gid=0"> Checklist de institucionalización de procesos </a> En caso de ser un producto como código fuente o una historia de usuario se debe de seguir el <a href="https://docs.google.com/spreadsheets/d/1WccrRu2iMWX6y1USG_k5nElfajfu6ACS1L11QNGuKN0/edit#gid=39101311"> Reporte de verificación </a> </td> 
+      <td>Definir una rúbrica o checklist de lo que debe cumplir cada proceso o producto a evaluar. En caso de ser un proceso se debe seguir la <a href="https://docs.google.com/spreadsheets/d/1QJwNEmHbWxy-EtVOlrlfLJfTQPJb6k8ikunp39Yk8-Y/edit#gid=0"> Checklist de institucionalización de procesos </a> En caso de ser un producto como código fuente se debe de seguir el <a href="https://github.com/novaDepto/Nova/wiki/Proceso-de-Pair-Review"> Proceso de Pair Review </a> </td> 
       <td>Personas auditando</td>
       <td>PPQA, REQM, CM, VER</td>
     </tr>
@@ -137,4 +137,4 @@ Definir el proceso para planear, agendar y ejecutar una auditoría, así como in
 1. No conformidad: se refiere a una desviación en la ejecución de un proceso o no cumplir con uno de los puntos de las checklists de los productos.
 
 ***
-versión 1.0
+versión 2.0

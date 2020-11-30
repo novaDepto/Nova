@@ -133,4 +133,4 @@
 1. Backlog de procesos
 
 ***
-Versión 1.1
+versión 2.0

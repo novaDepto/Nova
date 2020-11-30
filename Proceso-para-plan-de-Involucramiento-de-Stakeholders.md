@@ -121,4 +121,4 @@ Definir y conseguir el involucramiento deseado de cada uno de los stakeholders p
 1. Tiempo de ejecución del proceso
 
 ***
-versión 1.2
+versión 2.0
