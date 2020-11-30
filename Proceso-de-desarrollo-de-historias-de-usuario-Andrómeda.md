@@ -142,7 +142,6 @@ Definir los criterios a seguir en cada fase del desarrollo de una historia de us
         <td>Autor de la US</td>
         <td>REQM, VAL</td>
     </tr>
-
   </tbody>
 </table>
 

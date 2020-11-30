@@ -55,44 +55,44 @@ Luis       | Autor
   <tbody>
     <tr>
       <td rowspan="2">Tecnologías</td>
-      <td>Diagrama de stack de tecnologías</td>
+      <td>Diagrama de stack de tecnologías.</td>
     </tr>
     <tr>
-      <td>Diagrama de despliegue</td>
+      <td>Diagrama de despliegue.</td>
     </tr>
     <tr>
       <td rowspan="2">Modelo</td>
-      <td>Modelo Entidad-Relación</td>
+      <td>Modelo Entidad-Relación.</td>
     </tr>
     <tr>
-      <td>Diagrama de secuencia</td>
+      <td>Diagrama de secuencia.</td>
     </tr>
     <tr>
       <td rowspan="2">Diseño</td>
-      <td>Diagrama de flujo</td>
+      <td>Diagrama de flujo.</td>
     </tr>
     <tr>
-      <td>Wireframes de baja fidelidad</td>
+      <td>Wireframes de baja fidelidad.</td>
     </tr>
     <tr>
       <td rowspan="4">Pruebas</td>
-      <td>Pruebas unitarias</td>
+      <td>Pruebas unitarias.</td>
     </tr>
     <tr>
-      <td>Pruebas de seguridad</td>
+      <td>Pruebas de seguridad.</td>
     </tr>
     <tr>
-      <td>Pruebas de estrés</td>
+      <td>Pruebas de estrés.</td>
     </tr>
     <tr>
-      <td>Pruebas de volumen</td>
+      <td>Pruebas de volumen.</td>
     </tr>
     <tr>
       <td rowspan="4">Documentación</td>
-      <td>Handbook de arquitectura</td>
+      <td>Handbook de arquitectura.</td>
     </tr>
     <tr>
-      <td>Manuales de usuario</td>
+      <td>Manuales de usuario.</td>
     </tr>
   </tbody>
 </table>

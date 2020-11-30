@@ -1,8 +1,8 @@
-### [Mapa de procesos](https://drive.google.com/file/d/1WXMBn0wiYKdKTR2ANFS0dlHRj_vHOPfy/view?usp=sharing)
+### [Mapa de procesos](https://app.diagrams.net/#G1WO-4zv0Zsb4ugsiL5dlvyaZ0SuDR4aBu)
 
 ### Procesos
 ***
-* [\[PRO01\] Proceso para generar backlog](https://github.com/novaDepto/Nova/wiki/Proceso-para-generar-un-backlog)
+* [\[PRO01\] Proceso para generar un backlog](https://github.com/novaDepto/Nova/wiki/Proceso-para-generar-un-backlog)
 * [\[PRO02\] Proceso de auditorías](https://github.com/novaDepto/Nova/wiki/Proceso-de-auditor%C3%ADas)
 * [\[PRO03\] Proceso para definir un proceso](https://github.com/novaDepto/Nova/wiki/Proceso-para-definir-un-proceso)
 * [\[PRO04\] Proceso para institucionalizar procesos, guías o políticas](https://github.com/novaDepto/Nova/wiki/Proceso-para-institucionalizar-procesos-gu%C3%ADas-y-pol%C3%ADticas)
@@ -18,9 +18,9 @@
 * [\[PRO16\] Proceso de reporte de estado](https://github.com/novaDepto/Nova/wiki/Proceso-de-reporte-de-estado)
 * [\[PRO17\] Proceso de asignación de roles](https://github.com/novaDepto/Nova/wiki/Proceso-de-asignación-de-roles)
 * [\[PRO18\] Proceso de validación](https://github.com/novaDepto/Nova/wiki/Proceso-de-validación)
-* [\[PRO20\] Proceso para plan de involucramiento de stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
+* [\[PRO20\] Proceso de involucramiento de stakeholders](https://github.com/novaDepto/Nova/wiki/Proceso-para-plan-de-Involucramiento-de-Stakeholders)
 * [\[PRO21\] Proceso para junta con el cliente](https://github.com/novaDepto/Nova/wiki/Proceso-para-junta-con-el-cliente)
-* [\[PRO22\] Proceso de verificación de código](https://github.com/novaDepto/Nova/wiki/Proceso-de-verificación-de-código)
+* [\[PRO22\] Proceso de Pair Review](https://github.com/novaDepto/Nova/wiki/Proceso-de-Pair-Review)
 * [\[PRO23\] Proceso de toma de decisiones](https://github.com/novaDepto/Nova/wiki/Proceso-de-toma-de-decisiones)
 * [\[PRO24\] Proceso de gestion de cambios a historias de usuario](https://github.com/novaDepto/Nova/wiki/Proceso-de-gesti%C3%B3n-de-cambios-a-historias-de-usuario)
 * [\[PRO25\] Proceso de recolección de requisitos](https://github.com/novaDepto/Nova/wiki/Proceso-de-recolección-de-requisitos)
@@ -28,8 +28,11 @@
 * [\[PRO27\] Proceso de SCAMPI](https://github.com/novaDepto/Nova/wiki/Proceso-de-SCAMPI)
 * [\[PRO28\] Proceso de mejora continua](https://github.com/novaDepto/Nova/wiki/Proceso-de-mejora-continua)
 * [\[PRO29\] Proceso de presentaciones](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
-* [\[PRO30\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-presentaciones)
-* [\[PRO31\] Proceso de inspección de componentes](https://github.com/novaDepto/Nova/wiki/Proceso-de-Acompañamiento-para-Competencia-Oral)
+* [\[PRO30\] Proceso de Acompañamiento para Competencia Oral](https://github.com/novaDepto/Nova/wiki/Proceso-de-acompañamiento-para-competencia-oral)
+* [\[PRO31\] Proceso de inspección](https://github.com/novaDepto/Nova/wiki/Proceso-de-inspección)
+* [\[PRO32\] Proceso de desarrollo de historias de usuario Andrómeda](https://github.com/novaDepto/Nova/wiki/Proceso-de-desarrollo-de-historias-de-usuario-Andrómeda)
+
+
 
 ### Guías
 ***
@@ -41,8 +44,8 @@
 * [\[GUI06\] Guía de Nova Flow](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-Nova-Flow)
 * [\[GUI07\] Guía para definir un WBS](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-para-definir-un-WBS)
 * [\[GUI08\] Guía de especificación de requisitos](https://github.com/novaDepto/Nova/wiki/Guia-de%20-especificacion-requisitos)
-* [\[GUI10\] Guía de petición de cambios a historias de usuario](https://github.com/novaDepto/Nova/wiki/Guía-de-petición-de-cambios-a-historias-de-usuario)
 * [\[GUI09\] Guía del ciclo de vida del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-de-ciclo-de-vida-del-proyecto)
+* [\[GUI10\] Guía de petición de cambios a historias de usuario](https://github.com/novaDepto/Nova/wiki/Guía-de-petición-de-cambios-a-historias-de-usuario)
 * [\[GUI11\] Guía de creación de métricas](https://github.com/novaDepto/Nova/blob/guia/CreacionMetricas/Guía-de-Creación-de-Métricas.md)
 * [\[GUI12\] Guía de uso de Clockify](https://github.com/novaDepto/Nova/wiki/Guía-de-uso-de-Clockify)
 * [\[GUI13\] Guía de entorno de verificación](https://github.com/novaDepto/Nova/wiki/Guía-de-entorno-de-verificación)
@@ -51,26 +54,27 @@
 * [\[GUI16\] Guía de identificación de inconsistencias](https://github.com/novaDepto/Nova/wiki/Guía-de-identificación-de-inconsistencias)
 * [\[GUI17\] Guía de asignación de roles](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-asignación-de-roles)
 * [\[GUI18\] Guía del Program Manager](https://github.com/novaDepto/Nova/wiki/Guía-del-Program-Manager)
-* [\[GUI19\] Guía de Team Leaders](https://github.com/novaDepto/Nova/wiki/Guía-del-Team-Leader)
+* [\[GUI19\] Guía del Team Leader](https://github.com/novaDepto/Nova/wiki/Guía-del-Team-Leader)
 * [\[GUI20\] Guía para juntas de desempeño](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-desempeño)
 * [\[GUI21\] Guía para juntas de seguimiento personal](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-juntas-de-seguimiento-personal)
-* [\[GUI22\] Guía de Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-product-owner)
+* [\[GUI22\] Guía del Product Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-Product-Owner)
 * [\[GUI24\] Guía de identificación de riesgos](https://github.com/novaDepto/Nova/wiki/Gu%C3%ADa-de-identificaci%C3%B3n-de-riesgos)
-* [\[GUI25\] Guía de Team Member](https://github.com/novaDepto/Nova/wiki/Guía-de-Team-Member)
+* [\[GUI25\] Guía del Team Member](https://github.com/novaDepto/Nova/wiki/Guía-de-Team-Member)
 * [\[GUI26\] Guía de Validación de User Story](https://github.com/novaDepto/Nova/wiki/Guía-de-validación-de-user-story)
 * [\[GUI27\] Guía para identificar procesos, guías y políticas](https://github.com/novaDepto/Nova/wiki/Guía-para-identificar-procesos-guías-políticas)
 * [\[GUI28\] Guía de resolución de conflictos](https://github.com/novaDepto/Nova/wiki/Guía-de-resoluci%C3%B3n-de-conflictos)
 * [\[GUI29\] Guía de denuncias](https://github.com/novaDepto/Nova/wiki/Guía-de-denuncias)
 * [\[GUI30\] Guía de estrategia técnica](https://github.com/novaDepto/Nova/wiki/Guía-de-estrategia-técnica)
-* [\[GUI31\] Guía de Exposición Oral](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
+* [\[GUI31\] Guía de exposición oral](https://github.com/novaDepto/Nova/wiki/Guía-de-Exposición-Oral)
 * [\[GUI32\] Guía para la identificación de recursos del proyecto](https://github.com/novaDepto/Nova/wiki/Guía-para-la-identificación-de-recursos-del-proyecto)
-* [\[GUI32\] Guía de verificación y validación de productos](https://github.com/novaDepto/Nova/wiki/Guía-de-verificación-y-validación-de-productos)
+* [\[GUI33\] Guía de verificación y validación de productos](https://github.com/novaDepto/Nova/wiki/Guía-de-verificación-y-validación-de-productos)
+* [\[GUI34\] Guía del Architect Owner](https://github.com/novaDepto/Nova/wiki/Guía-del-architect-owner)
+* [\[GUI35\] Guía de Manuales](https://github.com/novaDepto/Nova/wiki/Guía-de-Manuales)
 
 ### Políticas
 ***
-* [\[POL01\] Política sobre roles y responsabilidades](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-sobre-roles-y-responsabilidades)
 * [\[POL02\] Política de juntas](https://github.com/novaDepto/Nova/wiki/Pol%C3%ADtica-de-Juntas)
-* [\[POL03\] Política de Nova WOW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
+* [\[POL03\] Política de Nova WoW](https://github.com/novaDepto/Nova/wiki/Politica-de-Nova-WoW)
 * [\[POL04\] Política de comunicación](https://github.com/novaDepto/Nova/wiki/Política-de-Comunicación)
 * [\[POL05\] Política de elementos de la configuración](https://github.com/novaDepto/Nova/wiki/Politica-de-elementos-de-la-configuracion)
 * [\[POL06\] Política de líneas base](https://github.com/novaDepto/Nova/wiki/Politica-de-lineas-base)
