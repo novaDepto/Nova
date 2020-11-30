@@ -38,7 +38,7 @@
       <td>REQM,VAL</td>
     </tr>
     <tr>
-        <td>Ejecución</td>
+      <td>Ejecución</td>
      <td>Llena la sección <strong><a href="https://docs.google.com/spreadsheets/d/17N34zCkKkA4rHp_mF5eHi9PtrRDht8qFl5xqETTHyZk/edit#gid=680749939">de ejecución de la validación</a></strong> para cada user story a tratar. Documenta si el producto fue aprobado, en caso contrario, no olvides documentar los compromisos y cambios acordados en el <a href="https://docs.google.com/spreadsheets/d/1o6jLgBaUGFCco-8gIZqd8Ng3zqUKfJYZudfaI9Bqu-0/edit#gid=1185110039" >backlog de cambios</a>.
 </td>
 <td>Product Owner</td>
@@ -64,4 +64,4 @@
 5. Log de cambios actualizados.
 
 ***
-Versión 1.3
+versión 2.0

@@ -72,4 +72,4 @@
 3. Historial de Análisis del Backlog de métricas actualizado
 
 ***
-Versión 1.5
+versión 2.0

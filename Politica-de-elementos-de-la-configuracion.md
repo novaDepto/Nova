@@ -63,4 +63,4 @@ _Se usan para el desarrollo de la solución del cliente._
      </ul>
 
 ***
-versión 1.1
+versión 2.0

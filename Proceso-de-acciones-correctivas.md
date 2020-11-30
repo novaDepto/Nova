@@ -11,8 +11,8 @@
 
 ## Entradas
 1. Desviación en el plan de trabajo
-2. **[Plan de Iteración](https://docs.google.com/spreadsheets/d/1LJBa3L4L6kyVMiC2n8WxKfYz4tH5eatCR0WTTe5kJVw/edit#gid=1200040460)** para el plan de equipo
-3. **[Plan Nova](https://docs.google.com/spreadsheets/d/1_tEVZlBT36JiXt0Qq1hy3zojkzO2abnw79ju-6LbB4s/edit#gid=1926334706&fvid=1861621495)** para el plan del departamento
+2. **[Plan de Iteración](https://docs.google.com/spreadsheets/d/1M9tEEHHR3T3sjsyLJInvCYqsI33Mv_aYRQG24igrs_E/edit)** para el plan de equipo
+3. **[Plan Nova](https://docs.google.com/spreadsheets/d/1_tEVZlBT36JiXt0Qq1hy3zojkzO2abnw79ju-6LbB4s/edit?usp=drive_web&ouid=102870935383672915125)** para el plan del departamento
 
 ## Proceso
 <table>
@@ -72,4 +72,4 @@
 1. SPI-CPI
 
 ***
-Versión 1.1
+versión 2.0

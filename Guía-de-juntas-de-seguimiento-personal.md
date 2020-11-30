@@ -62,4 +62,4 @@ Alonso     | Autor
 * JSP = Juntas de Seguimiento Personal
 
 ***
-versión 1.0
+versión 2.0

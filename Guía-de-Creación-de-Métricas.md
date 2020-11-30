@@ -77,4 +77,4 @@ Preguntas: ¿Cuál es la velocidad de procesamiento de la solicitud de cambio ac
 **(Tiempo de ciclo medio actual/Tiempo de ciclo promedio) * 100**
 
 ***
-versión 1.0
+versión 2.0

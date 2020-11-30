@@ -40,4 +40,4 @@ El Team Leader facilita y guía al equipo en la ejecución de sus actividades en
 + Asegurar la aplicación, efectividad y mejora continua de los artefactos del equipo.
 
 ***
-Versión 1.1
+versión 2.0

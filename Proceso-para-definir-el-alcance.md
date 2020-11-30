@@ -108,4 +108,4 @@ Raymundo   | Autor
 N/A
 
 ***
-Versión 1.2
+versión 2.0

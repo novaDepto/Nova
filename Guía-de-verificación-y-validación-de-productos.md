@@ -110,4 +110,4 @@ Se debe de analizar los resultados obtenidos en las pruebas y demostraciones con
 En este documento se debe anotar el grado de éxito o fallo y sus posibles causas. Al finalizar, compare los datos obtenidos con los criterios de evaluación establecidos con el fin de determinar si se continúa con los productos o se trabaja en la corrección de requisitos o de diseño en los procesos o un posible cambio en la solución técnica.
 
 ***
-Versión 1.0
+versión 2.0

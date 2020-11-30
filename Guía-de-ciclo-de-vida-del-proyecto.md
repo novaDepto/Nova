@@ -62,4 +62,4 @@ Raymundo   | Autor
 * Stakeholders satisfechos: ¿Están contentos los stakeholders con la solución desplegada?
 
 ***
-versión 1.0
+versión 2.0

@@ -130,4 +130,4 @@ Charlie    | Autor
 **NO SE RECOMIENDA** verificar código de diferentes historias de usuario porque puede generar confusión y un desarrollo en cascada que va en contra de los principios del desarrollo ágil.
 
 ***
-Versión 1.2
+versión 2.0

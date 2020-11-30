@@ -54,5 +54,5 @@ Desarrollar los conocimientos, confianza y habilidades entre los miembros del de
 | Luis     | Colaborador|
  
 ***
-versión 1.0
+versión 2.0
  

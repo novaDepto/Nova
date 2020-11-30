@@ -101,5 +101,5 @@ Desarrollar entendimiento a las necesidades y los requerimientos de quienes teng
 1) Valor Ganado de la Plantilla de Planeación-Monitoreo de la Iteración.
 
 ***
-versión 1.3
+versión 2.0
 

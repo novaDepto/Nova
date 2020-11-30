@@ -27,7 +27,7 @@ A continuación se muestra un ejemplo de WBS siguiendo la plantilla.
 ![](https://i.imgur.com/1pdr3GU.png)
 
 ***
-versión 1.0
+versión 2.0
 
 
 

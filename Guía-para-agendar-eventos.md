@@ -67,4 +67,4 @@ requisitos.'
 [ejemplo]: media/guia_eventos_ejemplo.png
 
 ***
-versión 1.0
+versión 2.0

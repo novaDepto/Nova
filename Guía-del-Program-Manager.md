@@ -43,4 +43,4 @@ El Program Manager es el representante del departamento hacia el exterior. Es el
 * Program Management Institute. (2020). Program Management. PMI website. Retrieve 20/09/2020 from: [https://www.pmi.org/disciplined-agile/process/program-management](https://www.pmi.org/disciplined-agile/process/program-management)
  
 ***
-Versión 1.1
+versión 2.0

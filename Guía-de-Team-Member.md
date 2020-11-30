@@ -70,4 +70,4 @@ El Team Memeber es quien realiza el proyecto para satisfacer las necesidades de 
 * Ambler, S. W., & Lines, M. (2012). Disciplined agile delivery: A practitioner's guide to agile software delivery in the enterprise. Upper Saddle River, NJ: IBM Press.
 
 ***
-Versión 1.1
+versión 2.0

@@ -124,4 +124,4 @@ Orientar a los miembros de nova en la preparación y ejecución de presentacione
 1. Tiempo de ejecución del proceso
 
 ***
-versión 1.0
+versión 2.0

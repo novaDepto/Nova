@@ -135,4 +135,4 @@
 5. Plan de contingencia = Estrategia para evitar que la magnitud de un riesgo aumente.
 
 ***
-versión 1.1
+versión 2.0

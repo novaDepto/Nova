@@ -30,9 +30,8 @@ Cumplir el objetivo de cada reunión y asegurarse de que se cumpla.
         <li>Cada miembro deberá mantener la cámara encendida cuando le sea posible</li>
         <li>Al participar deberá pedir la palabra por levantando su mano en la cámara o por el chat enviar un mensaje</li>
     </ul>
-6. Para asegurar el cumplimiento de los compromisos se anotarán en la hoja de <a href="https://drive.google.com/drive/u/0/folders/0ANskmMU8C5dxUk9PVA">Monitoreo y Control Nova - Semana del DD/MM</a> de la semana y mes actual.
 7. El autor de la junta deberá comunicar los acuerdos, compromisos y resoluciones de la junta  por slack.
 8. Es responsabilidad de cada miembro ausente ponerse al tanto y cumplir los compromisos, acuerdos o resoluciones a las que se haya llegado en la junta.
 
 ***
-versión 1.0
+versión 2.0
